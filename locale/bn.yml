@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'আপনার লেখা পাসওয়ার্ডটি ভুল।'
+      confirm_password_placeholder: 'পাসওয়ার্ড নিশ্চিত করুন'
+      dismiss_button: 'ঠিক আছে'
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+      title: 'ইমেইল পরিবর্তন করুন'
+    change_password:
+      send_button: 'পাসওয়ার্ড রিসেট ইমেল পাঠান'
+      text: 'নীচের বোতামটি ক্লিক করুন এবং আপনার পাসওয়ার্ড পরিবর্তন করতে একটি লিঙ্কের জন্য আপনার ইমেলটি পরীক্ষা করুন।'
+      title: 'পাসওয়ার্ড পরিবর্তন করুন'
+    composer:
+      close_tooltip: বন্ধ
+      exit_full_screen_tooltip: 'পূর্ণ স্ক্রিন থেকে প্রস্থান করুন'
+      full_screen_tooltip: 'পূর্ণ পর্দা'
+      minimize_tooltip: 'মিনিমাইজ করুন'
+      preview_tooltip: পূর্বরূপ
+    composer_discussion:
+      body_placeholder: 'একটি পোস্ট লিখুন...'
+      discard_confirmation: 'আপনি আপনার আলোচনা পোস্ট করেননি। আপনি কি এটি বাতিল করতে চান?'
+      submit_button: 'আলোচনা পোস্ট করুন'
+      title_placeholder: 'আলোচনার শিরোনাম'
+      title: 'একটি আলোচনা শুরু করুন'
+    composer_edit:
+      discard_confirmation: 'আপনি আপনার পরিবর্তনগুলি সংরক্ষণ করেন নি. আপনি কি তাদের বাতিল করতে চান?'
+      edited_message: 'আপনার সম্পাদনা করা হয়েছে।'
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+      view_button: দর্শন
+    composer_reply:
+      discard_confirmation: 'আপনি আপনার উত্তর পোস্ট করেননি। আপনি কি এটি বাতিল করতে চান?'
+      posted_message: 'আপনার উত্তর পোস্ট করা হয়েছে।'
+      submit_button: 'পোস্ট রিপ্লাই'
+      body_placeholder: 'একটি উত্তর লিখুন...'
+      view_button: দর্শন
+    discussion_controls:
+      cannot_reply_button: 'উত্তর দেওয়া যাচ্ছে না'
+      cannot_reply_text: 'আপনার এই আলোচনায় উত্তর দেওয়ার অনুমতি নেই।'
+      delete_confirmation: 'আপনি কি নিশ্চিত যে আপনি এই আলোচনাটি মুছে ফেলতে চান?'
+      log_in_to_reply_button: 'উত্তর দেবার জন্য লগইন করুন'
+      toggle_dropdown_accessible_label: 'আলোচনার ক্রিয়াগুলি ড্রপডাউন মেনু টগল করুন'
+      delete_button: বিলোপ
+      delete_forever_button: 'চিরতরে মুছে ফেলুন'
+      rename_button: পুনঃনামকরণ
+      reply_button: উত্তর
+      restore_button: পুনঃস্থাপন
+    discussion_list:
+      empty_text: 'মনে হচ্ছে এখানে কোনো আলোচনা নেই।'
+      load_more_button: 'আরও লোড করুন'
+    forgot_password:
+      email_sent_message: 'যদি আপনি এই সাইটের সাথে নিবন্ধন করেন, তবে আপনাকে আপনার পাসওয়ার্ড পুনরায় পাঠাতে হবে। আপনার স্প্যাম পরীক্ষা করুন যদি আপনি পরবর্তী কোন সময়ে এটি না পান।'
+      not_found_message: 'ই-মেইল ঠিকানার মাধ্যমে কোনো ব্যবহারকারী নিবন্ধিত হয়নি।'
+      submit_button: 'পাসওয়ার্ড পুনরায় লিখুন'
+      text: 'আপনার ইমেইল ঠিকানা লিখুন এবং আমি আপনাকে আপনার পাসওয়ার্ড পুনরায় পাঠাতে হবে।'
+      title: 'পাসওয়ার্ড পরিবর্তন করা যায়নি'
+      dismiss_button: 'ঠিক আছে'
+      email_placeholder: ই-মেইল
+    header:
+      admin_button: 'প্রশাসনিক বৈশিষ্ট্য'
+      back_to_index_tooltip: 'আলোচনার তালিকায় ফিরে যান'
+      locale_dropdown_accessible_label: 'ফোরাম স্থান পরিবর্তন করুন'
+      profile_button: প্রোফাইল
+      search_clear_button_accessible_label: 'অনুসন্ধান ক্যোয়ারী পরিষ্কার করুন'
+      search_placeholder: 'অনুসন্ধান ফোরাম'
+      search_role_label: 'অনুসন্ধান ফোরাম'
+      session_dropdown_accessible_label: 'সেশন বিকল্পগুলি ড্রপডাউন মেনু টগল করুন'
+      log_in_link: 'লগ ইন করো'
+      log_out_button: 'লগ আউট করুন'
+      settings_button: সেটিংস
+      sign_up_link: 'সাইন আপ করো'
+    index:
+      cannot_start_discussion_button: 'আলোচনা শুরু করা যাচ্ছে না'
+      mark_all_as_read_confirmation: 'তুমি কি নিশ্চিত যে তুমি সমস্ত আলোচনাকে পঠিত হিসাবে চিহ্নিত করতে চাও?'
+      refresh_tooltip: সতেজ
+      toggle_sidenav_dropdown_accessible_label: 'নেভিগেশন ড্রপডাউন মেনু টগল করুন'
+      all_discussions_link: 'সকল আলোচনা'
+      mark_all_as_read_tooltip: 'সমস্ত পঠিত হিসাবে চিহ্নিত করুন'
+      meta_title_text: 'সকল আলোচনা'
+      start_discussion_button: 'একটি আলোচনা শুরু করুন'
+    index_sort:
+      latest_button: সাম্প্রতিকতম
+      newest_button: নতুনতম
+      oldest_button: প্রাচীনতম
+      relevance_button: প্রাসঙ্গিকতা
+      toggle_dropdown_accessible_label: 'আলোচনা তালিকা বাছাই পরিবর্তন করুন'
+      top_button: শীর্ষ
+      hot_button: প্রবণতা
+      votes_button: আপভোট
+      front_button: 'প্রথম পাতা'
+      popular_button: জনপ্রিয়
+      unpopular_button: অজনপ্রিয়
+    log_in:
+      forgot_password_link: 'পাসওয়ার্ড ভুলে গেছেন?'
+      invalid_login_message: 'আপনার লগইন বিবরণ ভুল ছিল।'
+      remember_me_label: 'আমাকে মনে রেখো'
+      sign_up_text: 'কোনও অ্যাকাউন্ট নেই? <a>সাইন আপ করো</a>'
+      username_or_email_placeholder: 'ব্যবহারকারীর নাম বা ইমেল'
+      password_placeholder: পাসওয়ার্ড
+      submit_button: 'লগ ইন করো'
+      title: 'লগ ইন করো'
+    notifications:
+      delete_all_confirm: 'তুমি কি নিশ্চিত যে তুমি সমস্ত বিজ্ঞপ্তি মুছতে চাও? এই ক্রিয়াটি বিপরীতমুখী নয়'
+      delete_all_tooltip: 'সমস্ত বিজ্ঞপ্তি মুছুন'
+      empty_text: 'কোন বিজ্ঞপ্তি নেই'
+      mark_as_read_tooltip: 'পঠিত হিসাবে চিহ্নিত করুন'
+      toggle_dropdown_accessible_label: 'বিজ্ঞপ্তিগুলি দেখুন'
+      mark_all_as_read_tooltip: 'সমস্ত পঠিত হিসাবে চিহ্নিত করুন'
+      title: প্রজ্ঞাপন
+      tooltip: প্রজ্ঞাপন
+    post:
+      edited_text: সম্পাদনা
+    post_controls:
+      delete_confirmation: 'আপনি কি নিশ্চিত যে আপনি এই পোস্টটি চিরতরে মুছে ফেলতে চান? এই ক্রিয়াকলাপটি পূর্বাবস্থায় ফেরানো যাবে না।'
+      hide_confirmation: 'তুমি কি নিশ্চিত যে তুমি এই পোস্টটি মুছতে চাও?'
+      toggle_dropdown_accessible_label: 'পোস্ট নিয়ন্ত্রণ ড্রপডাউন মেনু টগল করুন'
+      push_to_front_button: 'প্রথম পাতায় পুশ করুন'
+      pull_from_front_button: 'ফ্রন্টপেজ থেকে টানুন'
+      delete_button: বিলোপ
+      delete_forever_button: 'চিরতরে মুছে ফেলুন'
+      edit_button: সম্পাদনা
+      restore_button: পুনঃস্থাপন
+    post_scrubber:
+      now_link: এখন
+      original_post_link: 'মূল পোস্ট'
+    post_stream:
+      load_more_button: 'আরও লোড করুন'
+      reply_placeholder: 'একটি উত্তর লিখুন...'
+    rename_discussion:
+      title: 'আলোচনা পুনঃনামকরণ'
+      submit_button: পুনঃনামকরণ
+    search:
+      discussions_heading: আলোচনা
+      users_heading: ব্যবহারকারী
+    security:
+      cannot_terminate_current_session: 'বর্তমান সক্রিয় সেশনটি সমাপ্ত করা যাবে না। পরিবর্তে লগ আউট করুন।'
+      created: তৈরি
+      current_active_session: 'বর্তমান সক্রিয় অধিবেশন'
+      developer_tokens_heading: 'ডেভেলপার টোকেন'
+      empty_text: 'দেখে মনে হচ্ছে এখানে দেখার মতো কিছুই নেই।'
+      global_logout: { heading: 'গ্লোবাল লগআউট', help_text: 'বর্তমান কুকি সেশন সাফ করে, সমস্ত সেশন বন্ধ করে, বিকাশকারী টোকেন প্রত্যাহার করে এবং কোনও ইমেল নিশ্চিতকরণ বা পাসওয়ার্ড পুনরায় সেট করা ইমেলগুলি অকার্যকর করে।', log_out_button: 'লগ আউট করুন' }
+      hide_access_token: 'টোকেন লুকান'
+      last_activity: 'শেষ কার্যকলাপ'
+      new_access_token_modal: { submit_button: 'টোকেন তৈরি করুন', title_placeholder: শীর্ষক, title: 'নতুন টোকেন' }
+      revoke_access_token: 'প্রত্যাহার করুন'
+      sessions_heading: 'সক্রিয় সেশন'
+      session_termination_failed: 'আপনার সেশনগুলি সমাপ্ত করার সময় একটি ত্রুটি ঘটেছে।'
+      show_access_token: 'টোকেন দেখুন'
+      terminate_all_other_sessions: 'অন্যান্য সমস্ত সেশন সমাপ্ত করুন'
+      terminate_session: বন্ধ
+      token_revoked: 'টোকেন বাতিল করা হয়েছে।'
+      token_title_placeholder: /
+      never: কখনও
+      new_access_token_button: 'নতুন টোকেন'
+      revoke_access_token_confirmation: 'আপনি কি নিশ্চিত যে আপনি এগিয়ে যেতে চান? এই ক্রিয়াকলাপটি পূর্বাবস্থায় ফেরানো যাবে না।'
+      terminate_all_other_sessions_confirmation: 'আপনি কি নিশ্চিত যে আপনি এগিয়ে যেতে চান? এই ক্রিয়াকলাপটি পূর্বাবস্থায় ফেরানো যাবে না।'
+      title: নিরাপত্তা
+    settings:
+      account_heading: একাউন্ট
+      notify_by_web_heading: ওয়েব
+      notify_discussion_renamed_label: 'কেউ আমার শুরু করা একটি আলোচনার নাম পরিবর্তন করে'
+      privacy_disclose_online_label: 'আমি কখন অনলাইনে আছি তা অন্যদের দেখার অনুমতি দিন'
+      privacy_heading: গোপনীয়তা
+      change_email_button: 'ইমেইল পরিবর্তন করুন'
+      change_password_button: 'পাসওয়ার্ড পরিবর্তন করুন'
+      notifications_heading: প্রজ্ঞাপন
+      notify_by_email_heading: ই-মেইল
+      title: সেটিংস
+    sign_up:
+      log_in_text: 'ইতিমধ্যে একটি অ্যাকাউন্ট আছে? <a>লগ ইন করো</a>'
+      dismiss_button: 'ঠিক আছে'
+      email_placeholder: ই-মেইল
+      password_placeholder: পাসওয়ার্ড
+      submit_button: 'সাইন আপ করো'
+      title: 'সাইন আপ করো'
+      username_placeholder: 'ব্যবহারকারীর নাম'
+    user:
+      avatar_upload_button: আপলোড
+      avatar_upload_tooltip: 'একটি নতুন অবতার আপলোড করুন'
+      online_text: অনলাইন
+      posts_empty_text: 'দেখে মনে হচ্ছে এখানে কোন পোস্ট নেই।'
+      avatar_remove_button: অপসারণ
+      discussions_link: আলোচনা
+      posts_link: পোস্ট
+      posts_load_more_button: 'আরও লোড করুন'
+      security_link: নিরাপত্তা
+      settings_link: সেটিংস
+    user_controls:
+      button: নিয়ন্ত্রণ
+      delete_confirmation: 'তুমি কি নিশ্চিত যে তুমি এই ব্যবহারকারীকে মুছতে চাও? ব্যবহারকারীর পোস্ট মুছে ফেলা হবে না।'
+      toggle_dropdown_accessible_label: 'ব্যবহারকারী নিয়ন্ত্রণ ড্রপডাউন মেনু টগল করুন'
+      delete_button: বিলোপ
+      edit_button: সম্পাদনা
+    user_email_confirmation:
+      resend_button: 'নিশ্চিতকরণ ইমেল পুনরায় পাঠান'
+      sent_message: প্রেরিত
+    welcome_hero:
+      hide: 'স্বাগত বার্তা লুকান'
+    badge:
+      frontpage_tooltip: 'প্রথম পাতা হিসাবে চিহ্নিত'
+  lib:
+    debug_button: ডিবাগ
+    alert:
+      dismiss_a11y_label: 'সতর্কতা খারিজ করুন'
+    badge:
+      hidden_tooltip: লুক্কায়িত
+    dropdown:
+      toggle_dropdown_accessible_label: 'ড্রপডাউন মেনু টগল করুন'
+    edit_user:
+      activate_button: 'ব্যবহারকারী সক্রিয় করুন'
+      groups_heading: গোষ্ঠী
+      set_password_label: 'নতুন পাসওয়ার্ড সেট করুন'
+      nothing_available: 'আপনার এই ব্যবহারকারীকে সম্পাদনা করার অনুমতি নেই।'
+      email_heading: ই-মেইল
+      email_label: ই-মেইল
+      password_heading: পাসওয়ার্ড
+      password_label: পাসওয়ার্ড
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+      title: 'ব্যবহারকারী সম্পাদনা করুন'
+      username_heading: 'ব্যবহারকারীর নাম'
+      username_label: 'ব্যবহারকারীর নাম'
+    error:
+      generic_message: 'উফ! কিছু একটা গন্ডগোল হয়েছে। অনুগ্রহ করে পৃষ্ঠাটি পুনরায় লোড করুন এবং আবার চেষ্টা করুন।'
+      generic_cross_origin_message: 'উফ! ক্রস-অরিজিন অনুরোধের সময় কিছু ভুল হয়েছে। অনুগ্রহ করে পৃষ্ঠাটি পুনরায় লোড করুন এবং আবার চেষ্টা করুন।'
+      not_found_message: 'অনুরোধকৃত সংস্থানটি খুঁজে পাওয়া যায়নি.'
+      payload_too_large_message: 'অনুরোধের পেলোডটি খুব বড় ছিল।'
+      permission_denied_message: 'আপনার এটা করার অনুমতি নেই।'
+      rate_limit_exceeded_message: 'তুমি একটু তাড়াতাড়ি চলে যাচ্ছ। দয়া করে কয়েক সেকেন্ডের মধ্যে আবার চেষ্টা করুন।'
+      render_failed_message: 'দুঃখিত, এই সামগ্রীটি প্রদর্শন করার সময় আমরা একটি ত্রুটির সম্মুখীন হয়েছি। আপনি যদি ব্যবহারকারী হন তবে দয়া করে পরে আবার চেষ্টা করুন। আপনি যদি প্রশাসক হন তবে আরও তথ্যের জন্য আপনার ফ্লেরাম লগ ফাইলগুলি একবার দেখুন।'
+    modal:
+      close: বন্ধ
+    nav:
+      drawer_button: 'নেভিগেশন ড্রয়ার খুলুন'
+    loading_indicator:
+      accessible_label: লোড।।।
+  views:
+    confirm_email:
+      text: 'আপনার অ্যাকাউন্টের ইমেল নিশ্চিত করতে নীচের বোতামটি ক্লিক করুন।'
+      submit_button: 'ইমেইল নিশ্চিত করুন'
+      title: 'ইমেইল নিশ্চিত করুন'
+    content:
+      javascript_disabled_message: 'এই সাইটটি জাভাস্ক্রিপ্ট সক্ষম সহ একটি আধুনিক ব্রাউজারে সবচেয়ে ভাল দেখা যায়।'
+      load_error_message: 'এই সাইটের পূর্ণ সংস্করণ লোড করার চেষ্টা করার সময় কিছু ভুল হয়েছে. ত্রুটিটি ঠিক করতে এই পৃষ্ঠাটি হার্ড-রিফ্রেশ করার চেষ্টা করুন।'
+      loading_text: লোড।।।
+    error:
+      csrf_token_mismatch: 'আপনি দীর্ঘদিন ধরে নিষ্ক্রিয় ছিলেন।'
+      csrf_token_mismatch_return_link: 'ফিরে যান, আবার চেষ্টা করুন'
+      invalid_confirmation_token: 'এই নিশ্চিতকরণ লিঙ্কটি ইতিমধ্যে ব্যবহৃত হয়েছে বা অবৈধ।'
+      not_authenticated: 'আপনার এই পৃষ্ঠায় প্রবেশের অনুমতি নেই। লগইন করার পর আবার চেষ্টা করুন।'
+      not_found: 'আপনার অনুরোধকৃত পাতাটি খুঁজে পাওয়া যায়নি।'
+      permission_denied: 'আপনার এই পৃষ্ঠায় প্রবেশের অনুমতি নেই।'
+      unknown: 'এই পৃষ্ঠাটি লোড করার চেষ্টা করার সময় একটি ত্রুটি ঘটেছে.'
+    log_out:
+      log_out_button: 'লগ আউট করুন'
+      title: 'লগ আউট করুন'
+    reset_password:
+      confirm_password_label: 'নতুন পাসওয়ার্ড নিশ্চিত করুন'
+      new_password_label: 'নতুন পাসওয়ার্ড'
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+      title: 'আপনার পাসওয়ার্ড রিসেট করুন'
+    discussion:
+      next_page_button: 'পরবর্তী পৃষ্ঠা'
+      previous_page_button: 'পূর্ববর্তী পৃষ্ঠা'
+    index:
+      all_discussions_heading: 'সকল আলোচনা'
+      next_page_button: 'পরবর্তী পৃষ্ঠা'
+      previous_page_button: 'পূর্ববর্তী পৃষ্ঠা'
+  api:
+    invalid_username_message: 'ব্যবহারকারীর নামটিতে কেবল বর্ণ, সংখ্যা এবং ড্যাশ থাকতে পারে।'
+  email:
+    activate_account:
+      subject: 'আপনার নতুন অ্যাকাউন্ট সক্রিয় করুন'
+    confirm_email:
+      subject: 'আপনার নতুন ইমেল ঠিকানা নিশ্চিত করুন'
+    reset_password:
+      subject: 'আপনার পাসওয়ার্ড রিসেট করুন'
+    send_test:
+      subject: 'ফ্লেরাম ইমেল পরীক্ষা'
+  ref:
+    all_discussions: 'সকল আলোচনা'
+    change_email: 'ইমেইল পরিবর্তন করুন'
+    change_password: 'পাসওয়ার্ড পরিবর্তন করুন'
+    color: রঙ
+    confirm_password: 'পাসওয়ার্ড নিশ্চিত করুন'
+    confirm_email: 'ইমেইল নিশ্চিত করুন'
+    custom_footer_text: 'পৃষ্ঠার একেবারে নীচে প্রদর্শিত হতে এইচটিএমএল যুক্ত করুন।'
+    custom_footer_title: 'কাস্টম পাদচরণ সম্পাদনা করুন'
+    custom_header_text: 'ফ্লারামের নিজস্ব শিরোনামের উপরে পৃষ্ঠার একেবারে শীর্ষে প্রদর্শিত হওয়ার জন্য এইচটিএমএল যুক্ত করুন।'
+    custom_header_title: 'কাস্টম শিরোনাম সম্পাদনা করুন'
+    delete: বিলোপ
+    delete_forever: 'চিরতরে মুছে ফেলুন'
+    discussions: আলোচনা
+    edit: সম্পাদনা
+    edit_user: 'ব্যবহারকারী সম্পাদনা করুন'
+    email: ই-মেইল
+    extensions: বর্ধিতাংশ
+    generic_confirmation_message: 'আপনি কি নিশ্চিত যে আপনি এগিয়ে যেতে চান? এই ক্রিয়াকলাপটি পূর্বাবস্থায় ফেরানো যাবে না।'
+    icon: আইকন
+    load_more: 'আরও লোড করুন'
+    loading: লোড।।।
+    log_in: 'লগ ইন করো'
+    log_out: 'লগ আউট করুন'
+    mark_all_as_read: 'সমস্ত পঠিত হিসাবে চিহ্নিত করুন'
+    never: কখনও
+    new_token: 'নতুন টোকেন'
+    next_page: 'পরবর্তী পৃষ্ঠা'
+    notifications: প্রজ্ঞাপন
+    okay: 'ঠিক আছে'
+    password: পাসওয়ার্ড
+    posts: পোস্ট
+    previous_page: 'পূর্ববর্তী পৃষ্ঠা'
+    remove: অপসারণ
+    rename: পুনঃনামকরণ
+    reply: উত্তর
+    reset_your_password: 'আপনার পাসওয়ার্ড রিসেট করুন'
+    restore: পুনঃস্থাপন
+    save_changes: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+    search_users: 'ব্যবহারকারী অনুসন্ধান করুন'
+    security: নিরাপত্তা
+    settings: সেটিংস
+    sign_up: 'সাইন আপ করো'
+    start_a_discussion: 'একটি আলোচনা শুরু করুন'
+    username: 'ব্যবহারকারীর নাম'
+    users: ব্যবহারকারী
+    view: দর্শন
+    write_a_reply: 'একটি উত্তর লিখুন...'
+    you: আপনি
+  group:
+    admin: এডমিন
+    admins: অ্যাডমিন
+    guest: অতিথি
+    guests: অতিথিবৃন্দ
+    member: সদস্য
+    members: সদস্য
+    mod: আদব-কায়দা
+    mods: মোড
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'সকল ট্যাগ'
+      meta_title_text: ট্যাগ
+    choose_tags:
+      title: 'আপনার আলোচনার জন্য ট্যাগ নির্বাচন করুন'
+    discussion_controls:
+      edit_tags_button: 'ট্যাগ সম্পাদনা করুন'
+    header:
+      back_to_tags_tooltip: 'ট্যাগ লিস্টে ফিরে যান'
+    index:
+      more_link: আরও।।।
+      untagged_link: 'ট্যাগ করা হয়নি'
+      tags_link: ট্যাগ
+    composer_discussion:
+      choose_tags_link: 'ট্যাগ নির্বাচন করুন'
+  lib:
+    deleted_tag_text: বিলোপ
+    tag_selection_modal:
+      bypass_requirements: 'বাইপাস ট্যাগের প্রয়োজনীয়তা'
+      submit_button: 'ঠিক আছে'
+      title: 'ট্যাগ নির্বাচন করুন'
+  ref:
+    choose_tags: 'ট্যাগ নির্বাচন করুন'
+    name: নাম
+    tags: ট্যাগ
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'একটি ব্যবহারকারী, গ্রুপ বা পোস্ট উল্লেখ করুন'
+    mentioned_by:
+      title: 'এই পোস্টের রিপ্লাই'
+      load_more_button: 'আরও লোড করুন'
+    post:
+      quote_button: উদ্ধৃতি
+      reply_link: উত্তর
+      you_text: আপনি
+    settings:
+      notify_post_mentioned_label: 'কেউ আমার একটি পোস্টের রিপ্লাই দিয়েছেন'
+      notify_user_mentioned_label: 'একজন পোস্টে আমার কথা উল্লেখ করেছেন'
+      notify_group_mentioned_label: 'কেউ একজন একটি পোস্টে আমি যে গ্রুপের সদস্য তার কথা উল্লেখ করেছেন'
+    user:
+      mentions_link: উল্লেখ
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'আনফলো করুন'
+      unignore_button: আনসির
+      follow_button: অনুসরণ
+    settings:
+      follow_after_reply_label: 'আমি যে আলোচনাগুলির উত্তর দিই তা স্বয়ংক্রিয়ভাবে অনুসরণ করুন'
+      notify_for_all_posts_label: 'আলোচনায় কেবল শেষের পরিবর্তে প্রতিটি নতুন পোস্ট সম্পর্কে অবহিত করুন'
+      notify_new_post_label: 'আমি অনুসরণ করছি এমন আলোচনায় কেউ পোস্ট করে'
+    sub_controls:
+      following_text: 'সমস্ত উত্তর সম্পর্কে অবহিত হন।'
+      ignoring_text: 'কখনই অবহিত করা হবে না। আলোচনার তালিকা থেকে লুকান।'
+      not_following_button: 'অনুসরণ না করা'
+      not_following_text: '@mentioned হলেই অবহিত হবেন।'
+      notify_alert_tooltip: 'নতুন পোস্ট হলে ফোরামের নোটিফিকেশন পাবেন'
+      notify_email_tooltip: 'নতুন পোস্ট এলে ইমেইল করুন'
+      follow_button: অনুসরণ
+      following_button: নিম্নলিখিত
+      ignoring_button: 'উপেক্ষা করা'
+    badge:
+      following_tooltip: নিম্নলিখিত
+      ignoring_tooltip: 'উপেক্ষা করা'
+    following:
+      meta_title_text: নিম্নলিখিত
+    index:
+      following_link: নিম্নলিখিত
+  ref:
+    follow: অনুসরণ
+    following: নিম্নলিখিত
+    ignoring: 'উপেক্ষা করা'
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'ধন্যবাদ পোস্টটি তুলে ধরার জন্য। আমাদের মডারেটররা বিষয়টি দেখবেন।'
+      reason_inappropriate_label: অনুপযোগী
+      reason_inappropriate_text: 'এই পোস্টটি আক্রমণাত্মক, অবমাননাকর, বা আমাদের <a>সম্প্রদায়ের নির্দেশিকা</a> লঙ্ঘন করে।'
+      reason_missing_message: 'দয়া করে আমাদের মডারেটরদের জন্য কিছু বিবরণ প্রদান করুন।'
+      reason_off_topic_label: 'অফ টপিক'
+      reason_off_topic_text: 'এই পোস্টটি বর্তমান আলোচনার সাথে প্রাসঙ্গিক নয় এবং অন্যত্র স্থানান্তর করা উচিত।'
+      reason_other_label: 'অন্যান্য (দয়া করে নির্দিষ্ট করুন)'
+      reason_spam_label: স্প্যাম
+      reason_spam_text: 'এই পোস্টটি একটি বিজ্ঞাপন।'
+      dismiss_button: 'ঠিক আছে'
+      submit_button: 'পতাকা পোস্ট'
+      title: 'পতাকা পোস্ট'
+    flagged_posts:
+      empty_text: 'পতাকা নেই'
+      title: 'পতাকাঙ্কিত পোস্ট'
+      tooltip: 'পতাকাঙ্কিত পোস্ট'
+    post:
+      dismiss_flag_button: 'পতাকা খারিজ করুন'
+    post_controls:
+      flag_button: পতাকা
+  ref:
+    flag_post: 'পতাকা পোস্ট'
+    flagged_posts: 'পতাকাঙ্কিত পোস্ট'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'আপনাকে অনির্দিষ্টকালের জন্য স্থগিত করা হয়েছে'
+      user_unsuspended_text: 'আপনাকে সাসপেন্ড করা হয়নি'
+    suspension_info:
+      dismiss_button: বরখাস্ত
+      indefinite: 'এটি একটি অনির্দিষ্টকালের স্থগিতাদেশ'
+      title: 'এই অ্যাকাউন্টটি স্থগিত করা হয়েছে'
+    suspend_user:
+      display_message: 'ব্যবহারকারীর জন্য বার্তা প্রদর্শন করুন'
+      indefinitely_label: 'অনির্দিষ্টকালের জন্য স্থগিত'
+      limited_time_days_text: ' দিন'
+      limited_time_label: 'সীমিত সময়ের জন্য স্থগিত...'
+      not_suspended_label: 'সাসপেন্ড করা হয়নি'
+      placeholder_optional: ঐচ্ছিক
+      reason: 'স্থগিতাদেশের কারণ'
+      status_heading: 'সাসপেনশন স্ট্যাটাস'
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+    user_badge:
+      suspended_tooltip: 'সাময়িক বরখাস্ত'
+    user_controls:
+      suspend_button: স্থগিত
+  email:
+    no_reason_given: 'এই স্থগিতাদেশের কোনো কারণ জানানো হয়নি।'
+    suspended:
+      subject: 'আপনার অ্যাকাউন্ট স্থগিত করা হয়েছে'
+    unsuspended:
+      subject: 'আপনার অ্যাকাউন্ট স্থগিত করা হয়েছে'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'সমস্ত ফাইল ব্যবহারকারী দ্বারা আপলোড করা হয়।', anonymize_description: 'আপলোড করা ফাইলগুলি থেকে ব্যবহারকারীর রেফারেন্স সরিয়ে দেয়। ফাইলগুলি নিজেরাই ব্যবহারকারীদের কাছে অ্যাক্সেসযোগ্য থাকে যা তাদের প্রাক-বেনামী দেখতে পারে।', delete_description: 'ব্যবহারকারীর দ্বারা আপলোড করা সমস্ত ফাইল মুছে ফেলে।' }
+      tagsubscription: { export_description: 'একটি ট্যাগের জন্য সাবস্ক্রিপশন স্তরের বিশদ রফতানি করুন, যদি একটি বিদ্যমান থাকে।', anonymize_description: 'ট্যাগে ব্যবহারকারীর সাবস্ক্রিপশন সরিয়ে দেয়।' }
+      followuser: { export_description: 'অনুসরণ করা ব্যবহারকারীদের বিবরণ এবং নিম্নলিখিত ব্যবহারকারীদের রফতানির বিবরণ।', delete_description: 'নিম্নলিখিত ব্যবহারকারীদের সাথে সম্পর্কিত সমস্ত তথ্য মুছে ফেলে।', anonymize_description: 'নিম্নলিখিত ব্যবহারকারীদের সাথে সম্পর্কিত সমস্ত তথ্য মুছে ফেলে।' }
+      bannedipdata: { export_description: 'যদি কোনও আইপি নিষেধাজ্ঞার রেকর্ড কোনও ব্যবহারকারীর সাথে যুক্ত থাকে (যেমন ব্যবহারকারীকে আইপি দ্বারা নিষিদ্ধ করা হয়েছিল), ব্যবহারকারীর আইপি ঠিকানাটি নিষেধাজ্ঞার কারণ এবং তৈরির তারিখ সহ রফতানিতে অন্তর্ভুক্ত করা হবে।', anonymize_description: 'ব্যবহারকারীর সাথে লিঙ্কযুক্ত যে কোনও আইপি ঠিকানা বিচ্ছিন্ন করা হয়, তবে আইপি নিজেই নিষিদ্ধ থাকবে, কারণ সহ। ''কারণ'' ক্ষেত্রে কোনও পিআইআই ডেটা সংরক্ষণ করা নেই তা নিশ্চিত করুন।' }
+fof-upload:
+  forum:
+    media_manager: 'মিডিয়া ম্যানেজার'
+    buttons:
+      attach: সংযুক্ত
+      upload: আপলোড
+      upload_shared: অংশীদারি
+      user_uploads: 'ব্যবহারকারী আপলোড'
+      cancel: বাতিল
+      media: 'আমার মিডিয়া'
+      shared_media: 'শেয়ার করা মিডিয়া'
+    states:
+      error: ত্রুটি
+      loading: 'আপলোড করা হচ্ছে'
+      unauthorized: 'আপনার ফাইল ডাউনলোড করার অনুমতি নেই'
+    text_preview:
+      expand: 'পূর্বরূপ প্রসারিত করুন'
+      collapse: 'সঙ্কুচিত পূর্বরূপ'
+      error: "ফাইল পূর্বরূপ করতে ত্রুটি। এটি মুছে ফেলা হয়ে থাকতে পারে, অথবা প্রদত্ত ফাইল আইডিটি অবৈধ।\n"
+      no_snippet_preview: '<পোস্ট করার পরে এখানে পূর্বরূপ প্রদর্শিত হবে>'
+      no_snippet: '<কোনও পূর্বরূপ স্নিপেট উপলব্ধ নেই>'
+  api:
+    upload_errors:
+      forbidden_type: 'এই ধরণের ফাইল আপলোড করার অনুমতি নেই।'
+      could_not_detect_mime: 'এই ফাইলটির MIME প্রকারটি সনাক্ত করা যায়নি, অনুগ্রহ করে আবার চেষ্টা করুন।'
+      max_upload_file_size_ini: 'আপলোডের সর্বাধিক ফাইল আকারের সীমা php.ini থেকে পৌঁছেছে।'
+      max_upload_file_size_form: 'আপলোড সর্বাধিক ফাইল আকারের সীমা ফর্ম থেকে পৌঁছেছে।'
+      partial_upload: 'আংশিক আপলোড।'
+      no_file_uploaded: 'কোনও ফাইল আপলোড হয়নি।'
+      no_upload_tmp_folder: 'ফাইল আপলোড করার জন্য কোনও টিএমপি ফোল্ডার নেই।'
+      cannot_write_to_disk: 'ডিস্কে লিখতে পারে না।'
+      upload_blocked_by_php_extension: 'একটি পিএইচপি এক্সটেনশন আপলোডটি ব্লক করেছে।'
+  lib:
+    upload-shared-file-modal:
+      title: 'নতুন শেয়ার করা ফাইল'
+      dropzone: 'এখানে ফাইল ড্র্যাগ এবং ড্রপ করুন অথবা ব্রাউজ করতে ক্লিক করুন'
+      hide-from-media-gallery: 'ব্যবহারকারীর মিডিয়া গ্যালারী থেকে লুকান'
+      upload: আপলোড
+    file_list:
+      loading: 'ফাইল লোড হচ্ছে...'
+      empty: 'দেখানোর জন্য কোনও ফাইল নেই।'
+      release_to_upload: 'আপলোড করতে ছেড়ে দিন'
+      modal_empty_desktop: 'আপনার ফাইল তালিকাটি খালি। বাটনে ক্লিক করুন অথবা আপলোড করতে এখানে একটি ফাইল টেনে আনুন।'
+      modal_empty_phone: 'আপনার ফাইল তালিকাটি খালি। একটি ফাইল আপলোড করতে উপরের বোতামটি ট্যাপ করুন।'
+      load_more_files_btn: 'আরও ফাইল লোড করুন'
+      hide_file: { hide_success: 'ফাইল লুকানো', show_success: 'ফাইল দেখানো হয়েছে', loading: 'ফাইল লুকানো হচ্ছে...' }
+      hide_shared_file: { hide_success: 'ফাইল ব্যক্তিগত করা হয়েছে', show_success: 'ফাইল পাবলিক করা হয়েছে', loading: 'ফাইল ব্যক্তিগত করা হচ্ছে...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: লিখেছেন
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'বোল্ড টেক্সট যোগ করুন'
+      code_tooltip: 'কোড ঢোকান'
+      header_tooltip: 'শিরোলেখ পাঠ্য যুক্ত করুন'
+      image_tooltip: 'একটি চিত্র যুক্ত করুন'
+      italic_tooltip: 'ইটালিক পাঠ্য যুক্ত করুন'
+      link_tooltip: 'একটি লিঙ্ক যোগ করুন'
+      ordered_list_tooltip: 'একটি সংখ্যাযুক্ত তালিকা যুক্ত করুন'
+      quote_tooltip: 'একটি উদ্ধৃতি ঢোকান'
+      spoiler_tooltip: 'একটি স্পয়লার ঢোকান'
+      strikethrough_tooltip: 'স্ট্রাইকথ্রু পাঠ্য যুক্ত করুন'
+      unordered_list_tooltip: 'একটি বুলেটযুক্ত তালিকা যুক্ত করুন'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'আমি অনুসরণ করছি এমন একটি ট্যাগে কেউ একটি আলোচনা তৈরি করে'
+      notify_new_post_label: 'আমি অনুসরণ করছি এমন একটি ট্যাগে কেউ পোস্ট করে'
+      notify_new_discussion_tag_label: 'কেউ একজন আমার অনুসরণ করা ট্যাগে একটি আলোচনাকে পুনরায় ট্যাগ করে দেয়'
+    index:
+      follow_tag_button: অনুসরণ
+      unfollow_tag_button: 'অনুসরণ করা বন্ধ করুন'
+      following: { following_none_label: 'এরপরে আলোচনা', following_tags_label: 'অনুসরণ করা ট্যাগ' }
+    badge:
+      following_tag_tooltip: নিম্নলিখিত
+      lurking_tag_tooltip: 'লুকিয়ে লুকিয়ে'
+    sub_controls:
+      following_text: 'নতুন সব আলোচনা থেকে অবহিত থাকুন।'
+      hiding_text: 'সকল আলোচনা পাতা থেকে আলোচনা লুকিয়ে রাখুন।'
+      ignoring_text: 'কখনই অবহিত করা হবে না।'
+      lurking_text: 'সমস্ত নতুন আলোচনা এবং উত্তর সম্পর্কে অবহিত হন।'
+      not_following_button: 'অনুসরণ না করা'
+      not_following_text: '@mentioned হলেই অবহিত হবেন।'
+      notify_alert_tooltip: 'নতুন আলোচনা বা পোস্ট হলে ফোরামের নোটিফিকেশন পাবেন'
+      notify_email_tooltip: 'নতুন আলোচনা বা পোস্ট হলে একটি ইমেল পান'
+      submit_button: 'সাবস্ক্রিপশন নিশ্চিত করুন'
+      follow_button: অনুসরণ
+      following_button: নিম্নলিখিত
+      hiding_button: 'লুকিয়ে থাকা'
+      ignoring_button: 'উপেক্ষা করা'
+      lurking_button: 'লুকিয়ে লুকিয়ে'
+    user:
+      settings: { heading: 'ট্যাগ ফলো করুন', filter_label: 'নিম্নলিখিত পৃষ্ঠায় ডিফল্টরূপে কী দেখাতে হবে' }
+  ref:
+    follow: অনুসরণ
+    following: নিম্নলিখিত
+    hiding: 'লুকিয়ে থাকা'
+    ignoring: 'উপেক্ষা করা'
+    lurking: 'লুকিয়ে লুকিয়ে'
+    filtering_options:
+      none: 'এরপরে আলোচনা'
+      tags: 'অনুসরণ করা ট্যাগ'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'এই ডাকনামটি অবৈধ। ডাকনামের নিয়মাবলী সম্পর্কে আরও তথ্যের জন্য অনুগ্রহ করে আপনার ফোরাম প্রশাসকের সাথে যোগাযোগ করুন।'
+  ref:
+    change_nickname: 'ডাকনাম পরিবর্তন করুন'
+    nickname: ডাকনাম
+  forum:
+    change_nickname:
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+      title: 'ডাকনাম পরিবর্তন করুন'
+    edit_user:
+      nicknames_heading: 'ডাকনাম পরিবর্তন করুন'
+      nicknames_text: ডাকনাম
+    settings:
+      change_nickname_button: 'ডাকনাম পরিবর্তন করুন'
+    sign_up:
+      nickname_placeholder: ডাকনাম
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'লিঙ্ক করা অ্যাকাউন্ট', last-used-label: 'সর্বশেষ ব্যবহৃত', link-created-label: 'লিংক তৈরি করা হয়েছে', orphaned-account: 'আপনি আগে এই প্রদানকারীর মাধ্যমে সাইন ইন করেছেন, কিন্তু এই ফোরামটি তখন থেকে এই পদ্ধতির সাথে সাইন-ইন অক্ষম করেছে।', help: 'এই লিঙ্কযুক্ত অ্যাকাউন্টগুলি আপনাকে অন্যান্য সরবরাহকারীদের ব্যবহার করে ফোরামে সাইন ইন করার অনুমতি দেয়।' } }
+    signup:
+      username_help: 'দয়া করে এখানে পরিচিত হওয়ার জন্য একটি ব্যবহারকারীর নাম চয়ন করুন'
+    unlink: 'লিংক সরান'
+    error:
+      bad_verification_code: 'অবৈধ বা মেয়াদোত্তীর্ণ যাচাইকরণ টোকেন। অনুগ্রহ করে আবার চেষ্টা করুন।'
+      invalid_state: 'অকার্যকর অবস্থা। অনুগ্রহ করে আবার চেষ্টা করুন।'
+    providers:
+      discord: অনৈক্য
+      facebook: ফেসবুক
+      github: গিটহাব
+      gitlab: গিটল্যাব
+      google: গুগল
+      linkedin: লিংকডইন
+      twitter: টুইটার
+  lib:
+    providers:
+      discord: অনৈক্য
+      facebook: ফেসবুক
+      github: গিটহাব
+      gitlab: গিটল্যাব
+      twitter: টুইটার
+      google: গুগল
+      linkedin: লিংকডইন
+  ref:
+    settings:
+      app_id: 'অ্যাপ ID'
+      app_secret: 'অ্যাপ সিক্রেট'
+      client_id: 'ক্লায়েন্ট ID'
+      client_secret: 'ক্লায়েন্ট সিক্রেট'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'অন্য ব্যবহারকারী হিসাবে লগইন করুন'
+      placeholder_optional: '(ঐচ্ছিক) এই ব্যবহারকারীর কাছে স্যুইচ করার জন্য আপনার কারণ সরবরাহ করুন'
+      placeholder_required: 'এগিয়ে যাওয়ার আগে আপনাকে অবশ্যই এই ব্যবহারকারীর কাছে স্যুইচ করার কারণ সরবরাহ করতে হবে'
+    user_controls:
+      impersonate_button: 'ব্যবহারকারী হিসাবে লগইন করুন'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'ব্যক্তিগত আলোচনা' }
+    buttons:
+      add_recipients: প্রাপক
+      submit: 'ঠিক আছে'
+      edit_recipients: 'প্রাপক সম্পাদনা করুন'
+      cancel: বাতিল
+      make_public: 'এই আলোচনাটি সর্বজনীন করুন'
+      remove_from_discussion: 'এই ব্যক্তিগত আলোচনা ছেড়ে দিন'
+    composer_private_discussion:
+      submit_button: 'ব্যক্তিগত আলোচনা পোস্ট করুন'
+      title_placeholder: 'ব্যক্তিগত আলোচনার শিরোনাম'
+    confirm:
+      make_public: 'আপনি কি নিশ্চিত যে আপনি প্রাপকদের অপসারণ করতে চান এবং যে কেউ নির্ধারিত ট্যাগটি দেখতে পারে তার কাছে এই আলোচনাটি দৃশ্যমান করতে চান?'
+    nav:
+      start_button: 'ব্যক্তিগতভাবে আলোচনা করুন'
+      nav_item: 'ব্যক্তিগত আলোচনা'
+    input:
+      search_recipients: 'প্রথম তিনটি অক্ষর টাইপ করে প্রাপক অনুসন্ধান করুন...'
+    search:
+      headings: { groups: 'অনুমতি গ্রুপ' }
+    modal:
+      titles: { add_recipients: 'আপনার আলোচনায় প্রাপক যোগ করুন' }
+      labels: { selected_users: 'নির্বাচিত ব্যবহারকারী', search_field: 'ব্যবহারকারীর জন্য অনুসন্ধান করুন' }
+      help: { add_recipients: 'এই আলোচনাটি শুধুমাত্র আপনার এখানে চয়ন করা ব্যবহারকারীদের কাছে দৃশ্যমান হবে। কমপক্ষে 1 জন প্রাপক (আপনি ব্যতীত) আবশ্যক।', update_recipients: 'এই আলোচনাটি শুধুমাত্র আপনার এখানে চয়ন করা ব্যবহারকারীদের কাছে দৃশ্যমান হবে।', selected_users: 'এগুলি সরাতে কোনও ব্যবহারকারীর নামে ক্লিক করুন।', click_user_to_remove_tooltip: 'অপসারণ করতে ক্লিক করুন' }
+    user:
+      settings: { block_pd: 'ব্যক্তিগত আলোচনা ব্লক করুন' }
+      byobu_link: 'ব্যক্তিগত আলোচনা'
+      dropdown_label: 'ব্যক্তিগত আলোচনা'
+    notifications:
+      pd_label: 'কেউ একজন আমাকে নতুন একান্ত আলোচনায় অন্তর্ভুক্ত করেছেন'
+      pd_reply_label: 'কেউ একটি ব্যক্তিগত আলোচনায় পোস্ট করে যা আমি একজন প্রাপক'
+      pd_user_left_label: 'একজন প্রাপক ব্যবহারকারী একটি ব্যক্তিগত আলোচনা ছেড়ে চলে যান যার আমি একটি অংশ'
+      pd_added_label: 'কেউ আমাকে একটি বিদ্যমান ব্যক্তিগত আলোচনায় যুক্ত করে'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'ব্যাজ সংক্রান্ত তথ্য'
+    all_badges: 'সমস্ত ব্যাজ দেখুন'
+    all_users: 'সকল ব্যবহারকারী দেখুন'
+    give_badge: 'ব্যাজ দিন'
+    update_badge: 'ব্যাজ আপডেট করুন'
+    select_badge: 'ব্যাজ নির্বাচন করুন'
+    user_has_badge: 'ব্যবহারকারীর ইতিমধ্যে এই ব্যাজটি রয়েছে।'
+    user_no_badges: 'এই ব্যবহারকারীর এখনও কোনও ব্যাজ নেই।'
+    no_received: 'কোনও ব্যবহারকারী এই ব্যাজটি অর্জন করেনি।'
+    save_changes: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+    badge:
+      badge: ব্যাজ
+      badges: ব্যাজ
+      name: 'ব্যাজের নাম'
+      description: 'ব্যাজ বিবরণ'
+      earning_reason: 'ব্যাজ উপার্জনের কারণ'
+      update_earning_reason: 'উপার্জনের কারণ আপডেট করুন'
+      no_earning_reason: 'উপার্জনের কোনও কারণ সেট নেই'
+      earned_on: 'ব্যাজ অর্জিত হয়েছে'
+      category: 'ব্যাজ বিভাগ'
+      badge_details: 'ব্যাজের বিবরণ'
+    badges_in_card:
+      title: 'ব্যবহারকারী কার্ডে ব্যাজ'
+      manage_badges: 'ব্যাজগুলি পরিচালনা করুন'
+      description: 'আপনি আপনার ব্যবহারকারী কার্ডে দৃশ্যমান ব্যাজগুলি আপনার অন্য একটি ব্যাজের সাহায্যে পরিবর্তন করতে পারেন। আপনি কোনও নির্বাচন না করলে, সেগুলি স্বয়ংক্রিয়ভাবে নির্বাচিত হবে।'
+    moderation:
+      remove_badge: 'ব্যবহারকারী থেকে ব্যাজ অপসারণ করুন'
+      remove_badge_confirm: 'তুমি কি নিশ্চিত যে তুমি এই ব্যবহারকারীর থেকে এই ব্যাজটি সরাতে চাও?'
+      give_badge: 'ব্যাজ দিন'
+    notification:
+      title: 'আপনি একটি নতুন ব্যাজ পেয়েছেন'
+      settings: 'আমি একটি ব্যাজ পেয়েছি'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'শোচনীয় অবস্থা'
+      not_miserable_label: 'দুঃখী নয়'
+      indefinitely_label: 'অনির্দিষ্টকালের জন্য দুঃখজনক'
+      limited_time_label: 'সীমিত সময়ের জন্য দুঃখজনক...'
+      limited_time_days_text: ' দিন'
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+    user_badge:
+      miserable_user_tooltip: 'দুঃখী ব্যবহারকারী'
+    user_controls:
+      miserable_user_button: 'দুঃখী ব্যবহারকারী'
+  ref:
+    miserable_user: 'দুঃখী ব্যবহারকারী'
+sycho-profile-cover:
+  forum:
+    cover: প্রচ্ছদ
+    edit_cover: 'প্রচ্ছদ সম্পাদনা করুন'
+    added:
+      success: 'প্রোফাইল কভার আপডেট হয়েছে।'
+      error: 'ছবি আপলোড করা যায়নি।'
+    removed:
+      success: 'প্রোফাইল কভার অপসারিত হয়েছে।'
+      error: 'কভার অপসারণ করা গেল না, পরে আবার চেষ্টা করুন।'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'ক্লিপবোর্ডে অনুলিপি করুন'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'শেষ দর্শনার্থী', guest: অতিথি }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'কান্ট্রি কোড'
+    saveButton: সংরক্ষণ
+    clickToSelectCountry: 'আপনার দেশ নির্বাচন করুন'
+    countrySaved: 'দেশ সফলভাবে রক্ষা পেয়েছে!'
+    field_placeholder: 'দেশের পতাকা নিশ্চিত করুন'
+    binding_country: 'আমরা আবিষ্কার করেছি যে আপনি আপনার অবস্থানকে আবদ্ধ করেন নি। প্রথমে আপনার দেশকে সংযুক্ত করুন। আপনি আপনার দেশ লিঙ্ক করার পরে কেবল পোস্ট করতে এবং বার্তা ছেড়ে যেতে পারেন।'
+    binding_country_click: 'এখনই ক্লিক করুন'
+username-blacklist:
+  forum:
+    modal-title: সতর্কীকরণ!
+    modal-body-first-line: 'সতর্কীকরণ - এই ব্যবহারকারী নামটি <strong>প্রশাসক দ্বারা অবরুদ্ধ</strong> করা হয়েছে'
+    modal-body-second-line: 'অনুগ্রহ করে অন্য একটি ইউজারনেম পছন্দ করুন যা আমাদের কমিউনিটির নিয়মকানুন ভঙ্গ করবে না এবং আবার চেষ্টা করুন।'
+  admin:
+    blackList: 'কালো তালিকাভুক্ত ব্যবহারকারীর নাম'
+    blackList-help: 'নিবন্ধনের সময় আপনি যে ইউজারনেম ব্লক করতে চান তা এখানে লিখুন (কমা দ্বারা পৃথক)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: সারসংক্ষেপ, show-summaries: 'আলোচনা তালিকায় প্রতিটি আলোচনা থেকে একটি উদ্ধৃতাংশ প্রদর্শন করুন (ডেস্কটপ/ট্যাবলেট)', show-summaries-mobile: 'আলোচনা তালিকায় প্রতিটি আলোচনা থেকে একটি অংশ প্রদর্শন করুন (মোবাইল)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'ফোরামের কার্যকলাপ'
+      forum_new_discussions: 'ফোরামের নতুন আলোচনা'
+      discussion_last_posts: 'এই আলোচনা'
+      user_last_posts: 'এই ব্যবহারকারীর পোস্ট ও মন্তব্য'
+    feeds:
+      titles: { main_subtitle: 'ফোরামের শেষ পোস্ট', main_d_subtitle: 'ফোরামে নতুন আলোচনা', discussion_subtitle: 'এই আলোচনায় শেষ বার্তা', user_subtitle: 'এই ব্যবহারকারীর সাম্প্রতিক পোস্ট ও মন্তব্য' }
+    discussion:
+      feed_link: ফীড
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: 'অনুসরণ করা হয়েছে'
+    profile_page:
+      no_following: 'দেখে মনে হচ্ছে আপনি কাউকে অনুসরণ করছেন না।'
+    settings:
+      notify_new_follower_label: 'কেউ আমাকে অনুসরণ করে'
+      notify_new_unfollower_label: 'কেউ আমাকে অনুসরণ করা বন্ধ করে দেয়'
+      notify_new_discussion_label: 'আমি যাকে অনুসরণ করছি সে আলোচনা শুরু করে'
+      notify_new_post_label: 'বিদ্যমান আলোচনায় আমি যাকে অনুসরণ করছি'
+      block_follow: 'ব্যবহারকারীদের আমাকে অনুসরণ করা থেকে বিরত রাখুন'
+    badge:
+      label: { follow: 'নিম্নলিখিত আলোচনা', lurk: 'সব অনুসরণ করে' }
+    filter:
+      following: 'ব্যবহারকারীদের অনুসরণ করা হয়েছে'
+    modals:
+      select_follow_level: { follow_levels_heading: 'স্তরগুলি অনুসরণ করুন', follow_select_label: 'অনুসরণ করুন প্রকার', no_user_attr_provided_err: 'আহ ওহ, এই মোডালটি খোলার সময় কিছু ভুল হয়েছে।', no_user_attr_provided_err_debug: 'তৈরি করার সময় সিলেক্টফলোইউজারলেভেল মোডালে কোনও ''ব্যবহারকারী'' বৈশিষ্ট্য পাস করা হয়নি। মডেল রেন্ডার করা যাবে না।', save_btn: সংরক্ষণ, cancel_btn: বাতিল }
+    profile_link: 'অনুসরণকারী ব্যবহারকারীরা'
+    user_controls:
+      follow_button: অনুসরণ
+      unfollow_button: 'আনফলো করুন'
+      change_button: 'অনুসরণ প্রকার পরিবর্তন করুন'
+    index:
+      follow_tag_button: অনুসরণ
+      unfollow_tag_button: 'অনুসরণ প্রকার পরিবর্তন করুন'
+  email:
+    new_follower_subject: '[ব্যবহারকারীকে অনুসরণ করুন] আপনার একজন নতুন অনুসরণকারী আছে!'
+  lib:
+    following_link: 'অনুসরণকারী ব্যবহারকারীরা'
+    follow: অনুসরণ
+    change_follow_type: 'অনুসরণ প্রকার পরিবর্তন করুন'
+    unfollow: 'আনফলো করুন'
+    follow_levels:
+      unfollow: { name: 'অনুসরণ করবেন না' }
+      follow: { name: 'আলোচনা অনুসরণ করুন' }
+      lurk: { name: 'সব অনুসরণ করুন' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'অনুগ্রহ করে নিশ্চিত করুন যে এই অনুরোধ করা ডাকনাম পরিবর্তন ফোরামের নির্দেশিকা অনুসরণ করে।', decision_title: সিদ্ধান্ত, approval_label: অনুমোদন, rejected_label: 'প্রত্যাখ্যান করুন', submit_button: জমা, reason_title: 'প্রত্যাখ্যানের কারণ', success: 'সিদ্ধান্ত পাঠানো হয়েছে।', title: 'ডাকনাম পরিবর্তনের অনুরোধ' }
+      results: { title: 'ডাকনাম পরিবর্তনের অনুরোধ', approved: 'আপনার ডাকনাম পরিবর্তনের অনুরোধ অনুমোদিত হয়েছে', rejected: 'আপনার ডাকনাম পরিবর্তনের অনুরোধ প্রত্যাখ্যান করা হয়েছে', resubmit: 'এই সময়ে আপনি আপনার অ্যাকাউন্ট সেটিংস থেকে একটি নতুন ডাকনাম পরিবর্তনের অনুরোধ পুনরায় জমা দিতে পারেন যদি আপনি চান।', dismiss_button: 'ঠিক আছে' }
+      request: { title: 'ডাকনাম পরিবর্তনের অনুরোধ করুন', submit_button: 'অনুরোধ জমা দিন', delete_button: 'মুছে ফেলার অনুরোধ', confirmation_message: 'আপনার ডাকনাম পরিবর্তনের অনুরোধ জমা দেওয়া হয়েছে এবং অনুমোদনের জন্য মুলতুবি রয়েছে।', deleted: 'ডাকনামের অনুরোধ মোছা হয়েছে।', dismiss_button: 'ঠিক আছে' }
+    username_modals:
+      action: { help_text: 'অনুগ্রহ করে নিশ্চিত করুন যে এই অনুরোধকৃত ব্যবহারকারী নাম পরিবর্তন ফোরামের নির্দেশিকা অনুসরণ করে।', decision_title: সিদ্ধান্ত, approval_label: অনুমোদন, rejected_label: 'প্রত্যাখ্যান করুন', submit_button: জমা, reason_title: 'প্রত্যাখ্যানের কারণ', success: 'সিদ্ধান্ত পাঠানো হয়েছে।', title: 'ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ' }
+      results: { title: 'ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ', approved: 'আপনার ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ অনুমোদিত হয়েছে', rejected: 'আপনার ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ প্রত্যাখ্যান করা হয়েছে', resubmit: 'এই সময়ে আপনি আপনার অ্যাকাউন্ট সেটিংস থেকে একটি নতুন ব্যবহারকারী নাম পরিবর্তনের অনুরোধ পুনরায় জমা দিতে পারেন যদি আপনি চান।', dismiss_button: 'ঠিক আছে' }
+      request: { title: 'ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ করুন', submit_button: 'অনুরোধ জমা দিন', delete_button: 'মুছে ফেলার অনুরোধ', confirmation_message: 'আপনার ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ জমা দেওয়া হয়েছে এবং অনুমোদনের জন্য মুলতুবি রয়েছে।', deleted: 'ব্যবহারকারীর নাম অনুরোধ মোছা হয়েছে।', dismiss_button: 'ঠিক আছে' }
+    pending_requests:
+      empty_text: 'কোনও নাম পরিবর্তনের অনুরোধ পাওয়া যায়নি।'
+      tooltip: 'নাম পরিবর্তনের অনুরোধ'
+      title: 'নাম পরিবর্তনের অনুরোধ'
+    settings:
+      nickname_request_button: 'ডাকনাম পরিবর্তন করুন'
+      username_request_button: 'ব্যবহারকারীর নাম পরিবর্তন করুন'
+    user:
+      name_history_link: 'নামের ইতিহাস'
+  ref:
+    name_change_request: 'নাম পরিবর্তনের অনুরোধ'
+    name_change_requests: 'নাম পরিবর্তনের অনুরোধ'
+    nickname_change_request: 'ডাকনাম পরিবর্তনের অনুরোধ'
+    nickname_change_requests: 'ডাকনাম পরিবর্তনের অনুরোধ'
+    username_change_request: 'ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ'
+    username_change_requests: 'ব্যবহারকারীর নাম পরিবর্তনের অনুরোধ'
+  email:
+    body:
+      noReasonProvided: 'কোনো কারণ দেখানো হয়নি।'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'নিজের সম্পর্কে কিছু লিখুন'
+    profile:
+      cancel_confirm: 'আপনি কি নিশ্চিত যে আপনি আপনার বায়ো সম্পাদনা বাতিল করতে চান? আপনি যে কোনও পরিবর্তন হারাবেন।'
+      cancel_button: বাতিল
+      save_button: সংরক্ষণ
+      edit_bio_label: 'জীবনী সম্পাদনা করুন'
+fof-split:
+  forum:
+    split:
+      from: 'এখান থেকে বিভক্ত'
+      to: 'এখানে বিভক্ত করুন'
+      cancel: 'বিভাজন বাতিল করুন'
+    modal:
+      title: 'বিভক্ত আলোচনা'
+      new_discussion_label: 'নতুন আলোচনার জন্য শিরোনাম উল্লেখ করুন'
+      submit_button: বিভক্ত
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'আপনার সামাজিক মিডিয়া বোতামগুলি সম্পাদনা করুন'
+      add: 'আপনার সামাজিক মিডিয়াতে বোতাম যুক্ত করুন'
+      headtitle: 'বাটন সম্পাদনা করুন'
+      title: শীর্ষক
+      url: ইউআরএল
+      submit: সংরক্ষণ
+      delete: বিলোপ
+      deletetitle: 'ডিলিট বাটন'
+      save_disabled_fetching_favicons: 'এক বা একাধিক আইকন আনা হচ্ছে। দয়া করে অপেক্ষা করো।'
+      favicon: ফেভিকন
+      grey_favicon: 'ধূসর ফেভিকন'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: অংশীদারি
+      share_dropdown_accessible_label: 'আলোচনা শেয়ার ড্রপডাউন মেনু টগল করুন'
+    modal:
+      title: অংশীদারি
+      copy_button: অনুলিপি
+  lib:
+    networks:
+      facebook: ফেসবুক
+      twitter: টুইটার
+      linkedin: লিংকডইন
+      reddit: Reddit
+      whatsapp: হোয়াটসঅ্যাপ
+      telegram: টেলিগ্রাম
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'আমার পৃথিবী'
+      qq: কিউকিউ
+      qzone: QZone
+      native: 'নেটিভ শেয়ার'
+fof-recaptcha:
+  forum:
+    error: 'পুনরায় ক্যাপচা জমা দেওয়ার সময় একটি ত্রুটি হয়েছিল। আবার চেষ্টা করো।'
+    unknown_error: 'একটি অজানা ত্রুটি ঘটেছে। ক্যাপচা চেক করুন ও আবার চেষ্টা করুন।'
+fof-reactions:
+  forum:
+    disabled-reaction: 'আপনি এই মুহূর্তে এই প্রতিক্রিয়াটি ব্যবহার করতে পারবেন না, দয়া করে পৃষ্ঠাটি রিফ্রেশ করুন'
+    warning: 'আপনার প্রতিক্রিয়া রূপান্তরিত হয়েছিল'
+    settings:
+      notify_post_reacted_label: 'কেউ আমার একটি পোস্টে প্রতিক্রিয়া জানিয়েছেন'
+    reacting-own-post: 'আপনি আপনার নিজের পোস্টে প্রতিক্রিয়া জানাতে পারবেন না'
+    modal:
+      title: প্রতিক্রিয়া
+      no_reactions: 'এখনও কোনও প্রতিক্রিয়া নেই'
+    mod_item: 'প্রতিক্রিয়া দেখুন'
+    react_button_label: প্রতিক্রিয়া
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'ইমেজ ক্রপার লোড করতে ব্যর্থ হয়েছে।', generic_resize: 'চিত্রটি ক্রপ ও পুনরায় আকার দেওয়ার সময় কিছু গন্ডগোল হয়েছে।', get_image_data: 'ফসল কাটাতে ব্যর্থ হয়েছে। আপনার ব্রাউজারের আঙুলের ছাপ সুরক্ষা অক্ষম আছে তা নিশ্চিত করুন।' }
+      help_text: "আপনার ব্রাউজারের গোপনীয়তা সেটিংস খুব কঠোর হলে চিত্র আপলোড ব্যর্থ হতে পারে। আপনার যদি সমস্যা হয় তবে আঙুলের ছাপের সুরক্ষা অক্ষম করার চেষ্টা করুন। অন্যথায়, আপনি হয় <disableResize>ক্রপ করা চিত্রটি সঙ্কুচিত করা অক্ষম</disableResize> করতে পারেন বা <disableCrop>ক্রপিং পুরোপুরি অক্ষম</disableCrop> করতে পারেন।\n"
+      submit_button: আপলোড
+      submit_crop_button: 'ক্রপ ও আপলোড করুন'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'খুব সম্ভবত এটি আর কোনও আলোচনার প্রয়োজন নেই এবং এইভাবে এটি বাম্প করা কোনও উদ্দেশ্য সাধন করে না।', checkbox_label: 'আমি জানি যে এই আলোচনাটি বরং পুরানো তবে এখনও উত্তর দিতে চাই।', error: 'এই আলোচনাটি উত্তর দেওয়ার পক্ষে খুব পুরনো।' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'ভোট দেওয়ার অনুমতি নেই'
+    poll_ended: 'এই পোলটি শেষ হয়েছে।'
+    public_poll: 'ভোটারদের দেখুন'
+    composer_discussion:
+      add_poll: 'পোল যোগ করুন'
+      edit_poll: 'পোল সম্পাদনা করুন'
+    modal:
+      add_title: 'একটি পোল যোগ করুন'
+      add_option_label: 'একটি বিকল্প যোগ করুন'
+      edit_title: 'পোল সম্পাদনা করুন'
+      include_question: 'আপনাকে অবশ্যই একটি প্রশ্ন অন্তর্ভুক্ত করতে হবে'
+      max: 'আপনি সর্বোচ্চ 10 টি উত্তর দিতে পারেন'
+      min: 'আপনাকে অবশ্যই সর্বনিম্ন 2টি উত্তর অন্তর্ভুক্ত করতে হবে'
+      no_voters: 'ভোট নেই'
+      option_placeholder: উত্তর
+      image_option_placeholder: 'চিত্র URL (ঐচ্ছিক)'
+      options_label: উত্তর
+      public_poll_label: 'জনগণকে দেখতে দিন কারা ভোট দিয়েছে'
+      allow_multiple_votes_label: 'জনগণকে একাধিক বিকল্পের জন্য ভোট দেওয়ার অনুমতি দিন'
+      max_votes_label: 'ব্যবহারকারী প্রতি সর্বোচ্চ ভোট'
+      max_votes_help: 'ব্যবহারকারীদের সমস্ত বিকল্পের জন্য ভোট দেওয়ার অনুমতি দিতে 0 এ সেট করুন।'
+      question_placeholder: প্রশ্ন
+      submit: জমা
+    moderation:
+      delete: 'পোল সরান'
+      delete_confirm: 'তুমি কি নিশ্চিত যে তুমি এই পোলটি মুছতে চাও?'
+      edit: 'পোল সম্পাদনা করুন'
+    tooltip:
+      badge: জরিপ
+    votes_modal:
+      title: ভোটার
+fof-nightmode:
+  ref:
+    auto: 'স্বয়ংক্রিয় (ব্রাউজার বা ডিভাইস বিকল্পগুলির উপর ভিত্তি করে)'
+    light: 'ডে মোড'
+    dark: 'নাইট মোড'
+  forum:
+    header:
+      nightmode_button: 'নাইট মোড'
+    user:
+      settings: { heading: থীম, description: 'আপনি ফোরামে কোন রঙের থিম ব্যবহার করতে চান তা চয়ন করুন।', description2: 'এই থিমটি আপনার অ্যাকাউন্টের সাথে লিঙ্ক করা হবে এবং আপনি ডিভাইস সেটিংস প্রতি জন্য নীচের স্যুইচে টগল না করা পর্যন্ত আপনার সমস্ত ডিভাইসে প্রযোজ্য হবে।', device_specific_setting_checkbox: 'প্রতি ডিভাইস সেটিংস ব্যবহার করুন', device_specific_setting_checkbox_tooltip: 'আপনার থিম পছন্দটি আপনার প্রতিটি ডিভাইসের জন্য স্বতন্ত্রভাবে সংরক্ষিত হবে।', auto_unsupported: 'আপনার ব্রাউজার অটো ডার্ক মোড সমর্থন করে না।', option_descriptions: { auto: 'আপনার ব্রাউজার বা ডিভাইস সেটিংসের ভিত্তিতে আপনার থিম স্বয়ংক্রিয়ভাবে নির্বাচিত হবে। উদাহরণস্বরূপ, আপনার যদি আইওএসে ডার্ক মোড সক্ষম থাকে তবে ফোরামগুলিও অন্ধকার হবে।', day: 'ক্লাসিক অভিজ্ঞতা যা আপনি অভ্যস্ত। ভালোবেসেছি এবং পরীক্ষিত।', night: 'তুমি একটু রাতজাগা পেঁচা। আপনি রাতে ফোরামের উপর নজর রাখেন, যখন পাখিরা ঘুমাচ্ছে এবং শিয়াল শিকার করছে। অথবা আপনি কেবল গাঢ় রঙ পছন্দ করেন!' }, options: { auto: 'স্বয়ংক্রিয় (ব্রাউজার বা ডিভাইস বিকল্পগুলির উপর ভিত্তি করে)', day: 'ডে মোড', night: 'নাইট মোড' } }
+    day: 'ডে মোড'
+    night: 'নাইট মোড'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'খালি নোট দেওয়া যাবে না।'
+    moderatorNotes:
+      add_button: 'নতুন নোট'
+      create-heading: 'একটি নতুন মডারেটর নোট তৈরি করুন'
+      dismiss_button: 'করা হয়েছে'
+      noNotes: 'দেখে মনে হচ্ছে এখানে কোনও নোট নেই।'
+      submit_button: 'নোট সংরক্ষণ করুন'
+      delete: বিলোপ
+      confirm: 'তুমি কি নিশ্চিত যে তুমি এই নোটটি মুছতে চাও?'
+    user:
+      notes: 'মডারেটর নোট'
+  api:
+    no_reason_provided: 'কোন কারণ প্রদান করা হয়নি'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: ভোট
+    vote_title: 'কারা ভোট দিয়েছেন তা দেখান'
+    nav:
+      name: 'র ্যাঙ্কিং'
+    ranking:
+      rank: স্থান
+      name: ব্যবহারকারী
+      amount: বিন্দু
+    notification:
+      prefrences: { vote: 'যখন আমার একটি পোস্ট আপ/ডাউন ভোট হয়' }
+    user:
+      votes_link: ভোট
+    modal:
+      downvotes_label: 'ডাউন ভোটার:'
+      title: ভোটার
+      upvotes_label: 'ভোটার:'
+    mod_item: 'ভোটারদের দেখুন'
+    voters:
+      none: 'এখনো ভোটার নেই'
+      label: ভোটার
+      label_none: 'ভোটার নেই'
+    post:
+      upvote_button: 'আপভোট পোস্ট'
+      downvote_button: 'ডাউনভোট পোস্ট'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'নির্ধারিত ড্রাফ্টগুলি বর্তমানে সেটিংসে অক্ষম আছে।'
+  ref:
+    schedule_draft: 'শিডিউল ড্রাফট'
+  forum:
+    composer:
+      title: 'খসড়া সংরক্ষণ করুন'
+      saving: সংরক্ষণ।।।
+      saved: সংরক্ষণ!
+      exit_alert: 'খসড়ায় পরিবর্তনগুলি পরিত্যাগ করবেন?'
+      discard_empty_draft_alert: 'খালি ড্রাফ্ট বাতিল করবেন?'
+    dropdown:
+      empty_text: 'আপনি কোনও খসড়া সংরক্ষণ করেন নি'
+      title: খসড়া
+      delete_all_button: 'সমস্ত খসড়া মুছে ফেলুন'
+      delete_button: 'খসড়া মুছে ফেলুন'
+      scheduled_icon_tooltip_formatter: 'এল [এট] এলটি'
+      alert: 'তুমি কি নিশ্চিত যে তুমি তোমার খসড়াটি মুছতে চাও?'
+      delete_all_alert: 'তুমি কি নিশ্চিত যে তুমি তোমার সমস্ত খসড়া মুছতে চাও?'
+      schedule_button: 'শিডিউল ড্রাফট'
+      tooltip: খসড়া
+    schedule_draft_modal:
+      text: 'পরবর্তী সময়ে স্বয়ংক্রিয়ভাবে পোস্ট করার জন্য আপনার খসড়াটি নির্ধারণ করুন!'
+      unschedule_button: 'সময়সূচী অনির্ধারিত'
+      unschedule_warning: 'তুমি কি নিশ্চিত যে তুমি এই খসড়াটি আনশিডিউল করতে চাও?'
+      reschedule_button: পুনঃতফসিল
+      schedule_button: সময়সূচি
+      schedule_time_preview_formatter: এল.এল
+      schedule_time_preview_invalid: 'অবৈধ তারিখ এবং/অথবা সময়'
+      title: 'শিডিউল ড্রাফট'
+    user:
+      settings: { drafts_heading: খসড়া, draft_autosave_enable: 'খসড়া স্বয়ংক্রিয় সংরক্ষণ সক্ষম করবেন?', draft_autosave_interval_label: 'স্বয়ংক্রিয় সংরক্ষণের বিরতি (সেকেন্ড)', draft_autosave_interval_button: 'বিরতি আপডেট করুন', draft_autosave_interval_invalid: 'ব্যবধানটি অবশ্যই 4 এর চেয়ে বড় পূর্ণসংখ্যা হতে হবে।' }
+fof-best-answer:
+  forum:
+    answered_badge: উত্তর
+    this_best_answer: 'সর্বোত্তম উত্তর নির্বাচন করুন'
+    remove_best_answer: 'সর্বোত্তম উত্তর নির্বাচন করুন'
+    best_answer_button: 'সেরা উত্তর'
+    errors:
+      mismatch: 'এই আলোচনায় নির্বাচিত পোস্টের অস্তিত্ব নেই।'
+    notification:
+      content: 'আপনার প্রশ্নের উত্তর দেওয়া হয়ে থাকলে দয়া করে একটি সেরা উত্তর নির্বাচন করুন'
+      preferences: { awarded_best_answer: 'কেউ আমার পোস্টটিকে সেরা উত্তর হিসাবে সেট করে', best_answer_in_discussion: 'আমি যে আলোচনায় অংশ নিয়েছিলাম তাতে একটি সর্বোত্তম উত্তর সেট করা হয়েছে', select_best_answer: 'আমার শুরু করা আলোচনায় একটি সেরা উত্তর নির্বাচন করার জন্য একটি স্বয়ংক্রিয় অনুস্মারক' }
+    index:
+      ask_question: 'একটি প্রশ্ন জিজ্ঞাসা করুন'
+      cannot_ask_question: 'কোনও প্রশ্ন জিজ্ঞাসা করতে পারে না'
+      solved_link: 'সমাধান করা হয়েছে আলোচনা'
+      unsolved_link: 'অমীমাংসিত আলোচনা'
+    filter:
+      all_label: 'সকল প্রশ্ন'
+      solved_label: 'সমাধান করা প্রশ্ন'
+      unsolved_label: 'অমীমাংসিত প্রশ্ন'
+      accessible_label: 'সমাধান/অমীমাংসিত নির্বাচন'
+    composer:
+      titlePlaceholder: 'প্রশ্নের শিরোনাম'
+    search:
+      discussions_solutions_heading: 'সমাধান সহ আলোচনা'
+    discussion:
+      jump_to_best_answer_button: 'সর্বোত্তম উত্তর প্রদর্শন'
+  email:
+    subject:
+      select: 'আপনি কি আপনার প্রশ্নের উত্তর পেতে পরিচালনা করেছেন?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'সর্বাধিক সেরা উত্তর'
+      least_best_answers: 'সর্বনিম্ন সেরা উত্তর'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'আর কাউকে নিষিদ্ধ করা হবে না'
+    user_badge:
+      banned_tooltip: নিষিদ্ধ
+    ban_ip_button: 'আইপি নিষিদ্ধ করুন'
+    unban_ip_button: 'আনব্যান আইপি'
+    user_controls:
+      ban_button: নিষিদ্ধ
+      unban_button: আনব্যান
+  error:
+    banned_ip_message: 'অনুমোদন ব্যর্থ হয়েছে।'
+    no_ips_found_message: 'ব্যবহারকারীর জন্য কোনও IP(গুলি) পাওয়া যায়নি।'
+  lib:
+    modal:
+      check_button: চেক
+      save_button: সংরক্ষণ
+      ban_ip_confirmation: 'আপনি কি নিশ্চিত যে আপনি ফোরামে এই আইপি ঠিকানাটি ব্যবহার করা থেকে অবরোধ করতে চান? এটি এই আইপি ঠিকানা (গুলি) সহ ব্যবহারকারীদের লগ ইন এবং নিবন্ধন থেকে অবরুদ্ধ করবে।'
+      unban_ip_confirmation: 'আপনি কি নিশ্চিত যে আপনি এই ব্যবহারকারীকে এবং অন্য সকল ব্যবহারকারীকে অন্য IP দ্বারা নিষিদ্ধ নয় মুক্ত করতে চান?'
+      unban_ip_no_users: 'আর কেউ নিষিদ্ধ থাকবে না'
+      title: 'আইপি(গুলি) নিষিদ্ধ করুন'
+      unban_title: 'আনব্যান আইপি (গুলি)'
+      address_label: 'আইপি ঠিকানা'
+      reason_label: কারণে
+      ban_button: নিষিদ্ধ
+      unban_button: আনব্যান
+  ref:
+    ban_label: নিষিদ্ধ
+    ban_ip_addresses: 'আইপি(গুলি) নিষিদ্ধ করুন'
+    ban_ip_button: 'আইপি নিষিদ্ধ করুন'
+    unban_label: আনব্যান
+    unban_ip_addresses: 'আনব্যান আইপি (গুলি)'
+    unban_ip_button: 'আনব্যান আইপি'
+    address_label: 'আইপি ঠিকানা'
+    reason_label: কারণে
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'আপনার নিবন্ধকরণের বিশদ বিবরণ একটি স্প্যাম প্রতিরোধের ডাটাবেসে পাওয়া গেছে, তাই আপনার নিবন্ধন অবরোধ করা হয়েছে।' }
+    spammer_modal:
+      hard_delete_discussions_label: 'আলোচনা মুছে ফেলুন'
+      hard_delete_discussions_help: 'এটি এই ব্যবহারকারীর দ্বারা শুরু করা সমস্ত আলোচনা স্থায়ীভাবে মুছে ফেলবে। অক্ষম করা হলে, পরিবর্তে আলোচনাগুলি লুকানো হবে।'
+      hard_delete_posts_label: 'পোস্ট মুছে ফেলুন'
+      hard_delete_posts_help: 'এটি এই ব্যবহারকারীর দ্বারা করা সমস্ত পোস্ট (মন্তব্য, উত্তর ইত্যাদি) স্থায়ীভাবে মুছে ফেলবে। অক্ষম করা থাকলে, পরিবর্তে পোস্টগুলি লুকানো হবে।'
+      hard_delete_user_label: 'ব্যবহারকারী মুছে ফেলুন'
+      hard_delete_user_help: 'এটি ব্যবহারকারীকে স্থায়ীভাবে মুছে ফেলবে। অক্ষম করা থাকলে, পরিবর্তে ব্যবহারকারীকে স্থগিত করা হবে।'
+      intro: 'কোনও ব্যবহারকারীকে স্প্যামার হিসাবে চিহ্নিত করার সময়, বেশ কয়েকটি পদক্ষেপ নেওয়া হবে, যা আপনার ফোরামে উপলব্ধ এক্সটেনশনগুলির উপর নির্ভর করে।'
+      move_discussions_tag_label: 'আলোচনা কোয়ারেন্টাইন ট্যাগে স্থানান্তর করুন'
+      move_discussions_tag_help: 'এটি এই ব্যবহারকারীর দ্বারা শুরু করা সমস্ত আলোচনাকে ফোরাম সেটিংসে আপনার নির্দিষ্ট ট্যাগে স্থানান্তরিত করবে। অক্ষম করা থাকলে, আলোচনাগুলি তাদের বর্তমান ট্যাগগুলিতে ছেড়ে দেওয়া হবে।'
+      process_button: প্রক্রিয়া
+      report_to_sfs_label: 'StopForumSpam এ রিপোর্ট করুন'
+      report_to_sfs_help: 'এটি ব্যবহারকারীর মৌলিক বিবরণ (ব্যবহারকারীর নাম, ইমেল, আইপি ঠিকানা) স্টপফোরামস্প্যামে প্রতিবেদন করবে। এটি ব্যবহারকারীকে স্টপফোরামস্প্যাম পরিষেবা ব্যবহার করে এমন অন্যান্য ফোরামে নিবন্ধন থেকে বিরত রাখতে সহায়তা করবে।'
+    user_controls:
+      spammer_button: স্প্যামার
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'আলোচনা দেখার গণনা পুনরায় সেট করুন'
+      submit: জমা
+      label: 'গণনা দেখতে সেট করুন'
+    discussion_controls:
+      resetviews_button: 'দেখার গণনা সেট করুন'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: আনস্টিকি
+      sticky_button: স্টিকি
+    badge:
+      sticky_tooltip: স্টিকি
+  ref:
+    sticky: স্টিকি
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: তালাবন্ধ
+    discussion_controls:
+      lock_button: তালা
+      unlock_button: 'আনলক করুন'
+    settings:
+      notify_discussion_locked_label: 'আমার শুরু করা আলোচনাকে কেউ তালাবদ্ধ করে রেখেছে'
+flarum-likes:
+  forum:
+    post:
+      like_link: চান
+      unlike_link: বিপরীত
+      you_text: আপনি
+    post_likes:
+      title: 'ব্যবহারকারীরা যারা এটি পছন্দ করেন'
+      load_more_button: 'আরও লোড করুন'
+    settings:
+      notify_post_liked_label: 'কেউ আমার একটি পোস্ট লাইক করেছে'
+    user:
+      likes_link: লাইক
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'ইমোজি ঢোকান'
+      type_to_search_text: 'একটি ইমোজি অনুসন্ধান করতে টাইপ করুন'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'আপনার কন্টেন্ট অনেক বড়, অনুগ্রহ করে পোস্ট করার বিষয়ে আমাদের নির্দেশিকা পড়ুন' }
+dhtml-persona:
+  forum:
+    persona: ব্যক্তি
+dhtml-leaderboard:
+  forum:
+    leaderboard: লিডারবোর্ড
+dhtml-gender:
+  forum:
+    male: পুরুষ
+    female: নারী
+    other: 'না বললেই নয়'
+    inputGender: লিঙ্গ
+    saveButton: সংরক্ষণ
+    clickToSelectGender: 'আপনার লিঙ্গ নির্বাচন করুন'
+    genderSaved: 'লিঙ্গ সফলভাবে সংরক্ষণ করা হয়েছে!'
+    field_placeholder: 'লিঙ্গ নিশ্চিত করুন'
+    binding_gender: 'আমরা আবিষ্কার করেছি যে আপনি আপনার লিঙ্গ নির্ধারণ করেননি। প্রথমে আপনার লিঙ্গ নির্ধারণ করুন। আপনি কেবল আপনার লিঙ্গ সেট করার পরে বার্তা পোস্ট করতে এবং ছেড়ে যেতে পারেন।'
+    binding_gender_click: 'এখনই ক্লিক করুন'
+flarum-content-pages:
+  forum:
+    home: মূল
+    about-us: 'আমাদের সম্পর্কে'
+    guidelines: নির্দেশিকা
+    privacy-policy: 'গোপনীয়তা নীতি'
+    terms-of-use: 'ব্যবহারের শর্তাবলী'
+    contact-us: 'আমাদের সাথে যোগাযোগ করুন'
+    download-app: 'অ্যাপ ডাউনলোড করুন'
+    discord-chat: 'ডিসকর্ড চ্যাট'
+    tags-cloud: 'ট্যাগ: ক্লাউড'
+    languages: ভাষাগুলো
+    leaderboard: লিডারবোর্ড
+    live: লাইভ
+    live-coding: 'লাইভ কোডিং'
+    challenges: চ্যালেঞ্জ
+    dev-challenges: প্রতিদ্বন্দ্বিতাগুলো
+    jobs: কাজ
+    community: সম্প্রদায়
+    dev-jobs: সময়কাল
+    job-posting: 'কর্ম পোস্ট করা হচ্ছে'
+    job-postings: 'পোস্ট করার কাজ'
+    workshops: কর্মশালা
+    dev-workshops: '৩ পরিবারের জন্য সাহায্য'
+    events: ঘটনাসমূহ
+    conferences: অধিবেশন
+    event-conferences: '%s / %s আলোচনা করা হচ্ছে'
+    showcase: 'ছোট করে প্রদর্শন করা হবে'
+    tags: ট্যাগ
+    more: মডেল
+    memberships: সদস্যতা
+    members: সদস্য
+    general-discussion: 'সাধারণ আলোচনা'
+    technology-articles: 'প্রযুক্তি বার্তা'
+    coding-challenges: 'কোড লিখন চ্যালেঞ্জ'
+    q-a: 'Q/A বিভাগ'
+    artificial-intelligence: 'কৃতিম মেধা'
+    computer-science: 'কম্পিউটার বিজ্ঞান'
+    programming-languages: 'প্রোগ্রামিং ভাষা'
+    development-tools: 'ডিভেলপমেন্টের সামগ্রী'
+    software-development: 'সফ্টওয়্যার ডিভেলপমেন্ট'
+    frontend-development: 'সম্মুখপ্রান্ত ডেভেলপমেন্টName'
+    backend-development: 'ব্যাক-এন্ড নির্মাণের সামগ্রী'
+    software-engineering: 'সফ্টওয়্যার প্রকৌশল'
+    cybersecurity: 'সাইবার নিরাপত্তা'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'চরিত্র কাউন্টার'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'জন্ম তারিখ সম্পাদনা করুন'
+      date_of_birth_text: জন্মতারিখ
+      submit_button: 'পরিবর্তনগুলি সংরক্ষণ করুন'
+    settings:
+      change_dob_label: 'জন্ম তারিখ পরিবর্তন করুন'
+      show_dob_date_label: 'জন্মের দিন এবং মাস দেখান'
+      show_dob_year_label: 'জন্মের বছর দেখান'
+      show_dob_year_help: 'এতে করে মানুষ আপনার বয়স দেখতে পাবে।'
+      dob_heading: জন্মতারিখ
+    nav:
+      nav_item: 'আজ জন্মদিন'
+    edit_user:
+      dob_heading: জন্মতারিখ
+    sign_up:
+      dob_placeholder: জন্মতারিখ
+  api:
+    invalid_dob_message: 'অবৈধ জন্ম তারিখ'
+  ref:
+    date_of_birth: জন্মতারিখ
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'ইমোজি পিকার'
+    search_placeholder: সন্ধান।।।
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'লেখক এবং তারিখ সম্পাদনা করুন'
+    modal:
+      title-post: 'পোস্ট লেখক এবং তারিখ সম্পাদনা করুন'
+      title-discussion: 'আলোচনা লেখক এবং তারিখ সম্পাদনা করুন'
+      user: প্রণেতা
+      created_at: 'সৃষ্টির সময়'
+      edited_at: 'সম্পাদনার সময়'
+      sync-with-discussion: 'আলোচনার সাথে সিঙ্ক করুন'
+      sync-with-post: 'প্রথম পোস্টের সাথে সিঙ্ক করুন'
+      sync-impossible: 'প্রথম পোস্ট খুঁজে পাওয়া যাচ্ছে না। আলোচনার শুরুতে স্ক্রোল করার চেষ্টা করুন।'
+      submit: সংরক্ষণ
+      cancel: বাতিল
+    search:
+      placeholder: 'ব্যবহারকারী অনুসন্ধান করুন'
+      type-more: 'ডাটাবেস অনুসন্ধান করতে 3 টি অক্ষর টাইপ করুন'
+      no-results: 'কোন ফলাফল নেই'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'সমৃদ্ধ পাঠ্য মোড টগল করুন'
+      insert_button: সন্নিবেশ
+      insert_image: { src_placeholder: যোগসূত্র, title_placeholder: শীর্ষক }
+      insert_link: { text_placeholder: 'পাঠ্য বার্তা', href_placeholder: ইউআরএল, title_placeholder: 'শিরোনাম (হোভারে দেখায়)', remove_button: অপসারণ }
+      additional_items_tooltip: 'অতিরিক্ত নিয়ন্ত্রণ'
+      code_block_tooltip: 'একটি কোড ব্লক ঢোকান'
+      horizontal_rule_tooltip: 'অনুভূমিক নিয়ম ঢোকান'
+      image_tooltip: 'একটি চিত্র যুক্ত করুন'
+      link_tooltip: 'একটি লিঙ্ক যোগ করুন'
+      spoiler_block_tooltip: 'ব্লক স্পয়লার/ড্রপডাউন'
+      strike_tooltip: 'স্ট্রাইকথ্রু <alt-shift-5>'
+      text_type_tooltip: 'পাঠ্য প্রকার নির্বাচন করুন'
+  forum:
+    settings:
+      composer_heading: সুরকার
+      use_rich_text_editor_label: 'সমৃদ্ধ পাঠ্য সম্পাদক ব্যবহার করবেন?'
+      rich_text_compact_paragraphs_label: 'নিউলাইন দিয়ে অনুচ্ছেদগুলি আলাদা করবেন না।'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'আপনি পুশ বিজ্ঞপ্তিগুলি সক্ষম করেছেন কিন্তু এই ডিভাইসটি কনফিগার করেন নি।'
+      optin_button: কনফিগার
+    discussion_controls:
+      share_button: অংশীদারি
+    post_controls:
+      share_button: অংশীদারি
+    user_controls:
+      share_button: অংশীদারি
+    settings:
+      push_header: পুশ
+      pwa_notifications: { access_default: 'ব্রাউজারের বিধিনিষেধের কারণে, এই ডিভাইসে পুশ বিজ্ঞপ্তিগুলি পেতে আপনাকে অবশ্যই অপ্ট ইন করতে হবে।', access_default_button: 'অপ্ট ইন করুন', access_denied: 'এই ডিভাইসে পুশ বিজ্ঞপ্তিগুলি পেতে আপনাকে অবশ্যই আপনার ব্রাউজার সেটিংস সামঞ্জস্য করতে হবে।', access_denied_button: 'জেনে নিন কিভাবে', no_browser_support: 'এই ব্রাউজারটি প্রগতিশীল ওয়েব অ্যাপগুলির জন্য পুশ বিজ্ঞপ্তিগুলি সমর্থন করে না।', no_browser_support_button: 'আরও শেখো' }
+  views:
+    offline:
+      header: 'নেটওয়ার্ক সংযোগ ত্রুটি'
+      text: 'এই অ্যাপ্লিকেশনটির একটি নেটওয়ার্ক সংযোগ প্রয়োজন; এটি অফলাইনে ব্যবহার করা যাবে না। অনুগ্রহ করে আপনার সংযোগ পরীক্ষা করুন।'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'ব্যবহারকারীকে সতর্ক করুন'
+    user:
+      warnings: 'মডারেটরের সতর্কবার্তা'
+    settings:
+      warning_notification_label: 'একজন মডারেটর আমাকে সতর্ক করলেন'
+    validation:
+      public_comment_required: 'আপনি সর্বজনীন মন্তব্য প্রদান করেন।'
+      invalid_strike_count: 'স্ট্রাইকের সংখ্যা অবশ্যই 0 এবং 5 এর মধ্যে একটি পূর্ণসংখ্যা হতে হবে।'
+    warning_controls:
+      delete_button: অপসারণ
+      restore_button: পুনঃস্থাপন
+      delete_forever_button: 'স্থায়ীভাবে মুছে ফেলুন'
+    warning_list:
+      add_button: 'নতুন সতর্কতা'
+      no_warnings: 'দেখে মনে হচ্ছে এখানে কোনও সতর্কতা নেই।'
+      warnings_no_strikes: 'মডারেটর সতর্কতা: কোন ধর্মঘট পাওয়া যায়নি'
+    warning_list_item:
+      public_comment: সতর্কীকরণ
+      private_comment: 'মডারেটর-দৃশ্যমান মন্তব্য'
+      linked_post: 'লিংকড পোস্ট'
+    warning_modal:
+      confirmation_message: 'আপনার সতর্কতা সংরক্ষিত হয়েছে। এটি দেখার জন্য আপনাকে পৃষ্ঠাটি রিফ্রেশ করতে হতে পারে।'
+      strikes_heading: 'কত স্ট্রাইক প্রয়োগ করতে হবে?'
+      submit_button: 'সতর্কতা সংরক্ষণ করুন'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'উত্তর টেমপ্লেট সম্পাদনা করুন'
+    reply_template:
+      title: 'উত্তর টেমপ্লেট সম্পাদনা করুন'
+      submit_button: 'রিপ্লাই টেমপ্লেট সংরক্ষণ করুন'

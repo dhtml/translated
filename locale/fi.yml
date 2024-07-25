@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Antamasi salasana on virheellinen.'
+      confirm_password_placeholder: 'Vahvista salasana'
+      dismiss_button: OKEI
+      submit_button: 'Tallenna muutokset'
+      title: 'Vaihda sähköpostiosoite'
+    change_password:
+      send_button: 'Lähetä salasanan vaihtoviesti'
+      text: 'Napsauta alla olevaa painiketta ja tarkista, onko sähköpostissasi linkki salasanan vaihtamiseen.'
+      title: 'Vaihda salasana'
+    composer:
+      close_tooltip: Sulkea
+      exit_full_screen_tooltip: 'Poistu koko näytön tilasta'
+      full_screen_tooltip: 'Koko näyttö'
+      minimize_tooltip: Minimoida
+      preview_tooltip: Ennakkoesitys
+    composer_discussion:
+      body_placeholder: 'Kirjoita julkaisu...'
+      discard_confirmation: 'Et ole lähettänyt keskusteluasi. Haluatko hävittää sen?'
+      submit_button: 'Lähetä keskustelu'
+      title_placeholder: 'Keskustelun otsikko'
+      title: 'Aloita keskustelu'
+    composer_edit:
+      discard_confirmation: 'Et ole tallentanut muutoksiasi. Haluatko hävittää ne?'
+      edited_message: 'Muokkauksesi tehtiin.'
+      submit_button: 'Tallenna muutokset'
+      view_button: Näkymä
+    composer_reply:
+      discard_confirmation: 'Et ole lähettänyt vastaustasi. Haluatko hävittää sen?'
+      posted_message: 'Vastauksesi julkaistiin.'
+      submit_button: 'Lähetä vastaus'
+      body_placeholder: 'Kirjoita vastaus...'
+      view_button: Näkymä
+    discussion_controls:
+      cannot_reply_button: 'Vastaaminen ei onnistu'
+      cannot_reply_text: 'Sinulla ei ole oikeutta vastata tähän keskusteluun.'
+      delete_confirmation: 'Haluatko varmasti poistaa tämän keskustelun?'
+      log_in_to_reply_button: 'Kirjaudu sisään vastataksesi'
+      toggle_dropdown_accessible_label: 'Vaihda keskustelutoimintoja -pudotusvalikko'
+      delete_button: Poistaa
+      delete_forever_button: 'Poista ikuisesti'
+      rename_button: 'Nimetä uudelleen'
+      reply_button: Vastaus
+      restore_button: Palauttaa
+    discussion_list:
+      empty_text: 'Näyttää siltä, että täällä ei keskustella.'
+      load_more_button: 'Lataa lisää'
+    forgot_password:
+      email_sent_message: 'Jos syöttämäsi sähköposti on rekisteröity tällä sivustolla, lähetämme sinulle sähköpostiviestin, jossa on linkki salasanan palauttamiseen. Tarkista roskapostikansio, jos et saa sitä seuraavan minuutin tai kaksi.'
+      not_found_message: 'Käyttäjää ei ole rekisteröity kyseisellä sähköpostiosoitteella.'
+      submit_button: 'Password takaisin'
+      text: 'Kirjoita sähköpostiosoitteesi ja lähetämme sinulle linkin salasanasi palauttamiseksi.'
+      title: 'Unohdettu salasana'
+      dismiss_button: OKEI
+      email_placeholder: Sähköposti
+    header:
+      admin_button: Hallintohallinto
+      back_to_index_tooltip: 'Takaisin keskusteluluetteloon'
+      locale_dropdown_accessible_label: 'Keskustelualueen alueen muuttaminen'
+      profile_button: Profiili
+      search_clear_button_accessible_label: 'Tyhjennä hakukysely'
+      search_placeholder: 'Etsi keskustelupalsta'
+      search_role_label: 'Etsi keskustelupalsta'
+      session_dropdown_accessible_label: 'Vaihda istunnon asetukset avattavasta valikosta'
+      log_in_link: 'Kirjaudu sisään'
+      log_out_button: 'Kirjautua ulos'
+      settings_button: Asetukset
+      sign_up_link: Kiinnittää
+    index:
+      cannot_start_discussion_button: 'Keskustelua ei voi aloittaa'
+      mark_all_as_read_confirmation: 'Haluatko varmasti merkitä kaikki keskustelut luetuiksi?'
+      refresh_tooltip: Virkistää
+      toggle_sidenav_dropdown_accessible_label: 'Vaihda navigointi avattavasta valikosta'
+      all_discussions_link: 'Kaikki keskustelut'
+      mark_all_as_read_tooltip: 'Merkitse kaikki luetuiksi'
+      meta_title_text: 'Kaikki keskustelut'
+      start_discussion_button: 'Aloita keskustelu'
+    index_sort:
+      latest_button: Uusin
+      newest_button: Uusin
+      oldest_button: Vanhin
+      relevance_button: Relevanssi
+      toggle_dropdown_accessible_label: 'Keskusteluluettelon lajittelun muuttaminen'
+      top_button: Huippu
+      hot_button: Trendit
+      votes_button: 'Puolesta annetut äänet'
+      front_button: Etusivu
+      popular_button: Suosittu
+      unpopular_button: Epäsuosittu
+    log_in:
+      forgot_password_link: 'Unohtuiko salasana?'
+      invalid_login_message: 'Kirjautumistietosi olivat virheelliset.'
+      remember_me_label: 'Muista minut'
+      sign_up_text: 'Eikö sinulla ole tiliä? <a>Kiinnittää</a>'
+      username_or_email_placeholder: 'Käyttäjätunnus tai sähköpostiosoite'
+      password_placeholder: Salasana
+      submit_button: 'Kirjaudu sisään'
+      title: 'Kirjaudu sisään'
+    notifications:
+      delete_all_confirm: 'Haluatko varmasti poistaa kaikki ilmoitukset? Tätä toimintoa ei voi peruuttaa'
+      delete_all_tooltip: 'Poista kaikki ilmoitukset'
+      empty_text: 'Ei ilmoituksia'
+      mark_as_read_tooltip: 'Merkitse luetuksi'
+      toggle_dropdown_accessible_label: 'Ilmoitusten tarkasteleminen'
+      mark_all_as_read_tooltip: 'Merkitse kaikki luetuiksi'
+      title: Ilmoitukset
+      tooltip: Ilmoitukset
+    post:
+      edited_text: Muokata
+    post_controls:
+      delete_confirmation: 'Haluatko varmasti poistaa tämän viestin ikuisesti? Tätä toimintoa ei voi kumota.'
+      hide_confirmation: 'Haluatko varmasti poistaa tämän viestin?'
+      toggle_dropdown_accessible_label: 'Vaihda viestin ohjaimet avattavasta valikosta'
+      push_to_front_button: 'Siirry FrontPageen'
+      pull_from_front_button: 'Hakeminen FrontPagesta'
+      delete_button: Poistaa
+      delete_forever_button: 'Poista ikuisesti'
+      edit_button: Muokata
+      restore_button: Palauttaa
+    post_scrubber:
+      now_link: Nyt
+      original_post_link: 'Alkuperäinen viesti'
+    post_stream:
+      load_more_button: 'Lataa lisää'
+      reply_placeholder: 'Kirjoita vastaus...'
+    rename_discussion:
+      title: 'Nimeä keskustelu uudelleen'
+      submit_button: 'Nimetä uudelleen'
+    search:
+      discussions_heading: Keskustelut
+      users_heading: Käyttäjät
+    security:
+      cannot_terminate_current_session: 'Nykyistä aktiivista istuntoa ei voi lopettaa. Kirjaudu sen sijaan ulos.'
+      created: Luotu
+      current_active_session: 'Nykyinen aktiivinen istunto'
+      developer_tokens_heading: 'Kehittäjien tunnukset'
+      empty_text: 'Näyttää siltä, että täällä ei ole mitään nähtävää.'
+      global_logout: { heading: 'Maailmanlaajuinen uloskirjautuminen', help_text: 'Tyhjentää nykyisen evästeistunnon, lopettaa kaikki istunnot, peruuttaa kehittäjätunnukset ja mitätöi kaikki sähköpostivahvistukset tai salasanan vaihtoviestit.', log_out_button: 'Kirjautua ulos' }
+      hide_access_token: 'Piilota tunnus'
+      last_activity: 'Viimeinen aktiviteetti'
+      new_access_token_modal: { submit_button: 'Luo tunnus', title_placeholder: Nimike, title: 'Uusi tunnus' }
+      revoke_access_token: Peruuttaa
+      sessions_heading: 'Aktiiviset istunnot'
+      session_termination_failed: 'Istuntojen lopettamisessa tapahtui virhe.'
+      show_access_token: 'Näytä tunnus'
+      terminate_all_other_sessions: 'Kaikkien muiden istuntojen lopettaminen'
+      terminate_session: Lopettaa
+      token_revoked: 'Tunnus peruutettu.'
+      token_title_placeholder: /
+      never: Koskaan
+      new_access_token_button: 'Uusi tunnus'
+      revoke_access_token_confirmation: 'Haluatko varmasti jatkaa? Tätä toimintoa ei voi kumota.'
+      terminate_all_other_sessions_confirmation: 'Haluatko varmasti jatkaa? Tätä toimintoa ei voi kumota.'
+      title: Arvopaperi
+    settings:
+      account_heading: Tili
+      notify_by_web_heading: Verkko
+      notify_discussion_renamed_label: 'Joku nimeää aloittamani keskustelun uudelleen'
+      privacy_disclose_online_label: 'Salli muiden nähdä, milloin olen online-tilassa'
+      privacy_heading: Yksityisyys
+      change_email_button: 'Vaihda sähköpostiosoite'
+      change_password_button: 'Vaihda salasana'
+      notifications_heading: Ilmoitukset
+      notify_by_email_heading: Sähköposti
+      title: Asetukset
+    sign_up:
+      log_in_text: 'Onko sinulla jo tili? <a>Kirjaudu sisään</a>'
+      dismiss_button: OKEI
+      email_placeholder: Sähköposti
+      password_placeholder: Salasana
+      submit_button: Kiinnittää
+      title: Kiinnittää
+      username_placeholder: Käyttäjänimi
+    user:
+      avatar_upload_button: 'Lähettää tiedosto'
+      avatar_upload_tooltip: 'Lataa uusi avatar'
+      online_text: Online
+      posts_empty_text: 'Näyttää siltä, että täällä ei ole viestejä.'
+      avatar_remove_button: Poistaa
+      discussions_link: Keskustelut
+      posts_link: Virkaa
+      posts_load_more_button: 'Lataa lisää'
+      security_link: Arvopaperi
+      settings_link: Asetukset
+    user_controls:
+      button: Valvonta
+      delete_confirmation: 'Haluatko varmasti poistaa tämän käyttäjän? Käyttäjän viestejä EI poisteta.'
+      toggle_dropdown_accessible_label: 'Vaihda käyttäjän ohjaimet avattavasta valikosta'
+      delete_button: Poistaa
+      edit_button: Muokata
+    user_email_confirmation:
+      resend_button: 'Lähetä vahvistussähköposti uudelleen'
+      sent_message: Lähetti
+    welcome_hero:
+      hide: 'Piilota tervetuloviesti'
+    badge:
+      frontpage_tooltip: 'Merkitty FrontPageksi'
+  lib:
+    debug_button: Debugata
+    alert:
+      dismiss_a11y_label: 'Hälytyksen hylkääminen'
+    badge:
+      hidden_tooltip: Piilevä
+    dropdown:
+      toggle_dropdown_accessible_label: 'Vaihda avattava valikko'
+    edit_user:
+      activate_button: 'Aktivoi käyttäjä'
+      groups_heading: Ryhmät
+      set_password_label: 'Aseta uusi salasana'
+      nothing_available: 'Et saa muokata tätä käyttäjää.'
+      email_heading: Sähköposti
+      email_label: Sähköposti
+      password_heading: Salasana
+      password_label: Salasana
+      submit_button: 'Tallenna muutokset'
+      title: 'Muokkaa käyttäjää'
+      username_heading: Käyttäjänimi
+      username_label: Käyttäjänimi
+    error:
+      generic_message: 'Hups! Jotain meni pieleen. Lataa sivu uudelleen ja yritä uudelleen.'
+      generic_cross_origin_message: 'Hups! Jokin meni pieleen eri alkuperää koskevan pyynnön aikana. Lataa sivu uudelleen ja yritä uudelleen.'
+      not_found_message: 'Pyydettyä resurssia ei löytynyt.'
+      payload_too_large_message: 'Pyynnön hyötykuorma oli liian suuri.'
+      permission_denied_message: 'Sinulla ei ole lupaa tehdä sitä.'
+      rate_limit_exceeded_message: 'Menet hieman liian nopeasti. Yritä uudelleen muutaman sekunnin kuluttua.'
+      render_failed_message: 'Valitettavasti tämän sisällön näyttämisessä tapahtui virhe. Jos olet käyttäjä, yritä myöhemmin uudelleen. Jos olet järjestelmänvalvoja, katso lisätietoja Flarum-lokitiedostoistasi.'
+    modal:
+      close: Sulkea
+    nav:
+      drawer_button: 'Avaa siirtymislaatikko'
+    loading_indicator:
+      accessible_label: Lastaaminen...
+  views:
+    confirm_email:
+      text: 'Napsauta alla olevaa painiketta vahvistaaksesi tilisi sähköpostiosoitteen.'
+      submit_button: 'Vahvista sähköposti'
+      title: 'Vahvista sähköposti'
+    content:
+      javascript_disabled_message: 'Tämä sivusto näkyy parhaiten nykyaikaisessa selaimessa, jossa JavaScript on käytössä.'
+      load_error_message: 'Jotain meni pieleen yritettäessä ladata tämän sivuston täysversiota. Yritä korjata virhe päivittämällä tämä sivu tehokkaasti.'
+      loading_text: Lastaaminen...
+    error:
+      csrf_token_mismatch: 'Olet ollut toimettomana liian kauan.'
+      csrf_token_mismatch_return_link: 'Palaa takaisin ja yritä uudelleen'
+      invalid_confirmation_token: 'Tämä vahvistuslinkki on jo käytetty tai se on virheellinen.'
+      not_authenticated: 'Sinulla ei ole oikeutta käyttää tätä sivua. Yritä uudelleen kirjautumisen jälkeen.'
+      not_found: 'Pyytämääsi sivua ei löytynyt.'
+      permission_denied: 'Sinulla ei ole oikeutta käyttää tätä sivua.'
+      unknown: 'Virhe yritettäessä ladata tätä sivua.'
+    log_out:
+      log_out_button: 'Kirjautua ulos'
+      title: 'Kirjautua ulos'
+    reset_password:
+      confirm_password_label: 'Vahvista uusi salasana'
+      new_password_label: 'Uusi salasana'
+      submit_button: 'Tallenna muutokset'
+      title: 'Palauta salasanasi'
+    discussion:
+      next_page_button: 'Seuraava sivu'
+      previous_page_button: 'Edellinen sivu'
+    index:
+      all_discussions_heading: 'Kaikki keskustelut'
+      next_page_button: 'Seuraava sivu'
+      previous_page_button: 'Edellinen sivu'
+  api:
+    invalid_username_message: 'Käyttäjänimi saa sisältää vain kirjaimia, numeroita ja viivoja.'
+  email:
+    activate_account:
+      subject: 'Aktivoi uusi tilisi'
+    confirm_email:
+      subject: 'Vahvista uusi sähköpostiosoitteesi'
+    reset_password:
+      subject: 'Palauta salasanasi'
+    send_test:
+      subject: Flarum-sähköpostitesti
+  ref:
+    all_discussions: 'Kaikki keskustelut'
+    change_email: 'Vaihda sähköpostiosoite'
+    change_password: 'Vaihda salasana'
+    color: Väri
+    confirm_password: 'Vahvista salasana'
+    confirm_email: 'Vahvista sähköposti'
+    custom_footer_text: 'Lisää HTML näytettäväksi sivun alareunassa.'
+    custom_footer_title: 'Muokkaa mukautettua alatunnistetta'
+    custom_header_text: 'Lisää HTML näytettäväksi sivun yläreunassa, Flarumin oman otsikon yläpuolella.'
+    custom_header_title: 'Muokkaa mukautettua otsikkoa'
+    delete: Poistaa
+    delete_forever: 'Poista ikuisesti'
+    discussions: Keskustelut
+    edit: Muokata
+    edit_user: 'Muokkaa käyttäjää'
+    email: Sähköposti
+    extensions: Tiedostopääte
+    generic_confirmation_message: 'Haluatko varmasti jatkaa? Tätä toimintoa ei voi kumota.'
+    icon: Ikoni
+    load_more: 'Lataa lisää'
+    loading: Lastaaminen...
+    log_in: 'Kirjaudu sisään'
+    log_out: 'Kirjautua ulos'
+    mark_all_as_read: 'Merkitse kaikki luetuiksi'
+    never: Koskaan
+    new_token: 'Uusi tunnus'
+    next_page: 'Seuraava sivu'
+    notifications: Ilmoitukset
+    okay: OKEI
+    password: Salasana
+    posts: Virkaa
+    previous_page: 'Edellinen sivu'
+    remove: Poistaa
+    rename: 'Nimetä uudelleen'
+    reply: Vastaus
+    reset_your_password: 'Palauta salasanasi'
+    restore: Palauttaa
+    save_changes: 'Tallenna muutokset'
+    search_users: 'Hae käyttäjiä'
+    security: Arvopaperi
+    settings: Asetukset
+    sign_up: Kiinnittää
+    start_a_discussion: 'Aloita keskustelu'
+    username: Käyttäjänimi
+    users: Käyttäjät
+    view: Näkymä
+    write_a_reply: 'Kirjoita vastaus...'
+    you: Sinä
+  group:
+    admin: Admin
+    admins: Ylläpitäjät
+    guest: Vieras
+    guests: Vieraat
+    member: Jäsen
+    members: Jäsenet
+    mod: Tapa
+    mods: Modit
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Kaikki tunnisteet'
+      meta_title_text: Tunnisteet
+    choose_tags:
+      title: 'Valitse keskustelun tunnisteet'
+    discussion_controls:
+      edit_tags_button: 'Muokkaa tunnisteita'
+    header:
+      back_to_tags_tooltip: 'Takaisin tunnisteluetteloon'
+    index:
+      more_link: Enemmän...
+      untagged_link: Merkitsemätön
+      tags_link: Tunnisteet
+    composer_discussion:
+      choose_tags_link: 'Valitse Tunnisteet'
+  lib:
+    deleted_tag_text: Poistaa
+    tag_selection_modal:
+      bypass_requirements: 'Ohita tagia koskevat vaatimukset'
+      submit_button: OKEI
+      title: 'Valitse Tunnisteet'
+  ref:
+    choose_tags: 'Valitse Tunnisteet'
+    name: Nimi
+    tags: Tunnisteet
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Käyttäjän, ryhmän tai viestin mainitseminen'
+    mentioned_by:
+      title: 'Vastaukset tähän viestiin'
+      load_more_button: 'Lataa lisää'
+    post:
+      quote_button: Siteerata
+      reply_link: Vastaus
+      you_text: Sinä
+    settings:
+      notify_post_mentioned_label: 'Joku vastaa johonkin julkaisuuni'
+      notify_user_mentioned_label: 'Joku mainitsee minut viestissä'
+      notify_group_mentioned_label: 'Joku mainitsee julkaisussa ryhmän, jonka jäsen olen.'
+    user:
+      mentions_link: Mainitsee
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Lopeta seuraaminen'
+      unignore_button: Herra
+      follow_button: Seurata
+    settings:
+      follow_after_reply_label: 'Seuraa automaattisesti keskusteluja, joihin vastaan'
+      notify_for_all_posts_label: 'Ilmoita jokaisesta uudesta viestistä keskustelun viimeisen viestin sijaan'
+      notify_new_post_label: 'Joku kirjoittaa seuraamaani keskusteluun'
+    sub_controls:
+      following_text: 'Saat tiedon kaikista vastauksista.'
+      ignoring_text: 'Älä koskaan saa ilmoitusta. Piilota keskusteluluettelosta.'
+      not_following_button: 'Ei seuraa'
+      not_following_text: 'Saat ilmoituksen vain, kun @mentioned.'
+      notify_alert_tooltip: 'Keskustelualueen ilmoituksen saaminen, kun uusia viestejä on'
+      notify_email_tooltip: 'Sähköpostiviestin saaminen, kun uusia viestejä on'
+      follow_button: Seurata
+      following_button: Seuraava
+      ignoring_button: Ohitetaan
+    badge:
+      following_tooltip: Seuraava
+      ignoring_tooltip: Ohitetaan
+    following:
+      meta_title_text: Seuraava
+    index:
+      following_link: Seuraava
+  ref:
+    follow: Seurata
+    following: Seuraava
+    ignoring: Ohitetaan
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Kiitos, että liputit tämän viestin. Moderaattorimme tutkivat asiaa.'
+      reason_inappropriate_label: Sopimaton
+      reason_inappropriate_text: 'Tämä julkaisu on loukkaava, loukkaava tai <a>rikkoo yhteisömme sääntöjä</a>.'
+      reason_missing_message: 'Anna joitakin tietoja moderaattoreillemme.'
+      reason_off_topic_label: 'Aiheen vierestä'
+      reason_off_topic_text: 'Tämä viesti ei liity nykyiseen keskusteluun, ja se olisi siirrettävä muualle.'
+      reason_other_label: 'Muu (täsmennettävä)'
+      reason_spam_label: Roskaposti
+      reason_spam_text: 'Tämä viesti on mainos.'
+      dismiss_button: OKEI
+      submit_button: 'Liputa posti'
+      title: 'Liputa posti'
+    flagged_posts:
+      empty_text: 'Ei lippuja'
+      title: 'Merkityt viestit'
+      tooltip: 'Merkityt viestit'
+    post:
+      dismiss_flag_button: 'Hylkää lippu'
+    post_controls:
+      flag_button: Lippu
+  ref:
+    flag_post: 'Liputa posti'
+    flagged_posts: 'Merkityt viestit'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Sinut on hyllytetty määräämättömäksi ajaksi'
+      user_unsuspended_text: 'Sinut on keskeytetty'
+    suspension_info:
+      dismiss_button: Erottaa
+      indefinite: 'Tämä on toistaiseksi voimassa oleva keskeytys'
+      title: 'Tämä tili on jäädytetty'
+    suspend_user:
+      display_message: 'Näytä viesti käyttäjälle'
+      indefinitely_label: 'Keskeytetty määräämättömäksi ajaksi'
+      limited_time_days_text: ' Päivää'
+      limited_time_label: 'Keskeytetty rajoitetuksi ajaksi...'
+      not_suspended_label: 'Ei keskeytetty'
+      placeholder_optional: Valinnainen
+      reason: 'Keskeyttämisen syy'
+      status_heading: 'Jäädytyksen tila'
+      submit_button: 'Tallenna muutokset'
+    user_badge:
+      suspended_tooltip: Keskeytyksissä
+    user_controls:
+      suspend_button: Keskeyttää
+  email:
+    no_reason_given: 'Keskeyttämiselle ei annettu mitään syytä.'
+    suspended:
+      subject: 'Tilisi on jäädytetty'
+    unsuspended:
+      subject: 'Tilisi jäädytys on poistettu'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Kaikki käyttäjän lataamat tiedostot.', anonymize_description: 'Poistaa käyttäjäviitteen ladatuista tiedostoista. Itse tiedostot ovat edelleen sellaisten käyttäjien käytettävissä, jotka voivat tarkastella niitä ennen anonymisointia.', delete_description: 'Poistaa kaikki käyttäjän lataamat tiedostot.' }
+      tagsubscription: { export_description: 'Vie tunnisteen tilaustason tiedot, jos sellainen on olemassa.', anonymize_description: 'Poistaa käyttäjän -tunnisteen tilauksen.' }
+      followuser: { export_description: 'Vie seurattujen ja seuraavien käyttäjien tiedot.', delete_description: 'Poistaa kaikki seuraaviin käyttäjiin liittyvät tiedot.', anonymize_description: 'Poistaa kaikki seuraaviin käyttäjiin liittyvät tiedot.' }
+      bannedipdata: { export_description: 'Jos käyttäjään liittyy IP-estotietue (eli IP-osoite on estänyt käyttäjän), käyttäjän IP-osoite sisällytetään vientiin yhdessä kiellon syyn ja luontipäivämäärän kanssa.', anonymize_description: 'Kaikki käyttäjään linkitetyt IP-osoitteet irrotetaan, mutta itse IP pysyy kiellettynä syyn kanssa. Varmista, että syykenttään ei tallenneta henkilötietoja.' }
+fof-upload:
+  forum:
+    media_manager: Mediapäällikkö
+    buttons:
+      attach: Liittää
+      upload: 'Lähettää tiedosto'
+      upload_shared: Jaettu
+      user_uploads: 'Käyttäjien lataukset'
+      cancel: Perua
+      media: 'Oma media'
+      shared_media: 'Jaettu media'
+    states:
+      error: Virhe
+      loading: Lataaminen
+      unauthorized: 'Et saa ladata tiedostoja'
+    text_preview:
+      expand: 'Laajenna esikatselu'
+      collapse: 'Kutista esikatselu'
+      error: "Virhe tiedoston esikatselussa. Se on ehkä poistettu tai annettu tiedostotunnus on virheellinen.\n"
+      no_snippet_preview: '<esikatselu näkyy täällä lähettämisen jälkeen>'
+      no_snippet: '<Esikatselukatkelma ei ole käytettävissä>'
+  api:
+    upload_errors:
+      forbidden_type: 'Tämän tyyppisten tiedostojen lataaminen ei ole sallittua.'
+      could_not_detect_mime: 'Tämän tiedoston MIME-tyyppiä ei voitu tunnistaa, yritä uudelleen.'
+      max_upload_file_size_ini: 'Latauksen enimmäistiedostokokorajoitus saavutettu vuodesta php.ini.'
+      max_upload_file_size_form: 'Lataa tiedoston enimmäiskokorajoitus saavutetaan lomakkeesta.'
+      partial_upload: 'Osittainen lataus.'
+      no_file_uploaded: 'Tiedostoa ei ole ladattu.'
+      no_upload_tmp_folder: 'Ei tmp-kansiota tiedostojen lataamiseen.'
+      cannot_write_to_disk: 'Levylle ei voi kirjoittaa.'
+      upload_blocked_by_php_extension: 'Php-laajennus esti latauksen.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Uusi jaettu tiedosto'
+      dropzone: 'Vedä ja pudota tiedostot tähän tai selaa napsauttamalla'
+      hide-from-media-gallery: 'Piilota käyttäjän mediavalikoimasta'
+      upload: 'Lähettää tiedosto'
+    file_list:
+      loading: 'Ladataan tiedostoja...'
+      empty: 'Näytettäviä tiedostoja ei ole.'
+      release_to_upload: 'Vapauta ladattavaksi'
+      modal_empty_desktop: 'Tiedostoluettelo on tyhjä. Napsauta painiketta tai vedä tiedosto tähän ladataksesi.'
+      modal_empty_phone: 'Tiedostoluettelo on tyhjä. Napauta yllä olevaa painiketta ladataksesi tiedoston.'
+      load_more_files_btn: 'Lataa lisää tiedostoja'
+      hide_file: { hide_success: 'Tiedosto piilotettu', show_success: 'Tiedosto näytetään', loading: 'Tiedoston piilottaminen...' }
+      hide_shared_file: { hide_success: 'Yksityiseksi tehty tiedosto', show_success: 'Tiedosto julkistettu', loading: 'Tiedoston muuttaminen yksityiseksi...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: kirjoittivat
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Lihavoidun tekstin lisääminen'
+      code_tooltip: 'Lisää koodi'
+      header_tooltip: 'Ylätunnistetekstin lisääminen'
+      image_tooltip: 'Lisää kuva'
+      italic_tooltip: 'Kursivoidun tekstin lisääminen'
+      link_tooltip: 'Linkin lisääminen'
+      ordered_list_tooltip: 'Numeroidun luettelon lisääminen'
+      quote_tooltip: 'Tarjouksen lisääminen'
+      spoiler_tooltip: 'Lisää spoileri'
+      strikethrough_tooltip: 'Yliviivatun tekstin lisääminen'
+      unordered_list_tooltip: 'Luettelomerkeillä varustetun luettelon lisääminen'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Joku luo keskustelun seuraamaani tunnisteeseen'
+      notify_new_post_label: 'Joku julkaisee seuraamassani tunnisteessa'
+      notify_new_discussion_tag_label: 'Joku merkitsee keskustelun uudelleen seuraamaani tunnisteeseen'
+    index:
+      follow_tag_button: Seurata
+      unfollow_tag_button: 'Lopeta seuraaminen'
+      following: { following_none_label: 'Seurasi keskusteluja', following_tags_label: 'Seuratut tunnisteet' }
+    badge:
+      following_tag_tooltip: Seuraava
+      lurking_tag_tooltip: Piilee
+    sub_controls:
+      following_text: 'Saat ilmoituksen kaikista uusista keskusteluista.'
+      hiding_text: 'Piilota keskustelut Kaikki keskustelut -sivulta.'
+      ignoring_text: 'Älä koskaan saa ilmoitusta.'
+      lurking_text: 'Saat tiedon kaikista uusista keskusteluista ja vastauksista.'
+      not_following_button: 'Ei seuraa'
+      not_following_text: 'Saat ilmoituksen vain, kun @mentioned.'
+      notify_alert_tooltip: 'Foorumi-ilmoituksen saaminen, kun uusia keskusteluja tai viestejä on'
+      notify_email_tooltip: 'Saat sähköpostiviestin, kun uusia keskusteluja tai viestejä on'
+      submit_button: 'Vahvista tilaus'
+      follow_button: Seurata
+      following_button: Seuraava
+      hiding_button: Salailu
+      ignoring_button: Ohitetaan
+      lurking_button: Piilee
+    user:
+      settings: { heading: 'Seuraa tunnisteita', filter_label: 'Oletuksena seuraavalla sivulla näytettävät asiat' }
+  ref:
+    follow: Seurata
+    following: Seuraava
+    hiding: Salailu
+    ignoring: Ohitetaan
+    lurking: Piilee
+    filtering_options:
+      none: 'Seurasi keskusteluja'
+      tags: 'Seuratut tunnisteet'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Tämä lempinimi on virheellinen. Ota yhteyttä foorumin ylläpitäjään saadaksesi lisätietoja lempinimisäännöistä.'
+  ref:
+    change_nickname: 'Vaihda lempinimi'
+    nickname: Lempinimi
+  forum:
+    change_nickname:
+      submit_button: 'Tallenna muutokset'
+      title: 'Vaihda lempinimi'
+    edit_user:
+      nicknames_heading: 'Vaihda lempinimi'
+      nicknames_text: Lempinimi
+    settings:
+      change_nickname_button: 'Vaihda lempinimi'
+    sign_up:
+      nickname_placeholder: Lempinimi
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Linkitetyt tilit', last-used-label: 'Viimeksi käytetty', link-created-label: 'Linkki luotu', orphaned-account: 'Olet kirjautunut sisään tämän palveluntarjoajan kautta aiemmin, mutta tämä foorumi on poistanut kirjautumisen käytöstä tällä menetelmällä sen jälkeen.', help: 'Näiden linkitettyjen tilien avulla voit kirjautua foorumille muiden palveluntarjoajien kautta.' } }
+    signup:
+      username_help: 'Valitse käyttäjänimi, jonka haluat tuntea täällä'
+    unlink: 'Poista linkki'
+    error:
+      bad_verification_code: 'Virheellinen tai vanhentunut vahvistustunnus. Yritä uudelleen.'
+      invalid_state: 'Virheellinen tila. Yritä uudelleen.'
+    providers:
+      discord: Eripura
+      facebook: Facebookissa
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Sirkuttaa
+  lib:
+    providers:
+      discord: Eripura
+      facebook: Facebookissa
+      github: GitHub
+      gitlab: GitLab
+      twitter: Sirkuttaa
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'Sovelluksen tunnus'
+      app_secret: 'Sovelluksen salaisuus'
+      client_id: 'Asiakkaan tunnus'
+      client_secret: 'Asiakkaan salaisuus'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Kirjaudu sisään toisena käyttäjänä'
+      placeholder_optional: '(Valinnainen) Kerro syy, miksi vaihdat tähän käyttäjään'
+      placeholder_required: 'Sinun on annettava syy vaihtaa tähän käyttäjään ennen jatkamista'
+    user_controls:
+      impersonate_button: 'Kirjaudu käyttäjänä'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Yksityinen keskustelu' }
+    buttons:
+      add_recipients: Vastaanottajat
+      submit: OKEI
+      edit_recipients: 'Muokkaa vastaanottajia'
+      cancel: Perua
+      make_public: 'Tee tästä keskustelusta julkinen'
+      remove_from_discussion: 'Jätä tämä yksityinen keskustelu'
+    composer_private_discussion:
+      submit_button: 'Lähetä yksityinen keskustelu'
+      title_placeholder: 'Yksityisen keskustelun otsikko'
+    confirm:
+      make_public: 'Haluatko varmasti poistaa vastaanottajat ja tehdä tämän keskustelun näkyväksi kaikille, jotka voivat tarkastella määritettyä tunnistetta?'
+    nav:
+      start_button: 'Keskustele yksityisesti'
+      nav_item: 'Yksityiset keskustelut'
+    input:
+      search_recipients: 'Hae vastaanottajaa kirjoittamalla kolme ensimmäistä merkkiä...'
+    search:
+      headings: { groups: Käyttöoikeusryhmät }
+    modal:
+      titles: { add_recipients: 'Vastaanottajien lisääminen keskusteluun' }
+      labels: { selected_users: 'Valitut käyttäjät', search_field: 'Hae käyttäjää' }
+      help: { add_recipients: 'Tämä keskustelu näkyy vain täällä valitsemillesi käyttäjille. Vähintään 1 vastaanottaja (muu kuin sinä itse) vaaditaan.', update_recipients: 'Tämä keskustelu näkyy vain täällä valitsemillesi käyttäjille.', selected_users: 'Poista käyttäjän nimi klikkaamalla häntä.', click_user_to_remove_tooltip: 'Poista napsauttamalla' }
+    user:
+      settings: { block_pd: 'Yksityisten keskustelujen estäminen' }
+      byobu_link: 'Yksityiset keskustelut'
+      dropdown_label: 'Yksityiset keskustelut'
+    notifications:
+      pd_label: 'Joku ottaa minut mukaan uuteen yksityiseen keskusteluun'
+      pd_reply_label: 'Joku kirjoittaa yksityiseen keskusteluun, jonka vastaanottaja olen'
+      pd_user_left_label: 'Vastaanottajakäyttäjä poistuu yksityisestä keskustelusta, johon osallistun'
+      pd_added_label: 'Joku lisää minut olemassa olevaan yksityiseen keskusteluun'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Merkin tiedot'
+    all_badges: 'Katso kaikki merkit'
+    all_users: 'Näytä kaikki käyttäjät'
+    give_badge: 'Anna merkki'
+    update_badge: Päivitä-merkki
+    select_badge: 'Valitse merkki'
+    user_has_badge: 'Käyttäjällä on jo tämä merkki.'
+    user_no_badges: 'Tällä käyttäjällä ei ole vielä merkkejä.'
+    no_received: 'Kukaan käyttäjä ei ole ansainnut tätä merkkiä.'
+    save_changes: 'Tallenna muutokset'
+    badge:
+      badge: Arvomerkki
+      badges: Merkit
+      name: 'Merkin nimi'
+      description: 'Merkin kuvaus'
+      earning_reason: 'Merkin ansaitsemisen syy'
+      update_earning_reason: 'Päivitä ansainnan syy'
+      no_earning_reason: 'Ansainnan syytä ei ole määritetty'
+      earned_on: 'Ansaittu merkki'
+      category: 'Merkin luokka'
+      badge_details: 'Merkin tiedot'
+    badges_in_card:
+      title: 'Merkit käyttäjäkortissa'
+      manage_badges: 'Osaamismerkkien hallinta'
+      description: 'Voit vaihtaa käyttäjäkorttisi näkyvät merkit johonkin muuhun merkkiin. Jos et valitse mitään, ne valitaan automaattisesti.'
+    moderation:
+      remove_badge: 'Poista merkki käyttäjältä'
+      remove_badge_confirm: 'Haluatko varmasti poistaa tämän merkin tältä käyttäjältä?'
+      give_badge: 'Anna merkki'
+    notification:
+      title: 'Olet saanut uuden merkin'
+      settings: 'Olen saanut merkin'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Kurja tila'
+      not_miserable_label: 'Ei kurja'
+      indefinitely_label: 'Kurja loputtomiin'
+      limited_time_label: 'Kurja rajoitetun ajan...'
+      limited_time_days_text: ' Päivää'
+      submit_button: 'Tallenna muutokset'
+    user_badge:
+      miserable_user_tooltip: 'Kurja käyttäjä'
+    user_controls:
+      miserable_user_button: 'Kurja käyttäjä'
+  ref:
+    miserable_user: 'Kurja käyttäjä'
+sycho-profile-cover:
+  forum:
+    cover: Kansi
+    edit_cover: 'Muokkaa kantta'
+    added:
+      success: 'Profiilin kansi päivitetty.'
+      error: 'Kuvaa ei voitu ladata.'
+    removed:
+      success: 'Profiilin kansi poistettu.'
+      error: 'Kansi ei voitu poistaa, yritä myöhemmin uudelleen.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Kopioi leikepöydälle'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Viimeiset vierailijat', guest: Vieras }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: Maakoodi
+    saveButton: Säästää
+    clickToSelectCountry: 'Valitse maasi'
+    countrySaved: 'Maa pelastettiin onnistuneesti!'
+    field_placeholder: 'Vahvista maiden liput'
+    binding_country: 'Huomasimme, että et ole sitonut olinpaikkaasi. Linkitä ensin maasi. Voit lähettää ja jättää viestejä vasta maasi linkittämisen jälkeen.'
+    binding_country_click: 'Klikkaa nyt'
+username-blacklist:
+  forum:
+    modal-title: Varoitus!
+    modal-body-first-line: 'Varoitus - <strong>Järjestelmänvalvoja on estänyt</strong> tämän käyttäjänimen'
+    modal-body-second-line: 'Valitse toinen käyttäjänimi, joka ei riko yhteisösääntöjämme, ja yritä uudelleen.'
+  admin:
+    blackList: 'Mustalla listalla oleva käyttäjänimi'
+    blackList-help: 'Kirjoita tähän käyttäjätunnus, jonka haluat estää rekisteröinnin aikana (erotettu pilkulla)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Synopsis, show-summaries: 'Näytä ote kustakin keskustelusta keskusteluluetteloissa (pöytäkone/tabletti)', show-summaries-mobile: 'Näytä ote kustakin keskustelusta keskusteluluetteloissa (mobiili)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Foorumin toiminta'
+      forum_new_discussions: 'Foorumin uudet keskustelut'
+      discussion_last_posts: 'Tämä keskustelu'
+      user_last_posts: 'Tämän käyttäjän viestit & kommentit'
+    feeds:
+      titles: { main_subtitle: 'Foorumin viimeiset viestit', main_d_subtitle: 'Foorumin uusimmat keskustelut', discussion_subtitle: 'Tämän keskustelun viimeiset viestit', user_subtitle: 'Tämän käyttäjän viimeisimmät viestit & kommentit.' }
+    discussion:
+      feed_link: Ruokkia
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Seurannut
+    profile_page:
+      no_following: 'Näyttää siltä, ettet seuraa ketään.'
+    settings:
+      notify_new_follower_label: 'Joku seuraa minua'
+      notify_new_unfollower_label: 'Joku lakkaa seuraamasta minua'
+      notify_new_discussion_label: 'Joku, jota seuraan, aloittaa keskustelun'
+      notify_new_post_label: 'Joku, jota seuraan olemassa olevan keskustelun viesteissä'
+      block_follow: 'Estä käyttäjiä seuraamasta minua'
+    badge:
+      label: { follow: 'Keskustelujen jälkeen', lurk: 'Seuraavat kaikki' }
+    filter:
+      following: 'Seuratut käyttäjät'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Seuraa tasoja', follow_select_label: 'Seuraa tyyppiä', no_user_attr_provided_err: 'Voi, jotain meni pieleen avattaessa tätä modaalia.', no_user_attr_provided_err_debug: 'Mitään user-määritettä ei välitetty SelectFollowUserLevel-modaaliin, kun se luotiin. Modaalia ei voi renderöidä.', save_btn: Säästää, cancel_btn: Perua }
+    profile_link: 'Seuratut käyttäjät'
+    user_controls:
+      follow_button: Seurata
+      unfollow_button: 'Lopeta seuraaminen'
+      change_button: 'Vaihda seurantatyyppi'
+    index:
+      follow_tag_button: Seurata
+      unfollow_tag_button: 'Vaihda seurantatyyppi'
+  email:
+    new_follower_subject: '[Seuraa käyttäjää] Sinulla on uusi seuraaja!'
+  lib:
+    following_link: 'Seuratut käyttäjät'
+    follow: Seurata
+    change_follow_type: 'Vaihda seurantatyyppi'
+    unfollow: 'Lopeta seuraaminen'
+    follow_levels:
+      unfollow: { name: 'Älä seuraa' }
+      follow: { name: 'Seuraa keskusteluja' }
+      lurk: { name: 'Seuraa kaikkia' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Varmista, että tämä pyydetty nimimerkin muutos noudattaa foorumin ohjeita.', decision_title: Päätös, approval_label: Hyväksyä, rejected_label: Hylätä, submit_button: Alistua, reason_title: 'Hylkäyksen syy', success: 'Päätös lähetetty.', title: 'Lempinimen muutospyyntö' }
+      results: { title: 'Lempinimen muutospyyntö', approved: 'Lempinimen muutospyyntösi on hyväksytty', rejected: 'Lempinimen muutospyyntösi hylättiin', resubmit: 'Tällä hetkellä voit halutessasi lähettää uuden lempinimen muutospyynnön uudelleen tilisi asetuksista.', dismiss_button: OKEI }
+      request: { title: 'Pyydä lempinimen muutosta', submit_button: 'Lähetä pyyntö', delete_button: 'Poista pyyntö', confirmation_message: 'Lempinimen muutospyyntösi on lähetetty ja odottaa hyväksyntää.', deleted: 'Nimimerkkipyyntö poistettu.', dismiss_button: OKEI }
+    username_modals:
+      action: { help_text: 'Varmista, että tämä pyydetty käyttäjänimen muutos noudattaa foorumin ohjeita.', decision_title: Päätös, approval_label: Hyväksyä, rejected_label: Hylätä, submit_button: Alistua, reason_title: 'Hylkäyksen syy', success: 'Päätös lähetetty.', title: 'Käyttäjänimen muutospyyntö' }
+      results: { title: 'Käyttäjänimen muutospyyntö', approved: 'Käyttäjänimen muutospyyntösi on hyväksytty', rejected: 'Käyttäjänimen muutospyyntösi hylättiin', resubmit: 'Tällä hetkellä voit halutessasi lähettää uuden käyttäjänimen muutospyynnön uudelleen tilisi asetuksista.', dismiss_button: OKEI }
+      request: { title: 'Pyydä käyttäjänimen vaihtoa', submit_button: 'Lähetä pyyntö', delete_button: 'Poista pyyntö', confirmation_message: 'Käyttäjänimesi muutospyyntö on lähetetty ja odottaa hyväksyntää.', deleted: 'Käyttäjänimipyyntö poistettu.', dismiss_button: OKEI }
+    pending_requests:
+      empty_text: 'Nimenmuutospyyntöjä ei löytynyt.'
+      tooltip: Nimenmuutospyynnöt
+      title: Nimenmuutospyynnöt
+    settings:
+      nickname_request_button: 'Vaihda lempinimi'
+      username_request_button: 'Vaihda käyttäjänimi'
+    user:
+      name_history_link: 'Nimen historia'
+  ref:
+    name_change_request: Nimenmuutospyyntö
+    name_change_requests: Nimenmuutospyynnöt
+    nickname_change_request: 'Lempinimen muutospyyntö'
+    nickname_change_requests: 'Lempinimen muutospyynnöt'
+    username_change_request: 'Käyttäjänimen muutospyyntö'
+    username_change_requests: 'Käyttäjänimen muutospyynnöt'
+  email:
+    body:
+      noReasonProvided: 'Syytä ei ilmoitettu.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Kirjoita jotain itsestäsi'
+    profile:
+      cancel_confirm: 'Haluatko varmasti peruuttaa elämäsi muokkaamisen? Menetät kaikki tekemäsi muutokset.'
+      cancel_button: Perua
+      save_button: Säästää
+      edit_bio_label: 'Muokkaa biota'
+fof-split:
+  forum:
+    split:
+      from: 'Jaa tästä'
+      to: 'Jaa tähän'
+      cancel: 'Peruuta jako'
+    modal:
+      title: 'Jaettu keskustelu'
+      new_discussion_label: 'Määritä uuden keskustelun otsikko'
+      submit_button: Split
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Sosiaalisen median painikkeiden muokkaaminen'
+      add: 'Lisää painikkeita sosiaaliseen mediaan'
+      headtitle: 'Muokkaa painikkeita'
+      title: Nimike
+      url: URL
+      submit: Säästää
+      delete: Poistaa
+      deletetitle: Poista-painike
+      save_disabled_fetching_favicons: 'Yksi tai useampi kuvake haetaan. Ole hyvä ja odota.'
+      favicon: Favicon
+      grey_favicon: 'Harmaa Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Jakaa
+      share_dropdown_accessible_label: 'Vaihda keskustelun jakamisen avattava valikko'
+    modal:
+      title: Jakaa
+      copy_button: Kopioida
+  lib:
+    networks:
+      facebook: Facebookissa
+      twitter: Sirkuttaa
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Sähke
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Minun maailmani'
+      qq: QQ
+      qzone: QZone
+      native: 'Alkuperäinen osuus'
+fof-recaptcha:
+  forum:
+    error: 'ReCAPTCHA-kuvavarmennuksen lähettämisessä tapahtui virhe. Yritä uudestaan.'
+    unknown_error: 'Tapahtui tuntematon virhe. Tarkista captcha ja yritä uudelleen.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Et voi käyttää tätä reaktiota juuri nyt, päivitä sivu'
+    warning: 'Reaktiosi kääntyi'
+    settings:
+      notify_post_reacted_label: 'Joku reagoi yhteen viesteistäni'
+    reacting-own-post: 'Et voi reagoida omaan viestiisi'
+    modal:
+      title: Reaktioita
+      no_reactions: 'Ei vielä reaktioita'
+    mod_item: 'Näytä reaktiot'
+    react_button_label: Reagoida
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Kuvan rajaajan lataaminen epäonnistui.', generic_resize: 'Jokin meni pieleen rajattaessa ja muutettaessa kuvan kokoa.', get_image_data: 'Rajaus epäonnistui. Varmista, että selaimesi sormenjälkisuojaus on poistettu käytöstä.' }
+      help_text: "Kuvan lataus voi epäonnistua, jos selaimesi tietosuoja-asetukset ovat erittäin tiukat. Jos sinulla on ongelmia, kokeile poistaa sormenjälkisuojaus käytöstä. Muussa tapauksessa voit joko <disableResize>poistaa rajatun kuvan pakkaamisen käytöstä</disableResize> tai <disableCrop>poistaa rajauksen kokonaan käytöstä</disableCrop>.\n"
+      submit_button: 'Lähettää tiedosto'
+      submit_crop_button: 'Rajaa ja lataa'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'On hyvin todennäköistä, että siitä ei tarvitse enää keskustella, joten sen törmäämisestä ei ole mitään hyötyä.', checkbox_label: 'Olen tietoinen siitä, että tämä keskustelu on melko vanha, mutta haluaisin silti vastata.', error: 'Tämä keskustelu on liian vanha vastattavaksi.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Sinulla ei ole äänioikeutta'
+    poll_ended: 'Tämä kysely on päättynyt.'
+    public_poll: 'Näytä äänestäjät'
+    composer_discussion:
+      add_poll: 'Lisää kysely'
+      edit_poll: 'Muokkaa kyselyä'
+    modal:
+      add_title: 'Lisää kysely'
+      add_option_label: 'Lisää vaihtoehto'
+      edit_title: 'Muokkaa kyselyä'
+      include_question: 'Sinun on sisällytettävä kysymys'
+      max: 'Sinulla voi olla enintään 10 vastausta'
+      min: 'Sinun on sisällytettävä vähintään 2 vastausta'
+      no_voters: 'Ei ääniä'
+      option_placeholder: Vastata
+      image_option_placeholder: 'Kuvan URL-osoite (valinnainen)'
+      options_label: Vastauksia
+      public_poll_label: 'Anna ihmisten nähdä, kuka äänesti'
+      allow_multiple_votes_label: 'Salli ihmisten äänestää useita vaihtoehtoja'
+      max_votes_label: 'Enimmäisäänet käyttäjää kohden'
+      max_votes_help: 'Valitse arvoksi 0, jos haluat, että käyttäjät voivat äänestää kaikkia vaihtoehtoja.'
+      question_placeholder: Kysymys
+      submit: Alistua
+    moderation:
+      delete: 'Poista kysely'
+      delete_confirm: 'Haluatko varmasti poistaa tämän kyselyn?'
+      edit: 'Muokkaa kyselyä'
+    tooltip:
+      badge: Mielipidemittaus
+    votes_modal:
+      title: Äänestäjät
+fof-nightmode:
+  ref:
+    auto: 'Automaattinen (selaimen tai laitteen asetusten perusteella)'
+    light: Päivä-tila
+    dark: Yötila
+  forum:
+    header:
+      nightmode_button: Yötila
+    user:
+      settings: { heading: Teema, description: 'Valitse keskustelupalstalla käytettävä väriteema.', description2: 'Tämä teema linkitetään tiliisi ja koskee kaikkia laitteitasi, ellet vaihda alla olevaa kytkintä laitekohtaisia asetuksia varten.', device_specific_setting_checkbox: 'Käytä laitekohtaisia asetuksia', device_specific_setting_checkbox_tooltip: 'Teemavalintasi tallennetaan erikseen jokaiselle laitteellesi.', auto_unsupported: 'Selaimesi ei tue automaattista tummaa tilaa.', option_descriptions: { auto: 'Teemasi valitaan automaattisesti selaimesi tai laitteesi asetusten perusteella. Jos esimerkiksi tumma tila on käytössä iOS:ssä, myös foorumit ovat tummia.', day: 'Klassinen kokemus, johon olet tottunut. Rakastettu ja testattu.', night: 'Olet vähän yökyöpeli. Valvot foorumia yöllä, kun linnut nukkuvat ja ketut metsästävät. Tai pidät vain tummemmista väreistä!' }, options: { auto: 'Automaattinen (selaimen tai laitteen asetusten perusteella)', day: Päivä-tila, night: Yötila } }
+    day: Päivä-tila
+    night: Yötila
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Tyhjä lappu ei ole sallittu.'
+    moderatorNotes:
+      add_button: 'Uusi huomautus'
+      create-heading: 'Uuden valvojan huomautuksen luominen'
+      dismiss_button: Valmis
+      noNotes: 'Näyttää siltä, että täällä ei ole muistiinpanoja.'
+      submit_button: 'Tallenna muistiinpano'
+      delete: Poistaa
+      confirm: 'Haluatko varmasti poistaa tämän huomautuksen?'
+    user:
+      notes: 'Moderaattorin huomautukset'
+  api:
+    no_reason_provided: 'Syytä ei ilmoitettu'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Ääntä
+    vote_title: 'Näytä kuka äänesti'
+    nav:
+      name: Rankingissa
+    ranking:
+      rank: Paikka
+      name: Käyttäjä
+      amount: Pistettä
+    notification:
+      prefrences: { vote: 'Kun jokin viesteistäni on ylös/alas äänestetty' }
+    user:
+      votes_link: Ääntä
+    modal:
+      downvotes_label: 'Äänestäjät alaspäin:'
+      title: Äänestäjät
+      upvotes_label: 'Äänestäjät:'
+    mod_item: 'Näytä äänestäjät'
+    voters:
+      none: 'Ei vielä äänestäjiä'
+      label: Äänestäjät
+      label_none: 'Ei äänestäjiä'
+    post:
+      upvote_button: 'Äänestä viesti'
+      downvote_button: Downvote-viesti
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Ajoitetut luonnokset on tällä hetkellä poistettu käytöstä asetuksissa.'
+  ref:
+    schedule_draft: 'Aikataulu luonnos'
+  forum:
+    composer:
+      title: 'Tallenna luonnos'
+      saving: Säästäminen...
+      saved: Pelastettu!
+      exit_alert: 'Hylkäätkö luonnokseen tehdyt muutokset?'
+      discard_empty_draft_alert: 'Hylkää tyhjä luonnos?'
+    dropdown:
+      empty_text: 'Et ole tallentanut luonnoksia'
+      title: Luonnokset
+      delete_all_button: 'Kaikkien luonnosten poistaminen'
+      delete_button: 'Poista luonnos'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Haluatko varmasti poistaa luonnoksesi?'
+      delete_all_alert: 'Haluatko varmasti poistaa kaikki luonnoksesi?'
+      schedule_button: 'Aikataulu luonnos'
+      tooltip: Luonnokset
+    schedule_draft_modal:
+      text: 'Ajoita luonnoksesi julkaistavaksi automaattisesti myöhemmin!'
+      unschedule_button: 'Poista aikataulu'
+      unschedule_warning: 'Haluatko varmasti poistaa tämän luonnoksen ajoituksen?'
+      reschedule_button: Siirtää
+      schedule_button: Aikataulu
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Virheellinen päivämäärä ja/tai kellonaika'
+      title: 'Aikataulu luonnos'
+    user:
+      settings: { drafts_heading: Luonnokset, draft_autosave_enable: 'Ota luonnoksen automaattinen tallennus käyttöön?', draft_autosave_interval_label: 'Automaattisen tallennuksen aikaväli (sekuntia)', draft_autosave_interval_button: Päivitysväli, draft_autosave_interval_invalid: 'Aikavälin on oltava suurempi kuin 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Vastasi
+    this_best_answer: 'Valitse paras vastaus'
+    remove_best_answer: 'Poista valinta Paras vastaus'
+    best_answer_button: 'Paras vastaus'
+    errors:
+      mismatch: 'Valittua viestiä ei ole tässä keskustelussa.'
+    notification:
+      content: 'Valitse paras vastaus, jos kysymykseesi on vastattu'
+      preferences: { awarded_best_answer: 'Joku asettaa viestini parhaaksi vastaukseksi', best_answer_in_discussion: 'Paras vastaus on keskustelussa, johon osallistuin', select_best_answer: 'Automaattinen muistutus parhaan vastauksen valitsemisesta aloittamassani keskustelussa' }
+    index:
+      ask_question: 'Esitä kysymys'
+      cannot_ask_question: 'Kysymystä ei voi esittää'
+      solved_link: 'Ratkaistut keskustelut'
+      unsolved_link: 'Ratkaisemattomat keskustelut'
+    filter:
+      all_label: 'Kaikki kysymykset'
+      solved_label: 'Ratkaistut kysymykset'
+      unsolved_label: 'Ratkaisemattomat kysymykset'
+      accessible_label: 'Ratkaistu/ratkaisematon valinta'
+    composer:
+      titlePlaceholder: 'Kysymyksen otsikko'
+    search:
+      discussions_solutions_heading: 'Keskustelut ratkaisuista'
+    discussion:
+      jump_to_best_answer_button: 'Katso paras vastaus'
+  email:
+    subject:
+      select: 'Oletko onnistunut saamaan kysymykseesi vastauksen?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Parhaat vastaukset'
+      least_best_answers: 'Vähiten parhaat vastaukset'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Ketään muuta ei kielletä'
+    user_badge:
+      banned_tooltip: Kielletty
+    ban_ip_button: 'Estä IP'
+    unban_ip_button: 'Poista IP-kielto'
+    user_controls:
+      ban_button: Kielto
+      unban_button: 'Poista kielto'
+  error:
+    banned_ip_message: 'Valtuutus epäonnistui.'
+    no_ips_found_message: 'Käyttäjälle ei löytynyt IP-osoitteita.'
+  lib:
+    modal:
+      check_button: Tarkistaa
+      save_button: Säästää
+      ban_ip_confirmation: 'Haluatko varmasti estää tämän IP-osoitteen käytön foorumilla? Tämä estää käyttäjiä, joilla on nämä IP-osoitteet, kirjautumasta sisään ja rekisteröitymästä.'
+      unban_ip_confirmation: 'Haluatko varmasti poistaa tämän käyttäjän ja kaikki muut käyttäjät, joita muut IP-osoitteet eivät ole kieltäneet?'
+      unban_ip_no_users: 'Kenenkään muun porttikieltoa ei poisteta'
+      title: 'Estä IP-osoitteet'
+      unban_title: 'Poista IP-osoitteet'
+      address_label: IP-osoite
+      reason_label: Syy
+      ban_button: Kielto
+      unban_button: 'Poista kielto'
+  ref:
+    ban_label: Kielto
+    ban_ip_addresses: 'Estä IP-osoitteet'
+    ban_ip_button: 'Estä IP'
+    unban_label: 'Poista kielto'
+    unban_ip_addresses: 'Poista IP-osoitteet'
+    unban_ip_button: 'Poista IP-kielto'
+    address_label: IP-osoite
+    reason_label: Syy
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Rekisteröinnin tiedot löytyvät roskapostinestotietokannasta, joten rekisteröintisi on estetty.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Keskustelujen poistaminen'
+      hard_delete_discussions_help: 'Tämä poistaa pysyvästi kaikki tämän käyttäjän aloittamat keskustelut. Kun se on poistettu käytöstä, keskustelut piilotetaan.'
+      hard_delete_posts_label: 'Viestien poistaminen'
+      hard_delete_posts_help: 'Tämä poistaa pysyvästi kaikki tämän käyttäjän tekemät viestit (kommentit, vastaukset jne.). Kun se on poistettu käytöstä, viestit piilotetaan sen sijaan.'
+      hard_delete_user_label: 'Poista käyttäjä'
+      hard_delete_user_help: 'Tämä poistaa käyttäjän pysyvästi. Kun käyttäjä on poistettu käytöstä, hänet keskeytetään.'
+      intro: 'Kun käyttäjä merkitään roskapostittajaksi, suoritetaan useita toimia, jotka riippuvat foorumillasi saatavilla olevista laajennuksista.'
+      move_discussions_tag_label: 'Keskustelujen siirtäminen karanteeniin asetettuun tunnisteeseen'
+      move_discussions_tag_help: 'Tämä siirtää kaikki tämän käyttäjän aloittamat keskustelut foorumin asetuksissa määrittämääsi tunnisteeseen. Kun se on poistettu käytöstä, keskustelut jätetään nykyisiin tunnisteisiinsa.'
+      process_button: Prosessi
+      report_to_sfs_label: 'Ilmoita StopForumRoskapostille'
+      report_to_sfs_help: 'Tämä raportoi käyttäjän perustiedot (käyttäjätunnus, sähköpostiosoite, IP-osoite) StopForumSpamille. Tämä auttaa estämään käyttäjää rekisteröitymästä muille foorumeille, jotka käyttävät StopForumSpam palvelua.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Palauta keskustelunäyttökertojen määrä'
+      submit: Alistua
+      label: 'Aseta näyttökerraksi'
+    discussion_controls:
+      resetviews_button: 'Näyttökertojen määrän määrittäminen'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Tahmea
+      sticky_button: Tahmea
+    badge:
+      sticky_tooltip: Tahmea
+  ref:
+    sticky: Tahmea
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Lukittu
+    discussion_controls:
+      lock_button: Lukko
+      unlock_button: Avata
+    settings:
+      notify_discussion_locked_label: 'Joku lukitsee aloittamani keskustelun'
+flarum-likes:
+  forum:
+    post:
+      like_link: Kaltainen
+      unlike_link: Erilainen
+      you_text: Sinä
+    post_likes:
+      title: 'Käyttäjät, jotka pitävät tästä'
+      load_more_button: 'Lataa lisää'
+    settings:
+      notify_post_liked_label: 'Joku tykkää yhdestä julkaisustani'
+    user:
+      likes_link: Tykkää
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Lisää emoji'
+      type_to_search_text: 'Kirjoita etsiäksesi emojia'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Sisältösi on liian suuri, lue julkaisemista koskevat ohjeemme' }
+dhtml-persona:
+  forum:
+    persona: Henkilö
+dhtml-leaderboard:
+  forum:
+    leaderboard: Tulostaulukko
+dhtml-gender:
+  forum:
+    male: Mies
+    female: Naispuolinen
+    other: 'Mieluummin ei sano'
+    inputGender: Sukupuoli
+    saveButton: Säästää
+    clickToSelectGender: 'Valitse sukupuolesi'
+    genderSaved: 'Sukupuoli pelastettiin onnistuneesti!'
+    field_placeholder: 'Vahvista sukupuoli'
+    binding_gender: 'Huomasimme, että ette ole asettaneet sukupuoltanne. Aseta sukupuolesi etusijalle. Voit julkaista ja jättää viestejä vasta sukupuolen määrittämisen jälkeen.'
+    binding_gender_click: 'Klikkaa nyt'
+flarum-content-pages:
+  forum:
+    home: Koti
+    about-us: 'Tietoja meistä'
+    guidelines: Ohjeisto
+    privacy-policy: Tietosuojakäytäntö
+    terms-of-use: Käyttöehdot
+    contact-us: 'Ota yhteyttä'
+    download-app: 'Lataa sovellus'
+    discord-chat: Discord-chat
+    tags-cloud: 'Tunnisteet pilvi'
+    languages: Kielet
+    leaderboard: Tulostaulukko
+    live: 'Live Live Live Live'
+    live-coding: 'Live Code'
+    challenges: Haasteita
+    dev-challenges: 'Dev haasteet'
+    jobs: Työpaikat
+    community: Yhteisöyhteisö
+    dev-jobs: 'Dev Työpaikat'
+    job-posting: 'Job Posting'
+    job-postings: Työpaikkailmoitukset
+    workshops: Workshopit
+    dev-workshops: 'Dev työpajoja'
+    events: Tapahtumat
+    conferences: Konferenssit
+    event-conferences: Tapahtumat/konferenssit
+    showcase: Näyttely
+    tags: Tunnisteet
+    more: 'Lisää enemmän'
+    memberships: Jäsenet
+    members: Jäsenet
+    general-discussion: Yleiskeskustelu
+    technology-articles: 'Teknologian artikkeleita'
+    coding-challenges: 'Koodaa haasteita'
+    q-a: Q/A-osasto
+    artificial-intelligence: 'Keinotekoinen älykkyys'
+    computer-science: Tietokonetiede
+    programming-languages: Ohjelmointikielet
+    development-tools: Kehitystyökalut
+    software-development: Ohjelmistokehitys
+    frontend-development: 'Etusivu Kehitys'
+    backend-development: Taustakehitys
+    software-engineering: Ohjelmistotekniikka
+    cybersecurity: Kyberturvallisuus
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Merkkien laskuri'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Muokkaa syntymäaikaa'
+      date_of_birth_text: Syntymäpäivämäärä
+      submit_button: 'Tallenna muutokset'
+    settings:
+      change_dob_label: 'Muuta syntymäaikaa'
+      show_dob_date_label: 'Näytä syntymäpäivä ja -kuukausi'
+      show_dob_year_label: 'Näytä syntymävuosi'
+      show_dob_year_help: 'Näin ihmiset näkevät ikäsi.'
+      dob_heading: Syntymäpäivämäärä
+    nav:
+      nav_item: 'Tämän päivän syntymäpäivät'
+    edit_user:
+      dob_heading: Syntymäpäivämäärä
+    sign_up:
+      dob_placeholder: Syntymäpäivämäärä
+  api:
+    invalid_dob_message: 'Virheellinen syntymäaika'
+  ref:
+    date_of_birth: Syntymäpäivämäärä
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: Emoji-valitsin
+    search_placeholder: Etsiä...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Muokkaa tekijää ja päivämäärää'
+    modal:
+      title-post: 'Muokkaa viestin kirjoittajaa ja päivämäärää'
+      title-discussion: 'Muokkaa keskustelun tekijää ja päivämäärää'
+      user: Tekijä
+      created_at: 'Luomisen aika'
+      edited_at: 'Muokkaa aikaa'
+      sync-with-discussion: 'Synkronoi keskustelun kanssa'
+      sync-with-post: 'Synkronointi ensimmäisen viestin kanssa'
+      sync-impossible: 'Ensimmäistä viestiä ei löydy. Kokeile vierittää keskustelun alkuun.'
+      submit: Säästää
+      cancel: Perua
+    search:
+      placeholder: 'Hae käyttäjiä'
+      type-more: 'Kirjoita 3 merkkiä etsiäksesi tietokannasta'
+      no-results: 'Ei tuloksia'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'RTF-tilan vaihtaminen'
+      insert_button: Insertti
+      insert_image: { src_placeholder: Linkki, title_placeholder: Nimike }
+      insert_link: { text_placeholder: Tekstiviesti, href_placeholder: URL, title_placeholder: 'Otsikko (näkyy hiiren osoittimella)', remove_button: Poistaa }
+      additional_items_tooltip: Lisäsäätimet
+      code_block_tooltip: 'Koodilohkon lisääminen'
+      horizontal_rule_tooltip: 'Vaakasuuntaisen säännön lisääminen'
+      image_tooltip: 'Lisää kuva'
+      link_tooltip: 'Linkin lisääminen'
+      spoiler_block_tooltip: 'Estä spoileri/avattava valikko'
+      strike_tooltip: 'Yliviivaus <alt-shift-5>'
+      text_type_tooltip: 'Valitse tekstityyppi'
+  forum:
+    settings:
+      composer_heading: Säveltäjä
+      use_rich_text_editor_label: 'Käytätkö RTF-editoria?'
+      rich_text_compact_paragraphs_label: 'Älä erota kappaleita uudella rivillä.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Push-ilmoitukset ovat käytössä, mutta et ole määrittänyt tätä laitetta.'
+      optin_button: Konfiguroida
+    discussion_controls:
+      share_button: Jakaa
+    post_controls:
+      share_button: Jakaa
+    user_controls:
+      share_button: Jakaa
+    settings:
+      push_header: Työntää
+      pwa_notifications: { access_default: 'Selainrajoitusten vuoksi sinun on otettava käyttöön push-ilmoitusten vastaanottaminen tällä laitteella.', access_default_button: 'Ilmoittaudu mukaan', access_denied: 'Sinun on säädettävä selaimesi asetuksia, jotta saat push-ilmoituksia tällä laitteella.', access_denied_button: 'Lue lisää', no_browser_support: 'Tämä selain ei tue progressiivisten verkkosovellusten push-ilmoituksia.', no_browser_support_button: 'Opi lisää' }
+  views:
+    offline:
+      header: 'Verkkoyhteyden virhe'
+      text: 'Tämä sovellus vaatii verkkoyhteyden; Sitä ei voi käyttää offline-tilassa. Tarkista yhteytesi.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Varoita käyttäjää'
+    user:
+      warnings: 'Moderaattorin varoitukset'
+    settings:
+      warning_notification_label: 'Moderaattori varoittaa minua'
+    validation:
+      public_comment_required: 'Eniten annat julkisen kommentin.'
+      invalid_strike_count: 'Lakkojen lukumäärän on oltava kokonaisluku väliltä 0–5.'
+    warning_controls:
+      delete_button: Poistaa
+      restore_button: Palauttaa
+      delete_forever_button: 'Poista pysyvästi'
+    warning_list:
+      add_button: 'Uusi varoitus'
+      no_warnings: 'Näyttää siltä, että täällä ei ole varoituksia.'
+      warnings_no_strikes: 'Moderaattorivaroitukset: Varoituksia ei saatu'
+    warning_list_item:
+      public_comment: Varoitus
+      private_comment: 'Moderaattorin näkyvät kommentit'
+      linked_post: 'Linkitetty viesti'
+    warning_modal:
+      confirmation_message: 'Varoituksesi on tallennettu. Sinun on ehkä päivitettävä sivu, jotta näet sen.'
+      strikes_heading: 'Kuinka monta lakkoa tulisi soveltaa?'
+      submit_button: 'Tallenna varoitus'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Muokkaa vastausmallia'
+    reply_template:
+      title: 'Muokkaa vastausmallia'
+      submit_button: 'Tallenna vastausmalli'

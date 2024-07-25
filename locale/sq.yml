@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Fjalëkalimi që keni hyrë është i pasaktë.'
+      confirm_password_placeholder: 'Konfirmo fjalëkalimin'
+      dismiss_button: 'Në rregull'
+      submit_button: 'Ruaj ndryshimet'
+      title: 'Ndrysho emailin'
+    change_password:
+      send_button: 'Dërgo fjalëkalimin e rivendosjes së emailit'
+      text: 'Kliko butonin më poshtë dhe kontrollo emailin tënd për një lidhje për të ndryshuar fjalëkalimin tënd.'
+      title: 'Ndrysho fjalëkalimin'
+    composer:
+      close_tooltip: Afër
+      exit_full_screen_tooltip: 'Ekrani i plotë i daljes'
+      full_screen_tooltip: 'Ekrani i plotë'
+      minimize_tooltip: Minimizoni
+      preview_tooltip: 'Pamje paraprake'
+    composer_discussion:
+      body_placeholder: 'Shkruaj një postim...'
+      discard_confirmation: 'Ju nuk e keni postuar diskutimin tuaj. Dëshiron ta hedhësh?'
+      submit_button: 'Post Diskutimi'
+      title_placeholder: 'Titulli i diskutimit'
+      title: 'Fillo një diskutim'
+    composer_edit:
+      discard_confirmation: 'Ju nuk i keni ruajtur ndryshimet tuaja. Dëshiron t''i hedhësh?'
+      edited_message: 'Editimi juaj është bërë.'
+      submit_button: 'Ruaj ndryshimet'
+      view_button: Shfaq
+    composer_reply:
+      discard_confirmation: 'Ju nuk e keni postuar përgjigjen tuaj. Dëshiron ta hedhësh?'
+      posted_message: 'Përgjigja juaj u postua.'
+      submit_button: 'Post Përgjigje'
+      body_placeholder: 'Shkruaj një përgjigje...'
+      view_button: Shfaq
+    discussion_controls:
+      cannot_reply_button: 'Nuk mund të përgjigjem'
+      cannot_reply_text: 'Ju nuk keni leje për t''iu përgjigjur këtij diskutimi.'
+      delete_confirmation: 'Je i sigurt që dëshiron ta fshish këtë diskutim?'
+      log_in_to_reply_button: 'Regjistrohu për t''u përgjigjur'
+      toggle_dropdown_accessible_label: 'Toggle discussion actions dropdown menu'
+      delete_button: Fshije
+      delete_forever_button: 'Fshije përgjithmonë'
+      rename_button: Riemërto
+      reply_button: Përgjigje
+      restore_button: Rivendosja
+    discussion_list:
+      empty_text: 'Duket sikur këtu nuk ka diskutime.'
+      load_more_button: 'Ngarko më shumë'
+    forgot_password:
+      email_sent_message: 'Nëse emaili që keni shkruar është regjistruar me këtë sit, do t''ju dërgojmë një email që përmban një lidhje për të rivendosur fjalëkalimin tuaj. Kontrolloni kartelën tuaj spam nëse nuk e merrni brenda minutës së ardhshme ose dy.'
+      not_found_message: 'Nuk ka përdorues të regjistruar me atë adresë elektronike.'
+      submit_button: '_Rimerr fjalëkalimin'
+      text: 'Shkruaj adresën email dhe do t''ju dërgojmë një lidhje për të rivendosur fjalëkalimin tuaj.'
+      title: '_Harro fjalëkalimin'
+      dismiss_button: 'Në rregull'
+      email_placeholder: Email
+    header:
+      admin_button: Administrata
+      back_to_index_tooltip: 'Kthehuni në listën e diskutimeve'
+      locale_dropdown_accessible_label: 'Ndrysho lokalin e forumit'
+      profile_button: Profili
+      search_clear_button_accessible_label: 'Kërkesa e qartë e kërkimit'
+      search_placeholder: 'Kërko Forum'
+      search_role_label: 'Kërko Forum'
+      session_dropdown_accessible_label: 'Menuja e zbritjes së opsioneve të sesionit'
+      log_in_link: Hyr
+      log_out_button: 'Log Out'
+      settings_button: Rregullimet
+      sign_up_link: Regjistrohu
+    index:
+      cannot_start_discussion_button: 'Nuk mund të fillojë diskutimin'
+      mark_all_as_read_confirmation: 'Je i sigurt që dëshiron t''i shënosh të gjitha diskutimet siç lexohen?'
+      refresh_tooltip: Rifresko
+      toggle_sidenav_dropdown_accessible_label: 'Menuja e zbritjes së lundrimit'
+      all_discussions_link: 'Të gjitha diskutimet'
+      mark_all_as_read_tooltip: 'Shënoni të gjithë si të lexuar'
+      meta_title_text: 'Të gjitha diskutimet'
+      start_discussion_button: 'Fillo një diskutim'
+    index_sort:
+      latest_button: 'Të fundit'
+      newest_button: 'Më e reja'
+      oldest_button: 'Më i vjetri'
+      relevance_button: Rëndësia
+      toggle_dropdown_accessible_label: 'Ndrysho renditjen e listave të diskutimeve'
+      top_button: Sipër
+      hot_button: Trending
+      votes_button: Upvotes
+      front_button: 'Faqja e parë'
+      popular_button: Popullore
+      unpopular_button: Jopopullore
+    log_in:
+      forgot_password_link: 'Harrova fjalëkalimin?'
+      invalid_login_message: 'Detajet tuaja të hyrjes ishin të pasakta.'
+      remember_me_label: 'Më kujto mua.'
+      sign_up_text: 'Nuk ke llogari? <a>Regjistrohu</a>'
+      username_or_email_placeholder: 'Emri i përdoruesit ose emaili'
+      password_placeholder: Fjalëkalimi
+      submit_button: Hyr
+      title: Hyr
+    notifications:
+      delete_all_confirm: 'Je i sigurt që dëshiron të fshish të gjitha njoftimet? Ky veprim nuk është i kthyeshëm'
+      delete_all_tooltip: 'Fshini të gjitha njoftimet'
+      empty_text: 'Asnjë njoftim'
+      mark_as_read_tooltip: 'Shëno si të lexuar'
+      toggle_dropdown_accessible_label: 'Shfaq njoftimet'
+      mark_all_as_read_tooltip: 'Shënoni të gjithë si të lexuar'
+      title: Notifications
+      tooltip: Notifications
+    post:
+      edited_text: Edituar
+    post_controls:
+      delete_confirmation: 'Je i sigurt që dëshiron ta fshish këtë postim përgjithmonë? Ky veprim nuk mund të zhbëhet.'
+      hide_confirmation: 'Je i sigurt që dëshiron ta fshish këtë postim?'
+      toggle_dropdown_accessible_label: 'Toggle post kontrollon menunë dropdown'
+      push_to_front_button: 'Shtyje në FrontPage'
+      pull_from_front_button: 'Tërhiqu nga FrontPage'
+      delete_button: Fshije
+      delete_forever_button: 'Fshije përgjithmonë'
+      edit_button: Ndrysho
+      restore_button: Rivendosja
+    post_scrubber:
+      now_link: Tani
+      original_post_link: 'Posta origjinale'
+    post_stream:
+      load_more_button: 'Ngarko më shumë'
+      reply_placeholder: 'Shkruaj një përgjigje...'
+    rename_discussion:
+      title: 'Riemërto diskutimin'
+      submit_button: Riemërto
+    search:
+      discussions_heading: Diskutimet
+      users_heading: Përdoruesit
+    security:
+      cannot_terminate_current_session: 'Nuk mund të përfundojë sesioni aktiv aktual. Log out në vend të kësaj.'
+      created: Krijuar
+      current_active_session: 'Sesioni aktiv aktual'
+      developer_tokens_heading: 'Tokens zhvillues'
+      empty_text: 'Duket sikur nuk ka asgjë për të parë këtu.'
+      global_logout: { heading: 'Global Logout', help_text: 'Pastron sesionin aktual të cookie-ve, ndërpret të gjitha seancat, revokon token e zhvilluesit dhe invalidon çdo konfirmim e-mail ose email reset fjalëkalimi.', log_out_button: 'Log Out' }
+      hide_access_token: 'Fshih token'
+      last_activity: 'Aktiviteti i fundit'
+      new_access_token_modal: { submit_button: 'Krijo token', title_placeholder: Titulli, title: 'Token e re' }
+      revoke_access_token: Revoko
+      sessions_heading: 'Seancat aktive'
+      session_termination_failed: 'Një gabim ndodhi gjatë përfundimit të seancave tuaja.'
+      show_access_token: 'Shfaq token'
+      terminate_all_other_sessions: 'Përfundoni të gjitha seancat e tjera'
+      terminate_session: Përfundoni
+      token_revoked: 'Token revokuar.'
+      token_title_placeholder: /
+      never: Kurrë
+      new_access_token_button: 'Token e re'
+      revoke_access_token_confirmation: 'Je i sigurt që dëshiron të vazhdosh? Ky veprim nuk mund të zhbëhet.'
+      terminate_all_other_sessions_confirmation: 'Je i sigurt që dëshiron të vazhdosh? Ky veprim nuk mund të zhbëhet.'
+      title: Siguria
+    settings:
+      account_heading: Llogaria
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Dikush riemëron një diskutim që fillova'
+      privacy_disclose_online_label: 'Lejoni të tjerët të shohin kur unë jam online'
+      privacy_heading: Privatësia
+      change_email_button: 'Ndrysho emailin'
+      change_password_button: 'Ndrysho fjalëkalimin'
+      notifications_heading: Notifications
+      notify_by_email_heading: Email
+      title: Rregullimet
+    sign_up:
+      log_in_text: 'Tashmë keni një llogari? <a>Hyr</a>'
+      dismiss_button: 'Në rregull'
+      email_placeholder: Email
+      password_placeholder: Fjalëkalimi
+      submit_button: Regjistrohu
+      title: Regjistrohu
+      username_placeholder: 'Emri i përdoruesit'
+    user:
+      avatar_upload_button: Ngarko
+      avatar_upload_tooltip: 'Ngarko një avatar të ri'
+      online_text: 'Në linjë'
+      posts_empty_text: 'Duket sikur nuk ka postime këtu.'
+      avatar_remove_button: Hiq
+      discussions_link: Diskutimet
+      posts_link: Postimet
+      posts_load_more_button: 'Ngarko më shumë'
+      security_link: Siguria
+      settings_link: Rregullimet
+    user_controls:
+      button: Kontrollet
+      delete_confirmation: 'Je i sigurt që dëshiron ta fshish këtë përdorues? Postimet e përdoruesit nuk do të fshihen.'
+      toggle_dropdown_accessible_label: 'Toggle përdoruesi kontrollon menunë dropdown'
+      delete_button: Fshije
+      edit_button: Ndrysho
+    user_email_confirmation:
+      resend_button: 'Resend Konfirmimi Email'
+      sent_message: Dërguar
+    welcome_hero:
+      hide: 'Fshih mesazhin e mirëseardhjes'
+    badge:
+      frontpage_tooltip: 'Shënuar si FrontPage'
+  lib:
+    debug_button: Debug
+    alert:
+      dismiss_a11y_label: 'Shkarko alarmin'
+    badge:
+      hidden_tooltip: Fshehur
+    dropdown:
+      toggle_dropdown_accessible_label: 'Menuja Toggle dropdown'
+    edit_user:
+      activate_button: 'Aktivizo përdoruesin'
+      groups_heading: Grupet
+      set_password_label: 'Vendos fjalëkalimin e ri'
+      nothing_available: 'Nuk ju lejohet të redaktoni këtë përdorues.'
+      email_heading: Email
+      email_label: Email
+      password_heading: Fjalëkalimi
+      password_label: Fjalëkalimi
+      submit_button: 'Ruaj ndryshimet'
+      title: 'Ndrysho përdoruesin'
+      username_heading: 'Emri i përdoruesit'
+      username_label: 'Emri i përdoruesit'
+    error:
+      generic_message: 'Oops! Diçka nuk shkoi mirë. Ju lutem rimbushni faqen dhe provoni përsëri.'
+      generic_cross_origin_message: 'Oops! Diçka nuk shkoi mirë gjatë një kërkese me origjinë të kryqëzuar. Ju lutem rimbushni faqen dhe provoni përsëri.'
+      not_found_message: 'Burimi i kërkuar nuk u gjet.'
+      payload_too_large_message: 'Ngarkesa e kërkesës ishte shumë e madhe.'
+      permission_denied_message: 'Ju nuk keni leje për ta bërë këtë.'
+      rate_limit_exceeded_message: 'Po shkon pak shumë shpejt. Ju lutem provoni përsëri për disa sekonda.'
+      render_failed_message: 'Na vjen keq, ne hasëm një gabim gjatë shfaqjes së kësaj përmbajtjeje. Nëse jeni përdorues, ju lutem provoni përsëri më vonë. Nëse jeni administrator, hidhini një sy skedarëve tuaj të logut Flarum për më shumë informacion.'
+    modal:
+      close: Afër
+    nav:
+      drawer_button: 'Sirtari i hapur i navigimit'
+    loading_indicator:
+      accessible_label: Ngarkimi...
+  views:
+    confirm_email:
+      text: 'Kliko butonin më poshtë për të konfirmuar emailin e llogarisë tënde.'
+      submit_button: 'Konfirmoni emailin'
+      title: 'Konfirmoni emailin'
+    content:
+      javascript_disabled_message: 'Ky sajt shihet më së miri në një shfletues modern me JavaScript të aktivizuar.'
+      load_error_message: 'Diçka nuk shkoi mirë ndërsa përpiqej të ngarkonte versionin e plotë të këtij siti. Përpiquni ta rifreskoni fort këtë faqe për të rregulluar gabimin.'
+      loading_text: Ngarkimi...
+    error:
+      csrf_token_mismatch: 'Ke qenë joaktiv për shumë kohë.'
+      csrf_token_mismatch_return_link: 'Kthehu mbrapa, për të provuar përsëri'
+      invalid_confirmation_token: 'Kjo lidhje konfirmimi tashmë është përdorur ose është e pavlefshme.'
+      not_authenticated: 'Ju nuk keni leje për të hyrë në këtë faqe. Provo përsëri pasi të hysh brenda.'
+      not_found: 'Faqja që kërkuat nuk mund të gjendej.'
+      permission_denied: 'Ju nuk keni leje për të hyrë në këtë faqe.'
+      unknown: 'Një gabim ndodhi gjatë përpjekjes për të ngarkuar këtë faqe.'
+    log_out:
+      log_out_button: 'Log Out'
+      title: 'Log Out'
+    reset_password:
+      confirm_password_label: 'Konfirmoni fjalëkalimin e ri'
+      new_password_label: 'Fjalëkalimi i ri'
+      submit_button: 'Ruaj ndryshimet'
+      title: 'Rivendosni fjalëkalimin tuaj'
+    discussion:
+      next_page_button: 'Faqja tjetër'
+      previous_page_button: 'Faqja e mëparshme'
+    index:
+      all_discussions_heading: 'Të gjitha diskutimet'
+      next_page_button: 'Faqja tjetër'
+      previous_page_button: 'Faqja e mëparshme'
+  api:
+    invalid_username_message: 'Emri i përdoruesit mund të përmbajë vetëm shkronja, numra dhe shenja.'
+  email:
+    activate_account:
+      subject: 'Aktivizoni llogarinë tuaj të re'
+    confirm_email:
+      subject: 'Konfirmoni adresën tuaj të re të postës elektronike'
+    reset_password:
+      subject: 'Rivendosni fjalëkalimin tuaj'
+    send_test:
+      subject: 'Flarum Email Test'
+  ref:
+    all_discussions: 'Të gjitha diskutimet'
+    change_email: 'Ndrysho emailin'
+    change_password: 'Ndrysho fjalëkalimin'
+    color: Ngjyra
+    confirm_password: 'Konfirmo fjalëkalimin'
+    confirm_email: 'Konfirmoni emailin'
+    custom_footer_text: 'Shto HTML për t''u shfaqur në fund të faqes.'
+    custom_footer_title: 'Ndrysho këmbën e personalizuar'
+    custom_header_text: 'Shto HTML për t''u shfaqur në krye të faqes, sipër vetë header-it të Flarum.'
+    custom_header_title: 'Ndrysho header-in e personalizuar'
+    delete: Fshije
+    delete_forever: 'Fshije përgjithmonë'
+    discussions: Diskutimet
+    edit: Ndrysho
+    edit_user: 'Ndrysho përdoruesin'
+    email: Email
+    extensions: Extensions
+    generic_confirmation_message: 'Je i sigurt që dëshiron të vazhdosh? Ky veprim nuk mund të zhbëhet.'
+    icon: Ikona
+    load_more: 'Ngarko më shumë'
+    loading: Ngarkimi...
+    log_in: Hyr
+    log_out: 'Log Out'
+    mark_all_as_read: 'Shënoni të gjithë si të lexuar'
+    never: Kurrë
+    new_token: 'Token e re'
+    next_page: 'Faqja tjetër'
+    notifications: Notifications
+    okay: 'Në rregull'
+    password: Fjalëkalimi
+    posts: Postimet
+    previous_page: 'Faqja e mëparshme'
+    remove: Hiq
+    rename: Riemërto
+    reply: Përgjigje
+    reset_your_password: 'Rivendosni fjalëkalimin tuaj'
+    restore: Rivendosja
+    save_changes: 'Ruaj ndryshimet'
+    search_users: 'Përdoruesit e kërkimit'
+    security: Siguria
+    settings: Rregullimet
+    sign_up: Regjistrohu
+    start_a_discussion: 'Fillo një diskutim'
+    username: 'Emri i përdoruesit'
+    users: Përdoruesit
+    view: Shfaq
+    write_a_reply: 'Shkruaj një përgjigje...'
+    you: Ti
+  group:
+    admin: Admin
+    admins: Adminët
+    guest: Mysafir
+    guests: Mysafirët
+    member: Anëtar
+    members: Anëtarët
+    mod: Mënyra
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Të gjitha Tags'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Zgjidhni Tags për diskutimin tuaj'
+    discussion_controls:
+      edit_tags_button: 'Edit Tags'
+    header:
+      back_to_tags_tooltip: 'Përsëri në listën e etiketave'
+    index:
+      more_link: 'Më shumë...'
+      untagged_link: 'I pashfrytëzuar'
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Zgjidhni Tags'
+  lib:
+    deleted_tag_text: Fshirë
+    tag_selection_modal:
+      bypass_requirements: 'Kërkesat e etiketës së bypass-it'
+      submit_button: 'Në rregull'
+      title: 'Zgjidhni Tags'
+  ref:
+    choose_tags: 'Zgjidhni Tags'
+    name: Emri
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Përmendni një përdorues, grup ose postim'
+    mentioned_by:
+      title: 'Përgjigjet në këtë postim'
+      load_more_button: 'Ngarko më shumë'
+    post:
+      quote_button: Quote
+      reply_link: Përgjigje
+      you_text: Ti
+    settings:
+      notify_post_mentioned_label: 'Dikush i përgjigjet njërit prej postimeve të mia'
+      notify_user_mentioned_label: 'Dikush më përmend në një postim'
+      notify_group_mentioned_label: 'Dikush përmend një grup ku jam anëtar në një postim'
+    user:
+      mentions_link: Përmend
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: Unfollow
+      unignore_button: Unsir
+      follow_button: Ndiq
+    settings:
+      follow_after_reply_label: 'Ndiqni automatikisht diskutimet që unë i përgjigjem'
+      notify_for_all_posts_label: 'Njoftoni për çdo postim të ri në vend të vetëm të fundit në një diskutim'
+      notify_new_post_label: 'Dikush poston në një diskutim që po ndjek'
+    sub_controls:
+      following_text: 'Lajmërohuni për të gjitha përgjigjet.'
+      ignoring_text: 'Kurrë mos u njoftoni. Fshihu nga lista e diskutimeve.'
+      not_following_button: 'Duke mos ndjekur'
+      not_following_text: 'Lajmërohuni vetëm kur @mentioned.'
+      notify_alert_tooltip: 'Merrni një njoftim në forum kur ka postime të reja'
+      notify_email_tooltip: 'Merrni një email kur ka postime të reja'
+      follow_button: Ndiq
+      following_button: 'Në vijim'
+      ignoring_button: Shpërfillja
+    badge:
+      following_tooltip: 'Në vijim'
+      ignoring_tooltip: Shpërfillja
+    following:
+      meta_title_text: 'Në vijim'
+    index:
+      following_link: 'Në vijim'
+  ref:
+    follow: Ndiq
+    following: 'Në vijim'
+    ignoring: Shpërfillja
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Faleminderit që e ndezët këtë postim. Moderatorët tanë do të shikojnë në të.'
+      reason_inappropriate_label: 'E papërshtatshme'
+      reason_inappropriate_text: 'Ky postim është ofendues, abuzues, ose shkel <a>udhëzimet e komunitetit</a> tonë.'
+      reason_missing_message: 'Ju lutemi të jepni disa detaje për moderatorët tanë.'
+      reason_off_topic_label: 'Jashtë temës'
+      reason_off_topic_text: 'Ky postim nuk është relevant për diskutimin aktual dhe duhet të zhvendoset diku tjetër.'
+      reason_other_label: 'Të tjera (ju lutem specifikoni)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Ky postim është një reklamë.'
+      dismiss_button: 'Në rregull'
+      submit_button: 'Posta e Flamurit'
+      title: 'Posta e Flamurit'
+    flagged_posts:
+      empty_text: 'Nuk ka flamuj'
+      title: 'Postimet e shënuara'
+      tooltip: 'Postimet e shënuara'
+    post:
+      dismiss_flag_button: 'Shkarko flamurin'
+    post_controls:
+      flag_button: Flamuri
+  ref:
+    flag_post: 'Posta e Flamurit'
+    flagged_posts: 'Postimet e shënuara'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Ju jeni pezulluar për një kohë të pacaktuar'
+      user_unsuspended_text: 'Ju keni qenë i papenguar'
+    suspension_info:
+      dismiss_button: Shkarko
+      indefinite: 'Ky është një pezullim i pacaktuar'
+      title: 'Kjo llogari është pezulluar'
+    suspend_user:
+      display_message: 'Shfaq mesazhin për përdoruesin'
+      indefinitely_label: 'Pezullohet pafundësisht'
+      limited_time_days_text: ' ditët'
+      limited_time_label: 'Pezullim për një kohë të kufizuar...'
+      not_suspended_label: 'Jo i pezulluar'
+      placeholder_optional: Opsionale
+      reason: 'Arsyeja e pezullimit'
+      status_heading: 'Gjendja e pezullimit'
+      submit_button: 'Ruaj ndryshimet'
+    user_badge:
+      suspended_tooltip: Pezulluar
+    user_controls:
+      suspend_button: Pezullo
+  email:
+    no_reason_given: 'Nuk u dha asnjë arsye për këtë pezullim.'
+    suspended:
+      subject: 'Llogaria juaj është pezulluar'
+    unsuspended:
+      subject: 'Llogaria juaj ka qenë e pashfrytëzuar'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Të gjitha skedarët e ngarkuar nga përdoruesi.', anonymize_description: 'Heq referencën e përdoruesit nga skedarët e ngarkuar. Vetë skedarët mbeten të arritshëm për përdoruesit që mund t''i shohin ato para-anonymizimit.', delete_description: 'Fshin të gjitha skedarët e ngarkuar nga përdoruesi.' }
+      tagsubscription: { export_description: 'Eksporton detaje të nivelit të abonimit për një etiketë, nëse ekziston.', anonymize_description: 'Heq abonimin e përdoruesit në etiketë.' }
+      followuser: { export_description: 'Eksportet detajet e përdoruesve të ndjekur dhe përdoruesit në vijim.', delete_description: 'Fshin të gjitha të dhënat që lidhen me përdoruesit e mëposhtëm.', anonymize_description: 'Fshin të gjitha të dhënat që lidhen me përdoruesit e mëposhtëm.' }
+      bannedipdata: { export_description: 'Nëse një regjistrim i ndalimit të IP-së është i lidhur me një përdorues (pra përdoruesi ishte i ndaluar nga IP), adresa IP e përdoruesit do të përfshihet në eksport, së bashku me arsyen e ndalimit dhe datën e krijimit.', anonymize_description: 'Çdo adresë IP e lidhur me përdoruesin është e zbërthyer, por vetë IP do të mbetet e ndaluar, së bashku me arsyen. Sigurohuni që asnjë e dhënë PII të mos ruhet në fushën e ''arsyes''.' }
+fof-upload:
+  forum:
+    media_manager: 'Menaxheri i medias'
+    buttons:
+      attach: Bashkangjitur
+      upload: Ngarko
+      upload_shared: 'Të ndarë'
+      user_uploads: 'Ngarkimet e përdoruesit'
+      cancel: Anulo
+      media: 'Media ime'
+      shared_media: 'Media e përbashkët'
+    states:
+      error: 'Gabim gjatë gabimit'
+      loading: Ngarkimi
+      unauthorized: 'Nuk ju lejohet të shkarkoni skedarë'
+    text_preview:
+      expand: 'Zgjero pamjen paraprake'
+      collapse: 'Parashtrimi i kolapsit'
+      error: "Gabim në parashtrimin e skedarit. Mund të jetë fshirë, ose ID e dosjes së siguruar është e pavlefshme.\n"
+      no_snippet_preview: '<Preview do të shfaqet këtu pas postimit>'
+      no_snippet: '<Nuk ka pamje paraprake në dispozicion>'
+  api:
+    upload_errors:
+      forbidden_type: 'Ngarkimi i skedarëve të këtij lloji nuk lejohet.'
+      could_not_detect_mime: 'I pamundur zbulimi i llojit MIME të këtij skedari, ju lutem provoni përsëri.'
+      max_upload_file_size_ini: 'Ngarko limitin max filesize të arritur nga php.ini.'
+      max_upload_file_size_form: 'Ngarko limitin max filesize të arritur nga forma.'
+      partial_upload: 'Ngarkim i pjesshëm.'
+      no_file_uploaded: 'Asnjë file i ngarkuar.'
+      no_upload_tmp_folder: 'Asnjë kartelë tmp për ngarkimin e skedarëve.'
+      cannot_write_to_disk: 'Nuk mund të shkruaj në disk.'
+      upload_blocked_by_php_extension: 'Një zgjerim php bllokoi ngarkimin.'
+  lib:
+    upload-shared-file-modal:
+      title: 'File i ri i ndarë'
+      dropzone: 'Drag dhe drop fotografi këtu ose klikoni për të shfletuar'
+      hide-from-media-gallery: 'Fshihu nga galeria e mediave të përdoruesit'
+      upload: Ngarko
+    file_list:
+      loading: 'Ngarkimi i skedarëve...'
+      empty: 'Nuk ka dosje për të treguar.'
+      release_to_upload: 'Lëshimi për të ngarkuar'
+      modal_empty_desktop: 'Lista juaj e dosjeve është bosh. Kliko butonin ose zvarrit një skedar këtu për të ngarkuar.'
+      modal_empty_phone: 'Lista juaj e dosjeve është bosh. Shtyp butonin sipër për të ngarkuar një skedar.'
+      load_more_files_btn: 'Ngarko më shumë skedarë'
+      hide_file: { hide_success: 'File i fshehur', show_success: 'File i shfaqur', loading: 'Fshehja e dosjes...' }
+      hide_shared_file: { hide_success: 'File i bërë privat', show_success: 'File i bërë publik', loading: 'Duke e bërë dosjen private...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: shkruar
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Shto tekst të guximshëm'
+      code_tooltip: 'Kodi i futjes'
+      header_tooltip: 'Shto tekstin e header'
+      image_tooltip: 'Shto një imazh'
+      italic_tooltip: 'Shto tekstin italik'
+      link_tooltip: 'Shto një link'
+      ordered_list_tooltip: 'Shto një listë me numra'
+      quote_tooltip: 'Fut një citim'
+      spoiler_tooltip: 'Fut një prishës'
+      strikethrough_tooltip: 'Shto tekstin strikethrough'
+      unordered_list_tooltip: 'Shto një listë me plumba'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Dikush krijon një diskutim në një etiketë që po ndjek'
+      notify_new_post_label: 'Dikush poston në një etiketë që po ndjek'
+      notify_new_discussion_tag_label: 'Dikush ri-tags një diskutim në një tag unë jam duke ndjekur'
+    index:
+      follow_tag_button: Ndiq
+      unfollow_tag_button: 'Ndalo së ndjekuri'
+      following: { following_none_label: 'Diskutimet e ndjekura', following_tags_label: 'Tags ndjekur' }
+    badge:
+      following_tag_tooltip: 'Në vijim'
+      lurking_tag_tooltip: 'Duke u joshur'
+    sub_controls:
+      following_text: 'Të njoftoheni për të gjitha diskutimet e reja.'
+      hiding_text: 'Fshih diskutimet nga faqja e të gjitha diskutimeve.'
+      ignoring_text: 'Kurrë mos u njoftoni.'
+      lurking_text: 'Të njoftoheni për të gjitha diskutimet dhe përgjigjet e reja.'
+      not_following_button: 'Duke mos ndjekur'
+      not_following_text: 'Lajmërohuni vetëm kur @mentioned.'
+      notify_alert_tooltip: 'Merrni një njoftim në forum kur ka diskutime apo postime të reja'
+      notify_email_tooltip: 'Merrni një email kur ka diskutime apo postime të reja'
+      submit_button: 'Konfirmoni abonimin'
+      follow_button: Ndiq
+      following_button: 'Në vijim'
+      hiding_button: Fshehja
+      ignoring_button: Shpërfillja
+      lurking_button: 'Duke u joshur'
+    user:
+      settings: { heading: 'Ndiqni Tags', filter_label: 'Çfarë duhet të tregoni nga default në faqen e mëposhtme' }
+  ref:
+    follow: Ndiq
+    following: 'Në vijim'
+    hiding: Fshehja
+    ignoring: Shpërfillja
+    lurking: 'Duke u joshur'
+    filtering_options:
+      none: 'Diskutimet e ndjekura'
+      tags: 'Tags ndjekur'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Ky pseudonim është i pavlefshëm. Ju lutemi kontaktoni administratorin tuaj të forumit për më shumë informacion mbi rregullat e pseudonimit.'
+  ref:
+    change_nickname: 'Ndrysho pseudonimin'
+    nickname: Pseudonimi
+  forum:
+    change_nickname:
+      submit_button: 'Ruaj ndryshimet'
+      title: 'Ndrysho pseudonimin'
+    edit_user:
+      nicknames_heading: 'Ndrysho pseudonimin'
+      nicknames_text: Pseudonimi
+    settings:
+      change_nickname_button: 'Ndrysho pseudonimin'
+    sign_up:
+      nickname_placeholder: Pseudonimi
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Llogaritë e lidhura', last-used-label: 'Përdorur për herë të fundit', link-created-label: 'Linku i krijuar', orphaned-account: 'Ju keni nënshkruar nëpërmjet këtij ofruesi më parë, por ky forum ka çaktivizuar sign-in me këtë metodë që atëherë.', help: 'Këto llogari të lidhura ju lejojnë të nënshkruani në forum duke përdorur ofruesit e tjerë.' } }
+    signup:
+      username_help: 'Ju lutem zgjidhni një emër përdoruesi për t''u njohur nga këtu'
+    unlink: 'Hiq lidhjen'
+    error:
+      bad_verification_code: 'Shenjë verifikimi e pavlefshme ose e skaduar. Të lutem provoje përsëri.'
+      invalid_state: 'Gjendje e pavlefshme. Të lutem provoje përsëri.'
+    providers:
+      discord: Diskord
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Twitter
+  lib:
+    providers:
+      discord: Diskord
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      twitter: Twitter
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'ID e aplikativit'
+      app_secret: 'App Secret'
+      client_id: 'ID e klientit'
+      client_secret: 'Sekreti i klientit'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Login si një përdorues tjetër'
+      placeholder_optional: '(Opsionale) Jepni arsyen tuaj për kalimin në këtë përdorues'
+      placeholder_required: 'Ju duhet të jepni arsyen tuaj për kalimin në këtë përdorues para se të procedoni'
+    user_controls:
+      impersonate_button: 'Login si përdorues'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Diskutim privat' }
+    buttons:
+      add_recipients: Marrësit
+      submit: 'Në rregull'
+      edit_recipients: 'Modifiko marrësit'
+      cancel: Anulo
+      make_public: 'Bëjeni publik këtë diskutim'
+      remove_from_discussion: 'Lëre këtë diskutim privat'
+    composer_private_discussion:
+      submit_button: 'Post Diskutim privat'
+      title_placeholder: 'Titulli i diskutimit privat'
+    confirm:
+      make_public: 'Jeni të sigurt se doni të hiqni marrësit dhe ta bëni këtë diskutim të dukshëm për këdo që mund të shikojë etiketën e caktuar?'
+    nav:
+      start_button: 'Diskutoni privatisht'
+      nav_item: 'Diskutime private'
+    input:
+      search_recipients: 'Marrësi i kërkimit duke shkruar tre karakteret e para...'
+    search:
+      headings: { groups: 'Grupet e lejeve' }
+    modal:
+      titles: { add_recipients: 'Shto marrësit në diskutimin tënd' }
+      labels: { selected_users: 'Përdoruesit e zgjedhur', search_field: 'Kërko për përdoruesin' }
+      help: { add_recipients: 'Ky diskutim do të jetë i dukshëm vetëm për përdoruesit që zgjidhni këtu. Të paktën 1 marrës (përveç vetes) është i nevojshëm.', update_recipients: 'Ky diskutim do të jetë i dukshëm vetëm për përdoruesit që zgjidhni këtu.', selected_users: 'Kliko emrin e përdoruesit për t''i hequr ato.', click_user_to_remove_tooltip: 'Kliko për të hequr' }
+    user:
+      settings: { block_pd: 'Blloko diskutimet private' }
+      byobu_link: 'Diskutime private'
+      dropdown_label: 'Diskutime private'
+    notifications:
+      pd_label: 'Dikush më përfshin në një diskutim të ri privat'
+      pd_reply_label: 'Dikush poston në një diskutim privat unë jam marrës i'
+      pd_user_left_label: 'Një përdorues marrës lë një diskutim privat unë jam pjesë e'
+      pd_added_label: 'Dikush më shton në një diskutim privat ekzistues'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informacioni i distinktivit'
+    all_badges: 'Shih të gjitha distinktivët'
+    all_users: 'Shiko të gjithë përdoruesit'
+    give_badge: 'Jepi distinktivit'
+    update_badge: 'Distinktivi i azhornimit'
+    select_badge: 'Zgjidh distinktivin'
+    user_has_badge: 'Përdoruesi tashmë e ka këtë distinktiv.'
+    user_no_badges: 'Ky përdorues nuk ka ende asnjë distinktiv.'
+    no_received: 'Asnjë përdorues nuk e ka fituar këtë distinktiv.'
+    save_changes: 'Ruaj ndryshimet'
+    badge:
+      badge: Distinktivi
+      badges: Distinktivët
+      name: 'Emri i distinktivit'
+      description: 'Përshkrimi i distinktivit'
+      earning_reason: 'Arsyeja e fitimit të distinktivit'
+      update_earning_reason: 'Përditësoni arsyen e fitimit'
+      no_earning_reason: 'Asnjë arsye fitimi nuk është caktuar'
+      earned_on: 'Distinktivi i fituar në'
+      category: 'Kategoria e distinktivit'
+      badge_details: 'Detajet e distinktivit'
+    badges_in_card:
+      title: 'Distinktivët në kartën e përdoruesit'
+      manage_badges: 'Menaxho distinktivët'
+      description: 'Ju mund të ndryshoni distinktivët e dukshëm në kartën tuaj të përdoruesit me një nga distinktivët tuaj të tjerë. Nëse nuk zgjidhni asnjë, ato do të zgjidhen automatikisht.'
+    moderation:
+      remove_badge: 'Hiq distinktivin nga përdoruesi'
+      remove_badge_confirm: 'Je i sigurt që dëshiron ta heqësh këtë distinktiv nga ky përdorues?'
+      give_badge: 'Jepi distinktivit'
+    notification:
+      title: 'Ju keni marrë një distinktiv të ri'
+      settings: 'Kam marrë një distinktiv'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Gjendja e mjerueshme'
+      not_miserable_label: 'Jo e mjerueshme'
+      indefinitely_label: 'E mjerueshme pafundësisht'
+      limited_time_label: 'E mjerueshme për një kohë të kufizuar...'
+      limited_time_days_text: ' ditët'
+      submit_button: 'Ruaj ndryshimet'
+    user_badge:
+      miserable_user_tooltip: 'Përdorues i mjerë'
+    user_controls:
+      miserable_user_button: 'Përdorues i mjerë'
+  ref:
+    miserable_user: 'Përdorues i mjerë'
+sycho-profile-cover:
+  forum:
+    cover: Mbulesa
+    edit_cover: 'Ndrysho kopertinën'
+    added:
+      success: 'Kopertina e profilit është përditësuar.'
+      error: 'Imazhi nuk mund të ngarkohej.'
+    removed:
+      success: 'Hiqet mbulesa e profilit.'
+      error: 'E pamundur heqja e mbulesës, provoni përsëri më vonë.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Kopjo në clipboard'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Vizitorët e fundit', guest: Mysafir }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Kodi i vendit'
+    saveButton: Ruaj
+    clickToSelectCountry: 'Zgjidh vendin tënd'
+    countrySaved: 'Vendi shpëtoi me sukses!'
+    field_placeholder: 'Konfirmoni flamujt e vendit'
+    binding_country: 'Ne zbuluam se ju nuk e keni lidhur vendndodhjen tuaj. Ju lutemi lidhni vendin tuaj së pari. Ju mund të postoni dhe të lini mesazhe vetëm pasi të lidhni vendin tuaj.'
+    binding_country_click: 'Kliko tani'
+username-blacklist:
+  forum:
+    modal-title: Paralajmërim!
+    modal-body-first-line: 'Paralajmërim - Ky emër përdoruesi <strong>bllokohet nga administratori</strong>'
+    modal-body-second-line: 'Ju lutem zgjidhni një emër tjetër përdoruesi që nuk thyen udhëzimet e komunitetit tonë dhe provoni përsëri.'
+  admin:
+    blackList: 'Emri i përdoruesit në listën e zezë'
+    blackList-help: 'Shkruani këtu emrin e përdoruesit që dëshironi ta bllokoni gjatë regjistrimit (ndarë nga koma)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Synopsis, show-summaries: 'Shfaq një ekstrakt nga çdo diskutim në listat e diskutimeve (Desktop/Tablet)', show-summaries-mobile: 'Shfaq një ekstrakt nga çdo diskutim në listat e diskutimeve (Mobile)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Aktiviteti i forumit'
+      forum_new_discussions: 'Diskutimet e reja të Forumit'
+      discussion_last_posts: 'Ky diskutim'
+      user_last_posts: 'Postimet dhe komentet nga ky përdorues'
+    feeds:
+      titles: { main_subtitle: 'Postimet e fundit në forum', main_d_subtitle: 'Diskutimet më të reja në forum', discussion_subtitle: 'Mesazhet e fundit në këtë diskutim', user_subtitle: 'Postimet dhe komentet më të fundit nga ky përdorues.' }
+    discussion:
+      feed_link: Feed
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Ndjekur
+    profile_page:
+      no_following: 'Duket sikur nuk po ndjek askënd.'
+    settings:
+      notify_new_follower_label: 'Dikush më ndjek'
+      notify_new_unfollower_label: 'Dikush nuk më ndjek më.'
+      notify_new_discussion_label: 'Dikush që po ndjek fillon një diskutim'
+      notify_new_post_label: 'Dikush që po ndjek postimet në një diskutim ekzistues'
+      block_follow: 'Ndaloni përdoruesit të më ndjekin'
+    badge:
+      label: { follow: 'Pas diskutimeve', lurk: 'Duke ndjekur të gjitha' }
+    filter:
+      following: 'Përdoruesit e ndjekur'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Ndiqni nivelet', follow_select_label: 'Ndiq llojin', no_user_attr_provided_err: 'Oh, diçka nuk shkoi mirë gjatë hapjes së këtij modali.', no_user_attr_provided_err_debug: 'Asnjë atribut ''përdorues'' nuk u kalua në modalin SelectFollowUserLevel kur u krijua. Modal nuk mund të përkthehet.', save_btn: Ruaj, cancel_btn: Anulo }
+    profile_link: 'Përdoruesit e ndjekur'
+    user_controls:
+      follow_button: Ndiq
+      unfollow_button: Unfollow
+      change_button: 'Ndrysho llojin e ndjekjes'
+    index:
+      follow_tag_button: Ndiq
+      unfollow_tag_button: 'Ndrysho llojin e ndjekjes'
+  email:
+    new_follower_subject: '[Ndiq Përdoruesin] Keni një ndjekës të ri!'
+  lib:
+    following_link: 'Përdoruesit e ndjekur'
+    follow: Ndiq
+    change_follow_type: 'Ndrysho llojin e ndjekjes'
+    unfollow: Unfollow
+    follow_levels:
+      unfollow: { name: 'Mos ndiq' }
+      follow: { name: 'Ndiqni diskutimet' }
+      lurk: { name: 'Ndiq të gjitha' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Ju lutem sigurohuni që ky ndryshim i kërkuar i pseudonimit të ndjekë udhëzimet e forumit.', decision_title: Vendimi, approval_label: Miratoni, rejected_label: Refuzoni, submit_button: Parashtro, reason_title: 'Arsyeja e refuzimit', success: 'Vendimi i dërguar.', title: 'Kërkesa për ndryshimin e pseudonimit' }
+      results: { title: 'Kërkesa për ndryshimin e pseudonimit', approved: 'Kërkesa juaj për ndryshimin e pseudonimit është miratuar', rejected: 'Kërkesa juaj për ndryshimin e pseudonimit u refuzua', resubmit: 'Në këtë kohë ju mund të ridërgoni një kërkesë të re të ndryshimit të pseudonimit nga parametrat e llogarisë suaj nëse kështu zgjidhni.', dismiss_button: 'Në rregull' }
+      request: { title: 'Kërko ndryshimin e pseudonimit', submit_button: 'Dërgo kërkesën', delete_button: 'Fshije kërkesën', confirmation_message: 'Kërkesa juaj për ndryshimin e pseudonimit është paraqitur dhe është në pritje të miratimit.', deleted: 'Kërkesa e pseudonimit u fshi.', dismiss_button: 'Në rregull' }
+    username_modals:
+      action: { help_text: 'Ju lutem sigurohuni që ky ndryshim i kërkuar i emrit të përdoruesit të ndjekë udhëzimet e forumit.', decision_title: Vendimi, approval_label: Miratoni, rejected_label: Refuzoni, submit_button: Parashtro, reason_title: 'Arsyeja e refuzimit', success: 'Vendimi i dërguar.', title: 'Kërkesa për ndryshimin e emrit të përdoruesit' }
+      results: { title: 'Kërkesa për ndryshimin e emrit të përdoruesit', approved: 'Kërkesa juaj për ndryshimin e emrit të përdoruesit është miratuar', rejected: 'Kërkesa juaj për ndryshimin e emrit të përdoruesit u refuzua', resubmit: 'Në këtë kohë ju mund të ridërgoni një kërkesë të re të ndryshimit të emrit të përdoruesit nga rregullimet e llogarisë suaj nëse kështu zgjidhni.', dismiss_button: 'Në rregull' }
+      request: { title: 'Kërko ndryshimin e emrit të përdoruesit', submit_button: 'Dërgo kërkesën', delete_button: 'Fshije kërkesën', confirmation_message: 'Kërkesa juaj për ndryshimin e emrit të përdoruesit është paraqitur dhe është në pritje të miratimit.', deleted: 'Kërkesa e emrit të përdoruesit u fshi.', dismiss_button: 'Në rregull' }
+    pending_requests:
+      empty_text: 'Nuk u gjetën kërkesa për ndryshimin e emrit.'
+      tooltip: 'Kërkesat për ndryshimin e emrit'
+      title: 'Kërkesat për ndryshimin e emrit'
+    settings:
+      nickname_request_button: 'Ndrysho pseudonimin'
+      username_request_button: 'Ndrysho emrin e përdoruesit'
+    user:
+      name_history_link: 'Historia e emrit'
+  ref:
+    name_change_request: 'Kërkesa për ndryshimin e emrit'
+    name_change_requests: 'Kërkesat për ndryshimin e emrit'
+    nickname_change_request: 'Kërkesa për ndryshimin e pseudonimit'
+    nickname_change_requests: 'Kërkesat për ndryshimin e pseudonimeve'
+    username_change_request: 'Kërkesa për ndryshimin e emrit të përdoruesit'
+    username_change_requests: 'Kërkesat për ndryshimin e emrit të përdoruesit'
+  email:
+    body:
+      noReasonProvided: 'Asnjë arsye nuk është dhënë.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Shkruaj diçka për veten tënde'
+    profile:
+      cancel_confirm: 'Je i sigurt që dëshiron të anullosh redaktimin e bios tënde? Do të humbasësh çdo ndryshim që ke bërë.'
+      cancel_button: Anulo
+      save_button: Ruaj
+      edit_bio_label: 'Ndrysho bio'
+fof-split:
+  forum:
+    split:
+      from: 'Ndahet nga këtu'
+      to: 'Ndahuni për këtu'
+      cancel: 'Anullo ndarjen'
+    modal:
+      title: 'Diskutim i ndarë'
+      new_discussion_label: 'Specifikoni titullin për diskutimin e ri'
+      submit_button: Ndarja
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Ndrysho butonat e mediave sociale'
+      add: 'Shto butona në mediat sociale'
+      headtitle: 'Ndrysho butonat'
+      title: Titulli
+      url: URL
+      submit: Ruaj
+      delete: Fshije
+      deletetitle: 'Fshini butonin'
+      save_disabled_fetching_favicons: 'Një ose më shumë ikona janë duke u gjetur. Të lutem prit.'
+      favicon: Favicon
+      grey_favicon: 'Favicon gri'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Share
+      share_dropdown_accessible_label: 'Toggle discussion share dropdown menu'
+    modal:
+      title: Share
+      copy_button: Kopjo
+  lib:
+    networks:
+      facebook: Facebook
+      twitter: Twitter
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Telegram
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Bota ime'
+      qq: QQ
+      qzone: QZone
+      native: 'Native Share'
+fof-recaptcha:
+  forum:
+    error: 'Ka pasur një gabim në paraqitjen e reCAPTCHA. Provo përsëri.'
+    unknown_error: 'Ndodhi një gabim i panjohur. Kontrolloni kaptcha dhe provoni përsëri.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Ju nuk mund të përdorni këtë reagim tani, ju lutem rifreskoni faqen'
+    warning: 'Reagimi juaj u konvertua'
+    settings:
+      notify_post_reacted_label: 'Dikush reagon ndaj një prej postimeve të mia'
+    reacting-own-post: 'Ju nuk mund të reagoni ndaj postit tuaj'
+    modal:
+      title: Reagimet
+      no_reactions: 'Ende nuk ka reagime'
+    mod_item: 'Shfaq reagimet'
+    react_button_label: Reagoni
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Dështoi në ngarkimin e korrësit të imazhit.', generic_resize: 'Diçka nuk shkoi mirë gjatë kopjimit dhe ridimensionimit të imazhit.', get_image_data: 'Nuk arriti të korrte. Sigurohuni që mbrojtja e shenjave të gishtërinjve të shfletuesit tuaj të jetë e çaktivizuar.' }
+      help_text: "Ngarkimi i figurës mund të dështojë nëse rregullimet e privatësisë së shfletuesit tuaj janë shumë strikte. Nëse keni probleme, provoni të çaktivizoni mbrojtjen e shenjave të gishtërinjve. Përndryshe, ju ose mund të <disableResize>çaktivizoni kompresimin e imazhit të kromuar</disableResize> ose <disableCrop>të çaktivizoni fare kopjimin</disableCrop>.\n"
+      submit_button: Ngarko
+      submit_crop_button: 'Crop & Upload'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Ka shumë të ngjarë që ajo të mos ketë nevojë për ndonjë diskutim të mëtejshëm dhe kështu përplasja e tij nuk shërben për asnjë qëllim.', checkbox_label: 'Jam i vetëdijshëm se ky diskutim është mjaft i vjetër, por prapë do të doja të përgjigjesha.', error: 'Ky diskutim është tepër i vjetër për t''iu përgjigjur.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Ju nuk keni leje për të votuar'
+    poll_ended: 'Ky sondazh ka marrë fund.'
+    public_poll: 'Shiko votuesit'
+    composer_discussion:
+      add_poll: 'Shto sondazhin'
+      edit_poll: 'Ndrysho sondazhin'
+    modal:
+      add_title: 'Shto një sondazh'
+      add_option_label: 'Shto një opsion'
+      edit_title: 'Ndrysho sondazhin'
+      include_question: 'Ju duhet të përfshini një pyetje'
+      max: 'Ju mund të keni një maksimum prej 10 përgjigjesh'
+      min: 'Ju duhet të përfshini një minimum prej 2 përgjigjesh'
+      no_voters: 'Nuk ka vota'
+      option_placeholder: Përgjigje
+      image_option_placeholder: 'URL image (facultative)'
+      options_label: Përgjigjet
+      public_poll_label: 'Lejoni njerëzit të shohin se kush votoi'
+      allow_multiple_votes_label: 'Lejoni njerëzit të votojnë për opsione të shumëfishta'
+      max_votes_label: 'Max vota për përdorues'
+      max_votes_help: 'Vendosur në 0 për të lejuar përdoruesit të votojnë për të gjitha opsionet.'
+      question_placeholder: Pyetje
+      submit: Parashtro
+    moderation:
+      delete: 'Hiq sondazhin'
+      delete_confirm: 'Je i sigurt që dëshiron ta fshish këtë sondazh?'
+      edit: 'Ndrysho sondazhin'
+    tooltip:
+      badge: Sondazh
+    votes_modal:
+      title: Votuesit
+fof-nightmode:
+  ref:
+    auto: 'Automatik (bazuar në opsionet e shfletuesit ose pajisjes)'
+    light: 'Modaliteti i ditës'
+    dark: 'Modaliteti i natës'
+  forum:
+    header:
+      nightmode_button: 'Modaliteti i natës'
+    user:
+      settings: { heading: Tema, description: 'Zgjidhni cilën temë ngjyrash dëshironi të përdorni në forum.', description2: 'Kjo temë do të lidhet me llogarinë tuaj dhe zbatohet për të gjitha pajisjet tuaja, përveç nëse ju toggle në switch më poshtë për rregullimet e pajisjes.', device_specific_setting_checkbox: 'Përdor për rregullimet e pajisjes', device_specific_setting_checkbox_tooltip: 'Zgjedhja juaj e temës do të ruhet individualisht për secilën nga pajisjet tuaja.', auto_unsupported: 'Shfletuesi juaj nuk suporton modalitetin auto dark.', option_descriptions: { auto: 'Tema juaj do të zgjidhet automatikisht bazuar në parametrat e shfletuesit ose pajisjes suaj. Për shembull, nëse keni modalitetin e errët të aktivizuar në iOS, forumet do të jenë të errëta gjithashtu.', day: 'Përvoja klasike me të cilën je mësuar. I dashur dhe i sprovuar.', night: 'Je pak buf nate. Ju shikoni mbi forum gjatë natës, ndërsa zogjtë janë duke fjetur dhe dhelprat janë duke gjuajtur. Ose thjesht preferoni ngjyrat më të errëta!' }, options: { auto: 'Automatik (bazuar në opsionet e shfletuesit ose pajisjes)', day: 'Modaliteti i ditës', night: 'Modaliteti i natës' } }
+    day: 'Modaliteti i ditës'
+    night: 'Modaliteti i natës'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Një shënim bosh nuk lejohet.'
+    moderatorNotes:
+      add_button: 'Shënim i ri'
+      create-heading: 'Krijo një shënim të ri moderatori'
+      dismiss_button: Kryerja
+      noNotes: 'Duket sikur këtu nuk ka shënime.'
+      submit_button: 'Ruaj shënimin'
+      delete: Fshije
+      confirm: 'Je i sigurt që dëshiron ta fshish këtë shënim?'
+    user:
+      notes: 'Shënimet e moderatorit'
+  api:
+    no_reason_provided: 'Asnjë arsye e dhënë'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Votat
+    vote_title: 'Trego kush votoi'
+    nav:
+      name: Renditjet
+    ranking:
+      rank: Vendi
+      name: Përdoruesi
+      amount: Pikët
+    notification:
+      prefrences: { vote: 'Kur një nga postimet e mia është lart/poshtë votuar' }
+    user:
+      votes_link: Votat
+    modal:
+      downvotes_label: 'Downvoters:'
+      title: Votuesit
+      upvotes_label: 'Upvoters:'
+    mod_item: 'Shiko votuesit'
+    voters:
+      none: 'Ende nuk ka votues'
+      label: Votuesit
+      label_none: 'Nuk ka votues'
+    post:
+      upvote_button: 'Upvote post'
+      downvote_button: 'Posta Downvote'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Draftet e planifikuara janë aktualisht të çaktivizuara në mjedise.'
+  ref:
+    schedule_draft: 'Drafti i orarit'
+  forum:
+    composer:
+      title: 'Ruaj draftin'
+      saving: 'Duke kursyer...'
+      saved: Shpëtuar!
+      exit_alert: 'Të hedhim poshtë ndryshimet në draft?'
+      discard_empty_draft_alert: 'Hidhni draftin bosh?'
+    dropdown:
+      empty_text: 'Ju nuk keni ruajtur asnjë draft'
+      title: Hartimet
+      delete_all_button: 'Fshini të gjitha draftet'
+      delete_button: 'Fshije draftin'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Je i sigurt që dëshiron ta fshish draftin tënd?'
+      delete_all_alert: 'Je i sigurt që dëshiron t''i fshish të gjitha draftet e tua?'
+      schedule_button: 'Drafti i orarit'
+      tooltip: Hartimet
+    schedule_draft_modal:
+      text: 'Programoni draftin tuaj për të postuar automatikisht në një kohë të mëvonshme!'
+      unschedule_button: 'E paplanifikuar'
+      unschedule_warning: 'Je i sigurt që dëshiron ta çaktivizosh këtë draft?'
+      reschedule_button: Ricaktimi
+      schedule_button: Orari
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Data dhe/ose ora e pavlefshme'
+      title: 'Drafti i orarit'
+    user:
+      settings: { drafts_heading: Hartimet, draft_autosave_enable: 'Aktivizoni Projektin Autosave?', draft_autosave_interval_label: 'Autosave Interval (sekonda)', draft_autosave_interval_button: 'Intervali i azhornimit', draft_autosave_interval_invalid: 'Intervali duhet të jetë një integer më i madh se 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Përgjigje
+    this_best_answer: 'Zgjidh përgjigjen më të mirë'
+    remove_best_answer: 'Përgjigja më e mirë e pazgjedhur'
+    best_answer_button: 'Përgjigjja më e mirë'
+    errors:
+      mismatch: 'Posti i zgjedhur nuk ekziston në këtë diskutim.'
+    notification:
+      content: 'Ju lutemi zgjidhni një përgjigje më të mirë nëse pyetjes suaj i është përgjigjur'
+      preferences: { awarded_best_answer: 'Dikush e vendos postimin tim si një përgjigje më të mirë', best_answer_in_discussion: 'Një përgjigje më e mirë është vendosur në një diskutim ku mora pjesë', select_best_answer: 'Një përkujtues i automatizuar për të zgjedhur një përgjigje më të mirë në një diskutim që fillova' }
+    index:
+      ask_question: 'Bëj një pyetje'
+      cannot_ask_question: 'Nuk mund të bëj një pyetje'
+      solved_link: 'Diskutime të zgjidhura'
+      unsolved_link: 'Diskutime të pazgjidhura'
+    filter:
+      all_label: 'Të gjitha pyetjet'
+      solved_label: 'Pyetje të zgjidhura'
+      unsolved_label: 'Pyetje të pazgjidhura'
+      accessible_label: 'Përzgjedhja e zgjidhur/e pazgjidhur'
+    composer:
+      titlePlaceholder: 'Titulli i pyetjes'
+    search:
+      discussions_solutions_heading: 'Diskutime me zgjidhje'
+    discussion:
+      jump_to_best_answer_button: 'Shiko përgjigjen më të mirë'
+  email:
+    subject:
+      select: 'A ia dole të përgjigjesh?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Përgjigjet më të mira'
+      least_best_answers: 'Përgjigjet më të mira më të pakta'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Askush tjetër nuk do të ndalohet'
+    user_badge:
+      banned_tooltip: Ndaluar
+    ban_ip_button: 'Ban IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Ban
+      unban_button: Unban
+  error:
+    banned_ip_message: 'Autorizimi dështoi.'
+    no_ips_found_message: 'Asnjë IP(s) nuk gjendet për përdoruesin.'
+  lib:
+    modal:
+      check_button: Kontrollo
+      save_button: Ruaj
+      ban_ip_confirmation: 'Jeni të sigurt që dëshironi të bllokoni këtë adresë IP nga përdorimi në forum? Kjo do të bllokojë përdoruesit me këtë IP adresë(es) nga hyrja dhe regjistrimi.'
+      unban_ip_confirmation: 'Je i sigurt që dëshiron ta zhbësh këtë përdorues dhe të gjithë përdoruesit e tjerë që nuk janë të ndaluar nga IPS-të e tjera?'
+      unban_ip_no_users: 'Askush tjetër nuk do të jetë i pabanuar'
+      title: 'Ban IP(s)'
+      unban_title: 'Unban IP(s)'
+      address_label: 'Adresa IP'
+      reason_label: Arsyeja
+      ban_button: Ban
+      unban_button: Unban
+  ref:
+    ban_label: Ban
+    ban_ip_addresses: 'Ban IP(s)'
+    ban_ip_button: 'Ban IP'
+    unban_label: Unban
+    unban_ip_addresses: 'Unban IP(s)'
+    unban_ip_button: 'Unban IP'
+    address_label: 'Adresa IP'
+    reason_label: Arsyeja
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Detajet e regjistrimit tuaj janë gjetur në një bazë të dhënash për parandalimin e spamit, prandaj regjistrimi juaj është bllokuar.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Fshi diskutimet'
+      hard_delete_discussions_help: 'Kjo do të fshijë përgjithmonë të gjitha diskutimet e filluara nga ky përdorues. Kur të jenë të paaftë, diskutimet do të fshihen në vend të kësaj.'
+      hard_delete_posts_label: 'Fshi postimet'
+      hard_delete_posts_help: 'Kjo do të fshijë përgjithmonë të gjitha postimet (komente, përgjigje, etj) të bëra nga ky përdorues. Kur të çaktivizohen, postimet do të fshihen në vend të kësaj.'
+      hard_delete_user_label: 'Fshi përdoruesin'
+      hard_delete_user_help: 'Kjo do të fshijë përgjithmonë përdoruesin. Kur është i çaktivizuar, përdoruesi do të pezullohet në vend të kësaj.'
+      intro: 'Kur shënoni një përdorues si spammer, do të ndërmerren disa veprime, të cilat varen nga zgjerimet e disponueshme në forumin tuaj.'
+      move_discussions_tag_label: 'Lëviz diskutimet në etiketën e karantinës'
+      move_discussions_tag_help: 'Kjo do të zhvendosë të gjitha diskutimet e filluara nga ky përdorues në etiketën që specifikuat në rregullimet e forumit. Kur të jenë të paaftë, diskutimet do të lihen në etiketat e tyre aktuale.'
+      process_button: Procesi
+      report_to_sfs_label: 'Raporto tek StopForumSpam'
+      report_to_sfs_help: 'Kjo do të raportojë detajet bazë të përdoruesit (emri i përdoruesit, emaili, adresa IP) në StopForumSpam. Kjo do të ndihmojë që përdoruesi të mos regjistrohet në forume të tjera që përdorin shërbimin StopForumSpam.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Rivendosni numërimin e pamjes së diskutimit'
+      submit: Parashtro
+      label: 'Vendosur për të parë numërimin'
+    discussion_controls:
+      resetviews_button: 'Vendos numërimin e pamjes'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Josticky
+      sticky_button: Ngjitës
+    badge:
+      sticky_tooltip: Ngjitës
+  ref:
+    sticky: Ngjitës
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: 'I kyçur'
+    discussion_controls:
+      lock_button: Kyçu
+      unlock_button: Zhblloko
+    settings:
+      notify_discussion_locked_label: 'Dikush mbyll një diskutim që fillova'
+flarum-likes:
+  forum:
+    post:
+      like_link: Si
+      unlike_link: 'Ndryshe nga'
+      you_text: Ti
+    post_likes:
+      title: 'Përdoruesit që e pëlqejnë këtë'
+      load_more_button: 'Ngarko më shumë'
+    settings:
+      notify_post_liked_label: 'Dikujt i pëlqen një nga postimet e mia'
+    user:
+      likes_link: Likes
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Fut emoji'
+      type_to_search_text: 'Shkruaj për të kërkuar një emoji'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Përmbajtja juaj është shumë e madhe, ju lutemi lexoni udhëzimet tona mbi postimin' }
+dhtml-persona:
+  forum:
+    persona: Personi
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Kryeqëndra e kantonit është'
+dhtml-gender:
+  forum:
+    male: Mashkull
+    female: Femra
+    other: 'Preferoj të mos them'
+    inputGender: Gjinia
+    saveButton: Ruaj
+    clickToSelectGender: 'Zgjidh gjininë tënde'
+    genderSaved: 'Gjinia shpëtoi me sukses!'
+    field_placeholder: 'Konfirmoni gjininë'
+    binding_gender: 'Ne zbuluam se ju nuk e keni vendosur gjininë tuaj. Ju lutem vendosni gjininë tuaj në vend të parë. Ju mund të postoni dhe të lini mesazhe vetëm pas vendosjes së gjinisë suaj.'
+    binding_gender_click: 'Kliko tani'
+flarum-content-pages:
+  forum:
+    home: Shqip
+    about-us: 'Rreth nesh'
+    guidelines: Udhëzimet
+    privacy-policy: 'Politika e privatësisë'
+    terms-of-use: 'Afati i përdorimit'
+    contact-us: 'Na kontaktoni'
+    download-app: 'Shkarko App'
+    discord-chat: 'Chat diskord'
+    tags-cloud: 'Tags Cloud'
+    languages: Gjuhët
+    leaderboard: 'Kryeqëndra e kantonit është'
+    live: Jeto
+    live-coding: 'Koding i gjallë'
+    challenges: Sfidat
+    dev-challenges: 'Sfidat e shkatërrimit'
+    jobs: Punë
+    community: Komuniteti
+    dev-jobs: 'Punët e Dev'
+    job-posting: Puna
+    job-postings: 'Posta pune'
+    workshops: Workshops
+    dev-workshops: 'Dev Workshops'
+    events: Evente
+    conferences: Konferenca
+    event-conferences: 'Ngjarje / konferenca'
+    showcase: Shfaq
+    tags: Tags
+    more: 'Më shumë'
+    memberships: Anëtarët
+    members: Anëtarët
+    general-discussion: 'Diskutim i përgjithshëm'
+    technology-articles: 'Artikuj teknologjie'
+    coding-challenges: 'Sfida të rënda'
+    q-a: 'Zgjedhja Q/A'
+    artificial-intelligence: 'Inteligjenca artificiale'
+    computer-science: 'Shkencë kompjuteri'
+    programming-languages: 'Programimi i gjuhëve'
+    development-tools: 'Mjete zhvillimi'
+    software-development: 'Programet Zhvillimi'
+    frontend-development: 'Zhvillimi ballor'
+    backend-development: Zhvillimi
+    software-engineering: 'Programet Inxhinieri'
+    cybersecurity: 'Siguria në Internet'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Numëruesi i karaktereve'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Ndrysho datën e lindjes'
+      date_of_birth_text: 'Data e lindjes'
+      submit_button: 'Ruaj ndryshimet'
+    settings:
+      change_dob_label: 'Ndryshimi i datës së lindjes'
+      show_dob_date_label: 'Dita e shfaqjes dhe muaji i lindjes'
+      show_dob_year_label: 'Viti i shfaqjes së lindjes'
+      show_dob_year_help: 'Kjo do t''i lejojë njerëzit të shohin moshën tuaj.'
+      dob_heading: 'Data e lindjes'
+    nav:
+      nav_item: 'Ditëlindjet e sotme'
+    edit_user:
+      dob_heading: 'Data e lindjes'
+    sign_up:
+      dob_placeholder: 'Data e lindjes'
+  api:
+    invalid_dob_message: 'Data e pavlefshme e lindjes'
+  ref:
+    date_of_birth: 'Data e lindjes'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Emoji Picker'
+    search_placeholder: Kërko...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Ndrysho autorin dhe datën'
+    modal:
+      title-post: 'Ndrysho autorin e postës dhe datën'
+      title-discussion: 'Ndrysho autorin dhe datën e diskutimit'
+      user: Autori
+      created_at: 'Koha e krijimit'
+      edited_at: 'Ndrysho kohën'
+      sync-with-discussion: 'Sinkronizohuni me diskutimin'
+      sync-with-post: 'Sinkronizoni me postimin e parë'
+      sync-impossible: 'Nuk mund të gjej postimin e parë. Përpiqu të rrotullosh deri në fillim të diskutimit.'
+      submit: Ruaj
+      cancel: Anulo
+    search:
+      placeholder: 'Përdoruesit e kërkimit'
+      type-more: 'Lloji 3 karaktere për të kërkuar bazën e të dhënave'
+      no-results: 'Nuk ka rezultate'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Toggle Rich Text Mode'
+      insert_button: Insert
+      insert_image: { src_placeholder: Linku, title_placeholder: Titulli }
+      insert_link: { text_placeholder: Teksti, href_placeholder: URL, title_placeholder: 'Titulli (tregon në hover)', remove_button: Hiq }
+      additional_items_tooltip: 'Kontrolle shtesë'
+      code_block_tooltip: 'Fut një bllok kodi'
+      horizontal_rule_tooltip: 'Fut rregullin horizontal'
+      image_tooltip: 'Shto një imazh'
+      link_tooltip: 'Shto një link'
+      spoiler_block_tooltip: 'Block Spoiler/Dropdown'
+      strike_tooltip: 'Strikethrough <alt-shift-5>'
+      text_type_tooltip: 'Zgjidh llojin e tekstit'
+  forum:
+    settings:
+      composer_heading: Kompozitor
+      use_rich_text_editor_label: 'Përdor redaktorin e pasur të tekstit?'
+      rich_text_compact_paragraphs_label: 'Mos i ndani paragrafët me newline.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Ju keni aktivizuar njoftimet push, por nuk e keni konfiguruar këtë pajisje.'
+      optin_button: Konfiguro
+    discussion_controls:
+      share_button: Share
+    post_controls:
+      share_button: Share
+    user_controls:
+      share_button: Share
+    settings:
+      push_header: Shtyje
+      pwa_notifications: { access_default: 'Për shkak të kufizimeve të shfletuesit, ju duhet të optoni për të marrë njoftime push në këtë pajisje.', access_default_button: 'Opt In', access_denied: 'Ju duhet të rregulloni parametrat e shfletuesit tuaj për të marrë njoftime push në këtë pajisje.', access_denied_button: 'Mëso si', no_browser_support: 'Ky shfletues nuk mbështet njoftimet push për aplikacionet progresive web.', no_browser_support_button: 'Mëso më shumë' }
+  views:
+    offline:
+      header: 'Gabim i lidhjes së rrjetit'
+      text: 'Ky aplikacion kërkon një lidhje rrjeti; Nuk mund të përdoret jashtë linje. Ju lutem kontrolloni lidhjen tuaj.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Paralajmëro përdoruesin'
+    user:
+      warnings: 'Paralajmërimet e moderatorit'
+    settings:
+      warning_notification_label: 'Një moderator më paralajmëron'
+    validation:
+      public_comment_required: 'Ju më së shumti jepni një koment publik.'
+      invalid_strike_count: 'Numri i grevave duhet të jetë një integer midis 0 dhe 5.'
+    warning_controls:
+      delete_button: Hiq
+      restore_button: Rivendosja
+      delete_forever_button: 'Fshije përgjithmonë'
+    warning_list:
+      add_button: 'Paralajmërim i ri'
+      no_warnings: 'Duket sikur këtu nuk ka paralajmërime.'
+      warnings_no_strikes: 'Paralajmërimet e moderatorit: Nuk ka greva të marra'
+    warning_list_item:
+      public_comment: Paralajmërim
+      private_comment: 'Moderator-Komente të dukshme'
+      linked_post: 'Linked Post'
+    warning_modal:
+      confirmation_message: 'Paralajmërimi juaj është shpëtuar. Mund t''ju duhet ta rifreskoni faqen për ta parë.'
+      strikes_heading: 'Sa greva duhet të zbatohen?'
+      submit_button: 'Ruaj paralajmërimin'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Ndrysho modelin e përgjigjes'
+    reply_template:
+      title: 'Ndrysho modelin e përgjigjes'
+      submit_button: 'Ruaj modelin e përgjigjes'

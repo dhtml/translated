@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Lösenordet du angav är felaktigt.'
+      confirm_password_placeholder: 'Bekräfta lösenord'
+      dismiss_button: OKEJ
+      submit_button: 'Spara ändringar'
+      title: 'Ändra e-postadress'
+    change_password:
+      send_button: 'Skicka e-post för återställning av lösenord'
+      text: 'Klicka på knappen nedan och kontrollera din e-post efter en länk för att ändra ditt lösenord.'
+      title: 'Ändra lösenord'
+    composer:
+      close_tooltip: Stänga
+      exit_full_screen_tooltip: 'Avsluta helskärmsläge'
+      full_screen_tooltip: Helskärm
+      minimize_tooltip: Förringa
+      preview_tooltip: Förhandsvisning
+    composer_discussion:
+      body_placeholder: 'Skriv ett inlägg...'
+      discard_confirmation: 'Du har inte postat din diskussion. Vill du göra dig av med den?'
+      submit_button: 'Publicera diskussion'
+      title_placeholder: 'Diskussionens titel'
+      title: 'Starta en diskussion'
+    composer_edit:
+      discard_confirmation: 'Du har inte sparat ändringarna. Vill du göra dig av med dem?'
+      edited_message: 'Din redigering har gjorts.'
+      submit_button: 'Spara ändringar'
+      view_button: Utsikt
+    composer_reply:
+      discard_confirmation: 'Du har inte postat ditt svar. Vill du göra dig av med den?'
+      posted_message: 'Ditt svar har skickats.'
+      submit_button: 'Skicka svar'
+      body_placeholder: 'Skriv ett svar...'
+      view_button: Utsikt
+    discussion_controls:
+      cannot_reply_button: 'Kan inte svara'
+      cannot_reply_text: 'Du har inte behörighet att svara på den här diskussionen.'
+      delete_confirmation: 'Är du säker på att du vill ta bort den här diskussionen?'
+      log_in_to_reply_button: 'Logga in för att svara'
+      toggle_dropdown_accessible_label: 'Växla rullgardinsmenyn för diskussionsåtgärder'
+      delete_button: 'Ta bort'
+      delete_forever_button: 'Ta bort för alltid'
+      rename_button: 'Byt namn'
+      reply_button: Svar
+      restore_button: Återställa
+    discussion_list:
+      empty_text: 'Det ser ut som om det inte finns några diskussioner här.'
+      load_more_button: 'Ladda mer'
+    forgot_password:
+      email_sent_message: 'Om det e-postmeddelande du angav är registrerat hos denna webbplats skickar vi ett e-postmeddelande som innehåller en länk för att återställa ditt lösenord. Kontrollera din spam-mapp om du inte får den inom nästa minut eller två.'
+      not_found_message: 'Det finns ingen användare registrerad med den e-postadressen.'
+      submit_button: 'Återställ lösenord'
+      text: 'Ange din e-postadress och vi skickar dig en länk för att återställa ditt lösenord.'
+      title: 'Glömt lösenord'
+      dismiss_button: OKEJ
+      email_placeholder: E-post
+    header:
+      admin_button: Administration
+      back_to_index_tooltip: 'Tillbaka till Diskussionslista'
+      locale_dropdown_accessible_label: 'Ändra språk för forumet'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Rensa sökfråga'
+      search_placeholder: 'Sök Forum'
+      search_role_label: 'Sök Forum'
+      session_dropdown_accessible_label: 'Växla rullgardinsmeny för sessionsalternativ'
+      log_in_link: 'Logga in'
+      log_out_button: 'Logga ut'
+      settings_button: Inställningar
+      sign_up_link: 'Registrera sig'
+    index:
+      cannot_start_discussion_button: 'Det går inte att starta en diskussion'
+      mark_all_as_read_confirmation: 'Är du säker på att du vill markera alla diskussioner som lästa?'
+      refresh_tooltip: Svalka
+      toggle_sidenav_dropdown_accessible_label: 'Växla rullgardinsmenyn för navigering'
+      all_discussions_link: 'Alla diskussioner'
+      mark_all_as_read_tooltip: 'Markera alla som lästa'
+      meta_title_text: 'Alla diskussioner'
+      start_discussion_button: 'Starta en diskussion'
+    index_sort:
+      latest_button: Senaste
+      newest_button: Nyaste
+      oldest_button: Äldsta
+      relevance_button: Relevans
+      toggle_dropdown_accessible_label: 'Ändra sortering av diskussionslistor'
+      top_button: Topp
+      hot_button: Trend
+      votes_button: 'Röster upp'
+      front_button: Framsida
+      popular_button: Populär
+      unpopular_button: Impopulär
+    log_in:
+      forgot_password_link: 'Glömt lösenordet?'
+      invalid_login_message: 'Dina inloggningsuppgifter var felaktiga.'
+      remember_me_label: 'Kom ihåg mig'
+      sign_up_text: 'Har du inget konto? <a>Registrera sig</a>'
+      username_or_email_placeholder: 'Användarnamn eller e-post'
+      password_placeholder: Lösenord
+      submit_button: 'Logga in'
+      title: 'Logga in'
+    notifications:
+      delete_all_confirm: 'Är du säker på att du vill ta bort alla aviseringar? Den här åtgärden kan inte ångras'
+      delete_all_tooltip: 'Ta bort alla aviseringar'
+      empty_text: 'Inga meddelanden'
+      mark_as_read_tooltip: 'Markera som läst'
+      toggle_dropdown_accessible_label: 'Visa meddelanden'
+      mark_all_as_read_tooltip: 'Markera alla som lästa'
+      title: Meddelanden
+      tooltip: Meddelanden
+    post:
+      edited_text: Redigerad
+    post_controls:
+      delete_confirmation: 'Är du säker på att du vill ta bort det här inlägget för alltid? Det går inte att ångra den här åtgärden.'
+      hide_confirmation: 'Är du säker på att du vill ta bort det här inlägget?'
+      toggle_dropdown_accessible_label: 'Växla rullgardinsmeny för inläggskontroller'
+      push_to_front_button: 'Skicka till FrontPage'
+      pull_from_front_button: 'Hämta från FrontPage'
+      delete_button: 'Ta bort'
+      delete_forever_button: 'Ta bort för alltid'
+      edit_button: Redigera
+      restore_button: Återställa
+    post_scrubber:
+      now_link: Nu
+      original_post_link: 'Ursprungligt inlägg'
+    post_stream:
+      load_more_button: 'Ladda mer'
+      reply_placeholder: 'Skriv ett svar...'
+    rename_discussion:
+      title: 'Byt namn på diskussion'
+      submit_button: 'Byt namn'
+    search:
+      discussions_heading: Diskussioner
+      users_heading: Användare
+    security:
+      cannot_terminate_current_session: 'Det går inte att avsluta den aktuella aktiva sessionen. Logga ut istället.'
+      created: Skapad
+      current_active_session: 'Aktuell aktiv session'
+      developer_tokens_heading: 'Token för utvecklare'
+      empty_text: 'Det ser ut som om det inte finns något att se här.'
+      global_logout: { heading: 'Global utloggning', help_text: 'Rensar den aktuella cookie-sessionen, avslutar alla sessioner, återkallar utvecklartoken och ogiltigförklarar alla e-postbekräftelser eller e-postmeddelanden om lösenordsåterställning.', log_out_button: 'Logga ut' }
+      hide_access_token: 'Dölj token'
+      last_activity: 'Senaste aktivitet'
+      new_access_token_modal: { submit_button: 'Skapa token', title_placeholder: Titel, title: 'Ny token' }
+      revoke_access_token: Återkalla
+      sessions_heading: 'Aktiva sessioner'
+      session_termination_failed: 'Ett fel uppstod när dina sessioner skulle avslutas.'
+      show_access_token: 'Visa token'
+      terminate_all_other_sessions: 'Avsluta alla andra sessioner'
+      terminate_session: Avsluta
+      token_revoked: 'Token har återkallats.'
+      token_title_placeholder: /
+      never: Aldrig
+      new_access_token_button: 'Ny token'
+      revoke_access_token_confirmation: 'Är du säker på att du vill fortsätta? Det går inte att ångra den här åtgärden.'
+      terminate_all_other_sessions_confirmation: 'Är du säker på att du vill fortsätta? Det går inte att ångra den här åtgärden.'
+      title: Säkerhet
+    settings:
+      account_heading: Konto
+      notify_by_web_heading: Webb
+      notify_discussion_renamed_label: 'Någon byter namn på en diskussion som jag har startat'
+      privacy_disclose_online_label: 'Låt andra se när jag är online'
+      privacy_heading: Privatliv
+      change_email_button: 'Ändra e-postadress'
+      change_password_button: 'Ändra lösenord'
+      notifications_heading: Meddelanden
+      notify_by_email_heading: E-post
+      title: Inställningar
+    sign_up:
+      log_in_text: 'Har du redan ett konto? <a>Logga in</a>'
+      dismiss_button: OKEJ
+      email_placeholder: E-post
+      password_placeholder: Lösenord
+      submit_button: 'Registrera sig'
+      title: 'Registrera sig'
+      username_placeholder: Användarnamn
+    user:
+      avatar_upload_button: 'Ladda upp'
+      avatar_upload_tooltip: 'Ladda upp en ny avatar'
+      online_text: Uppkopplad
+      posts_empty_text: 'Det ser ut som att det inte finns några inlägg här.'
+      avatar_remove_button: Avlägsna
+      discussions_link: Diskussioner
+      posts_link: Inlägg
+      posts_load_more_button: 'Ladda mer'
+      security_link: Säkerhet
+      settings_link: Inställningar
+    user_controls:
+      button: Kontroller
+      delete_confirmation: 'Är du säker på att du vill ta bort den här användaren? Användarens inlägg kommer INTE att raderas.'
+      toggle_dropdown_accessible_label: 'Växla rullgardinsmeny för användarkontroller'
+      delete_button: 'Ta bort'
+      edit_button: Redigera
+    user_email_confirmation:
+      resend_button: 'Skicka bekräftelse via e-post igen'
+      sent_message: Sänt
+    welcome_hero:
+      hide: 'Dölj välkomstmeddelande'
+    badge:
+      frontpage_tooltip: 'Markerat som FrontPage'
+  lib:
+    debug_button: Felsöka
+    alert:
+      dismiss_a11y_label: 'Avfärda avisering'
+    badge:
+      hidden_tooltip: Dold
+    dropdown:
+      toggle_dropdown_accessible_label: 'Växla rullgardinsmeny'
+    edit_user:
+      activate_button: 'Aktivera användare'
+      groups_heading: Grupper
+      set_password_label: 'Ställ in nytt lösenord'
+      nothing_available: 'Du har inte behörighet att redigera den här användaren.'
+      email_heading: E-post
+      email_label: E-post
+      password_heading: Lösenord
+      password_label: Lösenord
+      submit_button: 'Spara ändringar'
+      title: 'Redigera användare'
+      username_heading: Användarnamn
+      username_label: Användarnamn
+    error:
+      generic_message: 'Hoppsan! Något gick fel. Ladda om sidan och försök igen.'
+      generic_cross_origin_message: 'Hoppsan! Något gick fel under en begäran om korsande ursprung. Ladda om sidan och försök igen.'
+      not_found_message: 'Det gick inte att hitta den begärda resursen.'
+      payload_too_large_message: 'Nyttolasten för begäran var för stor.'
+      permission_denied_message: 'Du har inte behörighet att göra det.'
+      rate_limit_exceeded_message: 'Du går lite för fort fram. Försök igen om några sekunder.'
+      render_failed_message: 'Tyvärr, vi stötte på ett fel när det här innehållet visades. Om du är en användare, försök igen senare. Om du är administratör kan du ta en titt i dina Flarum-loggfiler för mer information.'
+    modal:
+      close: Stänga
+    nav:
+      drawer_button: 'Öppna navigeringslådan'
+    loading_indicator:
+      accessible_label: Lastning...
+  views:
+    confirm_email:
+      text: 'Klicka på knappen nedan för att bekräfta ditt kontos e-postadress.'
+      submit_button: 'Bekräfta e-post'
+      title: 'Bekräfta e-post'
+    content:
+      javascript_disabled_message: 'Den här webbplatsen visas bäst i en modern webbläsare med JavaScript aktiverat.'
+      load_error_message: 'Något gick fel när jag försökte ladda den fullständiga versionen av den här webbplatsen. Försök att uppdatera den här sidan för att åtgärda felet.'
+      loading_text: Lastning...
+    error:
+      csrf_token_mismatch: 'Du har varit inaktiv för länge.'
+      csrf_token_mismatch_return_link: 'Gå tillbaka för att försöka igen'
+      invalid_confirmation_token: 'Den här bekräftelselänken har redan använts eller är ogiltig.'
+      not_authenticated: 'Du har inte behörighet att komma åt den här sidan. Försök igen efter att du har loggat in.'
+      not_found: 'Det gick inte att hitta sidan du begärde.'
+      permission_denied: 'Du har inte behörighet att komma åt den här sidan.'
+      unknown: 'Ett fel uppstod när den här sidan skulle laddas.'
+    log_out:
+      log_out_button: 'Logga ut'
+      title: 'Logga ut'
+    reset_password:
+      confirm_password_label: 'Bekräfta nytt lösenord'
+      new_password_label: 'Nytt lösenord'
+      submit_button: 'Spara ändringar'
+      title: 'Återställ ditt lösenord'
+    discussion:
+      next_page_button: 'Nästa sida'
+      previous_page_button: 'Föregående sida'
+    index:
+      all_discussions_heading: 'Alla diskussioner'
+      next_page_button: 'Nästa sida'
+      previous_page_button: 'Föregående sida'
+  api:
+    invalid_username_message: 'Användarnamnet får endast innehålla bokstäver, siffror och bindestreck.'
+  email:
+    activate_account:
+      subject: 'Aktivera ditt nya konto'
+    confirm_email:
+      subject: 'Bekräfta din nya e-postadress'
+    reset_password:
+      subject: 'Återställ ditt lösenord'
+    send_test:
+      subject: 'Flarum e-posttest'
+  ref:
+    all_discussions: 'Alla diskussioner'
+    change_email: 'Ändra e-postadress'
+    change_password: 'Ändra lösenord'
+    color: Färg
+    confirm_password: 'Bekräfta lösenord'
+    confirm_email: 'Bekräfta e-post'
+    custom_footer_text: 'Lägg till HTML som ska visas längst ner på sidan.'
+    custom_footer_title: 'Redigera anpassad sidfot'
+    custom_header_text: 'Lägg till HTML som ska visas högst upp på sidan, ovanför Flarums egen rubrik.'
+    custom_header_title: 'Redigera anpassad rubrik'
+    delete: 'Ta bort'
+    delete_forever: 'Ta bort för alltid'
+    discussions: Diskussioner
+    edit: Redigera
+    edit_user: 'Redigera användare'
+    email: E-post
+    extensions: Tillägg
+    generic_confirmation_message: 'Är du säker på att du vill fortsätta? Det går inte att ångra den här åtgärden.'
+    icon: Ikon
+    load_more: 'Ladda mer'
+    loading: Lastning...
+    log_in: 'Logga in'
+    log_out: 'Logga ut'
+    mark_all_as_read: 'Markera alla som lästa'
+    never: Aldrig
+    new_token: 'Ny token'
+    next_page: 'Nästa sida'
+    notifications: Meddelanden
+    okay: OKEJ
+    password: Lösenord
+    posts: Inlägg
+    previous_page: 'Föregående sida'
+    remove: Avlägsna
+    rename: 'Byt namn'
+    reply: Svar
+    reset_your_password: 'Återställ ditt lösenord'
+    restore: Återställa
+    save_changes: 'Spara ändringar'
+    search_users: 'Sök efter användare'
+    security: Säkerhet
+    settings: Inställningar
+    sign_up: 'Registrera sig'
+    start_a_discussion: 'Starta en diskussion'
+    username: Användarnamn
+    users: Användare
+    view: Utsikt
+    write_a_reply: 'Skriv ett svar...'
+    you: Du
+  group:
+    admin: Admin
+    admins: Administratörer
+    guest: Gäst
+    guests: Gästerna
+    member: Medlem
+    members: Medlemmar
+    mod: Sätt
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Alla Taggar'
+      meta_title_text: Taggar
+    choose_tags:
+      title: 'Välj taggar för din diskussion'
+    discussion_controls:
+      edit_tags_button: 'Redigera taggar'
+    header:
+      back_to_tags_tooltip: 'Tillbaka till Tagglista'
+    index:
+      more_link: Mer...
+      untagged_link: Otaggade
+      tags_link: Taggar
+    composer_discussion:
+      choose_tags_link: 'Välj taggar'
+  lib:
+    deleted_tag_text: Borttagen
+    tag_selection_modal:
+      bypass_requirements: 'Krav för att kringgå taggar'
+      submit_button: OKEJ
+      title: 'Välj taggar'
+  ref:
+    choose_tags: 'Välj taggar'
+    name: Namn
+    tags: Taggar
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Nämn en användare, en grupp eller ett inlägg'
+    mentioned_by:
+      title: 'Svar på det här inlägget'
+      load_more_button: 'Ladda mer'
+    post:
+      quote_button: Citera
+      reply_link: Svar
+      you_text: Du
+    settings:
+      notify_post_mentioned_label: 'Någon svarar på ett av mina inlägg'
+      notify_user_mentioned_label: 'Någon nämner mig i ett inlägg'
+      notify_group_mentioned_label: 'Någon nämner en grupp som jag är medlem i i ett inlägg'
+    user:
+      mentions_link: Nämner
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Sluta följa'
+      unignore_button: 'Unsir Unsir'
+      follow_button: Följa
+    settings:
+      follow_after_reply_label: 'Följ automatiskt diskussioner som jag svarar på'
+      notify_for_all_posts_label: 'Meddela om varje nytt inlägg i stället för bara det sista i en diskussion'
+      notify_new_post_label: 'Någon gör ett inlägg i en diskussion som jag följer'
+    sub_controls:
+      following_text: 'Få ett meddelande om alla svar.'
+      ignoring_text: 'Bli aldrig meddelad. Dölj från diskussionslistan.'
+      not_following_button: 'Följer inte'
+      not_following_text: 'Få ett meddelande endast när @mentioned.'
+      notify_alert_tooltip: 'Få en forumnotis när det finns nya inlägg'
+      notify_email_tooltip: 'Få ett e-postmeddelande när det finns nya inlägg'
+      follow_button: Följa
+      following_button: Följande
+      ignoring_button: Ignorera
+    badge:
+      following_tooltip: Följande
+      ignoring_tooltip: Ignorera
+    following:
+      meta_title_text: Följande
+    index:
+      following_link: Följande
+  ref:
+    follow: Följa
+    following: Följande
+    ignoring: Ignorera
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Tack för att du flaggade det här inlägget. Våra moderatorer kommer att undersöka det.'
+      reason_inappropriate_label: Olämplig
+      reason_inappropriate_text: 'Det här inlägget är stötande, kränkande eller bryter mot våra <a>riktlinjer för communityn</a>.'
+      reason_missing_message: 'Vänligen ge några detaljer till våra moderatorer.'
+      reason_off_topic_label: Off-topic
+      reason_off_topic_text: 'Det här inlägget är inte relevant för den aktuella diskussionen och bör flyttas någon annanstans.'
+      reason_other_label: 'Annat (vänligen specificera)'
+      reason_spam_label: Skräppost
+      reason_spam_text: 'Det här inlägget är en annons.'
+      dismiss_button: OKEJ
+      submit_button: 'Flagga stolpe'
+      title: 'Flagga stolpe'
+    flagged_posts:
+      empty_text: 'Inga flaggor'
+      title: 'Flaggade inlägg'
+      tooltip: 'Flaggade inlägg'
+    post:
+      dismiss_flag_button: 'Avfärda flagga'
+    post_controls:
+      flag_button: Flagga
+  ref:
+    flag_post: 'Flagga stolpe'
+    flagged_posts: 'Flaggade inlägg'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Du har stängts av på obestämd tid'
+      user_unsuspended_text: 'Du har inte avstängts'
+    suspension_info:
+      dismiss_button: Avskeda
+      indefinite: 'Detta är en avstängning på obestämd tid'
+      title: 'Det här kontot är avstängt'
+    suspend_user:
+      display_message: 'Visa meddelande för användare'
+      indefinitely_label: 'Avstängd på obestämd tid'
+      limited_time_days_text: ' Dagar'
+      limited_time_label: 'Avstängd under en begränsad tid...'
+      not_suspended_label: 'Inte tillfälligt avstängd'
+      placeholder_optional: Valfri
+      reason: 'Skäl för avstängning'
+      status_heading: 'Status för avstängning'
+      submit_button: 'Spara ändringar'
+    user_badge:
+      suspended_tooltip: Upphängd
+    user_controls:
+      suspend_button: Hänga
+  email:
+    no_reason_given: 'Någon anledning till denna avstängning angavs inte.'
+    suspended:
+      subject: 'Ditt konto har stängts av'
+    unsuspended:
+      subject: 'Ditt konto har inte stängts av'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Alla filer som laddats upp av användaren.', anonymize_description: 'Tar bort användarreferensen från de uppladdade filerna. Själva filerna är fortfarande tillgängliga för användare som kan visa dem före anonymisering.', delete_description: 'Tar bort alla filer som laddats upp av användaren.' }
+      tagsubscription: { export_description: 'Exporterar information om prenumerationsnivån för en tagg, om det finns en sådan.', anonymize_description: 'Tar bort användarens prenumeration på taggen.' }
+      followuser: { export_description: 'Exporterar information om användare som följs och användare som följer.', delete_description: 'Raderar all data som är relaterad till följande användare.', anonymize_description: 'Raderar all data som är relaterad till följande användare.' }
+      bannedipdata: { export_description: 'Om en IP-förbudspost är kopplad till en användare (dvs. användaren har förbjudits av IP) kommer användarens IP-adress att inkluderas i exporten, tillsammans med orsaken till förbudet och skapandedatumet.', anonymize_description: 'Alla IP-adresser som är kopplade till användaren är frikopplade, men själva IP-adressen kommer att förbli förbjuden, tillsammans med anledningen. Se till att inga PII-data lagras i fältet "orsak".' }
+fof-upload:
+  forum:
+    media_manager: Medieansvarig
+    buttons:
+      attach: Bifoga
+      upload: 'Ladda upp'
+      upload_shared: Delad
+      user_uploads: 'Uppladdningar från användare'
+      cancel: Annullera
+      media: 'Mina medier'
+      shared_media: 'Delad media'
+    states:
+      error: Fel
+      loading: Uppladdning
+      unauthorized: 'Du får inte ladda ner filer'
+    text_preview:
+      expand: 'Expandera förhandsgranskning'
+      collapse: 'Komprimera förhandsgranskning'
+      error: "Det gick inte att förhandsgranska filen. Den kan ha tagits bort eller så är det angivna fil-ID:t ogiltigt.\n"
+      no_snippet_preview: '<förhandsgranskning kommer att visas här efter publicering>'
+      no_snippet: '<inget förhandsgranskningsutdrag tillgängligt>'
+  api:
+    upload_errors:
+      forbidden_type: 'Det är inte tillåtet att ladda upp filer av den här typen.'
+      could_not_detect_mime: 'Det gick inte att identifiera MIME-typen för den här filen, försök igen.'
+      max_upload_file_size_ini: 'Den maximala filstorleksgränsen för uppladdning har nåtts från php.ini.'
+      max_upload_file_size_form: 'Ladda upp den maximala filstorleksgränsen som har nåtts från formuläret.'
+      partial_upload: 'Delvis uppladdning.'
+      no_file_uploaded: 'Ingen fil har laddats upp.'
+      no_upload_tmp_folder: 'Ingen tmp-mapp för att ladda upp filer.'
+      cannot_write_to_disk: 'Det går inte att skriva till disken.'
+      upload_blocked_by_php_extension: 'Ett php-tillägg blockerade uppladdningen.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Ny delad fil'
+      dropzone: 'Dra och släpp filer här eller klicka för att bläddra'
+      hide-from-media-gallery: 'Dölj från användarens mediegalleri'
+      upload: 'Ladda upp'
+    file_list:
+      loading: 'Laddar filer...'
+      empty: 'Det finns inga filer att visa.'
+      release_to_upload: 'Släpp för att ladda upp'
+      modal_empty_desktop: 'Fillistan är tom. Klicka på knappen eller dra en fil hit för att ladda upp.'
+      modal_empty_phone: 'Fillistan är tom. Tryck på knappen ovan för att ladda upp en fil.'
+      load_more_files_btn: 'Läsa in fler filer'
+      hide_file: { hide_success: 'Filen är dold', show_success: 'Fil som visas', loading: 'Döljer fil...' }
+      hide_shared_file: { hide_success: 'Filen har gjorts privat', show_success: 'Filen har offentliggjorts', loading: 'Att göra filen privat...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: skrev
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Lägg till fet text'
+      code_tooltip: 'Infoga kod'
+      header_tooltip: 'Lägga till rubriktext'
+      image_tooltip: 'Lägga till en bild'
+      italic_tooltip: 'Lägg till kursiv text'
+      link_tooltip: 'Lägg till en länk'
+      ordered_list_tooltip: 'Lägga till en numrerad lista'
+      quote_tooltip: 'Infoga ett citat'
+      spoiler_tooltip: 'Sätt i en spoiler'
+      strikethrough_tooltip: 'Lägga till genomstruken text'
+      unordered_list_tooltip: 'Lägga till en punktlista'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Någon skapar en diskussion i en tagg som jag följer'
+      notify_new_post_label: 'Någon postar i en tagg som jag följer'
+      notify_new_discussion_tag_label: 'Någon taggar om en diskussion till en tagg som jag följer'
+    index:
+      follow_tag_button: Följa
+      unfollow_tag_button: 'Sluta följa'
+      following: { following_none_label: 'Följda diskussioner', following_tags_label: 'Följda taggar' }
+    badge:
+      following_tag_tooltip: Följande
+      lurking_tag_tooltip: Lurar
+    sub_controls:
+      following_text: 'Få ett meddelande om alla nya diskussioner.'
+      hiding_text: 'Dölj diskussioner från sidan Alla diskussioner.'
+      ignoring_text: 'Bli aldrig meddelad.'
+      lurking_text: 'Få ett meddelande om alla nya diskussioner och svar.'
+      not_following_button: 'Följer inte'
+      not_following_text: 'Få ett meddelande endast när @mentioned.'
+      notify_alert_tooltip: 'Få en forumavisering när det finns nya diskussioner eller inlägg'
+      notify_email_tooltip: 'Få ett e-postmeddelande när det finns nya diskussioner eller inlägg'
+      submit_button: 'Bekräfta prenumeration'
+      follow_button: Följa
+      following_button: Följande
+      hiding_button: Dölja
+      ignoring_button: Ignorera
+      lurking_button: Lurar
+    user:
+      settings: { heading: 'Följ taggar', filter_label: 'Vad som ska visas som standard på följande sida' }
+  ref:
+    follow: Följa
+    following: Följande
+    hiding: Dölja
+    ignoring: Ignorera
+    lurking: Lurar
+    filtering_options:
+      none: 'Följda diskussioner'
+      tags: 'Följda taggar'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Det här smeknamnet är ogiltigt. Kontakta din forumadministratör för mer information om smeknamnsregler.'
+  ref:
+    change_nickname: 'Ändra smeknamn'
+    nickname: Smeknamn
+  forum:
+    change_nickname:
+      submit_button: 'Spara ändringar'
+      title: 'Ändra smeknamn'
+    edit_user:
+      nicknames_heading: 'Ändra smeknamn'
+      nicknames_text: Smeknamn
+    settings:
+      change_nickname_button: 'Ändra smeknamn'
+    sign_up:
+      nickname_placeholder: Smeknamn
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Länkade konton', last-used-label: 'Senast använd', link-created-label: 'Länk skapad', orphaned-account: 'Du har loggat in via den här leverantören tidigare, men det här forumet har inaktiverat inloggning med den här metoden sedan dess.', help: 'Dessa länkade konton låter dig logga in på forumet med hjälp av andra leverantörer.' } }
+    signup:
+      username_help: 'Välj ett användarnamn som du vill känna till här'
+    unlink: 'Ta bort länk'
+    error:
+      bad_verification_code: 'Ogiltig eller utgången verifieringstoken. Försök igen.'
+      invalid_state: 'Ogiltigt tillstånd. Försök igen.'
+    providers:
+      discord: Oenighet
+      facebook: 'Facebook Facebook (på engelska'
+      github: 'GitHub (på engelska)'
+      gitlab: 'GitLab (på engelska)'
+      google: 'Google (Google)'
+      linkedin: 'LinkedIn (på engelska)'
+      twitter: Kvitter
+  lib:
+    providers:
+      discord: Oenighet
+      facebook: 'Facebook Facebook (på engelska'
+      github: 'GitHub (på engelska)'
+      gitlab: 'GitLab (på engelska)'
+      twitter: Kvitter
+      google: 'Google (Google)'
+      linkedin: 'LinkedIn (på engelska)'
+  ref:
+    settings:
+      app_id: App-ID
+      app_secret: 'App hemlighet'
+      client_id: Klient-ID
+      client_secret: 'Klient hemlighet'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Logga in som en annan användare'
+      placeholder_optional: '(Valfritt) Ange anledningen till att du byter till den här användaren'
+      placeholder_required: 'Du måste ange anledningen till att du byter till den här användaren innan du fortsätter'
+    user_controls:
+      impersonate_button: 'Logga in som användare'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Privat diskussion' }
+    buttons:
+      add_recipients: Mottagare
+      submit: OKEJ
+      edit_recipients: 'Redigera mottagare'
+      cancel: Annullera
+      make_public: 'Gör den här diskussionen offentlig'
+      remove_from_discussion: 'Lämna denna privata diskussion'
+    composer_private_discussion:
+      submit_button: 'Lägg upp privat diskussion'
+      title_placeholder: 'Titel på privat diskussion'
+    confirm:
+      make_public: 'Är du säker på att du vill ta bort mottagarna och göra den här diskussionen synlig för alla som kan se den tilldelade taggen?'
+    nav:
+      start_button: 'Diskutera privat'
+      nav_item: 'Privata diskussioner'
+    input:
+      search_recipients: 'Sök mottagare genom att skriva de tre första tecknen...'
+    search:
+      headings: { groups: Behörighetsgrupper }
+    modal:
+      titles: { add_recipients: 'Lägga till mottagare i din diskussion' }
+      labels: { selected_users: 'Utvalda användare', search_field: 'Sök efter användare' }
+      help: { add_recipients: 'Den här diskussionen kommer bara att vara synlig för de användare som du väljer här. Minst 1 mottagare (annan än dig själv) krävs.', update_recipients: 'Den här diskussionen kommer bara att vara synlig för de användare som du väljer här.', selected_users: 'Klicka på en användares namn för att ta bort dem.', click_user_to_remove_tooltip: 'Klicka för att ta bort' }
+    user:
+      settings: { block_pd: 'Blockera privata diskussioner' }
+      byobu_link: 'Privata diskussioner'
+      dropdown_label: 'Privata diskussioner'
+    notifications:
+      pd_label: 'Någon inkluderar mig i en ny privat diskussion'
+      pd_reply_label: 'Någon gör ett inlägg i en privat diskussion som jag är mottagare av'
+      pd_user_left_label: 'En mottagande användare lämnar en privat diskussion som jag är en del av'
+      pd_added_label: 'Någon lägger till mig i en befintlig privat diskussion'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Information om emblem'
+    all_badges: 'Se alla märken'
+    all_users: 'Se alla användare'
+    give_badge: 'Ge bort märke'
+    update_badge: 'Uppdatera märke'
+    select_badge: 'Välj märke'
+    user_has_badge: 'Användaren har redan det här märket.'
+    user_no_badges: 'Den här användaren har inga märken ännu.'
+    no_received: 'Ingen användare har förtjänat det här märket.'
+    save_changes: 'Spara ändringar'
+    badge:
+      badge: Emblem
+      badges: Märken
+      name: 'Märkets namn'
+      description: 'Beskrivning av märket'
+      earning_reason: 'Anledning till att tjäna märke'
+      update_earning_reason: 'Orsak till uppdateringsintäkt'
+      no_earning_reason: 'Ingen intjäningsorsak har angetts'
+      earned_on: 'Emblem som tjänats in den'
+      category: 'Kategori av emblem'
+      badge_details: 'Information om emblem'
+    badges_in_card:
+      title: 'Emblem på användarkortet'
+      manage_badges: 'Hantera emblem'
+      description: 'Du kan ändra de synliga märkena på ditt användarkort med ett av dina andra märken. Om du inte väljer någon väljs de automatiskt.'
+    moderation:
+      remove_badge: 'Ta bort märke från användare'
+      remove_badge_confirm: 'Är du säker på att du vill ta bort det här märket från den här användaren?'
+      give_badge: 'Ge bort märke'
+    notification:
+      title: 'Du har fått ett nytt märke'
+      settings: 'Jag har fått ett märke'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Eländigt tillstånd'
+      not_miserable_label: 'Inte olycklig'
+      indefinitely_label: 'Eländigt på obestämd tid'
+      limited_time_label: 'Eländigt under en begränsad tid...'
+      limited_time_days_text: ' Dagar'
+      submit_button: 'Spara ändringar'
+    user_badge:
+      miserable_user_tooltip: 'Stackars användare'
+    user_controls:
+      miserable_user_button: 'Stackars användare'
+  ref:
+    miserable_user: 'Stackars användare'
+sycho-profile-cover:
+  forum:
+    cover: Täcka
+    edit_cover: 'Redigera omslag'
+    added:
+      success: 'Profilomslaget har uppdaterats.'
+      error: 'Bilden kunde inte laddas upp.'
+    removed:
+      success: 'Profilskyddet borttaget.'
+      error: 'Det gick inte att ta bort locket, försök igen senare.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Kopiera till Urklipp'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Sista besökarna', guest: Gäst }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: Landskod
+    saveButton: Spara
+    clickToSelectCountry: 'Välj ditt land'
+    countrySaved: 'Landet har räddats!'
+    field_placeholder: 'Bekräfta landsflaggor'
+    binding_country: 'Vi upptäckte att du inte har tagit reda på var du befinner dig. Länka ditt land först. Du kan bara posta och lämna meddelanden efter att du har länkat ditt land.'
+    binding_country_click: 'Klicka nu'
+username-blacklist:
+  forum:
+    modal-title: Varning!
+    modal-body-first-line: 'Varning - Det här användarnamnet <strong>blockeras av administratören</strong>'
+    modal-body-second-line: 'Välj ett annat användarnamn som inte bryter mot våra communityriktlinjer och försök igen.'
+  admin:
+    blackList: 'Svartlistat användarnamn'
+    blackList-help: 'Skriv här användarnamn som du vill blockera under registreringen (separerat med kommatecken)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Sammanfattning, show-summaries: 'Visa ett utdrag från varje diskussion i diskussionslistor (stationär dator/surfplatta)', show-summaries-mobile: 'Visa ett utdrag från varje diskussion i diskussionslistor (mobil)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Aktivitet i forumet'
+      forum_new_discussions: 'Forumets nya diskussioner'
+      discussion_last_posts: 'Den här diskussionen'
+      user_last_posts: 'Inlägg och kommentarer av denna användare'
+    feeds:
+      titles: { main_subtitle: 'Senaste inläggen i forumet', main_d_subtitle: 'De nyaste diskussionerna i forumet', discussion_subtitle: 'Senaste meddelandena i den här diskussionen', user_subtitle: 'Senaste inlägg och kommentarer av denna användare.' }
+    discussion:
+      feed_link: Mata
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Följt
+    profile_page:
+      no_following: 'Det verkar som om du inte följer någon.'
+    settings:
+      notify_new_follower_label: 'Någon följer efter mig'
+      notify_new_unfollower_label: 'Någon slutar följa efter mig'
+      notify_new_discussion_label: 'Någon jag följer startar en diskussion'
+      notify_new_post_label: 'Någon som jag följer inlägg i en befintlig diskussion'
+      block_follow: 'Hindra användare från att följa mig'
+    badge:
+      label: { follow: 'Efter diskussioner', lurk: 'Efter att ha följt alla' }
+    filter:
+      following: 'Följda användare'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Följ nivåer', follow_select_label: 'Typ av följning', no_user_attr_provided_err: 'Uh oh, något gick fel när du öppnade den här modalen.', no_user_attr_provided_err_debug: 'Inget "user"-attribut skickades till modalen SelectFollowUserLevel när det skapades. Modal kan inte återges.', save_btn: Spara, cancel_btn: Annullera }
+    profile_link: 'Följda användare'
+    user_controls:
+      follow_button: Följa
+      unfollow_button: 'Sluta följa'
+      change_button: 'Ändra typ av följare'
+    index:
+      follow_tag_button: Följa
+      unfollow_tag_button: 'Ändra typ av följare'
+  email:
+    new_follower_subject: '[Följ användare] Du har en ny följare!'
+  lib:
+    following_link: 'Följda användare'
+    follow: Följa
+    change_follow_type: 'Ändra typ av följare'
+    unfollow: 'Sluta följa'
+    follow_levels:
+      unfollow: { name: 'Följ inte' }
+      follow: { name: 'Följ diskussioner' }
+      lurk: { name: 'Följ alla' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Se till att denna begärda smeknamnsändring följer forumets riktlinjer.', decision_title: Beslut, approval_label: Godkänna, rejected_label: Avvisa, submit_button: Inlämna, reason_title: 'Orsak till avslag', success: 'Beslutet har skickats.', title: 'Begäran om ändring av smeknamn' }
+      results: { title: 'Begäran om ändring av smeknamn', approved: 'Din begäran om ändring av smeknamn har godkänts', rejected: 'Din begäran om att ändra smeknamn avvisades', resubmit: 'För närvarande kan du skicka in en ny begäran om att ändra smeknamn från dina kontoinställningar om du väljer att göra det.', dismiss_button: OKEJ }
+      request: { title: 'Begär ändring av smeknamn', submit_button: 'Skicka förfrågan', delete_button: 'Ta bort begäran', confirmation_message: 'Din begäran om ändring av smeknamn har skickats in och väntar på godkännande.', deleted: 'Begäran om smeknamn har tagits bort.', dismiss_button: OKEJ }
+    username_modals:
+      action: { help_text: 'Se till att den begärda användarnamnsändringen följer forumets riktlinjer.', decision_title: Beslut, approval_label: Godkänna, rejected_label: Avvisa, submit_button: Inlämna, reason_title: 'Orsak till avslag', success: 'Beslutet har skickats.', title: 'Begäran om ändring av användarnamn' }
+      results: { title: 'Begäran om ändring av användarnamn', approved: 'Din begäran om ändring av användarnamn har godkänts', rejected: 'Din begäran om ändring av användarnamn avvisades', resubmit: 'För närvarande kan du skicka in en ny begäran om ändring av användarnamn från dina kontoinställningar om du väljer att göra det.', dismiss_button: OKEJ }
+      request: { title: 'Begär ändring av användarnamn', submit_button: 'Skicka förfrågan', delete_button: 'Ta bort begäran', confirmation_message: 'Din begäran om ändring av användarnamn har skickats och väntar på godkännande.', deleted: 'Begäran om användarnamn har tagits bort.', dismiss_button: OKEJ }
+    pending_requests:
+      empty_text: 'Inga begäranden om namnändring hittades.'
+      tooltip: 'Begäran om namnändring'
+      title: 'Begäran om namnändring'
+    settings:
+      nickname_request_button: 'Ändra smeknamn'
+      username_request_button: 'Ändra användarnamn'
+    user:
+      name_history_link: 'Namn Historik'
+  ref:
+    name_change_request: 'Begäran om namnändring'
+    name_change_requests: 'Begäran om namnändring'
+    nickname_change_request: 'Begäran om ändring av smeknamn'
+    nickname_change_requests: 'Begäran om ändring av smeknamn'
+    username_change_request: 'Begäran om ändring av användarnamn'
+    username_change_requests: 'Begäran om ändring av användarnamn'
+  email:
+    body:
+      noReasonProvided: 'Ingen anledning har angetts.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Skriv något om dig själv'
+    profile:
+      cancel_confirm: 'Är du säker på att du vill avbryta redigeringen av din biografi? Du förlorar alla ändringar du har gjort.'
+      cancel_button: Annullera
+      save_button: Spara
+      edit_bio_label: 'Redigera biografi'
+fof-split:
+  forum:
+    split:
+      from: 'Dela härifrån'
+      to: 'Dela upp till här'
+      cancel: 'Avbryt split'
+    modal:
+      title: 'Delad diskussion'
+      new_discussion_label: 'Ange rubriken för den nya diskussionen'
+      submit_button: Klyva
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Redigera dina knappar för sociala medier'
+      add: 'Lägg till knappar på dina sociala medier'
+      headtitle: 'Redigera knappar'
+      title: Titel
+      url: URL
+      submit: Spara
+      delete: 'Ta bort'
+      deletetitle: 'Knappen Ta bort'
+      save_disabled_fetching_favicons: 'En eller flera ikoner hämtas. Snälla vänta.'
+      favicon: 'Favicon Favicon'
+      grey_favicon: 'Grå Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Aktie
+      share_dropdown_accessible_label: 'Växla rullgardinsmenyn för diskussionsdelning'
+    modal:
+      title: Aktie
+      copy_button: Kopia
+  lib:
+    networks:
+      facebook: 'Facebook Facebook (på engelska'
+      twitter: Kvitter
+      linkedin: 'LinkedIn (på engelska)'
+      reddit: 'Reddit (Reddit)'
+      whatsapp: 'På WhatsApp (på WhatsApp)'
+      telegram: Telegram
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Min värld'
+      qq: QQ
+      qzone: QZone
+      native: 'Ursprunglig delning'
+fof-recaptcha:
+  forum:
+    error: 'Det gick inte att skicka reCAPTCHA. Försök igen.'
+    unknown_error: 'Ett okänt fel inträffade. Kontrollera captcha och försök igen.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Du kan inte använda den här reaktionen just nu, uppdatera sidan'
+    warning: 'Din reaktion blev omvänd'
+    settings:
+      notify_post_reacted_label: 'Någon reagerar på ett av mina inlägg'
+    reacting-own-post: 'Du kan inte reagera på ditt eget inlägg'
+    modal:
+      title: Reaktioner
+      no_reactions: 'Inga reaktioner ännu'
+    mod_item: 'Visa reaktioner'
+    react_button_label: Reagera
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Det gick inte att läsa in bildbeskäraren.', generic_resize: 'Något gick fel när du beskar och ändrar storlek på bilden.', get_image_data: 'Det gick inte att beskära. Se till att din webbläsares fingeravtrycksskydd är inaktiverat.' }
+      help_text: "Bilduppladdningen kan misslyckas om din webbläsares sekretessinställningar är mycket strikta. Om du har problem kan du prova att inaktivera fingeravtrycksskyddet. Annars kan du antingen <disableResize>inaktivera komprimering av den beskurna bilden</disableResize> eller <disableCrop>inaktivera beskärning helt och hållet</disableCrop>.\n"
+      submit_button: 'Ladda upp'
+      submit_crop_button: 'Beskär och ladda upp'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Det är mycket troligt att det inte behöver diskuteras ytterligare och därför tjänar det inget syfte att stöta på det.', checkbox_label: 'Jag är medveten om att denna diskussion är ganska gammal, men jag skulle ändå vilja svara.', error: 'Den här diskussionen är för gammal för att svara på.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Du har inte behörighet att rösta'
+    poll_ended: 'Den här omröstningen är avslutad.'
+    public_poll: 'Visa väljare'
+    composer_discussion:
+      add_poll: 'Lägg till omröstning'
+      edit_poll: 'Redigera omröstning'
+    modal:
+      add_title: 'Lägg till en omröstning'
+      add_option_label: 'Lägg till ett alternativ'
+      edit_title: 'Redigera omröstning'
+      include_question: 'Du måste inkludera en fråga'
+      max: 'Du kan ha högst 10 svar'
+      min: 'Du måste inkludera minst 2 svar'
+      no_voters: 'Inga röster'
+      option_placeholder: Svar
+      image_option_placeholder: 'Bild-URL (valfritt)'
+      options_label: Svar
+      public_poll_label: 'Låt personer se vem som har röstat'
+      allow_multiple_votes_label: 'Tillåt personer att rösta på flera alternativ'
+      max_votes_label: 'Max antal röster per användare'
+      max_votes_help: 'Ställ in på 0 om du vill att användarna ska kunna rösta på alla alternativ.'
+      question_placeholder: Fråga
+      submit: Inlämna
+    moderation:
+      delete: 'Ta bort omröstning'
+      delete_confirm: 'Är du säker på att du vill ta bort den här omröstningen?'
+      edit: 'Redigera omröstning'
+    tooltip:
+      badge: Enkät
+    votes_modal:
+      title: Väljarna
+fof-nightmode:
+  ref:
+    auto: 'Automatisk (baserat på webbläsar- eller enhetsalternativ)'
+    light: Dagläge
+    dark: Nattläge
+  forum:
+    header:
+      nightmode_button: Nattläge
+    user:
+      settings: { heading: Tema, description: 'Välj vilket färgtema du vill använda på forumet.', description2: 'Detta tema kommer att länkas till ditt konto och gäller för alla dina enheter om du inte slår på omkopplaren nedan för inställningar per enhet.', device_specific_setting_checkbox: 'Använd inställningar per enhet', device_specific_setting_checkbox_tooltip: 'Ditt temaval kommer att sparas individuellt för var och en av dina enheter.', auto_unsupported: 'Din webbläsare stöder inte automatiskt mörkt läge.', option_descriptions: { auto: 'Ditt tema kommer automatiskt att väljas baserat på din webbläsare eller enhetsinställningar. Till exempel, om du har mörkt läge aktiverat i iOS, kommer forumen också att vara mörka.', day: 'Den klassiska upplevelsen som du är van vid. Älskad och testad.', night: 'Du är lite av en nattuggla. Du vakar över forumet på natten, medan fåglarna sover och rävarna jagar. Eller så föredrar du bara de mörkare färgerna!' }, options: { auto: 'Automatisk (baserat på webbläsar- eller enhetsalternativ)', day: Dagläge, night: Nattläge } }
+    day: Dagläge
+    night: Nattläge
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'En tom lapp är inte tillåten.'
+    moderatorNotes:
+      add_button: 'Ny anteckning'
+      create-heading: 'Skapa en ny moderatoranteckning'
+      dismiss_button: Färdig
+      noNotes: 'Det ser ut som om det inte finns några anteckningar här.'
+      submit_button: 'Spara anteckning'
+      delete: 'Ta bort'
+      confirm: 'Är du säker på att du vill ta bort den här anteckningen?'
+    user:
+      notes: 'Moderator Anteckningar'
+  api:
+    no_reason_provided: 'Ingen anledning angiven'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Röster
+    vote_title: 'Visa vem som har röstat'
+    nav:
+      name: Rankningar
+    ranking:
+      rank: Plats
+      name: Användare
+      amount: Poäng
+    notification:
+      prefrences: { vote: 'När ett av mina inlägg är upp/ner röstade' }
+    user:
+      votes_link: Röster
+    modal:
+      downvotes_label: 'Nedröstare:'
+      title: Väljarna
+      upvotes_label: 'Uppåtröstare:'
+    mod_item: 'Visa väljare'
+    voters:
+      none: 'Inga väljare ännu'
+      label: Väljarna
+      label_none: 'Inga väljare'
+    post:
+      upvote_button: 'Rösta upp inlägg'
+      downvote_button: 'Rösta ned inlägg'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Schemalagda utkast är för närvarande inaktiverade i inställningarna.'
+  ref:
+    schedule_draft: 'Schema utkast'
+  forum:
+    composer:
+      title: 'Spara utkast'
+      saving: Besparing...
+      saved: Räddad!
+      exit_alert: 'Vill du ignorera ändringar i utkastet?'
+      discard_empty_draft_alert: 'Kassera tomt utkast?'
+    dropdown:
+      empty_text: 'Du har inte sparat några utkast'
+      title: Utkast
+      delete_all_button: 'Ta bort alla utkast'
+      delete_button: 'Ta bort utkast'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Är du säker på att du vill ta bort utkastet?'
+      delete_all_alert: 'Är du säker på att du vill ta bort alla dina utkast?'
+      schedule_button: 'Schema utkast'
+      tooltip: Utkast
+    schedule_draft_modal:
+      text: 'Schemalägg ditt utkast så att det automatiskt publiceras vid ett senare tillfälle!'
+      unschedule_button: 'Ta bort schemat'
+      unschedule_warning: 'Är du säker på att du vill ta bort schemat för det här utkastet?'
+      reschedule_button: 'Boka om'
+      schedule_button: Schema
+      schedule_time_preview_formatter: 'LLLL (på engelska)'
+      schedule_time_preview_invalid: 'Ogiltigt datum och/eller ogiltig tid'
+      title: 'Schema utkast'
+    user:
+      settings: { drafts_heading: Utkast, draft_autosave_enable: 'Vill du aktivera Spara utkast automatiskt?', draft_autosave_interval_label: 'Spara automatiskt intervall (sekunder)', draft_autosave_interval_button: 'Intervall för uppdatering', draft_autosave_interval_invalid: 'Intervallet måste vara ett heltal som är större än 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Svarade
+    this_best_answer: 'Välj Bästa svar'
+    remove_best_answer: 'Avmarkera Bästa svar'
+    best_answer_button: 'Bästa svaret'
+    errors:
+      mismatch: 'Markerat inlägg finns inte i den här diskussionen.'
+    notification:
+      content: 'Välj ett bästa svar om din fråga har besvarats'
+      preferences: { awarded_best_answer: 'Någon ställer in mitt inlägg som ett bästa svar', best_answer_in_discussion: 'Det bästa svaret finns i en diskussion jag deltagit i', select_best_answer: 'En automatisk påminnelse om att välja det bästa svaret i en diskussion som jag har startat' }
+    index:
+      ask_question: 'Ställ en fråga'
+      cannot_ask_question: 'Det går inte att ställa en fråga'
+      solved_link: 'Lösta diskussioner'
+      unsolved_link: 'Olösta diskussioner'
+    filter:
+      all_label: 'Alla frågor'
+      solved_label: 'Lösta frågor'
+      unsolved_label: 'Olösta frågor'
+      accessible_label: 'Löst/Olöst urval'
+    composer:
+      titlePlaceholder: 'Frågans titel'
+    search:
+      discussions_solutions_heading: 'Diskussioner med lösningar'
+    discussion:
+      jump_to_best_answer_button: 'Visa bästa svar'
+  email:
+    subject:
+      select: 'Har du lyckats få din fråga besvarad?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Mest bästa svaren'
+      least_best_answers: 'Minst bästa svaren'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Ingen annan kommer att förbjudas'
+    user_badge:
+      banned_tooltip: Bannad
+    ban_ip_button: 'Förbjud IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Förbud
+      unban_button: 'Ta bort bannlysning'
+  error:
+    banned_ip_message: 'Auktoriseringen misslyckades.'
+    no_ips_found_message: 'Inga IP-adresser hittades för användaren.'
+  lib:
+    modal:
+      check_button: Check
+      save_button: Spara
+      ban_ip_confirmation: 'Är du säker på att du vill blockera denna IP-adress från att användas på forumet? Detta kommer att blockera användare med denna IP-adress(er) från att logga in och registrera sig.'
+      unban_ip_confirmation: 'Är du säker på att du vill ta bort förbudet för den här användaren och alla andra användare som inte är förbjudna av andra IP-adresser?'
+      unban_ip_no_users: 'Ingen annan kommer att bli avstängd'
+      title: 'Förbjud IP-adresser'
+      unban_title: 'Unban IP-adresser'
+      address_label: IP-adress
+      reason_label: Förnuft
+      ban_button: Förbud
+      unban_button: 'Ta bort bannlysning'
+  ref:
+    ban_label: Förbud
+    ban_ip_addresses: 'Förbjud IP-adresser'
+    ban_ip_button: 'Förbjud IP'
+    unban_label: 'Ta bort bannlysning'
+    unban_ip_addresses: 'Unban IP-adresser'
+    unban_ip_button: 'Unban IP'
+    address_label: IP-adress
+    reason_label: Förnuft
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Uppgifter om din registrering har hittats i en databas för förebyggande av skräppost, och därför har din registrering blockerats.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Ta bort diskussioner'
+      hard_delete_discussions_help: 'Detta kommer permanent att ta bort alla diskussioner som startats av den här användaren. När det är inaktiverat kommer diskussioner att döljas i stället.'
+      hard_delete_posts_label: 'Ta bort inlägg'
+      hard_delete_posts_help: 'Detta kommer permanent att radera alla inlägg (kommentarer, svar, etc.) som gjorts av den här användaren. När det är inaktiverat kommer inlägg att döljas istället.'
+      hard_delete_user_label: 'Ta bort användare'
+      hard_delete_user_help: 'Detta kommer att ta bort användaren permanent. När den är inaktiverad stängs användaren av i stället.'
+      intro: 'När du markerar en användare som en spammare kommer flera åtgärder att vidtas, vilket beror på vilka tillägg som finns tillgängliga på ditt forum.'
+      move_discussions_tag_label: 'Flytta diskussioner till taggen i karantän'
+      move_discussions_tag_help: 'Detta kommer att flytta alla diskussioner som startats av den här användaren till den tagg du angav i forumets inställningar. När det är inaktiverat kommer diskussioner att lämnas i sina nuvarande taggar.'
+      process_button: Process
+      report_to_sfs_label: 'Rapportera till StopForumSpam'
+      report_to_sfs_help: 'Detta kommer att rapportera användarens grundläggande uppgifter (användarnamn, e-post, IP-adress) till StopForumSpam. Detta kommer att hjälpa till att förhindra användaren från att registrera sig på andra forum som använder tjänsten StopForumSpam.'
+    user_controls:
+      spammer_button: Spammare
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Återställa antalet diskussionsvisningar'
+      submit: Inlämna
+      label: 'Ställ in på antal visningar'
+    discussion_controls:
+      resetviews_button: 'Ställ in antal visningar'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: 'Ta bort klibbiga'
+      sticky_button: Klibbig
+    badge:
+      sticky_tooltip: Klibbig
+  ref:
+    sticky: Klibbig
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Låst
+    discussion_controls:
+      lock_button: Lås
+      unlock_button: 'Låsa upp'
+    settings:
+      notify_discussion_locked_label: 'Någon låser en diskussion som jag har startat'
+flarum-likes:
+  forum:
+    post:
+      like_link: 'Tycka om'
+      unlike_link: Olik
+      you_text: Du
+    post_likes:
+      title: 'Användare som gillar detta'
+      load_more_button: 'Ladda mer'
+    settings:
+      notify_post_liked_label: 'Någon gillar ett av mina inlägg'
+    user:
+      likes_link: Gillar
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Infoga emoji'
+      type_to_search_text: 'Skriv för att söka efter en emoji'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Ditt innehåll är för stort, läs våra riktlinjer för publicering' }
+dhtml-persona:
+  forum:
+    persona: Person
+dhtml-leaderboard:
+  forum:
+    leaderboard: Topplista
+dhtml-gender:
+  forum:
+    male: Manlig
+    female: Kvinnlig
+    other: 'Föredrar att inte säga'
+    inputGender: Genus
+    saveButton: Spara
+    clickToSelectGender: 'Välj ditt kön'
+    genderSaved: 'Könet har räddats!'
+    field_placeholder: 'Bekräfta kön'
+    binding_gender: 'Vi upptäckte att du inte har angett ditt kön. Ange ditt kön först. Du kan bara posta och lämna meddelanden efter att du har ställt in ditt kön.'
+    binding_gender_click: 'Klicka nu'
+flarum-content-pages:
+  forum:
+    home: Hem
+    about-us: 'Om oss'
+    guidelines: Riktlinjer
+    privacy-policy: Integritetspolicy
+    terms-of-use: 'Villkor för användning'
+    contact-us: 'Kontakta oss'
+    download-app: 'Ladda ner appen'
+    discord-chat: Discord-chatt
+    tags-cloud: 'Taggar: Moln'
+    languages: Språk
+    leaderboard: Topplista
+    live: 'Livet Live'
+    live-coding: 'Live Coding'
+    challenges: Utmaningar
+    dev-challenges: 'Dev utmaningar'
+    jobs: Jobb
+    community: gemenskap
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Job Posting'
+    job-postings: 'Job Postings'
+    workshops: Workshops
+    dev-workshops: 'Dev Workshops'
+    events: Händelser
+    conferences: Konferenser
+    event-conferences: Evenemang/konferenser
+    showcase: Showcase
+    tags: Taggar
+    more: Mer
+    memberships: Medlemskap
+    members: Medlemmar
+    general-discussion: 'Allmänna diskussioner'
+    technology-articles: 'Tekniska artiklar'
+    coding-challenges: Kodningsutmaningar
+    q-a: Q/A-avsnitt
+    artificial-intelligence: 'Artificiell intelligens'
+    computer-science: Datorvetenskap
+    programming-languages: Programmeringsspråk
+    development-tools: utvecklingsverktyg
+    software-development: Programvaruutveckling
+    frontend-development: 'Frontend utveckling'
+    backend-development: 'Backend Development'
+    software-engineering: 'Software Engineering'
+    cybersecurity: Cybersäkerhet
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Räknare för tecken'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Redigera födelsedatum'
+      date_of_birth_text: Födelsedatum
+      submit_button: 'Spara ändringar'
+    settings:
+      change_dob_label: 'Ändra födelsedatum'
+      show_dob_date_label: 'Visa födelsedag och födelsemånad'
+      show_dob_year_label: 'Visa födelseår'
+      show_dob_year_help: 'Detta gör att andra kan se din ålder.'
+      dob_heading: Födelsedatum
+    nav:
+      nav_item: 'Dagens födelsedagar'
+    edit_user:
+      dob_heading: Födelsedatum
+    sign_up:
+      dob_placeholder: Födelsedatum
+  api:
+    invalid_dob_message: 'Ogiltigt födelsedatum'
+  ref:
+    date_of_birth: Födelsedatum
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: Emoji-väljare
+    search_placeholder: Söka...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Redigera författare och datum'
+    modal:
+      title-post: 'Redigera inläggets författare och datum'
+      title-discussion: 'Redigera diskussionens författare och datum'
+      user: Författare
+      created_at: 'Tid för skapande'
+      edited_at: 'Redigera tid'
+      sync-with-discussion: 'Synkronisera med diskussion'
+      sync-with-post: 'Synkronisera med första inlägget'
+      sync-impossible: 'Kan inte hitta första inlägget. Prova att bläddra till början av diskussionen.'
+      submit: Spara
+      cancel: Annullera
+    search:
+      placeholder: 'Sök efter användare'
+      type-more: 'Skriv 3 tecken för att söka i databasen'
+      no-results: 'Inga resultat'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Växla RTF-läge'
+      insert_button: Infoga
+      insert_image: { src_placeholder: Länk, title_placeholder: Titel }
+      insert_link: { text_placeholder: SMS, href_placeholder: URL, title_placeholder: 'Titel (visas när du håller muspekaren)', remove_button: Avlägsna }
+      additional_items_tooltip: 'Ytterligare kontroller'
+      code_block_tooltip: 'Infoga ett kodblock'
+      horizontal_rule_tooltip: 'Infoga vågrät linje'
+      image_tooltip: 'Lägga till en bild'
+      link_tooltip: 'Lägg till en länk'
+      spoiler_block_tooltip: 'Blockera spoiler/rullgardinsmeny'
+      strike_tooltip: 'Genomstruken <alt-shift-5>'
+      text_type_tooltip: 'Välj texttyp'
+  forum:
+    settings:
+      composer_heading: Kompositör
+      use_rich_text_editor_label: 'Använder du RTF-redigerare?'
+      rich_text_compact_paragraphs_label: 'Avgränsa inte stycken med ny rad.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Du har push-meddelanden aktiverade, men har inte konfigurerat den här enheten.'
+      optin_button: Konfigurera
+    discussion_controls:
+      share_button: Aktie
+    post_controls:
+      share_button: Aktie
+    user_controls:
+      share_button: Aktie
+    settings:
+      push_header: Trycka
+      pwa_notifications: { access_default: 'På grund av webbläsarbegränsningar måste du välja att ta emot push-meddelanden på den här enheten.', access_default_button: 'Anmäl dig', access_denied: 'Du måste justera dina webbläsarinställningar för att få push-meddelanden på den här enheten.', access_denied_button: 'Lära sig', no_browser_support: 'Den här webbläsaren stöder inte push-meddelanden för progressiva webbappar.', no_browser_support_button: 'Lära sig mer' }
+  views:
+    offline:
+      header: 'Fel vid nätverksanslutning'
+      text: 'Den här appen kräver en nätverksanslutning. Den kan inte användas offline. Kontrollera din anslutning.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Varna användaren'
+    user:
+      warnings: 'Moderator Varningar'
+    settings:
+      warning_notification_label: 'En moderator varnar mig'
+    validation:
+      public_comment_required: 'Du ger mest en offentlig kommentar.'
+      invalid_strike_count: 'Antalet strykningar måste vara ett heltal mellan 0 och 5.'
+    warning_controls:
+      delete_button: Avlägsna
+      restore_button: Återställa
+      delete_forever_button: 'Ta bort permanent'
+    warning_list:
+      add_button: 'Ny varning'
+      no_warnings: 'Det ser ut som att det inte finns några varningar här.'
+      warnings_no_strikes: 'Moderatorvarningar: Inga varningar mottagna'
+    warning_list_item:
+      public_comment: Varning
+      private_comment: 'Moderator-Synliga Kommentarer'
+      linked_post: 'Länkat inlägg'
+    warning_modal:
+      confirmation_message: 'Din varning har sparats. Du kan behöva uppdatera sidan för att se den.'
+      strikes_heading: 'Hur många strejker ska tillämpas?'
+      submit_button: 'Spara varning'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Redigera svarsmall'
+    reply_template:
+      title: 'Redigera svarsmall'
+      submit_button: 'Spara svarsmall'

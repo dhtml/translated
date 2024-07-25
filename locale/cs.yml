@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Heslo, které jste zadali, je nesprávné.'
+      confirm_password_placeholder: 'Potvrdit heslo'
+      dismiss_button: OK
+      submit_button: 'Uložit změny'
+      title: 'Změnit e-mail'
+    change_password:
+      send_button: 'Odeslat e-mail pro obnovení hesla'
+      text: 'Klikněte na tlačítko níže a zkontrolujte svůj e-mail, zda neobsahuje odkaz na změnu hesla.'
+      title: 'Změnit heslo'
+    composer:
+      close_tooltip: Zavřít
+      exit_full_screen_tooltip: 'Ukončit režim celé obrazovky'
+      full_screen_tooltip: 'Celá obrazovka'
+      minimize_tooltip: Minimalizovat
+      preview_tooltip: Náhled
+    composer_discussion:
+      body_placeholder: 'Napsat příspěvek...'
+      discard_confirmation: 'Nevložili jste svou diskusi. Chcete se ho zbavit?'
+      submit_button: 'Přidat diskuzi'
+      title_placeholder: 'Název diskuze'
+      title: 'Zahájení diskuze'
+    composer_edit:
+      discard_confirmation: 'Neuložili jste změny. Chcete se jich zbavit?'
+      edited_message: 'Vaše úprava byla provedena.'
+      submit_button: 'Uložit změny'
+      view_button: Pohled
+    composer_reply:
+      discard_confirmation: 'Svou odpověď jste nezveřejnili. Chcete se ho zbavit?'
+      posted_message: 'Vaše odpověď byla zveřejněna.'
+      submit_button: 'Odpovědět na příspěvek'
+      body_placeholder: 'Napsat odpověď...'
+      view_button: Pohled
+    discussion_controls:
+      cannot_reply_button: 'Nelze odpovědět'
+      cannot_reply_text: 'Nemáte oprávnění odpovídat na tuto diskusi.'
+      delete_confirmation: 'Opravdu chcete smazat tuto diskuzi?'
+      log_in_to_reply_button: 'Přihlaste se do Odpovědět'
+      toggle_dropdown_accessible_label: 'Přepnout rozbalovací nabídku akcí diskuse'
+      delete_button: Vymazat
+      delete_forever_button: 'Smazat navždy'
+      rename_button: Přejmenovat
+      reply_button: Odpověď
+      restore_button: Obnovit
+    discussion_list:
+      empty_text: 'Vypadá to, jako by se zde žádné diskuse nekonaly.'
+      load_more_button: 'Načíst více'
+    forgot_password:
+      email_sent_message: 'Pokud je e-mail, který jste zadali, registrován na tomto webu, zašleme vám e-mail obsahující odkaz na obnovení vašeho hesla. Zkontrolujte si složku se spamem, pokud ji nedostanete během několika minut.'
+      not_found_message: 'Na tuto e-mailovou adresu není registrovaný žádný uživatel.'
+      submit_button: 'Obnovit heslo'
+      text: 'Zadejte svou e-mailovou adresu a my vám zašleme odkaz pro obnovení vašeho hesla.'
+      title: 'Zapomněli jsme heslo'
+      dismiss_button: OK
+      email_placeholder: Email
+    header:
+      admin_button: 'Způsob podání'
+      back_to_index_tooltip: 'Zpět na diskuzi'
+      locale_dropdown_accessible_label: 'Změna národního prostředí fóra'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Vymazat vyhledávací dotaz'
+      search_placeholder: 'Hledat ve fóru'
+      search_role_label: 'Hledat ve fóru'
+      session_dropdown_accessible_label: 'Přepnout rozbalovací nabídku možností relace'
+      log_in_link: 'Přihlásit se'
+      log_out_button: 'Odhlášení ze systému'
+      settings_button: Nastavení
+      sign_up_link: Registrace
+    index:
+      cannot_start_discussion_button: 'Nelze zahájit diskusi'
+      mark_all_as_read_confirmation: 'Opravdu chcete označit všechny diskuse jako přečtené?'
+      refresh_tooltip: Osvěžit
+      toggle_sidenav_dropdown_accessible_label: 'Přepnout navigační rozbalovací nabídku'
+      all_discussions_link: 'Všechny diskuze'
+      mark_all_as_read_tooltip: 'Označit vše jako přečtené'
+      meta_title_text: 'Všechny diskuze'
+      start_discussion_button: 'Zahájení diskuze'
+    index_sort:
+      latest_button: Nejnovější
+      newest_button: Nejnovější
+      oldest_button: Nejstarší
+      relevance_button: Význam
+      toggle_dropdown_accessible_label: 'Změna řazení diskusních seznamů'
+      top_button: Vrchol
+      hot_button: Trendy
+      votes_button: 'Kladné hlasy'
+      front_button: 'Aplikace FrontPage'
+      popular_button: Populární
+      unpopular_button: Nepopulární
+    log_in:
+      forgot_password_link: 'Zapomněli jste heslo?'
+      invalid_login_message: 'Vaše přihlašovací údaje byly nesprávné.'
+      remember_me_label: 'Zapamatovat si mě'
+      sign_up_text: 'Nemáte účet? <a>Registrace</a>'
+      username_or_email_placeholder: 'Uživatelské jméno nebo e-mail'
+      password_placeholder: Heslo
+      submit_button: 'Přihlásit se'
+      title: 'Přihlásit se'
+    notifications:
+      delete_all_confirm: 'Opravdu chcete smazat všechna oznámení? Tato akce není reverzibilní'
+      delete_all_tooltip: 'Smazat všechna oznámení'
+      empty_text: 'Žádná oznámení'
+      mark_as_read_tooltip: 'Označit jako přečtené'
+      toggle_dropdown_accessible_label: 'Zobrazení oznámení'
+      mark_all_as_read_tooltip: 'Označit vše jako přečtené'
+      title: Upozornění
+      tooltip: Upozornění
+    post:
+      edited_text: Editovaný
+    post_controls:
+      delete_confirmation: 'Opravdu chcete smazat tento příspěvek navždy? Tuto akci nelze vrátit zpět.'
+      hide_confirmation: 'Opravdu chcete smazat tento příspěvek?'
+      toggle_dropdown_accessible_label: 'Přepnout rozbalovací nabídku ovládacích prvků příspěvků'
+      push_to_front_button: 'Odeslat do aplikace FrontPage'
+      pull_from_front_button: 'Stažení z aplikace FrontPage'
+      delete_button: Vymazat
+      delete_forever_button: 'Smazat navždy'
+      edit_button: Upravit
+      restore_button: Obnovit
+    post_scrubber:
+      now_link: Teď
+      original_post_link: 'Původní příspěvek'
+    post_stream:
+      load_more_button: 'Načíst více'
+      reply_placeholder: 'Napsat odpověď...'
+    rename_discussion:
+      title: 'Diskuze o přejmenování'
+      submit_button: Přejmenovat
+    search:
+      discussions_heading: Diskuse
+      users_heading: Uživatelé
+    security:
+      cannot_terminate_current_session: 'Nelze ukončit aktuální aktivní relaci. Místo toho se odhlaste.'
+      created: Vytvořil
+      current_active_session: 'Aktuální aktivní relace'
+      developer_tokens_heading: 'Vývojářské tokeny'
+      empty_text: 'Vypadá to, že tu není nic k vidění.'
+      global_logout: { heading: 'Globální odhlášení', help_text: 'Vymaže aktuální relaci souborů cookie, ukončí všechny relace, odvolá vývojářské tokeny a zneplatní všechny e-maily s potvrzením e-mailu nebo e-mailem pro obnovení hesla.', log_out_button: 'Odhlášení ze systému' }
+      hide_access_token: 'Skrýt token'
+      last_activity: 'Poslední aktivita'
+      new_access_token_modal: { submit_button: 'Vytvořit token', title_placeholder: Titul, title: 'Nový token' }
+      revoke_access_token: Odvolat
+      sessions_heading: 'Aktivní relace'
+      session_termination_failed: 'Při ukončování relací došlo k chybě.'
+      show_access_token: 'Zobrazit token'
+      terminate_all_other_sessions: 'Ukončit všechny ostatní relace'
+      terminate_session: Ukončit
+      token_revoked: 'Token byl odvolán.'
+      token_title_placeholder: /
+      never: Nikdy
+      new_access_token_button: 'Nový token'
+      revoke_access_token_confirmation: 'Opravdu chcete pokračovat? Tuto akci nelze vrátit zpět.'
+      terminate_all_other_sessions_confirmation: 'Opravdu chcete pokračovat? Tuto akci nelze vrátit zpět.'
+      title: Bezpečnost
+    settings:
+      account_heading: Účet
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Někdo přejmenuje diskusi, kterou jsem začal'
+      privacy_disclose_online_label: 'Umožněte ostatním vidět, kdy jsem online'
+      privacy_heading: Soukromí
+      change_email_button: 'Změnit e-mail'
+      change_password_button: 'Změnit heslo'
+      notifications_heading: Upozornění
+      notify_by_email_heading: Email
+      title: Nastavení
+    sign_up:
+      log_in_text: 'Už máte účet? <a>Přihlásit se</a>'
+      dismiss_button: OK
+      email_placeholder: Email
+      password_placeholder: Heslo
+      submit_button: Registrace
+      title: Registrace
+      username_placeholder: 'Uživatelské jméno'
+    user:
+      avatar_upload_button: Upload
+      avatar_upload_tooltip: 'Nahrání nového avatara'
+      online_text: Online
+      posts_empty_text: 'Vypadá to, že zde nejsou žádné příspěvky.'
+      avatar_remove_button: Odstranit
+      discussions_link: Diskuse
+      posts_link: Odesílá
+      posts_load_more_button: 'Načíst více'
+      security_link: Bezpečnost
+      settings_link: Nastavení
+    user_controls:
+      button: Řízení
+      delete_confirmation: 'Opravdu chcete odstranit tohoto uživatele? Příspěvky uživatele NEBUDOU smazány.'
+      toggle_dropdown_accessible_label: 'Přepnout rozbalovací nabídku uživatelských ovládacích prvků'
+      delete_button: Vymazat
+      edit_button: Upravit
+    user_email_confirmation:
+      resend_button: 'Znovu odeslat potvrzovací e-mail'
+      sent_message: Poslal
+    welcome_hero:
+      hide: 'Skrýt uvítací zprávu'
+    badge:
+      frontpage_tooltip: 'Označeno jako FrontPage'
+  lib:
+    debug_button: Ladicí
+    alert:
+      dismiss_a11y_label: 'Zavřít upozornění'
+    badge:
+      hidden_tooltip: Schovaný
+    dropdown:
+      toggle_dropdown_accessible_label: 'Přepnout rozbalovací nabídku'
+    edit_user:
+      activate_button: 'Aktivovat uživatele'
+      groups_heading: Skupiny
+      set_password_label: 'Nastavit nové heslo'
+      nothing_available: 'Tohoto uživatele není dovoleno upravovat.'
+      email_heading: Email
+      email_label: Email
+      password_heading: Heslo
+      password_label: Heslo
+      submit_button: 'Uložit změny'
+      title: 'Upravit uživatele'
+      username_heading: 'Uživatelské jméno'
+      username_label: 'Uživatelské jméno'
+    error:
+      generic_message: 'Jejda! Něco se pokazilo. Načtěte prosím stránku znovu a zkuste to znovu.'
+      generic_cross_origin_message: 'Jejda! Něco se pokazilo během žádosti mezi zdroji. Načtěte prosím stránku znovu a zkuste to znovu.'
+      not_found_message: 'Požadovaný zdroj nebyl nalezen.'
+      payload_too_large_message: 'Datová část požadavku byla příliš velká.'
+      permission_denied_message: 'Nemáte k tomu oprávnění.'
+      rate_limit_exceeded_message: 'Jedete trochu moc rychle. Zkuste to prosím znovu za několik sekund.'
+      render_failed_message: 'Omlouváme se, ale při zobrazování tohoto obsahu došlo k chybě. Pokud jste uživatel, zkuste to znovu později. Pokud jste správce, podívejte se do souborů protokolu Flarum, kde najdete další informace.'
+    modal:
+      close: Zavřít
+    nav:
+      drawer_button: 'Otevřít navigační zásuvku'
+    loading_indicator:
+      accessible_label: Nakládka...
+  views:
+    confirm_email:
+      text: 'Kliknutím na tlačítko níže potvrďte e-mail svého účtu.'
+      submit_button: 'Potvrdit e-mail'
+      title: 'Potvrdit e-mail'
+    content:
+      javascript_disabled_message: 'Tato stránka je nejlépe zobrazena v moderním prohlížeči s povoleným JavaScriptem.'
+      load_error_message: 'Něco se pokazilo při pokusu o načtení plné verze tohoto webu. Zkuste chybu opravit natvrdo obnovením této stránky.'
+      loading_text: Nakládka...
+    error:
+      csrf_token_mismatch: 'Byli jste příliš dlouho neaktivní.'
+      csrf_token_mismatch_return_link: 'Vrať se a zkus to znovu'
+      invalid_confirmation_token: 'Tento potvrzovací odkaz již byl použit nebo je neplatný.'
+      not_authenticated: 'Nemáte oprávnění k přístupu na tuto stránku. Zkuste to znovu po přihlášení.'
+      not_found: 'Požadovaná stránka nebyla nalezena.'
+      permission_denied: 'Nemáte oprávnění k přístupu na tuto stránku.'
+      unknown: 'Při pokusu o načtení této stránky došlo k chybě.'
+    log_out:
+      log_out_button: 'Odhlášení ze systému'
+      title: 'Odhlášení ze systému'
+    reset_password:
+      confirm_password_label: 'Potvrďte nové heslo'
+      new_password_label: 'Nové heslo'
+      submit_button: 'Uložit změny'
+      title: 'Resetování hesla'
+    discussion:
+      next_page_button: 'Další stránka'
+      previous_page_button: 'Předchozí stránka'
+    index:
+      all_discussions_heading: 'Všechny diskuze'
+      next_page_button: 'Další stránka'
+      previous_page_button: 'Předchozí stránka'
+  api:
+    invalid_username_message: 'Uživatelské jméno může obsahovat pouze písmena, číslice a pomlčky.'
+  email:
+    activate_account:
+      subject: 'Aktivujte svůj nový účet'
+    confirm_email:
+      subject: 'Potvrďte svou novou e-mailovou adresu'
+    reset_password:
+      subject: 'Resetování hesla'
+    send_test:
+      subject: 'Test e-mailů Flarum'
+  ref:
+    all_discussions: 'Všechny diskuze'
+    change_email: 'Změnit e-mail'
+    change_password: 'Změnit heslo'
+    color: Barva
+    confirm_password: 'Potvrdit heslo'
+    confirm_email: 'Potvrdit e-mail'
+    custom_footer_text: 'Přidejte HTML, které se zobrazí úplně dole na stránce.'
+    custom_footer_title: 'Upravit vlastní zápatí'
+    custom_header_text: 'Přidejte HTML, které se zobrazí úplně nahoře na stránce, nad vlastním záhlavím Flarum.'
+    custom_header_title: 'Upravit vlastní záhlaví'
+    delete: Vymazat
+    delete_forever: 'Smazat navždy'
+    discussions: Diskuse
+    edit: Upravit
+    edit_user: 'Upravit uživatele'
+    email: Email
+    extensions: Rozšíření
+    generic_confirmation_message: 'Opravdu chcete pokračovat? Tuto akci nelze vrátit zpět.'
+    icon: Ikona
+    load_more: 'Načíst více'
+    loading: Nakládka...
+    log_in: 'Přihlásit se'
+    log_out: 'Odhlášení ze systému'
+    mark_all_as_read: 'Označit vše jako přečtené'
+    never: Nikdy
+    new_token: 'Nový token'
+    next_page: 'Další stránka'
+    notifications: Upozornění
+    okay: OK
+    password: Heslo
+    posts: Odesílá
+    previous_page: 'Předchozí stránka'
+    remove: Odstranit
+    rename: Přejmenovat
+    reply: Odpověď
+    reset_your_password: 'Resetování hesla'
+    restore: Obnovit
+    save_changes: 'Uložit změny'
+    search_users: 'Vyhledávání uživatelů'
+    security: Bezpečnost
+    settings: Nastavení
+    sign_up: Registrace
+    start_a_discussion: 'Zahájení diskuze'
+    username: 'Uživatelské jméno'
+    users: Uživatelé
+    view: Pohled
+    write_a_reply: 'Napsat odpověď...'
+    you: Ty
+  group:
+    admin: Admin
+    admins: Správci
+    guest: Host
+    guests: Hosté
+    member: Člen
+    members: Členové
+    mod: Způsob
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Všechny štítky'
+      meta_title_text: Visačky
+    choose_tags:
+      title: 'Vyberte si tagy pro vaši diskusi'
+    discussion_controls:
+      edit_tags_button: 'Upravit tagy'
+    header:
+      back_to_tags_tooltip: 'Zpět na seznam tagů'
+    index:
+      more_link: Více...
+      untagged_link: Neoznačený
+      tags_link: Visačky
+    composer_discussion:
+      choose_tags_link: 'Vybrat štítky'
+  lib:
+    deleted_tag_text: Smazaný
+    tag_selection_modal:
+      bypass_requirements: 'Požadavky na obejití značky'
+      submit_button: OK
+      title: 'Vybrat štítky'
+  ref:
+    choose_tags: 'Vybrat štítky'
+    name: Jméno
+    tags: Visačky
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Zmínka o uživateli, skupině nebo příspěvku'
+    mentioned_by:
+      title: 'Odpovědi na tento příspěvek'
+      load_more_button: 'Načíst více'
+    post:
+      quote_button: Citát
+      reply_link: Odpověď
+      you_text: Ty
+    settings:
+      notify_post_mentioned_label: 'Někdo odpoví na jeden z mých příspěvků'
+      notify_user_mentioned_label: 'Někdo se o mně zmíní v příspěvku'
+      notify_group_mentioned_label: 'Někdo se v příspěvku zmíní o skupině, jejímž jsem členem.'
+    user:
+      mentions_link: Zmiňuje
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Přestat sledovat'
+      unignore_button: Unsir
+      follow_button: Následovat
+    settings:
+      follow_after_reply_label: 'Automaticky sledovat diskuse, na které odpovídám'
+      notify_for_all_posts_label: 'Upozorňovat na každý nový příspěvek, nikoli pouze na ten poslední v diskusi'
+      notify_new_post_label: 'Někdo přispěje do diskuse, kterou sleduji'
+    sub_controls:
+      following_text: 'Buďte informováni o všech odpovědích.'
+      ignoring_text: 'Nikdy nebuďte upozorněni. Skrýt se v diskusním seznamu.'
+      not_following_button: Nedodržování
+      not_following_text: 'Buďte upozorněni pouze v případě, že @mentioned.'
+      notify_alert_tooltip: 'Dostávejte upozornění fóra, když se objeví nové příspěvky'
+      notify_email_tooltip: 'Dostávejte e-maily, když se objeví nové příspěvky'
+      follow_button: Následovat
+      following_button: Následující
+      ignoring_button: Ignorující
+    badge:
+      following_tooltip: Následující
+      ignoring_tooltip: Ignorující
+    following:
+      meta_title_text: Následující
+    index:
+      following_link: Následující
+  ref:
+    follow: Následovat
+    following: Následující
+    ignoring: Ignorující
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Děkujeme za označení tohoto příspěvku. Naši moderátoři se na to podívají.'
+      reason_inappropriate_label: Nevhodný
+      reason_inappropriate_text: 'Tento příspěvek je urážlivý, urážlivý nebo porušuje <a>naše pokyny pro komunitu</a>.'
+      reason_missing_message: 'Uveďte prosím nějaké podrobnosti pro naše moderátory.'
+      reason_off_topic_label: 'Mimo téma'
+      reason_off_topic_text: 'Tento příspěvek není relevantní k současné diskusi a měl by být přesunut jinam.'
+      reason_other_label: 'Jiné (prosím upřesněte)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Tento příspěvek je reklama.'
+      dismiss_button: OK
+      submit_button: 'Vlajkový příspěvek'
+      title: 'Vlajkový příspěvek'
+    flagged_posts:
+      empty_text: 'Žádné vlajky'
+      title: 'Označené příspěvky'
+      tooltip: 'Označené příspěvky'
+    post:
+      dismiss_flag_button: 'Zavřít příznak'
+    post_controls:
+      flag_button: Vlajka
+  ref:
+    flag_post: 'Vlajkový příspěvek'
+    flagged_posts: 'Označené příspěvky'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Byli jste suspendováni na dobu neurčitou'
+      user_unsuspended_text: 'Pozastavení vám bylo zrušeno'
+    suspension_info:
+      dismiss_button: Propustit
+      indefinite: 'Jedná se o pozastavení na dobu neurčitou'
+      title: 'Tento účet je pozastaven'
+    suspend_user:
+      display_message: 'Zobrazit zprávu pro uživatele'
+      indefinitely_label: 'Pozastaveno na dobu neurčitou'
+      limited_time_days_text: ' Dny'
+      limited_time_label: 'Pozastaveno na omezenou dobu...'
+      not_suspended_label: 'Není zavěšeno'
+      placeholder_optional: Volitelný
+      reason: 'Důvod pozastavení'
+      status_heading: 'Stav pozastavení'
+      submit_button: 'Uložit změny'
+    user_badge:
+      suspended_tooltip: Pozastavený
+    user_controls:
+      suspend_button: Přerušit
+  email:
+    no_reason_given: 'Pro toto pozastavení nebyl uveden žádný důvod.'
+    suspended:
+      subject: 'Váš účet byl pozastaven'
+    unsuspended:
+      subject: 'Váš účet byl odblokován.'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Všechny soubory nahrané uživatelem.', anonymize_description: 'Odebere odkaz na uživatele z nahraných souborů. Samotné soubory zůstávají přístupné uživatelům, kteří by si je mohli prohlížet před anonymizací.', delete_description: 'Smaže všechny soubory nahrané uživatelem.' }
+      tagsubscription: { export_description: 'Exportuje podrobnosti o úrovni předplatného pro značku, pokud existuje.', anonymize_description: 'Odebere přihlášení uživatele ke značce.' }
+      followuser: { export_description: 'Exportuje podrobnosti o sledovaných uživatelích a uživatelích, kteří je sledují.', delete_description: 'Smaže všechna data související se sledováním uživatelů.', anonymize_description: 'Smaže všechna data související se sledováním uživatelů.' }
+      bannedipdata: { export_description: 'Pokud je k uživateli přidružen záznam o zákazu IP (tj. uživatel byl zablokován IP adresou), bude do exportu zahrnuta IP adresa uživatele spolu s důvodem zákazu a datem vytvoření.', anonymize_description: 'Všechny IP adresy spojené s uživatelem jsou odděleny, ale samotná IP adresa zůstane zakázána spolu s důvodem. Ujistěte se, že v poli "důvod" nejsou uloženy žádné údaje PII.' }
+fof-upload:
+  forum:
+    media_manager: 'Manažer médií'
+    buttons:
+      attach: Připojit
+      upload: Upload
+      upload_shared: Společný
+      user_uploads: 'Nahrávání uživatelů'
+      cancel: Zrušit
+      media: 'Moje média'
+      shared_media: 'Sdílená média'
+    states:
+      error: Chyba
+      loading: Nahrávání
+      unauthorized: 'Není povoleno stahovat soubory'
+    text_preview:
+      expand: 'Rozbalit náhled'
+      collapse: 'Sbalit náhled'
+      error: "Chyba při zobrazení náhledu souboru. Je možné, že byl odstraněn nebo je zadané ID souboru neplatné.\n"
+      no_snippet_preview: '< náhled se zde zobrazí po zveřejnění>'
+      no_snippet: '<Není k dispozici žádný úryvek náhledu>'
+  api:
+    upload_errors:
+      forbidden_type: 'Nahrávání souborů tohoto typu není povoleno.'
+      could_not_detect_mime: 'Nelze zjistit typ MIME tohoto souboru, zkuste to prosím znovu.'
+      max_upload_file_size_ini: 'Z php.ini byl dosažen limit maximální velikosti nahrávaného souboru.'
+      max_upload_file_size_form: 'Z formuláře byl dosažen limit maximální velikosti souboru pro nahrávání.'
+      partial_upload: 'Částečné nahrání.'
+      no_file_uploaded: 'Nebyl nahrán žádný soubor.'
+      no_upload_tmp_folder: 'Žádná složka tmp pro nahrávání souborů.'
+      cannot_write_to_disk: 'Nelze zapisovat na disk.'
+      upload_blocked_by_php_extension: 'Rozšíření php zablokovalo nahrávání.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Nový sdílený soubor'
+      dropzone: 'Přetáhněte soubory sem nebo klikněte pro procházení'
+      hide-from-media-gallery: 'Skrýt v galerii médií uživatele'
+      upload: Upload
+    file_list:
+      loading: 'Načítání souborů...'
+      empty: 'Nejsou k dispozici žádné soubory, které by bylo možné zobrazit.'
+      release_to_upload: 'Uvolnění k nahrání'
+      modal_empty_desktop: 'Seznam souborů je prázdný. Klikněte na tlačítko nebo přetáhněte soubor sem a nahrajte jej.'
+      modal_empty_phone: 'Seznam souborů je prázdný. Klepnutím na tlačítko výše nahrajete soubor.'
+      load_more_files_btn: 'Načíst další soubory'
+      hide_file: { hide_success: 'Soubor skrytý', show_success: 'Zobrazený soubor', loading: 'Skrytí souboru...' }
+      hide_shared_file: { hide_success: 'Soubor se stal soukromým', show_success: 'Zveřejnění souboru', loading: 'Nastavení souboru jako soukromého...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: napsal
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Přidání tučného textu'
+      code_tooltip: 'Vložení kódu'
+      header_tooltip: 'Přidání textu záhlaví'
+      image_tooltip: 'Přidání obrázku'
+      italic_tooltip: 'Přidání textu kurzívou'
+      link_tooltip: 'Přidání odkazu'
+      ordered_list_tooltip: 'Přidání číslovaného seznamu'
+      quote_tooltip: 'Vložení citátu'
+      spoiler_tooltip: 'Vložení spoileru'
+      strikethrough_tooltip: 'Přidání přeškrtnutého textu'
+      unordered_list_tooltip: 'Přidání seznamu s odrážkami'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Někdo vytvoří diskuzi ve tagu, který sleduji.'
+      notify_new_post_label: 'Někdo zveřejní příspěvek ve tagu, který sleduji'
+      notify_new_discussion_tag_label: 'Někdo přetaguje diskusi na tag, který sleduji.'
+    index:
+      follow_tag_button: Následovat
+      unfollow_tag_button: 'Přestat sledovat'
+      following: { following_none_label: 'Sledované diskuze', following_tags_label: 'Sledované značky' }
+    badge:
+      following_tag_tooltip: Následující
+      lurking_tag_tooltip: Číhající
+    sub_controls:
+      following_text: 'Buďte informováni o všech nových diskusích.'
+      hiding_text: 'Skrýt diskuse na stránce Všechny diskuse.'
+      ignoring_text: 'Nikdy nebuďte upozorněni.'
+      lurking_text: 'Buďte informováni o všech nových diskusích a odpovědích.'
+      not_following_button: Nedodržování
+      not_following_text: 'Buďte upozorněni pouze v případě, že @mentioned.'
+      notify_alert_tooltip: 'Dostávejte upozornění fóra, když se objeví nové diskuse nebo příspěvky'
+      notify_email_tooltip: 'Dostávejte e-maily, když se objeví nové diskuse nebo příspěvky'
+      submit_button: 'Potvrdit přihlášení k odběru'
+      follow_button: Následovat
+      following_button: Následující
+      hiding_button: Výprask
+      ignoring_button: Ignorující
+      lurking_button: Číhající
+    user:
+      settings: { heading: 'Sledovat značky', filter_label: 'Co se má zobrazit ve výchozím nastavení na následující stránce' }
+  ref:
+    follow: Následovat
+    following: Následující
+    hiding: Výprask
+    ignoring: Ignorující
+    lurking: Číhající
+    filtering_options:
+      none: 'Sledované diskuze'
+      tags: 'Sledované značky'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Tato přezdívka je neplatná. Pro více informací o pravidlech pro přezdívky kontaktujte prosím svého administrátora fóra.'
+  ref:
+    change_nickname: 'Změnit přezdívku'
+    nickname: Přezdívka
+  forum:
+    change_nickname:
+      submit_button: 'Uložit změny'
+      title: 'Změnit přezdívku'
+    edit_user:
+      nicknames_heading: 'Změnit přezdívku'
+      nicknames_text: Přezdívka
+    settings:
+      change_nickname_button: 'Změnit přezdívku'
+    sign_up:
+      nickname_placeholder: Přezdívka
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Propojené účty', last-used-label: 'Naposledy použito', link-created-label: 'Odkaz vytvořen', orphaned-account: 'Dříve jste se přihlašovali prostřednictvím tohoto poskytovatele, ale toto fórum od té doby zakázalo přihlašování pomocí této metody.', help: 'Tyto propojené účty vám umožňují přihlásit se do fóra pomocí jiných poskytovatelů.' } }
+    signup:
+      username_help: 'Zde si prosím vyberte uživatelské jméno, které chcete znát'
+    unlink: 'Odstranit odkaz'
+    error:
+      bad_verification_code: 'Neplatný ověřovací token nebo ověřovací token, jehož platnost vypršela. Zkuste to prosím znovu.'
+      invalid_state: 'Neplatný stav. Zkuste to prosím znovu.'
+    providers:
+      discord: Svár
+      facebook: 'Na Facebooku'
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Cvrlikat
+  lib:
+    providers:
+      discord: Svár
+      facebook: 'Na Facebooku'
+      github: GitHub
+      gitlab: GitLab
+      twitter: Cvrlikat
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'ID aplikace'
+      app_secret: 'Tajný kód aplikace'
+      client_id: 'ID klienta'
+      client_secret: 'Tajný klíč klienta'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Přihlásit se jako jiný uživatel'
+      placeholder_optional: '(Volitelné) Uveďte důvod pro přechod na tohoto uživatele.'
+      placeholder_required: 'Než budete pokračovat, musíte uvést důvod pro přepnutí na tohoto uživatele'
+    user_controls:
+      impersonate_button: 'Přihlásit se jako uživatel'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Soukromá diskuze' }
+    buttons:
+      add_recipients: Příjemci
+      submit: OK
+      edit_recipients: 'Úprava příjemců'
+      cancel: Zrušit
+      make_public: 'Zveřejnit tuto diskusi'
+      remove_from_discussion: 'Opustit tuto soukromou diskuzi'
+    composer_private_discussion:
+      submit_button: 'Přidat soukromou diskuzi'
+      title_placeholder: 'Název soukromé diskuze'
+    confirm:
+      make_public: 'Opravdu chcete odebrat příjemce a zviditelnit tuto diskusi pro každého, kdo může zobrazit přiřazenou značku?'
+    nav:
+      start_button: 'Diskutujte soukromě'
+      nav_item: 'Soukromé diskuze'
+    input:
+      search_recipients: 'Vyhledejte příjemce zadáním prvních tří znaků...'
+    search:
+      headings: { groups: 'Skupiny oprávnění' }
+    modal:
+      titles: { add_recipients: 'Přidání příjemců do diskuse' }
+      labels: { selected_users: 'Vybraní uživatelé', search_field: 'Vyhledat uživatele' }
+      help: { add_recipients: 'Tato diskuse bude viditelná pouze pro uživatele, které si zde vyberete. Je vyžadován alespoň 1 příjemce (jiný než vy).', update_recipients: 'Tato diskuse bude viditelná pouze pro uživatele, které si zde vyberete.', selected_users: 'Kliknutím na jméno uživatele jej odeberete.', click_user_to_remove_tooltip: 'Klepněte pro odstranění' }
+    user:
+      settings: { block_pd: 'Blokování soukromých diskuzí' }
+      byobu_link: 'Soukromé diskuze'
+      dropdown_label: 'Soukromé diskuze'
+    notifications:
+      pd_label: 'Někdo mě zařadí do nové soukromé diskuze'
+      pd_reply_label: 'Někdo vloží příspěvek do soukromé diskuse, které jsem příjemcem'
+      pd_user_left_label: 'Uživatel příjemce zanechá soukromou diskusi, které se účastním'
+      pd_added_label: 'Někdo mě přidá do existující soukromé diskuse.'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informace o odznaku'
+    all_badges: 'Zobrazit všechny odznaky'
+    all_users: 'Zobrazit všechny uživatele'
+    give_badge: 'Darovat odznak'
+    update_badge: 'Odznáček aktualizace'
+    select_badge: 'Vybrat odznak'
+    user_has_badge: 'Uživatel již tento odznáček má.'
+    user_no_badges: 'Tento uživatel zatím nemá žádné odznaky.'
+    no_received: 'Žádný uživatel tento odznak nezískal.'
+    save_changes: 'Uložit změny'
+    badge:
+      badge: Odznak
+      badges: Odznaky
+      name: 'Název odznáčku'
+      description: 'Popis odznaku'
+      earning_reason: 'Důvod získání odznaku'
+      update_earning_reason: 'Aktualizace důvodu výdělku'
+      no_earning_reason: 'Není nastaven žádný důvod výdělku'
+      earned_on: 'Odznak získaný dne'
+      category: 'Kategorie odznaku'
+      badge_details: 'Podrobnosti o odznaku'
+    badges_in_card:
+      title: 'Vizitky v kartě uživatele'
+      manage_badges: 'Správa odznáčků'
+      description: 'Viditelné odznaky ve své uživatelské kartě můžete změnit na jeden ze svých dalších odznaků. Pokud žádné nevyberete, vyberou se automaticky.'
+    moderation:
+      remove_badge: 'Odebrat odznak od uživatele'
+      remove_badge_confirm: 'Opravdu chcete odebrat tento odznak od tohoto uživatele?'
+      give_badge: 'Darovat odznak'
+    notification:
+      title: 'Obdrželi jste nový odznak'
+      settings: 'Obdržel jsem odznak'
+    uncategorized: Nekategorizované
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Bídný stav'
+      not_miserable_label: 'Ne mizerný'
+      indefinitely_label: 'Bídný na neurčito'
+      limited_time_label: 'Na omezenou dobu mizerné...'
+      limited_time_days_text: ' Dny'
+      submit_button: 'Uložit změny'
+    user_badge:
+      miserable_user_tooltip: 'Ubohý uživatel'
+    user_controls:
+      miserable_user_button: 'Ubohý uživatel'
+  ref:
+    miserable_user: 'Ubohý uživatel'
+sycho-profile-cover:
+  forum:
+    cover: Krýt
+    edit_cover: 'Upravit obálku'
+    added:
+      success: 'Kryt profilu byl aktualizován.'
+      error: 'Obrázek se nepodařilo nahrát.'
+    removed:
+      success: 'Odstraněn kryt profilu.'
+      error: 'Kryt nelze sejmout, zkuste to znovu později.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Zkopírovat do schránky'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Poslední návštěvníci', guest: Host }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Kód země'
+    saveButton: Uložit
+    clickToSelectCountry: 'Vyberte svou zemi'
+    countrySaved: 'Země úspěšně zachráněna!'
+    field_placeholder: 'Potvrďte vlajky zemí'
+    binding_country: 'Zjistili jsme, že jste si nestanovil své místo pobytu. Nejprve prosím uveďte svou zemi. Příspěvky a zprávy můžete zanechávat až po propojení vaší země.'
+    binding_country_click: 'Klikněte nyní'
+username-blacklist:
+  forum:
+    modal-title: Varování!
+    modal-body-first-line: 'Upozornění - Toto uživatelské jméno je <strong>blokováno správcem</strong>'
+    modal-body-second-line: 'Zvolte si prosím jiné uživatelské jméno, které neporušuje naše pokyny pro komunitu, a zkuste to znovu.'
+  admin:
+    blackList: 'Uživatelské jméno na černé listině'
+    blackList-help: 'Sem napište uživatelské jméno, které chcete při registraci zablokovat (oddělené čárkou)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Přehled, show-summaries: 'Zobrazení úryvku z každé diskuse v diskusních listech (stolní počítač/tablet)', show-summaries-mobile: 'Zobrazení úryvku z každé diskuse v diskusních listech (mobilní)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Aktivita na fóru'
+      forum_new_discussions: 'Nové diskuze na fóru'
+      discussion_last_posts: 'Tato diskuse'
+      user_last_posts: 'Příspěvky a komentáře tohoto uživatele'
+    feeds:
+      titles: { main_subtitle: 'Poslední příspěvky ve fóru', main_d_subtitle: 'Nejnovější diskuze ve fóru', discussion_subtitle: 'Poslední příspěvky v této diskuzi', user_subtitle: 'Nejnovější příspěvky a komentáře od tohoto uživatele.' }
+    discussion:
+      feed_link: Krmit
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Následoval
+    profile_page:
+      no_following: 'Vypadá to, že nikoho nesledujete.'
+    settings:
+      notify_new_follower_label: 'Někdo mě sleduje'
+      notify_new_unfollower_label: 'Někdo mě přestal sledovat'
+      notify_new_discussion_label: 'Někdo, koho sleduji, zahájí diskusi'
+      notify_new_post_label: 'Někdo, koho sleduji, příspěvky v existující diskuzi'
+      block_follow: 'Zabránit uživatelům ve sledování'
+    badge:
+      label: { follow: 'Následné diskuse', lurk: 'Po všech' }
+    filter:
+      following: 'Sledovaní uživatelé'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Sledování úrovní', follow_select_label: 'Sledovat typ', no_user_attr_provided_err: 'Ehm, něco se pokazilo při otevírání tohoto modalu.', no_user_attr_provided_err_debug: 'Při vytváření nebyl do modálního okna SelectFollowUserLevel předán žádný atribut "user". Modální nelze vykreslit.', save_btn: Uložit, cancel_btn: Zrušit }
+    profile_link: 'Sledovaní uživatelé'
+    user_controls:
+      follow_button: Následovat
+      unfollow_button: 'Přestat sledovat'
+      change_button: 'Změnit typ sledování'
+    index:
+      follow_tag_button: Následovat
+      unfollow_tag_button: 'Změnit typ sledování'
+  email:
+    new_follower_subject: '[Sledovat uživatele] Máte nového následovníka!'
+  lib:
+    following_link: 'Sledovaní uživatelé'
+    follow: Následovat
+    change_follow_type: 'Změnit typ sledování'
+    unfollow: 'Přestat sledovat'
+    follow_levels:
+      unfollow: { name: Nesledovat }
+      follow: { name: 'Sledujte diskuze' }
+      lurk: { name: 'Sledovat vše' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Ujistěte se prosím, že tato požadovaná změna přezdívky je v souladu s pravidly fóra.', decision_title: Rozhodnutí, approval_label: Schválit, rejected_label: Odmítat, submit_button: Podat, reason_title: 'Důvod zamítnutí', success: 'Rozhodnutí odesláno.', title: 'Žádost o změnu přezdívky' }
+      results: { title: 'Žádost o změnu přezdívky', approved: 'Vaše žádost o změnu přezdívky byla schválena', rejected: 'Vaše žádost o změnu přezdívky byla zamítnuta', resubmit: 'V tuto chvíli můžete znovu odeslat novou žádost o změnu přezdívky v nastavení svého účtu, pokud se tak rozhodnete.', dismiss_button: OK }
+      request: { title: 'Žádost o změnu přezdívky', submit_button: 'Odeslat požadavek', delete_button: 'Žádost o smazání', confirmation_message: 'Vaše žádost o změnu přezdívky byla odeslána a čeká na schválení.', deleted: 'Žádost o přezdívku byla smazána.', dismiss_button: OK }
+    username_modals:
+      action: { help_text: 'Ujistěte se prosím, že tato požadovaná změna uživatelského jména je v souladu s pravidly fóra.', decision_title: Rozhodnutí, approval_label: Schválit, rejected_label: Odmítat, submit_button: Podat, reason_title: 'Důvod zamítnutí', success: 'Rozhodnutí odesláno.', title: 'Žádost o změnu uživatelského jména' }
+      results: { title: 'Žádost o změnu uživatelského jména', approved: 'Vaše žádost o změnu uživatelského jména byla schválena', rejected: 'Vaše žádost o změnu uživatelského jména byla zamítnuta.', resubmit: 'V tuto chvíli můžete znovu odeslat novou žádost o změnu uživatelského jména z nastavení svého účtu, pokud se tak rozhodnete.', dismiss_button: OK }
+      request: { title: 'Žádost o změnu uživatelského jména', submit_button: 'Odeslat požadavek', delete_button: 'Žádost o smazání', confirmation_message: 'Vaše žádost o změnu uživatelského jména byla odeslána a čeká na schválení.', deleted: 'Žádost o uživatelské jméno byla odstraněna.', dismiss_button: OK }
+    pending_requests:
+      empty_text: 'Nebyly nalezeny žádné žádosti o změnu názvu.'
+      tooltip: 'Žádosti o změnu názvu'
+      title: 'Žádosti o změnu názvu'
+    settings:
+      nickname_request_button: 'Změnit přezdívku'
+      username_request_button: 'Změnit uživatelské jméno'
+    user:
+      name_history_link: 'Historie názvu'
+  ref:
+    name_change_request: 'Žádost o změnu jména'
+    name_change_requests: 'Žádosti o změnu názvu'
+    nickname_change_request: 'Žádost o změnu přezdívky'
+    nickname_change_requests: 'Žádosti o změnu přezdívky'
+    username_change_request: 'Žádost o změnu uživatelského jména'
+    username_change_requests: 'Žádosti o změnu uživatelského jména'
+  email:
+    body:
+      noReasonProvided: 'Bez udání důvodu.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Napište něco o sobě'
+    profile:
+      cancel_confirm: 'Opravdu chcete zrušit úpravy svého životopisu? Ztratíte všechny změny, které jste provedli.'
+      cancel_button: Zrušit
+      save_button: Uložit
+      edit_bio_label: 'Upravit životopis'
+fof-split:
+  forum:
+    split:
+      from: 'Oddělte se odtud'
+      to: 'Rozdělit na zde'
+      cancel: 'Zrušit rozdělení'
+    modal:
+      title: 'Rozdělit diskusi'
+      new_discussion_label: 'Určete název nové diskuse'
+      submit_button: Rozdělit
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Úprava tlačítek sociálních sítí'
+      add: 'Přidejte tlačítka na své sociální sítě'
+      headtitle: 'Tlačítka pro úpravy'
+      title: Titul
+      url: 'Adresa URL'
+      submit: Uložit
+      delete: Vymazat
+      deletetitle: 'Tlačítko Odstranit'
+      save_disabled_fetching_favicons: 'Načítá se jedna nebo více ikon. Počkejte prosím.'
+      favicon: Favicon
+      grey_favicon: 'Šedá Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Sdílet
+      share_dropdown_accessible_label: 'Přepnout rozevírací nabídku sdílení diskuze'
+    modal:
+      title: Sdílet
+      copy_button: Kopírovat
+  lib:
+    networks:
+      facebook: 'Na Facebooku'
+      twitter: Cvrlikat
+      linkedin: LinkedIn
+      reddit: 'Reddit (Moderátor)'
+      whatsapp: 'Aplikace WhatsApp'
+      telegram: Telegram
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Můj svět'
+      qq: QQ
+      qzone: QZone
+      native: 'Nativní sdílení'
+fof-recaptcha:
+  forum:
+    error: 'Při odesílání služby reCAPTCHA došlo k chybě. Zkuste to znovu.'
+    unknown_error: 'Vyskytla se neznámá chyba. Zkontrolujte captcha a zkuste to znovu.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Tuto reakci nyní nemůžete použít, obnovte prosím stránku'
+    warning: 'Vaše reakce byla obrácena'
+    settings:
+      notify_post_reacted_label: 'Někdo reaguje na jeden z mých příspěvků'
+    reacting-own-post: 'Nemůžete reagovat na svůj vlastní příspěvek'
+    modal:
+      title: Reakce
+      no_reactions: 'Zatím žádné reakce'
+    mod_item: 'Zobrazit reakce'
+    react_button_label: Reagovat
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Načtení ořezávače obrázků se nezdařilo.', generic_resize: 'Něco se pokazilo při ořezávání a změně velikosti obrázku.', get_image_data: 'Oříznutí se nezdařilo. Ujistěte se, že je ve vašem prohlížeči zakázána ochrana proti vytváření otisků prstů.' }
+      help_text: "Nahrání obrázku může selhat, pokud je nastavení ochrany osobních údajů vašeho prohlížeče velmi přísné. Pokud máte potíže, zkuste deaktivovat ochranu proti snímání otisků prstů. V opačném případě můžete buď <disableResize>zakázat kompresi oříznutého obrázku</disableResize>, nebo <disableCrop>oříznutí úplně zakázat</disableCrop>.\n"
+      submit_button: Upload
+      submit_crop_button: 'Oříznout a nahrát'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Je velmi pravděpodobné, že nepotřebuje žádnou další diskusi, a proto jeho narážení nemá smysl.', checkbox_label: 'Jsem si vědom toho, že tato diskuse je poměrně stará, ale přesto bych rád odpověděl.', error: 'Tato diskuse je příliš stará na to, aby se na ni dalo odpovědět.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Nemáte oprávnění volit'
+    poll_ended: 'Tato anketa skončila.'
+    public_poll: 'Zobrazit voliče'
+    composer_discussion:
+      add_poll: 'Přidat anketu'
+      edit_poll: 'Upravit anketu'
+    modal:
+      add_title: 'Přidání ankety'
+      add_option_label: 'Přidání možnosti'
+      edit_title: 'Upravit anketu'
+      include_question: 'Musíte uvést otázku'
+      max: 'Můžete mít maximálně 10 odpovědí'
+      min: 'Musíte uvést minimálně 2 odpovědi'
+      no_voters: 'Žádné hlasy'
+      option_placeholder: Odpověď
+      image_option_placeholder: 'Adresa URL obrázku (volitelné)'
+      options_label: Odpovědi
+      public_poll_label: 'Umožněte lidem vidět, kdo hlasoval'
+      allow_multiple_votes_label: 'Umožněte lidem hlasovat pro více možností'
+      max_votes_label: 'Max. počet hlasů na uživatele'
+      max_votes_help: 'Nastavte na 0, aby uživatelé mohli hlasovat pro všechny možnosti.'
+      question_placeholder: Otázka
+      submit: Podat
+    moderation:
+      delete: 'Odstranit anketu'
+      delete_confirm: 'Opravdu chcete smazat tuto anketu?'
+      edit: 'Upravit anketu'
+    tooltip:
+      badge: Anketa
+    votes_modal:
+      title: Voliči
+fof-nightmode:
+  ref:
+    auto: 'Automaticky (na základě možností prohlížeče nebo zařízení)'
+    light: 'Denní režim'
+    dark: 'Noční režim'
+  forum:
+    header:
+      nightmode_button: 'Noční režim'
+    user:
+      settings: { heading: Téma, description: 'Vyberte si, jaký barevný motiv chcete na fóru použít.', description2: 'Toto téma bude propojeno s vaším účtem a bude platit pro všechna vaše zařízení, pokud nepřepnete níže uvedený přepínač pro nastavení jednotlivých zařízení.', device_specific_setting_checkbox: 'Použít nastavení pro jednotlivá zařízení', device_specific_setting_checkbox_tooltip: 'Vaše volba motivu bude uložena individuálně pro každé z vašich zařízení.', auto_unsupported: 'Váš prohlížeč nepodporuje automatický tmavý režim.', option_descriptions: { auto: 'Váš motiv bude automaticky vybrán na základě nastavení vašeho prohlížeče nebo zařízení. Pokud máte například v systému iOS povolen tmavý režim, budou tmavá i fóra.', day: 'Klasický zážitek, na který jste zvyklí. Milované a testované.', night: 'Jsi tak trochu noční sova. V noci bdíte nad fórem, zatímco ptáci spí a lišky loví. Nebo prostě dáváte přednost tmavším barvám!' }, options: { auto: 'Automaticky (na základě možností prohlížeče nebo zařízení)', day: 'Denní režim', night: 'Noční režim' } }
+    day: 'Denní režim'
+    night: 'Noční režim'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Prázdná bankovka není povolena.'
+    moderatorNotes:
+      add_button: 'Nová poznámka'
+      create-heading: 'Vytvoření nové poznámky moderátora'
+      dismiss_button: Hotový
+      noNotes: 'Vypadá to, že zde nejsou žádné poznámky.'
+      submit_button: 'Uložit poznámku'
+      delete: Vymazat
+      confirm: 'Opravdu chcete tuto poznámku smazat?'
+    user:
+      notes: 'Poznámky moderátora'
+  api:
+    no_reason_provided: 'Bez udání důvodu'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Hlas
+    vote_title: 'Ukázat, kdo hlasoval'
+    nav:
+      name: Umístění
+    ranking:
+      rank: Místo
+      name: Uživatel
+      amount: Výhybka
+    notification:
+      prefrences: { vote: 'Když je jeden z mých příspěvků hlasován nahoru/dolů' }
+    user:
+      votes_link: Hlas
+    modal:
+      downvotes_label: 'Protivoliči:'
+      title: Voliči
+      upvotes_label: 'Hlasující:'
+    mod_item: 'Zobrazit voliče'
+    voters:
+      none: 'Zatím žádní voliči'
+      label: Voliči
+      label_none: 'Žádní voliči'
+    post:
+      upvote_button: 'Hlasujte pro příspěvek'
+      downvote_button: 'Hlasovat pro záporný příspěvek'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Naplánované koncepty jsou v současné době v nastavení zakázány.'
+  ref:
+    schedule_draft: 'Koncept plánu'
+  forum:
+    composer:
+      title: 'Uložit koncept'
+      saving: Zachraňování...
+      saved: Uložený!
+      exit_alert: 'Zahodit změny do konceptu?'
+      discard_empty_draft_alert: 'Zahodit prázdný koncept?'
+    dropdown:
+      empty_text: 'Neuložili jste žádné koncepty'
+      title: Koncepty
+      delete_all_button: 'Smazání všech konceptů'
+      delete_button: 'Smazat koncept'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Opravdu chcete odstranit koncept kódu?'
+      delete_all_alert: 'Opravdu chcete smazat všechny koncepty?'
+      schedule_button: 'Koncept plánu'
+      tooltip: Koncepty
+    schedule_draft_modal:
+      text: 'Naplánujte si automatické zveřejnění konceptu na pozdější dobu!'
+      unschedule_button: 'Zrušit plán'
+      unschedule_warning: 'Opravdu chcete zrušit odplánování této pracovní verze?'
+      reschedule_button: 'Opětovně naplánovat'
+      schedule_button: Naplánovat
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Neplatné datum a/nebo čas'
+      title: 'Koncept plánu'
+    user:
+      settings: { drafts_heading: Koncepty, draft_autosave_enable: 'Povolit automatické ukládání konceptů?', draft_autosave_interval_label: 'Interval automatického ukládání (sekundy)', draft_autosave_interval_button: 'Interval aktualizace', draft_autosave_interval_invalid: 'Interval musí být celé číslo větší než 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Odpověděl
+    this_best_answer: 'Vybrat nejlepší odpověď'
+    remove_best_answer: 'Zrušit výběr nejlepší odpovědi'
+    best_answer_button: 'Nejlepší odpověď'
+    errors:
+      mismatch: 'Vybraný příspěvek v této diskuzi neexistuje.'
+    notification:
+      content: 'Vyberte prosím nejlepší odpověď, pokud byla vaše otázka zodpovězena'
+      preferences: { awarded_best_answer: 'Někdo nastaví můj příspěvek jako nejlepší odpověď', best_answer_in_discussion: 'Nejlepší odpověď je uvedena v diskusi, které jsem se zúčastnil', select_best_answer: 'Automatická připomínka k výběru nejlepší odpovědi v diskusi, kterou jsem zahájil' }
+    index:
+      ask_question: 'Položit otázku'
+      cannot_ask_question: 'Nelze se na nic zeptat'
+      solved_link: 'Vyřešené diskuze'
+      unsolved_link: 'Nevyřešené diskuze'
+    filter:
+      all_label: 'Všechny otázky'
+      solved_label: 'Vyřešené otázky'
+      unsolved_label: 'Nevyřešené otázky'
+      accessible_label: 'Vyřešený/nevyřešený výběr'
+    composer:
+      titlePlaceholder: 'Název otázky'
+    search:
+      discussions_solutions_heading: 'Diskuse s řešeními'
+    discussion:
+      jump_to_best_answer_button: 'Zobrazit nejlepší odpověď'
+  email:
+    subject:
+      select: 'Podařilo se ti odpovědět na otázku?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Nejvíce nejlepších odpovědí'
+      least_best_answers: 'Nejméně nejlepších odpovědí'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Nikdo jiný nebude zakázán'
+    user_badge:
+      banned_tooltip: Zakázaný
+    ban_ip_button: 'Zakázat IP'
+    unban_ip_button: 'Zrušení zákazu IP'
+    user_controls:
+      ban_button: Zákaz
+      unban_button: 'Zrušit zákaz'
+  error:
+    banned_ip_message: 'Autorizace se nezdařila.'
+    no_ips_found_message: 'Pro uživatele nebyly nalezeny žádné IP adresy.'
+  lib:
+    modal:
+      check_button: Kontrolovat
+      save_button: Uložit
+      ban_ip_confirmation: 'Opravdu chcete zablokovat použití této IP adresy na fóru? Tím se uživatelům s touto IP adresou (adresami) zablokuje přihlášení a registrace.'
+      unban_ip_confirmation: 'Opravdu chcete zrušit zákaz tohoto uživatele a všech ostatních uživatelů, kteří nejsou zakázáni jinými IP adresami?'
+      unban_ip_no_users: 'Nikdo jiný nebude zrušen'
+      title: 'Zakázat IP adresy'
+      unban_title: 'Zrušit zákaz IP adres'
+      address_label: 'IP adresa'
+      reason_label: Důvod
+      ban_button: Zákaz
+      unban_button: 'Zrušit zákaz'
+  ref:
+    ban_label: Zákaz
+    ban_ip_addresses: 'Zakázat IP adresy'
+    ban_ip_button: 'Zakázat IP'
+    unban_label: 'Zrušit zákaz'
+    unban_ip_addresses: 'Zrušit zákaz IP adres'
+    unban_ip_button: 'Zrušení zákazu IP'
+    address_label: 'IP adresa'
+    reason_label: Důvod
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Podrobnosti o vaší registraci byly nalezeny v databázi prevence spamu, proto byla vaše registrace zablokována.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Smazání diskuzí'
+      hard_delete_discussions_help: 'Tím se trvale smažou všechny diskuse zahájené tímto uživatelem. Pokud je zakázáno, diskuse budou místo toho skryty.'
+      hard_delete_posts_label: 'Mazání příspěvků'
+      hard_delete_posts_help: 'Tím se trvale smažou všechny příspěvky (komentáře, odpovědi atd.) vložené tímto uživatelem. Pokud je zakázáno, příspěvky budou místo toho skryty.'
+      hard_delete_user_label: 'Smazat uživatele'
+      hard_delete_user_help: 'Tím dojde k trvalému odstranění uživatele. Pokud je zakázáno, bude uživatel místo toho pozastaven.'
+      intro: 'Při označení uživatele jako spammera bude provedeno několik akcí, které závisí na rozšířeních dostupných na vašem fóru.'
+      move_discussions_tag_label: 'Přesunutí diskuzí do karantény'
+      move_discussions_tag_help: 'Tím se všechny diskuze založené tímto uživatelem přesunou na tag, který jste zadali v nastavení fóra. Pokud je zakázáno, diskuse budou ponechány ve svých aktuálních značkách.'
+      process_button: Proces
+      report_to_sfs_label: 'Nahlásit na StopForumSpam'
+      report_to_sfs_help: 'Tím se nahlásí základní údaje o uživateli (uživatelské jméno, e-mail, IP adresa) na StopForumSpam. To pomůže zabránit uživateli v registraci na jiných fórech, která používají službu StopForumSpam.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Resetování počtu zhlédnutí v diskusi'
+      submit: Podat
+      label: 'Nastavit na počet zhlédnutí'
+    discussion_controls:
+      resetviews_button: 'Nastavení počtu zhlédnutí'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Nerozlepitý
+      sticky_button: Lepkavý
+    badge:
+      sticky_tooltip: Lepkavý
+  ref:
+    sticky: Lepkavý
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Zamčený
+    discussion_controls:
+      lock_button: Zamknout
+      unlock_button: Odemknout
+    settings:
+      notify_discussion_locked_label: 'Někdo zamkne diskusi, kterou jsem začal(a)'
+flarum-likes:
+  forum:
+    post:
+      like_link: Jako
+      unlike_link: 'Na rozdíl od'
+      you_text: Ty
+    post_likes:
+      title: 'Uživatelé, kterým se to líbí'
+      load_more_button: 'Načíst více'
+    settings:
+      notify_post_liked_label: 'Někdo lajkuje jeden z mých příspěvků'
+    user:
+      likes_link: 'Má rád'
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Vložení emotikonů'
+      type_to_search_text: 'Zadejte pro vyhledání emotikonu'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Váš obsah je příliš rozsáhlý, přečtěte si prosím naše pokyny pro zveřejňování příspěvků' }
+dhtml-persona:
+  forum:
+    persona: Osoba
+dhtml-leaderboard:
+  forum:
+    leaderboard: Žebříček
+dhtml-gender:
+  forum:
+    male: Muž
+    female: Ženský
+    other: 'Raději neříkat'
+    inputGender: Pohlaví
+    saveButton: Uložit
+    clickToSelectGender: 'Vyberte své pohlaví'
+    genderSaved: 'Pohlaví úspěšně zachráněno!'
+    field_placeholder: 'Potvrďte pohlaví'
+    binding_gender: 'Zjistili jsme, že jste si nenastavili pohlaví. Nejprve prosím nastavte své pohlaví. Příspěvky a příspěvky můžete zanechávat až po nastavení pohlaví.'
+    binding_gender_click: 'Klikněte nyní'
+flarum-content-pages:
+  forum:
+    home: Domov
+    about-us: 'O nás'
+    guidelines: Pokyny
+    privacy-policy: 'Zásady ochrany osobních údajů'
+    terms-of-use: 'Podmínky použití'
+    contact-us: 'Kontaktujte nás'
+    download-app: 'Stáhnout aplikaci'
+    discord-chat: 'Discord Chat'
+    tags-cloud: 'Tagy Mrak'
+    languages: Jazyky
+    leaderboard: Žebříček
+    live: Živé
+    live-coding: 'Živé kódování'
+    challenges: Výzvy
+    dev-challenges: 'Dev výzvy'
+    jobs: Práce
+    community: Společenství
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Pracovní zařazení'
+    job-postings: 'Pracovní příspěvky'
+    workshops: Semináře
+    dev-workshops: 'Dev Workshopy'
+    events: Události
+    conferences: Konference
+    event-conferences: 'Akce / konference'
+    showcase: Představení
+    tags: Visačky
+    more: Více
+    memberships: Členství
+    members: Členové
+    general-discussion: 'Obecná diskuse'
+    technology-articles: 'Technologické články'
+    coding-challenges: 'Problémy s kódováním'
+    q-a: 'Oddíl Q/A'
+    artificial-intelligence: 'Umělá inteligence'
+    computer-science: 'Počítačová věda'
+    programming-languages: 'Programovací jazyky'
+    development-tools: 'Nástroje rozvoje'
+    software-development: 'Vývoj softwaru'
+    frontend-development: 'Vývoj hranic'
+    backend-development: 'Vývoj záloh'
+    software-engineering: 'Softwarové inženýrství'
+    cybersecurity: Kyberbezpečnost
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Počítadlo znaků'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Upravit datum narození'
+      date_of_birth_text: 'Datum narození'
+      submit_button: 'Uložit změny'
+    settings:
+      change_dob_label: 'Změnit datum narození'
+      show_dob_date_label: 'Zobrazit den a měsíc narození'
+      show_dob_year_label: 'Zobrazit rok narození'
+      show_dob_year_help: 'To umožní lidem vidět váš věk.'
+      dob_heading: 'Datum narození'
+    nav:
+      nav_item: 'Dnešní narozeniny'
+    edit_user:
+      dob_heading: 'Datum narození'
+    sign_up:
+      dob_placeholder: 'Datum narození'
+  api:
+    invalid_dob_message: 'Neplatné datum narození'
+  ref:
+    date_of_birth: 'Datum narození'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Výběr emodži'
+    search_placeholder: Hledání...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Upravit autora a datum'
+    modal:
+      title-post: 'Upravit autora příspěvku a datum'
+      title-discussion: 'Upravit diskusi Autor a datum'
+      user: Autor
+      created_at: 'Čas vytvoření'
+      edited_at: 'Upravit čas'
+      sync-with-discussion: 'Synchronizace s diskuzí'
+      sync-with-post: 'Synchronizace s prvním příspěvkem'
+      sync-impossible: 'Nelze najít první příspěvek. Zkuste se posunout na začátek diskuse.'
+      submit: Uložit
+      cancel: Zrušit
+    search:
+      placeholder: 'Vyhledávání uživatelů'
+      type-more: 'Zadejte 3 znaky pro vyhledávání v databázi'
+      no-results: 'Žádné výsledky'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Přepnout režim formátovaného textu'
+      insert_button: Vložit
+      insert_image: { src_placeholder: Propojit, title_placeholder: Titul }
+      insert_link: { text_placeholder: Text, href_placeholder: 'Adresa URL', title_placeholder: 'Název (zobrazí se při najetí myší)', remove_button: Odstranit }
+      additional_items_tooltip: 'Další ovládací prvky'
+      code_block_tooltip: 'Vložení bloku kódu'
+      horizontal_rule_tooltip: 'Vložení vodorovné linky'
+      image_tooltip: 'Přidání obrázku'
+      link_tooltip: 'Přidání odkazu'
+      spoiler_block_tooltip: 'Blokovat spoiler/rozbalovací nabídku'
+      strike_tooltip: 'Přeškrtnutí <alt-shift-5>'
+      text_type_tooltip: 'Vybrat typ textu'
+  forum:
+    settings:
+      composer_heading: Skladatel
+      use_rich_text_editor_label: 'Používáte editor formátovaného textu?'
+      rich_text_compact_paragraphs_label: 'Neoddělujte odstavce novým řádkem.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Máte povolená nabízená oznámení, ale toto zařízení jste nenakonfigurovali.'
+      optin_button: Konfigurovat
+    discussion_controls:
+      share_button: Sdílet
+    post_controls:
+      share_button: Sdílet
+    user_controls:
+      share_button: Sdílet
+    settings:
+      push_header: Tlačit
+      pwa_notifications: { access_default: 'Kvůli omezením prohlížeče se musíte přihlásit k odběru nabízených oznámení na tomto zařízení.', access_default_button: 'Přihlásit se', access_denied: 'Chcete-li na tomto zařízení přijímat nabízená oznámení, musíte upravit nastavení prohlížeče.', access_denied_button: 'Naučte se, jak na to', no_browser_support: 'Tento prohlížeč nepodporuje nabízená oznámení pro progresivní webové aplikace.', no_browser_support_button: 'Víc se uč' }
+  views:
+    offline:
+      header: 'Chyba připojení k síti'
+      text: 'Tato aplikace vyžaduje připojení k síti; Nelze jej použít offline. Zkontrolujte prosím své připojení.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Upozornit uživatele'
+    user:
+      warnings: 'Varování moderátora'
+    settings:
+      warning_notification_label: 'Moderátor mě varuje'
+    validation:
+      public_comment_required: 'Většinou poskytnete veřejný komentář.'
+      invalid_strike_count: 'Počet sankcí musí být celé číslo mezi 0 a 5.'
+    warning_controls:
+      delete_button: Odstranit
+      restore_button: Obnovit
+      delete_forever_button: 'Trvale smazat'
+    warning_list:
+      add_button: 'Nové varování'
+      no_warnings: 'Vypadá to, že zde nejsou žádná varování.'
+      warnings_no_strikes: 'Varování moderátora: Nebyly přijaty žádné sankce'
+    warning_list_item:
+      public_comment: Varování
+      private_comment: 'Komentáře viditelné moderátorem'
+      linked_post: 'Odkazovaný příspěvek'
+    warning_modal:
+      confirmation_message: 'Vaše upozornění bylo uloženo. Možná budete muset stránku aktualizovat, aby se zobrazila.'
+      strikes_heading: 'Kolik sankcí by mělo být použito?'
+      submit_button: 'Uložit upozornění'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Upravit šablonu odpovědi'
+    reply_template:
+      title: 'Upravit šablonu odpovědi'
+      submit_button: 'Uložit šablonu odpovědi'

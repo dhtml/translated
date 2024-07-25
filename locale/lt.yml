@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Jūsų įvestas slaptažodis yra neteisingas.'
+      confirm_password_placeholder: 'Patvirtinkite slaptažodį'
+      dismiss_button: GERAI
+      submit_button: 'Išsaugoti pakeitimus'
+      title: 'El. pašto adreso keitimas'
+    change_password:
+      send_button: 'Siųsti slaptažodžio nustatymo iš naujo el. laišką'
+      text: 'Spustelėkite žemiau esantį mygtuką ir patikrinkite, ar el. pašte nėra nuorodos, kaip pakeisti slaptažodį.'
+      title: 'Keisti slaptažodį'
+    composer:
+      close_tooltip: Uždaryti
+      exit_full_screen_tooltip: 'Išeikite iš viso ekrano'
+      full_screen_tooltip: 'Visas ekranas'
+      minimize_tooltip: Minimizuoti
+      preview_tooltip: Peržiūra
+    composer_discussion:
+      body_placeholder: 'Parašykite įrašą...'
+      discard_confirmation: 'Jūs nepaskelbėte savo diskusijos. Ar norite jį išmesti?'
+      submit_button: 'Rašyti diskusiją'
+      title_placeholder: 'Diskusijos pavadinimas'
+      title: 'Pradėti diskusiją'
+    composer_edit:
+      discard_confirmation: 'Neišsaugojote pakeitimų. Ar norite juos išmesti?'
+      edited_message: 'Jūsų redagavimas buvo atliktas.'
+      submit_button: 'Išsaugoti pakeitimus'
+      view_button: Rodinys
+    composer_reply:
+      discard_confirmation: 'Jūs nepaskelbėte savo atsakymo. Ar norite jį išmesti?'
+      posted_message: 'Jūsų atsakymas buvo paskelbtas.'
+      submit_button: 'Rašyti atsakymą'
+      body_placeholder: 'Parašykite atsakymą...'
+      view_button: Rodinys
+    discussion_controls:
+      cannot_reply_button: 'Negaliu atsakyti'
+      cannot_reply_text: 'Neturite teisės atsakyti į šią diskusiją.'
+      delete_confirmation: 'Ar tikrai norite ištrinti šią diskusiją?'
+      log_in_to_reply_button: 'Prisijunkite, kad atsakytumėte'
+      toggle_dropdown_accessible_label: 'Išskleidžiamasis meniu Perjungti diskusijos veiksmus'
+      delete_button: Naikinti
+      delete_forever_button: 'Ištrinti visam laikui'
+      rename_button: Pervardyti
+      reply_button: Atsakyti
+      restore_button: Atkurti
+    discussion_list:
+      empty_text: 'Atrodo, kad čia nėra jokių diskusijų.'
+      load_more_button: 'Įkelti daugiau'
+    forgot_password:
+      email_sent_message: 'Jūsų įvestas el. laiškas yra užregistruotas šioje svetainėje, mes atsiųsime Jums el. laišką, kuriame bus nuoroda iš naujo nustatyti slaptažodį. Patikrinkite savo spam aplanką, jei jo negausite per kitą minutę ar dvi.'
+      not_found_message: 'Ten nėra vartotojo, registruoto tuo el. pašto adresu.'
+      submit_button: Slaptažodis
+      text: 'Įveskite savo el. pašto adresą ir mes Jums atsiųsime nuorodą, kad iš naujo nustatytumėte savo slaptažodį.'
+      title: 'Pamirštas slaptažodis'
+      dismiss_button: GERAI
+      email_placeholder: 'E. paštas'
+    header:
+      admin_button: Administravimas
+      back_to_index_tooltip: 'Grįžti į diskusijų sąrašą'
+      locale_dropdown_accessible_label: 'Keisti forumo lokalę'
+      profile_button: Profilis
+      search_clear_button_accessible_label: 'Išvalyti ieškos užklausą'
+      search_placeholder: 'Paieškos forumas'
+      search_role_label: 'Paieškos forumas'
+      session_dropdown_accessible_label: 'Perjungti seanso parinktis išskleidžiamajame meniu'
+      log_in_link: 'Prisijungti, prisijunk'
+      log_out_button: Atsijungti
+      settings_button: Parametrai
+      sign_up_link: 'Užsiregistruoti, užsiregistruok'
+    index:
+      cannot_start_discussion_button: 'Nepavyksta pradėti diskusijos'
+      mark_all_as_read_confirmation: 'Ar tikrai norite pažymėti visas diskusijas kaip skaitytas?'
+      refresh_tooltip: Atnaujinti
+      toggle_sidenav_dropdown_accessible_label: 'Perjungti naršymo išskleidžiamąjį meniu'
+      all_discussions_link: 'Visos diskusijos'
+      mark_all_as_read_tooltip: 'Pažymėti viską kaip skaitytą'
+      meta_title_text: 'Visos diskusijos'
+      start_discussion_button: 'Pradėti diskusiją'
+    index_sort:
+      latest_button: Naujausią
+      newest_button: Naujausi
+      oldest_button: Seniausia
+      relevance_button: Svarbą
+      toggle_dropdown_accessible_label: 'Diskusijų sąrašo rikiavimo keitimas'
+      top_button: Viršus
+      hot_button: Tendencijos
+      votes_button: Balsai
+      front_button: 'Priekinis puslapis'
+      popular_button: Populiarus
+      unpopular_button: Nepopuliari
+    log_in:
+      forgot_password_link: 'Pamiršote slaptažodį?'
+      invalid_login_message: 'Jūsų prisijungimo duomenys buvo neteisingi.'
+      remember_me_label: 'Prisimink mane'
+      sign_up_text: 'Neturite paskyros? <a>užsiregistruoti, užsiregistruok</a>'
+      username_or_email_placeholder: 'Vartotojo vardas arba el. pašto adresas'
+      password_placeholder: Slaptažodis
+      submit_button: 'Prisijungti, prisijunk'
+      title: 'Prisijungti, prisijunk'
+    notifications:
+      delete_all_confirm: 'Ar tikrai norite ištrinti visus pranešimus? Šis veiksmas nėra grįžtamas'
+      delete_all_tooltip: 'Ištrinkite visus pranešimus'
+      empty_text: 'Nėra pranešimų'
+      mark_as_read_tooltip: 'Žymėti kaip skaitytą'
+      toggle_dropdown_accessible_label: 'Peržiūrėti pranešimus'
+      mark_all_as_read_tooltip: 'Pažymėti viską kaip skaitytą'
+      title: Pranešimus
+      tooltip: Pranešimus
+    post:
+      edited_text: Redaguoti
+    post_controls:
+      delete_confirmation: 'Ar tikrai norite ištrinti šį įrašą visam laikui? Šio veiksmo anuliuoti negalima.'
+      hide_confirmation: 'Ar tikrai norite ištrinti šį įrašą?'
+      toggle_dropdown_accessible_label: 'Perjungti pašto valdiklių išskleidžiamąjį meniu'
+      push_to_front_button: 'Perkelti į "FrontPage"'
+      pull_from_front_button: 'Ištraukite iš "FrontPage"'
+      delete_button: Naikinti
+      delete_forever_button: 'Ištrinti visam laikui'
+      edit_button: Redaguoti
+      restore_button: Atkurti
+    post_scrubber:
+      now_link: Dabar
+      original_post_link: 'Originalus įrašas'
+    post_stream:
+      load_more_button: 'Įkelti daugiau'
+      reply_placeholder: 'Parašykite atsakymą...'
+    rename_discussion:
+      title: 'Pervardyti diskusiją'
+      submit_button: Pervardyti
+    search:
+      discussions_heading: Diskusijos
+      users_heading: Vartotojai
+    security:
+      cannot_terminate_current_session: 'Negalima nutraukti dabartinio aktyvaus seanso. Vietoj to atsijunkite.'
+      created: Sukurta
+      current_active_session: 'Dabartinė aktyvi sesija'
+      developer_tokens_heading: 'Kūrėjo žetonai'
+      empty_text: 'Atrodo, kad čia nieko nematyti.'
+      global_logout: { heading: 'Visuotinis atsijungimas', help_text: 'Išvalo dabartinį slapukų seansą, nutraukia visus seansus, atšaukia kūrėjo atpažinimo ženklus ir anuliuoja visus el. pašto patvirtinimo arba slaptažodžio nustatymo iš naujo el. laiškus.', log_out_button: Atsijungti }
+      hide_access_token: 'Slėpti atpažinimo ženklą'
+      last_activity: 'Paskutinė veikla'
+      new_access_token_modal: { submit_button: 'Sukurti atpažinimo ženklą', title_placeholder: Titulinis, title: 'Naujas žetonas' }
+      revoke_access_token: Atšaukti
+      sessions_heading: 'Aktyvūs seansai'
+      session_termination_failed: 'Nutraukiant seansus įvyko klaida.'
+      show_access_token: 'Peržiūrėti atpažinimo ženklą'
+      terminate_all_other_sessions: 'Visų kitų seansų nutraukimas'
+      terminate_session: Nutraukti
+      token_revoked: 'Žetonas atšauktas.'
+      token_title_placeholder: /
+      never: Niekada
+      new_access_token_button: 'Naujas žetonas'
+      revoke_access_token_confirmation: 'Ar tikrai norite tęsti? Šio veiksmo anuliuoti negalima.'
+      terminate_all_other_sessions_confirmation: 'Ar tikrai norite tęsti? Šio veiksmo anuliuoti negalima.'
+      title: Saugumas
+    settings:
+      account_heading: Sąskaita
+      notify_by_web_heading: Žiniatinklis
+      notify_discussion_renamed_label: 'Kažkas pervadina mano pradėtą diskusiją'
+      privacy_disclose_online_label: 'Leidimas kitiems matyti, kada esu prisijungęs'
+      privacy_heading: Privatumas
+      change_email_button: 'El. pašto adreso keitimas'
+      change_password_button: 'Keisti slaptažodį'
+      notifications_heading: Pranešimus
+      notify_by_email_heading: 'E. paštas'
+      title: Parametrai
+    sign_up:
+      log_in_text: 'Jau turite paskyrą? <a>prisijungti, prisijunk</a>'
+      dismiss_button: GERAI
+      email_placeholder: 'E. paštas'
+      password_placeholder: Slaptažodis
+      submit_button: 'Užsiregistruoti, užsiregistruok'
+      title: 'Užsiregistruoti, užsiregistruok'
+      username_placeholder: 'Vartotojo vardas'
+    user:
+      avatar_upload_button: Nusiuntimas
+      avatar_upload_tooltip: 'Įkelkite naują avatarą'
+      online_text: Prisijungęs
+      posts_empty_text: 'Atrodo, kad čia nėra įrašų.'
+      avatar_remove_button: Šalinti
+      discussions_link: Diskusijos
+      posts_link: Pranešimų
+      posts_load_more_button: 'Įkelti daugiau'
+      security_link: Saugumas
+      settings_link: Parametrai
+    user_controls:
+      button: Kontrolė
+      delete_confirmation: 'Ar tikrai norite ištrinti šį vartotoją? Vartotojo įrašai NEBUS ištrinti.'
+      toggle_dropdown_accessible_label: 'Perjungti vartotojo valdiklių išskleidžiamąjį meniu'
+      delete_button: Naikinti
+      edit_button: Redaguoti
+    user_email_confirmation:
+      resend_button: 'Iš naujo siųsti patvirtinimo el. laišką'
+      sent_message: Išsiųstas
+    welcome_hero:
+      hide: 'Slėpti pasveikinimo pranešimą'
+    badge:
+      frontpage_tooltip: 'Pažymėta kaip FrontPage'
+  lib:
+    debug_button: Derinimo
+    alert:
+      dismiss_a11y_label: 'Atmesti įspėjimą'
+    badge:
+      hidden_tooltip: Pasislėpti
+    dropdown:
+      toggle_dropdown_accessible_label: 'Perjungti išskleidžiamąjį meniu'
+    edit_user:
+      activate_button: 'Aktyvinti vartotoją'
+      groups_heading: Grupės
+      set_password_label: 'Nustatykite naują slaptažodį'
+      nothing_available: 'Jums neleidžiama redaguoti šio vartotojo.'
+      email_heading: 'E. paštas'
+      email_label: 'E. paštas'
+      password_heading: Slaptažodis
+      password_label: Slaptažodis
+      submit_button: 'Išsaugoti pakeitimus'
+      title: 'Redaguoti vartotoją'
+      username_heading: 'Vartotojo vardas'
+      username_label: 'Vartotojo vardas'
+    error:
+      generic_message: 'Oi! Kažkas ne taip. Iš naujo įkelkite puslapį ir bandykite dar kartą.'
+      generic_cross_origin_message: 'Oi! Kažkas nutiko kryžminės kilmės prašymo metu. Iš naujo įkelkite puslapį ir bandykite dar kartą.'
+      not_found_message: 'Prašomas šaltinis nerastas.'
+      payload_too_large_message: 'Prašymo naudingoji apkrova buvo per didelė.'
+      permission_denied_message: 'Jūs neturite leidimo tai daryti.'
+      rate_limit_exceeded_message: 'Jūs einate šiek tiek per greitai. Bandykite dar kartą po kelių sekundžių.'
+      render_failed_message: 'Deja, rodydami šį turinį susidūrėme su klaida. Jei esate naudotojas, bandykite dar kartą vėliau. Jei esate administratorius, daugiau informacijos ieškokite "Flarum" žurnalo failuose.'
+    modal:
+      close: Uždaryti
+    nav:
+      drawer_button: 'Atidarykite naršymo stalčių'
+    loading_indicator:
+      accessible_label: Pakrovimo...
+  views:
+    confirm_email:
+      text: 'Spustelėkite toliau pateiktą mygtuką, kad patvirtintumėte paskyros el. paštą.'
+      submit_button: 'Patvirtinkite el. paštą'
+      title: 'Patvirtinkite el. paštą'
+    content:
+      javascript_disabled_message: 'Šią svetainę geriausia peržiūrėti šiuolaikinėje naršyklėje, kurioje įjungta "JavaScript".'
+      load_error_message: 'Kažkas nutiko bandant įkelti visą šios svetainės versiją. Pabandykite sunkiai atnaujinti šį puslapį, kad ištaisytumėte klaidą.'
+      loading_text: Pakrovimo...
+    error:
+      csrf_token_mismatch: 'Per ilgai buvote neaktyvus.'
+      csrf_token_mismatch_return_link: 'Grįžkite atgal ir bandykite dar kartą'
+      invalid_confirmation_token: 'Ši patvirtinimo nuoroda jau buvo naudojama arba yra negaliojanti.'
+      not_authenticated: 'Jūs neturite leidimo pasiekti šį puslapį. Prisijungę bandykite dar kartą.'
+      not_found: 'Nepavyko rasti puslapio, kurio prašėte.'
+      permission_denied: 'Jūs neturite leidimo pasiekti šį puslapį.'
+      unknown: 'Bandant įkelti šį puslapį įvyko klaida.'
+    log_out:
+      log_out_button: Atsijungti
+      title: Atsijungti
+    reset_password:
+      confirm_password_label: 'Patvirtinkite naują slaptažodį'
+      new_password_label: 'Naujas slaptažodis'
+      submit_button: 'Išsaugoti pakeitimus'
+      title: 'Slaptažodžio nustatymas iš naujo'
+    discussion:
+      next_page_button: 'Kitas puslapis'
+      previous_page_button: 'Ankstesnis puslapis'
+    index:
+      all_discussions_heading: 'Visos diskusijos'
+      next_page_button: 'Kitas puslapis'
+      previous_page_button: 'Ankstesnis puslapis'
+  api:
+    invalid_username_message: 'Vartotojo varde gali būti tik raidės, skaičiai ir brūkšneliai.'
+  email:
+    activate_account:
+      subject: 'Suaktyvinkite savo naują paskyrą'
+    confirm_email:
+      subject: 'Patvirtinkite savo naują el. pašto adresą'
+    reset_password:
+      subject: 'Slaptažodžio nustatymas iš naujo'
+    send_test:
+      subject: '"Flarum" el. pašto testas'
+  ref:
+    all_discussions: 'Visos diskusijos'
+    change_email: 'El. pašto adreso keitimas'
+    change_password: 'Keisti slaptažodį'
+    color: Spalva
+    confirm_password: 'Patvirtinkite slaptažodį'
+    confirm_email: 'Patvirtinkite el. paštą'
+    custom_footer_text: 'Pridėkite HTML, kad jis būtų rodomas pačiame puslapio apačioje.'
+    custom_footer_title: 'Redaguoti pasirinktinę poraštę'
+    custom_header_text: 'Pridėkite HTML, kad jis būtų rodomas pačiame puslapio viršuje, virš paties Flarum antraštės.'
+    custom_header_title: 'Redaguoti pasirinktinę antraštę'
+    delete: Naikinti
+    delete_forever: 'Ištrinti visam laikui'
+    discussions: Diskusijos
+    edit: Redaguoti
+    edit_user: 'Redaguoti vartotoją'
+    email: 'E. paštas'
+    extensions: Plėtiniai
+    generic_confirmation_message: 'Ar tikrai norite tęsti? Šio veiksmo anuliuoti negalima.'
+    icon: Ikona
+    load_more: 'Įkelti daugiau'
+    loading: Pakrovimo...
+    log_in: 'Prisijungti, prisijunk'
+    log_out: Atsijungti
+    mark_all_as_read: 'Pažymėti viską kaip skaitytą'
+    never: Niekada
+    new_token: 'Naujas žetonas'
+    next_page: 'Kitas puslapis'
+    notifications: Pranešimus
+    okay: GERAI
+    password: Slaptažodis
+    posts: Pranešimų
+    previous_page: 'Ankstesnis puslapis'
+    remove: Šalinti
+    rename: Pervardyti
+    reply: Atsakyti
+    reset_your_password: 'Slaptažodžio nustatymas iš naujo'
+    restore: Atkurti
+    save_changes: 'Išsaugoti pakeitimus'
+    search_users: 'Ieškoti vartotojų'
+    security: Saugumas
+    settings: Parametrai
+    sign_up: 'Užsiregistruoti, užsiregistruok'
+    start_a_discussion: 'Pradėti diskusiją'
+    username: 'Vartotojo vardas'
+    users: Vartotojai
+    view: Rodinys
+    write_a_reply: 'Parašykite atsakymą...'
+    you: Tu
+  group:
+    admin: Admin
+    admins: Administratoriai
+    guest: Svečias
+    guests: Svečiai
+    member: Narys
+    members: Nariai
+    mod: Būdu
+    mods: Modifikacijos
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Visos žymos'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Diskusijų žymių pasirinkimas'
+    discussion_controls:
+      edit_tags_button: 'Redaguoti žymas'
+    header:
+      back_to_tags_tooltip: 'Grįžti į žymių sąrašą'
+    index:
+      more_link: Daugiau...
+      untagged_link: Nepažymėtas
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Pasirinkite Žymos'
+  lib:
+    deleted_tag_text: Panaikinti
+    tag_selection_modal:
+      bypass_requirements: 'Apeiti žymos reikalavimus'
+      submit_button: GERAI
+      title: 'Pasirinkite Žymos'
+  ref:
+    choose_tags: 'Pasirinkite Žymos'
+    name: 'Vardas, pavadinimas'
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Vartotojo, grupės arba įrašo paminėjimas'
+    mentioned_by:
+      title: 'Atsakymai į šį įrašą'
+      load_more_button: 'Įkelti daugiau'
+    post:
+      quote_button: Citata
+      reply_link: Atsakyti
+      you_text: Tu
+    settings:
+      notify_post_mentioned_label: 'Kažkas atsako į vieną iš mano įrašų'
+      notify_user_mentioned_label: 'Kažkas mane mini įraše'
+      notify_group_mentioned_label: 'Kažkas įraše pamini grupę, kurios narys esu'
+    user:
+      mentions_link: Pamini
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: Nebestebėti
+      unignore_button: Unsir
+      follow_button: Sekti
+    settings:
+      follow_after_reply_label: 'Automatiškai stebėti diskusijas, į kurias atsakau'
+      notify_for_all_posts_label: 'Pranešti apie kiekvieną naują įrašą, o ne tik apie paskutinį diskusijoje'
+      notify_new_post_label: 'Kažkas skelbia mano stebimoje diskusijoje'
+    sub_controls:
+      following_text: 'Gauti pranešimus apie visus atsakymus.'
+      ignoring_text: 'Niekada nepranešama. Slėpti diskusijų sąraše.'
+      not_following_button: Neseka
+      not_following_text: 'Būti pranešama tik tada, kai @mentioned.'
+      notify_alert_tooltip: 'Gaukite forumo pranešimą, kai yra naujų įrašų'
+      notify_email_tooltip: 'Gaukite el. laišką, kai yra naujų įrašų'
+      follow_button: Sekti
+      following_button: Toliau
+      ignoring_button: Ignoruoja
+    badge:
+      following_tooltip: Toliau
+      ignoring_tooltip: Ignoruoja
+    following:
+      meta_title_text: Toliau
+    index:
+      following_link: Toliau
+  ref:
+    follow: Sekti
+    following: Toliau
+    ignoring: Ignoruoja
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Dėkojame, kad pažymėjote šį įrašą. Mūsų moderatoriai tai išnagrinės.'
+      reason_inappropriate_label: Netinkamas
+      reason_inappropriate_text: 'Šis įrašas yra įžeidžiantis, įžeidžiantis arba pažeidžia <a>mūsų bendruomenės gaires</a>.'
+      reason_missing_message: 'Pateikite šiek tiek informacijos mūsų moderatoriams.'
+      reason_off_topic_label: 'Ne į temą'
+      reason_off_topic_text: 'Šis įrašas nėra susijęs su dabartine diskusija ir turėtų būti perkeltas kitur.'
+      reason_other_label: 'Kita (nurodykite)'
+      reason_spam_label: Šlamštas
+      reason_spam_text: 'Šis įrašas yra reklama.'
+      dismiss_button: GERAI
+      submit_button: 'Vėliavos įrašas'
+      title: 'Vėliavos įrašas'
+    flagged_posts:
+      empty_text: 'Nėra vėliavų'
+      title: 'Pažymėti įrašai'
+      tooltip: 'Pažymėti įrašai'
+    post:
+      dismiss_flag_button: 'Atmesti vėliavėlę'
+    post_controls:
+      flag_button: Vėliava
+  ref:
+    flag_post: 'Vėliavos įrašas'
+    flagged_posts: 'Pažymėti įrašai'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Jūs buvote sustabdytas neribotam laikui'
+      user_unsuspended_text: 'Jūs buvote nesustabdytas'
+    suspension_info:
+      dismiss_button: Atleisti
+      indefinite: 'Tai neterminuotas sustabdymas'
+      title: 'Ši paskyra laikinai sustabdyta'
+    suspend_user:
+      display_message: 'Rodyti pranešimą vartotojui'
+      indefinitely_label: 'Sustabdytas neribotam laikui'
+      limited_time_days_text: ' Dienos'
+      limited_time_label: 'Sustabdytas ribotam laikui...'
+      not_suspended_label: Nesustabdytas
+      placeholder_optional: Pasirinktinai
+      reason: 'Sustabdymo priežastis'
+      status_heading: 'Sustabdymo būsena'
+      submit_button: 'Išsaugoti pakeitimus'
+    user_badge:
+      suspended_tooltip: Sustabdytas
+    user_controls:
+      suspend_button: 'Laikinai sustabdyti'
+  email:
+    no_reason_given: 'Šis sustabdymas nebuvo motyvuotas.'
+    suspended:
+      subject: 'Jūsų paskyra buvo laikinai sustabdyta'
+    unsuspended:
+      subject: 'Jūsų paskyra buvo laikinai sustabdyta'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Visi vartotojo įkelti failai.', anonymize_description: 'Pašalina vartotojo nuorodą iš įkeltų failų. Patys failai lieka prieinami vartotojams, kurie galėtų juos peržiūrėti iš anksto anonimizuodami.', delete_description: 'Ištrina visus vartotojo įkeltus failus.' }
+      tagsubscription: { export_description: 'Eksportuoja išsamią žymos prenumeratos lygio informaciją, jei tokia yra.', anonymize_description: 'Pašalina vartotojo prenumeratą į žymą.' }
+      followuser: { export_description: 'Eksportuojama stebėtų naudotojų ir stebimų naudotojų informacija.', delete_description: 'Ištrinami visi duomenys, susiję su sekamais vartotojais.', anonymize_description: 'Ištrinami visi duomenys, susiję su sekamais vartotojais.' }
+      bannedipdata: { export_description: 'Jei IP uždraudimo įrašas yra susietas su vartotoju (t. y. naudotojas buvo uždraustas pagal IP), vartotojo IP adresas bus įtrauktas į eksportavimą kartu su draudimo priežastimi ir sukūrimo data.', anonymize_description: 'Visi IP adresai, susieti su vartotoju, yra atsieti, tačiau pats IP išliks uždraustas kartu su priežastimi. Įsitikinkite, kad lauke "priežastis" nėra saugomi AII duomenys.' }
+fof-upload:
+  forum:
+    media_manager: 'Medijos tvarkyklė'
+    buttons:
+      attach: Pridėti
+      upload: Nusiuntimas
+      upload_shared: Bendra
+      user_uploads: 'Naudotojų įkėlimai'
+      cancel: Atšaukti
+      media: 'Mano medija'
+      shared_media: 'Bendra medija'
+    states:
+      error: Klaida
+      loading: Įkelti
+      unauthorized: 'Jums neleidžiama atsisiųsti failų'
+    text_preview:
+      expand: 'Išplėsti peržiūrą'
+      collapse: 'Sutraukti peržiūrą'
+      error: "Klaida peržiūrint failą. Jis gali būti ištrintas arba pateiktas failo ID yra neteisingas.\n"
+      no_snippet_preview: '< peržiūra bus rodoma čia po paskelbimo>'
+      no_snippet: '<nėra peržiūros fragmento>'
+  api:
+    upload_errors:
+      forbidden_type: 'Šio tipo failų įkelti neleidžiama.'
+      could_not_detect_mime: 'Nepavyko aptikti šio failo MIME tipo, bandykite dar kartą.'
+      max_upload_file_size_ini: 'Įkelkite maksimalų failų kiekio apribojimą, pasiektą iš php.ini.'
+      max_upload_file_size_form: 'Įkelkite maksimalų failo dydžio limitą, pasiektą iš formos.'
+      partial_upload: 'Dalinis įkėlimas.'
+      no_file_uploaded: 'Failas neįkeltas.'
+      no_upload_tmp_folder: 'Nėra tmp aplanko, skirto failams įkelti.'
+      cannot_write_to_disk: 'Nepavyksta rašyti į diską.'
+      upload_blocked_by_php_extension: 'PHP plėtinys užblokavo įkėlimą.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Naujas bendrinamas failas'
+      dropzone: 'Nuvilkite failus čia arba spustelėkite, jei norite naršyti'
+      hide-from-media-gallery: 'Slėpti vartotojo medijos galerijoje'
+      upload: Nusiuntimas
+    file_list:
+      loading: 'Įkeliami failai...'
+      empty: 'Nėra failų, kuriuos būtų galima rodyti.'
+      release_to_upload: 'Išleidimas įkelti'
+      modal_empty_desktop: 'Jūsų failų sąrašas tuščias. Spustelėkite mygtuką arba vilkite failą čia, kad įkeltumėte.'
+      modal_empty_phone: 'Jūsų failų sąrašas tuščias. Bakstelėkite aukščiau esantį mygtuką, kad įkeltumėte failą.'
+      load_more_files_btn: 'Įkelkite daugiau failų'
+      hide_file: { hide_success: 'Failas paslėptas', show_success: 'Rodomas failas', loading: 'Slepiamas failas...' }
+      hide_shared_file: { hide_success: 'Failas tapo privatus', show_success: 'Failas paskelbtas viešai', loading: 'Padaryti failą privatų...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Parašė
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Paryškintojo teksto įtraukimas'
+      code_tooltip: 'Įterpti kodą'
+      header_tooltip: 'Antraštės teksto įtraukimas'
+      image_tooltip: 'Vaizdo įtraukimas'
+      italic_tooltip: 'Pridėti pasvirąjį tekstą'
+      link_tooltip: 'Saito įtraukimas'
+      ordered_list_tooltip: 'Sunumeruoto sąrašo įtraukimas'
+      quote_tooltip: 'Citatos įterpimas'
+      spoiler_tooltip: 'Įdėkite spoilerį'
+      strikethrough_tooltip: 'Pridėti perbrauktą tekstą'
+      unordered_list_tooltip: 'Sąrašo su ženkleliais įtraukimas'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Kažkas sukuria diskusiją mano stebimoje žymėje'
+      notify_new_post_label: 'Kažkas skelbia įrašą mano stebimoje žymoje'
+      notify_new_discussion_tag_label: 'Kažkas iš naujo pažymi diskusiją į mano stebimą žymę'
+    index:
+      follow_tag_button: Sekti
+      unfollow_tag_button: 'Sustabdyti stebėjimą'
+      following: { following_none_label: 'Stebėjo diskusijas', following_tags_label: 'Stebimos žymos' }
+    badge:
+      following_tag_tooltip: Toliau
+      lurking_tag_tooltip: Przyczajony
+    sub_controls:
+      following_text: 'Būkite informuoti apie visas naujas diskusijas.'
+      hiding_text: 'Slėpti diskusijas puslapyje Visos diskusijos.'
+      ignoring_text: 'Niekada nepranešama.'
+      lurking_text: 'Gauti pranešimus apie visas naujas diskusijas ir atsakymus.'
+      not_following_button: Neseka
+      not_following_text: 'Būti pranešama tik tada, kai @mentioned.'
+      notify_alert_tooltip: 'Gaukite pranešimą forume, kai yra naujų diskusijų ar įrašų'
+      notify_email_tooltip: 'Gaukite el. laišką, kai yra naujų diskusijų ar įrašų'
+      submit_button: 'Patvirtinkite prenumeratą'
+      follow_button: Sekti
+      following_button: Toliau
+      hiding_button: Slepiasi
+      ignoring_button: Ignoruoja
+      lurking_button: Przyczajony
+    user:
+      settings: { heading: 'Sekti žymas', filter_label: 'Ką rodyti pagal numatytuosius nustatymus kitame puslapyje' }
+  ref:
+    follow: Sekti
+    following: Toliau
+    hiding: Slepiasi
+    ignoring: Ignoruoja
+    lurking: Przyczajony
+    filtering_options:
+      none: 'Stebėjo diskusijas'
+      tags: 'Stebimos žymos'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Šis slapyvardis negalioja. Norėdami gauti daugiau informacijos apie slapyvardžių taisykles, susisiekite su forumo administratoriumi.'
+  ref:
+    change_nickname: 'Pakeiskite slapyvardį'
+    nickname: Slapyvardis
+  forum:
+    change_nickname:
+      submit_button: 'Išsaugoti pakeitimus'
+      title: 'Pakeiskite slapyvardį'
+    edit_user:
+      nicknames_heading: 'Pakeiskite slapyvardį'
+      nicknames_text: Slapyvardis
+    settings:
+      change_nickname_button: 'Pakeiskite slapyvardį'
+    sign_up:
+      nickname_placeholder: Slapyvardis
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Susietos paskyros', last-used-label: 'Paskutinį kartą naudota', link-created-label: 'Sukurta nuoroda', orphaned-account: 'Anksčiau prisijungėte per šį teikėją, tačiau nuo to laiko šis forumas išjungė prisijungimą naudojant šį metodą.', help: 'Šios susietos paskyros leidžia prisijungti prie forumo naudojant kitus teikėjus.' } }
+    signup:
+      username_help: 'Pasirinkite vartotojo vardą, kurį norite žinoti čia'
+    unlink: 'Pašalinti saitą'
+    error:
+      bad_verification_code: 'Negaliojantis arba nebegaliojantis patvirtinimo atpažinimo ženklas. Bandykite dar kartą.'
+      invalid_state: 'Neteisinga būsena. Bandykite dar kartą.'
+    providers:
+      discord: Nesantaiką
+      facebook: '"Facebook"'
+      github: '"GitHub"'
+      gitlab: '"GitLab"'
+      google: '"Google"'
+      linkedin: '"LinkedIn"'
+      twitter: Twitter
+  lib:
+    providers:
+      discord: Nesantaiką
+      facebook: '"Facebook"'
+      github: '"GitHub"'
+      gitlab: '"GitLab"'
+      twitter: Twitter
+      google: '"Google"'
+      linkedin: '"LinkedIn"'
+  ref:
+    settings:
+      app_id: 'Programos ID'
+      app_secret: 'Programos paslaptis'
+      client_id: 'Kliento ID'
+      client_secret: 'Kliento paslaptis'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Prisijunkite kaip kitas vartotojas'
+      placeholder_optional: '(Pasirinktinai) Nurodykite priežastį, kodėl norite pereiti prie šio vartotojo'
+      placeholder_required: 'Prieš tęsdami turite nurodyti priežastį, kodėl perjungėte į šį vartotoją'
+    user_controls:
+      impersonate_button: 'Prisijunkite kaip vartotojas'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Privati diskusija' }
+    buttons:
+      add_recipients: Gavėjai
+      submit: GERAI
+      edit_recipients: 'Gavėjų redagavimas'
+      cancel: Atšaukti
+      make_public: 'Paviešinkite šią diskusiją'
+      remove_from_discussion: 'Palikite šią privačią diskusiją'
+    composer_private_discussion:
+      submit_button: 'Paskelbkite privačią diskusiją'
+      title_placeholder: 'Privačios diskusijos pavadinimas'
+    confirm:
+      make_public: 'Ar tikrai norite pašalinti gavėjus ir padaryti šią diskusiją matomą visiems, kurie gali peržiūrėti priskirtą žymę?'
+    nav:
+      start_button: 'Aptarkite privačiai'
+      nav_item: 'Privačios diskusijos'
+    input:
+      search_recipients: 'Ieškokite gavėjo įvesdami pirmuosius tris simbolius...'
+    search:
+      headings: { groups: 'Teisių grupės' }
+    modal:
+      titles: { add_recipients: 'Gavėjų įtraukimas į diskusiją' }
+      labels: { selected_users: 'Pasirinkti vartotojai', search_field: 'Ieškoti vartotojo' }
+      help: { add_recipients: 'Ši diskusija bus matoma tik tiems vartotojams, kuriuos čia pasirinksite. Reikalingas bent 1 gavėjas (išskyrus save).', update_recipients: 'Ši diskusija bus matoma tik tiems vartotojams, kuriuos čia pasirinksite.', selected_users: 'Spustelėkite vartotojo vardą, kad jį pašalintumėte.', click_user_to_remove_tooltip: 'Spustelėkite, kad pašalintumėte' }
+    user:
+      settings: { block_pd: 'Privačių diskusijų blokavimas' }
+      byobu_link: 'Privačios diskusijos'
+      dropdown_label: 'Privačios diskusijos'
+    notifications:
+      pd_label: 'Kažkas įtraukia mane į naują privačią diskusiją'
+      pd_reply_label: 'Kažkas paskelbia privačioje diskusijoje, kurios gavėjas esu'
+      pd_user_left_label: 'Gavėjas vartotojas palieka privačią diskusiją, kurioje dalyvauju'
+      pd_added_label: 'Kažkas įtraukia mane į esamą privačią diskusiją'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Ženkliuko informacija'
+    all_badges: 'Peržiūrėti visus ženklelius'
+    all_users: 'Peržiūrėti visus vartotojus'
+    give_badge: 'Duok ženklelį'
+    update_badge: 'Atnaujinimo ženklelis'
+    select_badge: 'Pasirinkite ženklelį'
+    user_has_badge: 'Vartotojas jau turi šį ženklelį.'
+    user_no_badges: 'Šis vartotojas dar neturi jokių ženklelių.'
+    no_received: 'Nė vienas vartotojas nepelnė šio ženklelio.'
+    save_changes: 'Išsaugoti pakeitimus'
+    badge:
+      badge: Ženklelis
+      badges: Ženkleliai
+      name: 'Ženklelio pavadinimas'
+      description: 'Ženklelio aprašymas'
+      earning_reason: 'Ženklelio gavimo priežastis'
+      update_earning_reason: 'Atnaujinkite uždarbio priežastį'
+      no_earning_reason: 'Nenustatyta uždarbio priežastis'
+      earned_on: 'Ženklelis, uždirbtas'
+      category: 'Ženklelio kategorija'
+      badge_details: 'Ženklelio informacija'
+    badges_in_card:
+      title: 'Ženkleliai vartotojo kortelėje'
+      manage_badges: 'Ženklelių tvarkymas'
+      description: 'Galite pakeisti matomus ženklelius savo vartotojo kortelėje vienu iš kitų ženklelių. Jei nepasirinksite nė vieno, jie bus pasirinkti automatiškai.'
+    moderation:
+      remove_badge: 'Ženklelio pašalinimas iš vartotojo'
+      remove_badge_confirm: 'Ar tikrai norite pašalinti šį ženklelį iš šio vartotojo?'
+      give_badge: 'Duok ženklelį'
+    notification:
+      title: 'Gavote naują ženklelį'
+      settings: 'Gavau ženkliuką'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Apgailėtinas statusas'
+      not_miserable_label: Neapgailėtina
+      indefinitely_label: 'Apgailėtinas neribotą laiką'
+      limited_time_label: 'Apgailėtina ribotą laiką...'
+      limited_time_days_text: ' Dienos'
+      submit_button: 'Išsaugoti pakeitimus'
+    user_badge:
+      miserable_user_tooltip: 'Apgailėtinas vartotojas'
+    user_controls:
+      miserable_user_button: 'Apgailėtinas vartotojas'
+  ref:
+    miserable_user: 'Apgailėtinas vartotojas'
+sycho-profile-cover:
+  forum:
+    cover: Viršelis
+    edit_cover: 'Redaguoti viršelį'
+    added:
+      success: 'Profilio viršelis atnaujintas.'
+      error: 'Vaizdo įkelti nepavyko.'
+    removed:
+      success: 'Profilio dangtelis nuimtas.'
+      error: 'Nepavyko nuimti dangtelio, bandykite dar kartą vėliau.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Kopijuoti į mainų sritį'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Paskutiniai lankytojai', guest: Svečias }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Šalies kodas'
+    saveButton: Taupyti
+    clickToSelectCountry: 'Pasirinkite savo šalį'
+    countrySaved: 'Šalis sėkmingai išgelbėta!'
+    field_placeholder: 'Patvirtinkite šalių vėliavas'
+    binding_country: 'Mes sužinojome, kad jūs nesusiejote savo buvimo vietos. Pirmiausia susiekite savo šalį. Pranešimus galite skelbti ir palikti tik susieję savo šalį.'
+    binding_country_click: 'Spustelėkite dabar'
+username-blacklist:
+  forum:
+    modal-title: Įspėjimas!
+    modal-body-first-line: 'Įspėjimas - šį vartotojo vardą <strong>blokuoja administratorius</strong>'
+    modal-body-second-line: 'Pasirinkite kitą naudotojo vardą, kuris nepažeidžia mūsų bendruomenės gairių, ir bandykite dar kartą.'
+  admin:
+    blackList: 'Į juodąjį sąrašą įtrauktas vartotojo vardas'
+    blackList-help: 'Parašykite čia vartotojo vardą, kurį norite užblokuoti registracijos metu (atskirtas kableliu)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Anotacija, show-summaries: 'Kiekvienos diskusijos ištraukos rodymas diskusijų sąrašuose (staliniams / planšetiniams kompiuteriams)', show-summaries-mobile: 'Kiekvienos diskusijos ištraukos rodymas diskusijų sąrašuose (mobiliesiems įrenginiams)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Forumo veikla'
+      forum_new_discussions: 'Naujos forumo diskusijos'
+      discussion_last_posts: 'Ši diskusija'
+      user_last_posts: 'Šio vartotojo įrašai ir komentarai'
+    feeds:
+      titles: { main_subtitle: 'Paskutinės žinutės forume', main_d_subtitle: 'Naujausios diskusijos forume', discussion_subtitle: 'Paskutiniai pranešimai šioje diskusijoje', user_subtitle: 'Naujausi šio vartotojo įrašai ir komentarai.' }
+    discussion:
+      feed_link: 'Informacijos santrauka'
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Po
+    profile_page:
+      no_following: 'Atrodo, kad nieko neseki.'
+    settings:
+      notify_new_follower_label: 'Kažkas mane seka'
+      notify_new_unfollower_label: 'Kažkas nustoja mane sekti'
+      notify_new_discussion_label: 'Kažkas, ką stebiu, pradeda diskusiją'
+      notify_new_post_label: 'Asmuo, kurį stebiu esamos diskusijos įrašus'
+      block_follow: 'Neleisti vartotojams manęs sekti'
+    badge:
+      label: { follow: 'Po diskusijų', lurk: 'Po visų' }
+    filter:
+      following: 'Stebimi vartotojai'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Sekite lygius', follow_select_label: 'Sekite tipą', no_user_attr_provided_err: 'Uh oho, kažkas nutiko atidarant šį modalą.', no_user_attr_provided_err_debug: 'Sukurtas joks atributas "user" nebuvo perduotas "SelectFollowUserLevel" modalui. Modalas negali būti pateiktas.', save_btn: Taupyti, cancel_btn: Atšaukti }
+    profile_link: 'Stebimi vartotojai'
+    user_controls:
+      follow_button: Sekti
+      unfollow_button: Nebestebėti
+      change_button: 'Keisti stebėjimo tipą'
+    index:
+      follow_tag_button: Sekti
+      unfollow_tag_button: 'Keisti stebėjimo tipą'
+  email:
+    new_follower_subject: '[Sekti vartotoją] Jūs turite naują sekėją!'
+  lib:
+    following_link: 'Stebimi vartotojai'
+    follow: Sekti
+    change_follow_type: 'Keisti stebėjimo tipą'
+    unfollow: Nebestebėti
+    follow_levels:
+      unfollow: { name: Nesekite }
+      follow: { name: 'Diskusijų stebėjimas' }
+      lurk: { name: 'Sekti visus' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Įsitikinkite, kad šis prašomas slapyvardžio pakeitimas atitinka forumo gaires.', decision_title: Sprendimas, approval_label: Patvirtinti, rejected_label: Atmesti, submit_button: Pateikti, reason_title: 'Atmetimo priežastis', success: 'Sprendimas išsiųstas.', title: 'Slapyvardžio keitimo užklausa' }
+      results: { title: 'Slapyvardžio keitimo užklausa', approved: 'Jūsų slapyvardžio keitimo užklausa patvirtinta', rejected: 'Jūsų slapyvardžio keitimo užklausa buvo atmesta', resubmit: 'Šiuo metu galite iš naujo pateikti naują slapyvardžio keitimo užklausą paskyros nustatymuose, jei taip nuspręsite.', dismiss_button: GERAI }
+      request: { title: 'Prašymas pakeisti slapyvardį', submit_button: 'Pateikti užklausą', delete_button: 'Ištrinti užklausą', confirmation_message: 'Jūsų slapyvardžio keitimo užklausa buvo pateikta ir laukia patvirtinimo.', deleted: 'Slapyvardžio užklausa ištrinta.', dismiss_button: GERAI }
+    username_modals:
+      action: { help_text: 'Įsitikinkite, kad šis prašomas vartotojo vardo pakeitimas atitinka forumo gaires.', decision_title: Sprendimas, approval_label: Patvirtinti, rejected_label: Atmesti, submit_button: Pateikti, reason_title: 'Atmetimo priežastis', success: 'Sprendimas išsiųstas.', title: 'Vartotojo vardo keitimo užklausa' }
+      results: { title: 'Vartotojo vardo keitimo užklausa', approved: 'Jūsų naudotojo vardo keitimo užklausa patvirtinta', rejected: 'Jūsų naudotojo vardo keitimo užklausa buvo atmesta', resubmit: 'Šiuo metu galite iš naujo pateikti naują naudotojo vardo keitimo užklausą paskyros nustatymuose, jei taip nuspręsite.', dismiss_button: GERAI }
+      request: { title: 'Prašymas pakeisti vartotojo vardą', submit_button: 'Pateikti užklausą', delete_button: 'Ištrinti užklausą', confirmation_message: 'Jūsų naudotojo vardo keitimo užklausa buvo pateikta ir laukia patvirtinimo.', deleted: 'Vartotojo vardo užklausa ištrinta.', dismiss_button: GERAI }
+    pending_requests:
+      empty_text: 'Nerasta jokių vardo keitimo užklausų.'
+      tooltip: 'Vardo keitimo užklausos'
+      title: 'Vardo keitimo užklausos'
+    settings:
+      nickname_request_button: 'Pakeiskite slapyvardį'
+      username_request_button: 'Pakeiskite vartotojo vardą'
+    user:
+      name_history_link: 'Vardo istorija'
+  ref:
+    name_change_request: 'Vardo keitimo užklausa'
+    name_change_requests: 'Vardo keitimo užklausos'
+    nickname_change_request: 'Slapyvardžio keitimo užklausa'
+    nickname_change_requests: 'Slapyvardžio keitimo užklausos'
+    username_change_request: 'Vartotojo vardo keitimo užklausa'
+    username_change_requests: 'Vartotojo vardo keitimo užklausos'
+  email:
+    body:
+      noReasonProvided: 'Priežastis nenurodyta.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Parašykite ką nors apie save'
+    profile:
+      cancel_confirm: 'Ar tikrai norite atšaukti biografijos redagavimą? Prarasite visus atliktus pakeitimus.'
+      cancel_button: Atšaukti
+      save_button: Taupyti
+      edit_bio_label: 'Redaguoti biografiją'
+fof-split:
+  forum:
+    split:
+      from: 'Atskilo nuo čia'
+      to: 'Padalinkite į čia'
+      cancel: 'Atšaukti padalijimą'
+    modal:
+      title: 'Išskaidyta diskusija'
+      new_discussion_label: 'Naujos diskusijos pavadinimo nurodymas'
+      submit_button: Perskirti
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Redaguokite socialinės žiniasklaidos mygtukus'
+      add: 'Pridėkite mygtukų prie savo socialinės žiniasklaidos'
+      headtitle: 'Redagavimo mygtukai'
+      title: Titulinis
+      url: URL
+      submit: Taupyti
+      delete: Naikinti
+      deletetitle: 'Mygtukas Naikinti'
+      save_disabled_fetching_favicons: 'Gaunama viena ar daugiau piktogramų. Palauk.'
+      favicon: Faviconas
+      grey_favicon: 'Pilka Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Akcija
+      share_dropdown_accessible_label: 'Perjungti diskusijų bendrinimo išskleidžiamąjį meniu'
+    modal:
+      title: Akcija
+      copy_button: Kopija
+  lib:
+    networks:
+      facebook: '"Facebook"'
+      twitter: Twitter
+      linkedin: '"LinkedIn"'
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Telegrama
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Mano pasaulis'
+      qq: QQ
+      qzone: QZone
+      native: 'Gimtoji dalis'
+fof-recaptcha:
+  forum:
+    error: 'Pateikiant "reCAPTCHA" įvyko klaida. Pabandyk dar kartą.'
+    unknown_error: 'Įvyko nežinoma klaida. Patikrinkite "captcha" ir bandykite dar kartą.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Dabar negalite naudoti šios reakcijos, atnaujinkite puslapį'
+    warning: 'Jūsų reakcija buvo konvertuota'
+    settings:
+      notify_post_reacted_label: 'Kažkas reaguoja į vieną iš mano įrašų'
+    reacting-own-post: 'Negalite reaguoti į savo įrašą'
+    modal:
+      title: Reakcijos
+      no_reactions: 'Kol kas jokių reakcijų'
+    mod_item: 'Peržiūrėti reakcijas'
+    react_button_label: Reaguoti
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Nepavyko įkelti vaizdo apkarpymo priemonės.', generic_resize: 'Apkarpant vaizdą ir keičiant jo dydį kažkas nutiko.', get_image_data: 'Nepavyko apkarpyti. Įsitikinkite, kad naršyklės apsauga nuo pirštų atspaudų yra išjungta.' }
+      help_text: "Vaizdų įkelti gali nepavykti, jei naršyklės privatumo nustatymai yra labai griežti. Jei kyla problemų, pabandykite išjungti apsaugą nuo pirštų atspaudų. Kitu atveju galite <disableResize>išjungti apkarpyto vaizdo glaudinimą</disableResize> arba <disableCrop>visiškai išjungti apkarpymą</disableCrop>.\n"
+      submit_button: Nusiuntimas
+      submit_crop_button: 'Apkarpymas ir įkėlimas'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Labai tikėtina, kad jam nereikia jokių tolesnių diskusijų, todėl jo iškėlimas neturi jokio tikslo.', checkbox_label: 'Žinau, kad ši diskusija gana sena, bet vis tiek norėčiau atsakyti.', error: 'Ši diskusija yra per sena, kad į ją būtų galima atsakyti.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Jūs neturite leidimo balsuoti'
+    poll_ended: 'Ši apklausa baigėsi.'
+    public_poll: 'Peržiūrėti rinkėjus'
+    composer_discussion:
+      add_poll: 'Pridėti apklausą'
+      edit_poll: 'Redaguoti apklausą'
+    modal:
+      add_title: 'Apklausos įtraukimas'
+      add_option_label: 'Pridėti parinktį'
+      edit_title: 'Redaguoti apklausą'
+      include_question: 'Turite įtraukti klausimą'
+      max: 'Galite turėti ne daugiau kaip 10 atsakymų'
+      min: 'Turite įtraukti mažiausiai 2 atsakymus'
+      no_voters: Nebalsavo
+      option_placeholder: Atsakymas
+      image_option_placeholder: 'Vaizdo URL (pasirinktinai)'
+      options_label: Atsakymai
+      public_poll_label: 'Leisti žmonėms matyti, kas balsavo'
+      allow_multiple_votes_label: 'Leisti žmonėms balsuoti už kelias parinktis'
+      max_votes_label: 'Maksimalus balsų skaičius vienam vartotojui'
+      max_votes_help: 'Nustatykite į 0, kad vartotojai galėtų balsuoti už visas parinktis.'
+      question_placeholder: Klausimas
+      submit: Pateikti
+    moderation:
+      delete: 'Pašalinti apklausą'
+      delete_confirm: 'Ar tikrai norite ištrinti šią apklausą?'
+      edit: 'Redaguoti apklausą'
+    tooltip:
+      badge: Apklausa
+    votes_modal:
+      title: Rinkėjų
+fof-nightmode:
+  ref:
+    auto: 'Automatinis (pagal naršyklės ar įrenginio parinktis)'
+    light: 'Dienos režimas'
+    dark: 'Naktinis režimas'
+  forum:
+    header:
+      nightmode_button: 'Naktinis režimas'
+    user:
+      settings: { heading: Tema, description: 'Pasirinkite, kokią spalvų temą norite naudoti forume.', description2: 'Ši tema bus susieta su jūsų paskyra ir taikoma visiems jūsų įrenginiams, nebent įjungsite toliau pateiktą jungiklį kiekvienam įrenginio nustatymui.', device_specific_setting_checkbox: 'Įrenginio nustatymų naudojimas', device_specific_setting_checkbox_tooltip: 'Jūsų temos pasirinkimas bus išsaugotas atskirai kiekvienam jūsų įrenginiui.', auto_unsupported: 'Jūsų naršyklė nepalaiko automatinio tamsaus režimo.', option_descriptions: { auto: 'Tema bus automatiškai pasirinkta pagal naršyklės ar įrenginio nustatymus. Pavyzdžiui, jei "iOS" įjungėte tamsųjį režimą, forumai taip pat bus tamsūs.', day: 'Klasikinė patirtis, prie kurios esate įpratę. Mylėjo ir išbandė.', night: 'Jūs esate šiek tiek naktinė pelėda. Jūs stebite forumą naktį, kol paukščiai miega, o lapės medžioja. Arba tiesiog mėgstate tamsesnes spalvas!' }, options: { auto: 'Automatinis (pagal naršyklės ar įrenginio parinktis)', day: 'Dienos režimas', night: 'Naktinis režimas' } }
+    day: 'Dienos režimas'
+    night: 'Naktinis režimas'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Tuščias užrašas neleidžiamas.'
+    moderatorNotes:
+      add_button: 'Nauja pastaba'
+      create-heading: 'Sukurkite naują moderatoriaus pastabą'
+      dismiss_button: Padaryta
+      noNotes: 'Atrodo, kad čia nėra užrašų.'
+      submit_button: 'Įrašyti pastabą'
+      delete: Naikinti
+      confirm: 'Ar tikrai norite ištrinti šį užrašą?'
+    user:
+      notes: 'Moderatoriaus pastabos'
+  api:
+    no_reason_provided: 'Priežastis nenurodyta'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Balsų
+    vote_title: 'Parodykite, kas balsavo'
+    nav:
+      name: Reitingai
+    ranking:
+      rank: Vieta
+      name: Naudotojas
+      amount: Taškų
+    notification:
+      prefrences: { vote: 'Kai balsuojama už vieną iš mano įrašų aukštyn / žemyn' }
+    user:
+      votes_link: Balsų
+    modal:
+      downvotes_label: 'Žemintojai:'
+      title: Rinkėjų
+      upvotes_label: 'Rinkėjai:'
+    mod_item: 'Peržiūrėti rinkėjus'
+    voters:
+      none: 'Rinkėjų dar nėra'
+      label: Rinkėjų
+      label_none: 'Nėra rinkėjų'
+    post:
+      upvote_button: '"Upvote" įrašas'
+      downvote_button: '"Downvote" įrašas'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Suplanuoti juodraščiai šiuo metu yra išjungti nustatymuose.'
+  ref:
+    schedule_draft: 'Tvarkaraščio juodraštis'
+  forum:
+    composer:
+      title: 'Išsaugoti juodraštį'
+      saving: Taupymo...
+      saved: Išsaugota!
+      exit_alert: 'Atmesti pakeitimus į juodraštį?'
+      discard_empty_draft_alert: 'Išmesti tuščią juodraštį?'
+    dropdown:
+      empty_text: 'Neišsaugojote jokių juodraščių'
+      title: Juodraščiai
+      delete_all_button: 'Ištrinkite visus juodraščius'
+      delete_button: 'Ištrinti juodraštį'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Ar tikrai norite ištrinti juodraštį?'
+      delete_all_alert: 'Ar tikrai norite ištrinti visus savo juodraščius?'
+      schedule_button: 'Tvarkaraščio juodraštis'
+      tooltip: Juodraščiai
+    schedule_draft_modal:
+      text: 'Suplanuokite, kad juodraštis būtų automatiškai paskelbtas vėliau!'
+      unschedule_button: Neplanuotas
+      unschedule_warning: 'Ar tikrai norite atšaukti šį juodraštį?'
+      reschedule_button: Perplanuoti
+      schedule_button: Tvarkaraštis
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Neteisinga data ir (arba) laikas'
+      title: 'Tvarkaraščio juodraštis'
+    user:
+      settings: { drafts_heading: Juodraščiai, draft_autosave_enable: 'Įgalinti automatinį juodraščio išsaugojimą?', draft_autosave_interval_label: 'Automatinio išsaugojimo intervalas (sekundėmis)', draft_autosave_interval_button: 'Atnaujinimo intervalas', draft_autosave_interval_invalid: 'Intervalas turi būti didesnis už 4 sveikasis skaičius.' }
+fof-best-answer:
+  forum:
+    answered_badge: Atsakė
+    this_best_answer: 'Pasirinkite geriausią atsakymą'
+    remove_best_answer: 'Panaikinkite geriausio atsakymo pasirinkimą'
+    best_answer_button: 'Geriausias atsakymas'
+    errors:
+      mismatch: 'Pasirinkto įrašo šioje diskusijoje nėra.'
+    notification:
+      content: 'Pasirinkite geriausią atsakymą, jei į jūsų klausimą buvo atsakyta'
+      preferences: { awarded_best_answer: 'Kažkas nustato mano įrašą kaip geriausią atsakymą', best_answer_in_discussion: 'Geriausias atsakymas – diskusijoje, kurioje dalyvavau', select_best_answer: 'Automatinis priminimas pasirinkti geriausią atsakymą mano pradėtoje diskusijoje' }
+    index:
+      ask_question: 'Užduokite klausimą'
+      cannot_ask_question: 'Nepavyksta užduoti klausimo'
+      solved_link: 'Išspręstos diskusijos'
+      unsolved_link: 'Neišspręstos diskusijos'
+    filter:
+      all_label: 'Visi klausimai'
+      solved_label: 'Išspręsti klausimai'
+      unsolved_label: 'Neišspręsti klausimai'
+      accessible_label: 'Išspręstas / neišspręstas pasirinkimas'
+    composer:
+      titlePlaceholder: 'Klausimo pavadinimas'
+    search:
+      discussions_solutions_heading: 'Diskusijos su sprendimais'
+    discussion:
+      jump_to_best_answer_button: 'Rodyti geriausią atsakymą'
+  email:
+    subject:
+      select: 'Tau pavyko atsakyti į savo klausimą?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Geriausi atsakymai'
+      least_best_answers: 'Mažiausiai geriausių atsakymų'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Niekas kitas nebus uždraustas'
+    user_badge:
+      banned_tooltip: Uždrausta
+    ban_ip_button: 'Uždrausti IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Ban
+      unban_button: Unban
+  error:
+    banned_ip_message: 'Autorizacija nepavyko.'
+    no_ips_found_message: 'Nerastas (-i) naudotojo IP adresas (-ai).'
+  lib:
+    modal:
+      check_button: Patikrinti
+      save_button: Taupyti
+      ban_ip_confirmation: 'Ar tikrai norite užblokuoti šio IP adreso naudojimą forume? Tai neleis vartotojams, turintiems šį IP adresą (-us), prisijungti ir užsiregistruoti.'
+      unban_ip_confirmation: 'Ar tikrai norite panaikinti šio vartotojo ir visų kitų vartotojų, kurių neuždraudė kiti IP, draudimą?'
+      unban_ip_no_users: 'Niekas kitas nebus uždraustas'
+      title: 'Uždrausti IP adresą (-us)'
+      unban_title: 'Unban IP (-iai)'
+      address_label: 'IP adresas'
+      reason_label: Priežastis
+      ban_button: Ban
+      unban_button: Unban
+  ref:
+    ban_label: Ban
+    ban_ip_addresses: 'Uždrausti IP adresą (-us)'
+    ban_ip_button: 'Uždrausti IP'
+    unban_label: Unban
+    unban_ip_addresses: 'Unban IP (-iai)'
+    unban_ip_button: 'Unban IP'
+    address_label: 'IP adresas'
+    reason_label: Priežastis
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Išsami informacija apie jūsų registraciją buvo rasta šlamšto prevencijos duomenų bazėje, todėl jūsų registracija buvo užblokuota.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Diskusijų naikinimas'
+      hard_delete_discussions_help: 'Tai visam laikui ištrins visas šio vartotojo pradėtas diskusijas. Kai išjungta, diskusijos bus paslėptos.'
+      hard_delete_posts_label: 'Ištrinkite įrašus'
+      hard_delete_posts_help: 'Tai visam laikui ištrins visus šio vartotojo įrašus (komentarus, atsakymus ir kt.). Kai išjungta, įrašai bus paslėpti.'
+      hard_delete_user_label: 'Ištrinti vartotoją'
+      hard_delete_user_help: 'Tai visam laikui ištrins vartotoją. Kai išjungsite, vartotojas bus sustabdytas.'
+      intro: 'Pažymint vartotoją kaip šlamšto siuntėją, bus imtasi kelių veiksmų, kurie priklauso nuo jūsų forume esančių plėtinių.'
+      move_discussions_tag_label: 'Diskusijų perkėlimas į sulaikytą žymę'
+      move_discussions_tag_help: 'Taip visos šio vartotojo pradėtos diskusijos bus perkeltos į žymą, kurią nurodėte forumo nustatymuose. Kai išjungta, diskusijos bus paliktos dabartinėse žymose.'
+      process_button: Procesas
+      report_to_sfs_label: 'Praneškite StopForumSpam'
+      report_to_sfs_help: 'Tai praneš apie pagrindinę vartotojo informaciją (vartotojo vardą, el. pašto adresą, IP adresą) StopForumSpam. Tai padės neleisti vartotojui užsiregistruoti kituose forumuose, kuriuose naudojama "StopForumSpam" paslauga.'
+    user_controls:
+      spammer_button: 'Šlamšto siuntėjas'
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Diskusijų rodinių skaičiaus nustatymas iš naujo'
+      submit: Pateikti
+      label: 'Rodinių skaičiaus nustatymas'
+    discussion_controls:
+      resetviews_button: 'Rodinių skaičiaus nustatymas'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Nelipnus
+      sticky_button: Lipnus
+    badge:
+      sticky_tooltip: Lipnus
+  ref:
+    sticky: Lipnus
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Užrakinta
+    discussion_controls:
+      lock_button: Užraktas
+      unlock_button: Atrakinti
+    settings:
+      notify_discussion_locked_label: 'Kažkas užrakina mano pradėtą diskusiją'
+flarum-likes:
+  forum:
+    post:
+      like_link: Kaip
+      unlike_link: 'Skirtingai nuo'
+      you_text: Tu
+    post_likes:
+      title: 'Vartotojai, kuriems tai patinka'
+      load_more_button: 'Įkelti daugiau'
+    settings:
+      notify_post_liked_label: 'Kažkam patinka vienas iš mano įrašų'
+    user:
+      likes_link: Mėgsta
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Įterpti jaustukus'
+      type_to_search_text: 'Įveskite, kad ieškotumėte jaustukų'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Jūsų turinys yra per didelis, perskaitykite mūsų skelbimo gaires' }
+dhtml-persona:
+  forum:
+    persona: Žmogus
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Lyderių lentelė'
+dhtml-gender:
+  forum:
+    male: Vyrų
+    female: Moteris
+    other: 'Nenori sakyti'
+    inputGender: Lytis
+    saveButton: Taupyti
+    clickToSelectGender: 'Pasirinkite savo lytį'
+    genderSaved: 'Lytis sėkmingai išgelbėta!'
+    field_placeholder: 'Patvirtinkite lytį'
+    binding_gender: 'Mes sužinojome, kad jūs nenustatėte savo lyties. Pirmiausia nustatykite savo lytį. Pranešimus galite skelbti ir palikti tik nustatę lytį.'
+    binding_gender_click: 'Spustelėkite dabar'
+flarum-content-pages:
+  forum:
+    home: Namon
+    about-us: 'Apie mus'
+    guidelines: Gaires
+    privacy-policy: 'Privatumo politika'
+    terms-of-use: 'Naudojimo terminas'
+    contact-us: 'Susisiekite su mumis'
+    download-app: 'Atsisiųskite programą'
+    discord-chat: 'Nesantaika Pokalbis'
+    tags-cloud: 'Žymės Debesis'
+    languages: Kalbų
+    leaderboard: 'Lyderių lentelė'
+    live: Gyvi
+    live-coding: 'Gyvas kodavimas'
+    challenges: Iššūkiai
+    dev-challenges: 'Dev iššūkiai'
+    jobs: 'Darbo vietos'
+    community: Bendrija
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Darbo vieta'
+    job-postings: 'Darbo vietos'
+    workshops: Seminarai
+    dev-workshops: 'Dev dirbtuvės'
+    events: Įvykiai
+    conferences: Konferencijos
+    event-conferences: 'Renginiai / konferencijos'
+    showcase: Šliaužiklis
+    tags: Tags
+    more: More
+    memberships: Narystės
+    members: Nariai
+    general-discussion: 'Bendrosios diskusijos'
+    technology-articles: 'Technologijos straipsniai'
+    coding-challenges: 'Kodavimo uždaviniai'
+    q-a: 'Q / A sekcija'
+    artificial-intelligence: 'Dirbtinis intelektas'
+    computer-science: 'Kompiuterių mokslas'
+    programming-languages: 'Programavimo kalbos'
+    development-tools: 'Plėtros priemonės'
+    software-development: 'Programinės įrangos kūrimas'
+    frontend-development: 'Kliūčių kūrimas'
+    backend-development: Comment
+    software-engineering: 'Programinės įrangos inžinerija'
+    cybersecurity: 'kibernetinis saugumas'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Simbolių skaitiklis'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Redaguoti gimimo datą'
+      date_of_birth_text: 'Gimimo data'
+      submit_button: 'Išsaugoti pakeitimus'
+    settings:
+      change_dob_label: 'Keisti gimimo datą'
+      show_dob_date_label: 'Rodyti gimimo dieną ir mėnesį'
+      show_dob_year_label: 'Rodyti gimimo metus'
+      show_dob_year_help: 'Tai leis žmonėms pamatyti jūsų amžių.'
+      dob_heading: 'Gimimo data'
+    nav:
+      nav_item: 'Šiandienos gimtadieniai'
+    edit_user:
+      dob_heading: 'Gimimo data'
+    sign_up:
+      dob_placeholder: 'Gimimo data'
+  api:
+    invalid_dob_message: 'Neteisinga gimimo data'
+  ref:
+    date_of_birth: 'Gimimo data'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Jaustukų rinkiklis'
+    search_placeholder: Ieškoti...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Redaguoti autorių ir datą'
+    modal:
+      title-post: 'Redaguoti įrašo autorių ir datą'
+      title-discussion: 'Redaguoti diskusijos autorių ir datą'
+      user: Autorius
+      created_at: 'Kūrimo laikas'
+      edited_at: 'Redaguoti laiką'
+      sync-with-discussion: 'Sinchronizavimas su diskusija'
+      sync-with-post: 'Sinchronizavimas su pirmuoju įrašu'
+      sync-impossible: 'Nepavyksta rasti pirmojo įrašo. Pabandykite slinkti iki diskusijos pradžios.'
+      submit: Taupyti
+      cancel: Atšaukti
+    search:
+      placeholder: 'Ieškoti vartotojų'
+      type-more: 'Įveskite 3 simbolius, kad ieškotumėte duomenų bazėje'
+      no-results: 'Nėra rezultatų'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Perjungti raiškiojo teksto režimą'
+      insert_button: Įterpti
+      insert_image: { src_placeholder: Saitas, title_placeholder: Titulinis }
+      insert_link: { text_placeholder: 'SMS žinutė', href_placeholder: URL, title_placeholder: 'Pavadinimas (rodomas užvedus pelės žymeklį)', remove_button: Šalinti }
+      additional_items_tooltip: 'Papildomi valdikliai'
+      code_block_tooltip: 'Kodo bloko įterpimas'
+      horizontal_rule_tooltip: 'Horizontaliosios taisyklės įterpimas'
+      image_tooltip: 'Vaizdo įtraukimas'
+      link_tooltip: 'Saito įtraukimas'
+      spoiler_block_tooltip: 'Blokuoti spoilerį / išskleidžiamąjį meniu'
+      strike_tooltip: 'Perbraukta <alt-shift-5>'
+      text_type_tooltip: 'Pasirinkite teksto tipą'
+  forum:
+    settings:
+      composer_heading: Kompozitorius
+      use_rich_text_editor_label: 'Naudojate raiškiojo teksto rengyklę?'
+      rich_text_compact_paragraphs_label: 'Neatskirkite pastraipų nauja eilute.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Įjungėte tiesioginius pranešimus, bet nesukonfigūravote šio įrenginio.'
+      optin_button: Konfigūruoti
+    discussion_controls:
+      share_button: Akcija
+    post_controls:
+      share_button: Akcija
+    user_controls:
+      share_button: Akcija
+    settings:
+      push_header: Stumti
+      pwa_notifications: { access_default: 'Dėl naršyklės apribojimų turite pasirinkti gauti tiesioginius pranešimus šiame įrenginyje.', access_default_button: Pasirinkti, access_denied: 'Turite pakoreguoti savo naršyklės nustatymus, kad gautumėte tiesioginius pranešimus šiame įrenginyje.', access_denied_button: 'Sužinokite, kaip', no_browser_support: 'Ši naršyklė nepalaiko progresyvių žiniatinklio programų tiesioginių pranešimų.', no_browser_support_button: 'Sužinoti daugiau, sužinok daugiau' }
+  views:
+    offline:
+      header: 'Tinklo ryšio klaida'
+      text: 'Šiai programai reikalingas tinklo ryšys; jo negalima naudoti neprisijungus. Patikrinkite ryšį.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Įspėti vartotoją'
+    user:
+      warnings: 'Moderatoriaus įspėjimai'
+    settings:
+      warning_notification_label: 'Moderatorius mane perspėja'
+    validation:
+      public_comment_required: 'Jūs dažniausiai pateikiate viešą komentarą.'
+      invalid_strike_count: 'Įspėjimų skaičius turi būti sveikasis skaičius nuo 0 iki 5.'
+    warning_controls:
+      delete_button: Šalinti
+      restore_button: Atkurti
+      delete_forever_button: 'Visam laikui ištrinti'
+    warning_list:
+      add_button: 'Naujas įspėjimas'
+      no_warnings: 'Atrodo, kad čia nėra jokių įspėjimų.'
+      warnings_no_strikes: 'Moderatoriaus įspėjimai: įspėjimų negauta'
+    warning_list_item:
+      public_comment: Įspėjimas
+      private_comment: 'Moderatoriaus matomi komentarai'
+      linked_post: 'Susietas įrašas'
+    warning_modal:
+      confirmation_message: 'Jūsų įspėjimas išsaugotas. Gali tekti atnaujinti puslapį, kad jį pamatytumėte.'
+      strikes_heading: 'Kiek streikų turėtų būti taikoma?'
+      submit_button: 'Išsaugoti įspėjimą'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Atsakymo šablono redagavimas'
+    reply_template:
+      title: 'Atsakymo šablono redagavimas'
+      submit_button: 'Įrašyti atsakymo šabloną'

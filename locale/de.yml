@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Das von Ihnen eingegebene Passwort ist falsch.'
+      confirm_password_placeholder: 'Passwort bestätigen'
+      dismiss_button: OKAY
+      submit_button: 'Änderungen speichern'
+      title: 'E-Mail-Adresse ändern'
+    change_password:
+      send_button: 'E-Mail zum Zurücksetzen des Passworts senden'
+      text: 'Klicken Sie auf die Schaltfläche unten und überprüfen Sie Ihre E-Mail auf einen Link zum Ändern Ihres Passworts.'
+      title: 'Passwort ändern'
+    composer:
+      close_tooltip: Schließen
+      exit_full_screen_tooltip: 'Vollbild beenden'
+      full_screen_tooltip: Vollbild
+      minimize_tooltip: Minimieren
+      preview_tooltip: Vorschau
+    composer_discussion:
+      body_placeholder: 'Schreiben Sie einen Beitrag...'
+      discard_confirmation: 'Sie haben Ihre Diskussion nicht gepostet. Möchten Sie es entsorgen?'
+      submit_button: 'Diskussion nach dem Beitrag'
+      title_placeholder: 'Titel der Diskussion'
+      title: 'Starten einer Diskussion'
+    composer_edit:
+      discard_confirmation: 'Sie haben Ihre Änderungen nicht gespeichert. Möchten Sie sie entsorgen?'
+      edited_message: 'Deine Bearbeitung wurde vorgenommen.'
+      submit_button: 'Änderungen speichern'
+      view_button: Ansehen
+    composer_reply:
+      discard_confirmation: 'Sie haben Ihre Antwort nicht gepostet. Möchten Sie es entsorgen?'
+      posted_message: 'Ihre Antwort wurde gepostet.'
+      submit_button: 'Antwort schreiben'
+      body_placeholder: 'Antwort schreiben...'
+      view_button: Ansehen
+    discussion_controls:
+      cannot_reply_button: 'Kann nicht antworten'
+      cannot_reply_text: 'Sie haben keine Berechtigung, auf diese Diskussion zu antworten.'
+      delete_confirmation: 'Bist du sicher, dass du diese Diskussion löschen möchtest?'
+      log_in_to_reply_button: 'Melden Sie sich an, um zu antworten'
+      toggle_dropdown_accessible_label: 'Dropdown-Menü für Diskussionsaktionen umschalten'
+      delete_button: Löschen
+      delete_forever_button: 'Für immer löschen'
+      rename_button: Umbenennen
+      reply_button: Antwort
+      restore_button: Wiederherstellen
+    discussion_list:
+      empty_text: 'Es sieht so aus, als gäbe es hier keine Diskussionen.'
+      load_more_button: 'Mehr laden'
+    forgot_password:
+      email_sent_message: 'Wenn die von Ihnen eingegebene E-Mail mit dieser Seite registriert ist, senden wir Ihnen eine E-Mail mit einem Link, um Ihr Passwort zurückzusetzen. Überprüfen Sie Ihren Spam-Ordner, wenn Sie ihn nicht innerhalb der nächsten Minute oder zwei erhalten.'
+      not_found_message: 'Mit dieser E-Mail-Adresse ist kein Benutzer registriert.'
+      submit_button: 'Wiederholen Passwort'
+      text: 'Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen einen Link, um Ihr Passwort zurückzusetzen.'
+      title: 'Passwort vergessen'
+      dismiss_button: OKAY
+      email_placeholder: 'E-Mail senden'
+    header:
+      admin_button: Verwaltung
+      back_to_index_tooltip: 'Zurück zur Diskussionsliste'
+      locale_dropdown_accessible_label: 'Gebietsschema des Forums ändern'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Suchanfrage löschen'
+      search_placeholder: 'Forum durchsuchen'
+      search_role_label: 'Forum durchsuchen'
+      session_dropdown_accessible_label: 'Dropdown-Menü für Sitzungsoptionen umschalten'
+      log_in_link: Anmelden
+      log_out_button: Ausloggen
+      settings_button: Einstellungen
+      sign_up_link: Anmelden
+    index:
+      cannot_start_discussion_button: 'Diskussion kann nicht gestartet werden'
+      mark_all_as_read_confirmation: 'Sind Sie sicher, dass Sie alle Diskussionen als gelesen markieren möchten?'
+      refresh_tooltip: Auffrischen
+      toggle_sidenav_dropdown_accessible_label: 'Dropdown-Menü für die Navigation umschalten'
+      all_discussions_link: 'Alle Diskussionen'
+      mark_all_as_read_tooltip: 'Alle als gelesen markieren'
+      meta_title_text: 'Alle Diskussionen'
+      start_discussion_button: 'Starten einer Diskussion'
+    index_sort:
+      latest_button: Neueste
+      newest_button: Neuest
+      oldest_button: Älteste
+      relevance_button: Relevanz
+      toggle_dropdown_accessible_label: 'Ändern der Sortierung von Diskussionslisten'
+      top_button: 'Nach oben'
+      hot_button: Laufend
+      votes_button: Zustimmungen
+      front_button: Startseite
+      popular_button: Beliebt
+      unpopular_button: Unbeliebt
+    log_in:
+      forgot_password_link: 'Passwort vergessen?'
+      invalid_login_message: 'Ihre Anmeldedaten waren falsch.'
+      remember_me_label: 'Erinnern Sie sich an mich'
+      sign_up_text: 'Sie haben noch kein Konto? <a>Anmelden</a>'
+      username_or_email_placeholder: 'Benutzername oder E-Mail'
+      password_placeholder: Passwort
+      submit_button: Anmelden
+      title: Anmelden
+    notifications:
+      delete_all_confirm: 'Sind Sie sicher, dass Sie alle Benachrichtigungen löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden'
+      delete_all_tooltip: 'Alle Benachrichtigungen löschen'
+      empty_text: 'Keine Benachrichtigungen'
+      mark_as_read_tooltip: 'Als gelesen markieren'
+      toggle_dropdown_accessible_label: 'Anzeigen von Benachrichtigungen'
+      mark_all_as_read_tooltip: 'Alle als gelesen markieren'
+      title: Benachrichtigungen
+      tooltip: Benachrichtigungen
+    post:
+      edited_text: Bearbeitete
+    post_controls:
+      delete_confirmation: 'Sind Sie sicher, dass Sie diesen Beitrag für immer löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.'
+      hide_confirmation: 'Sind Sie sicher, dass Sie diesen Beitrag löschen möchten?'
+      toggle_dropdown_accessible_label: 'Dropdown-Menü für Beitragssteuerelemente umschalten'
+      push_to_front_button: 'Zur Startseite verschieben'
+      pull_from_front_button: 'Von FrontPage abrufen'
+      delete_button: Löschen
+      delete_forever_button: 'Für immer löschen'
+      edit_button: Redigieren
+      restore_button: Wiederherstellen
+    post_scrubber:
+      now_link: Jetzt
+      original_post_link: 'Ursprünglicher Beitrag'
+    post_stream:
+      load_more_button: 'Mehr laden'
+      reply_placeholder: 'Antwort schreiben...'
+    rename_discussion:
+      title: 'Diskussion umbenennen'
+      submit_button: Umbenennen
+    search:
+      discussions_heading: Diskussionen
+      users_heading: Benutzer
+    security:
+      cannot_terminate_current_session: 'Die aktuell aktive Sitzung kann nicht beendet werden. Melden Sie sich stattdessen ab.'
+      created: Erstellt
+      current_active_session: 'Aktuelle aktive Sitzung'
+      developer_tokens_heading: Entwickler-Token
+      empty_text: 'Es sieht so aus, als gäbe es hier nichts zu sehen.'
+      global_logout: { heading: 'Globale Abmeldung', help_text: 'Löscht die aktuelle Cookie-Sitzung, beendet alle Sitzungen, widerruft Entwickler-Token und macht alle E-Mail-Bestätigungs-E-Mails oder E-Mails zum Zurücksetzen des Passworts ungültig.', log_out_button: Ausloggen }
+      hide_access_token: 'Token ausblenden'
+      last_activity: 'Letzte Aktivität'
+      new_access_token_modal: { submit_button: 'Token erstellen', title_placeholder: Titel, title: 'Neuer Token' }
+      revoke_access_token: Widerrufen
+      sessions_heading: 'Aktive Sitzungen'
+      session_termination_failed: 'Beim Beenden der Sitzungen ist ein Fehler aufgetreten.'
+      show_access_token: 'Token anzeigen'
+      terminate_all_other_sessions: 'Beenden Sie alle anderen Sitzungen'
+      terminate_session: Beenden
+      token_revoked: 'Token widerrufen.'
+      token_title_placeholder: /
+      never: Nie
+      new_access_token_button: 'Neuer Token'
+      revoke_access_token_confirmation: 'Sind Sie sicher, dass Sie fortfahren möchten? Diese Aktion kann nicht rückgängig gemacht werden.'
+      terminate_all_other_sessions_confirmation: 'Sind Sie sicher, dass Sie fortfahren möchten? Diese Aktion kann nicht rückgängig gemacht werden.'
+      title: Sicherheit
+    settings:
+      account_heading: Konto
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Jemand benennt eine Diskussion, die ich begonnen habe, um'
+      privacy_disclose_online_label: 'Anderen erlauben, zu sehen, wann ich online bin'
+      privacy_heading: Privatsphäre
+      change_email_button: 'E-Mail-Adresse ändern'
+      change_password_button: 'Passwort ändern'
+      notifications_heading: Benachrichtigungen
+      notify_by_email_heading: 'E-Mail senden'
+      title: Einstellungen
+    sign_up:
+      log_in_text: 'Haben Sie bereits ein Konto? <a>Anmelden</a>'
+      dismiss_button: OKAY
+      email_placeholder: 'E-Mail senden'
+      password_placeholder: Passwort
+      submit_button: Anmelden
+      title: Anmelden
+      username_placeholder: Nutzername
+    user:
+      avatar_upload_button: Hochladen
+      avatar_upload_tooltip: 'Einen neuen Avatar hochladen'
+      online_text: Online
+      posts_empty_text: 'Es sieht so aus, als gäbe es hier keine Beiträge.'
+      avatar_remove_button: Entfernen
+      discussions_link: Diskussionen
+      posts_link: Beiträge
+      posts_load_more_button: 'Mehr laden'
+      security_link: Sicherheit
+      settings_link: Einstellungen
+    user_controls:
+      button: Steuerung
+      delete_confirmation: 'Sind Sie sicher, dass Sie diesen Benutzer löschen möchten? Die Beiträge des Nutzers werden NICHT gelöscht.'
+      toggle_dropdown_accessible_label: 'Dropdown-Menü für Benutzersteuerelemente umschalten'
+      delete_button: Löschen
+      edit_button: Redigieren
+    user_email_confirmation:
+      resend_button: 'Bestätigungs-E-Mail erneut senden'
+      sent_message: Gesandt
+    welcome_hero:
+      hide: 'Willkommensnachricht ausblenden'
+    badge:
+      frontpage_tooltip: 'Als FrontPage markiert'
+  lib:
+    debug_button: Debuggen
+    alert:
+      dismiss_a11y_label: 'Warnung verwerfen'
+    badge:
+      hidden_tooltip: Versteckt
+    dropdown:
+      toggle_dropdown_accessible_label: 'Dropdown-Menü umschalten'
+    edit_user:
+      activate_button: 'Benutzer aktivieren'
+      groups_heading: Gruppen
+      set_password_label: 'Neues Passwort festlegen'
+      nothing_available: 'Sie dürfen diesen Benutzer nicht bearbeiten.'
+      email_heading: 'E-Mail senden'
+      email_label: 'E-Mail senden'
+      password_heading: Passwort
+      password_label: Passwort
+      submit_button: 'Änderungen speichern'
+      title: 'Benutzer bearbeiten'
+      username_heading: Nutzername
+      username_label: Nutzername
+    error:
+      generic_message: 'Hoppla! Irgendetwas ist schief gelaufen. Bitte laden Sie die Seite neu und versuchen Sie es erneut.'
+      generic_cross_origin_message: 'Hoppla! Bei einer Cross-Origin-Anfrage ist ein Fehler aufgetreten. Bitte laden Sie die Seite neu und versuchen Sie es erneut.'
+      not_found_message: 'Die angeforderte Ressource wurde nicht gefunden.'
+      payload_too_large_message: 'Die Anforderungsnutzlast war zu groß.'
+      permission_denied_message: 'Sie haben keine Erlaubnis, dies zu tun.'
+      rate_limit_exceeded_message: 'Du gehst ein bisschen zu schnell. Bitte versuchen Sie es in ein paar Sekunden erneut.'
+      render_failed_message: 'Es tut uns leid, aber bei der Anzeige dieses Inhalts ist ein Fehler aufgetreten. Wenn Sie ein Benutzer sind, versuchen Sie es bitte später erneut. Wenn Sie ein Administrator sind, werfen Sie einen Blick in Ihre Flarum-Protokolldateien, um weitere Informationen zu erhalten.'
+    modal:
+      close: Schließen
+    nav:
+      drawer_button: 'Öffnen Sie die Navigationsleiste'
+    loading_indicator:
+      accessible_label: Laden...
+  views:
+    confirm_email:
+      text: 'Klicken Sie auf die Schaltfläche unten, um die E-Mail-Adresse Ihres Kontos zu bestätigen.'
+      submit_button: 'E-Mail bestätigen'
+      title: 'E-Mail bestätigen'
+    content:
+      javascript_disabled_message: 'Diese Seite wird am besten in einem modernen Browser mit aktiviertem JavaScript angezeigt.'
+      load_error_message: 'Beim Versuch, die Vollversion dieser Website zu laden, ist etwas schief gelaufen. Versuchen Sie, diese Seite dringend zu aktualisieren, um den Fehler zu beheben.'
+      loading_text: Laden...
+    error:
+      csrf_token_mismatch: 'Sie waren zu lange inaktiv.'
+      csrf_token_mismatch_return_link: 'Gehen Sie zurück, um es erneut zu versuchen'
+      invalid_confirmation_token: 'Dieser Bestätigungslink wurde bereits verwendet oder ist ungültig.'
+      not_authenticated: 'Sie haben keine Berechtigung, auf diese Seite zuzugreifen. Versuchen Sie es nach dem Einloggen erneut.'
+      not_found: 'Die von Ihnen angeforderte Seite konnte nicht gefunden werden.'
+      permission_denied: 'Sie haben keine Berechtigung, auf diese Seite zuzugreifen.'
+      unknown: 'Beim Versuch, diese Seite zu laden, ist ein Fehler aufgetreten.'
+    log_out:
+      log_out_button: Ausloggen
+      title: Ausloggen
+    reset_password:
+      confirm_password_label: 'Neues Passwort bestätigen'
+      new_password_label: 'Neues Passwort'
+      submit_button: 'Änderungen speichern'
+      title: 'Setzen Sie Ihr Passwort zurück'
+    discussion:
+      next_page_button: 'Nächste Seite'
+      previous_page_button: 'Vorherige Seite'
+    index:
+      all_discussions_heading: 'Alle Diskussionen'
+      next_page_button: 'Nächste Seite'
+      previous_page_button: 'Vorherige Seite'
+  api:
+    invalid_username_message: 'Der Benutzername darf nur Buchstaben, Zahlen und Bindestriche enthalten.'
+  email:
+    activate_account:
+      subject: 'Aktivieren Sie Ihr neues Konto'
+    confirm_email:
+      subject: 'Bestätigen Sie Ihre neue E-Mail-Adresse'
+    reset_password:
+      subject: 'Setzen Sie Ihr Passwort zurück'
+    send_test:
+      subject: 'Flarum E-Mail-Test'
+  ref:
+    all_discussions: 'Alle Diskussionen'
+    change_email: 'E-Mail-Adresse ändern'
+    change_password: 'Passwort ändern'
+    color: Farbe
+    confirm_password: 'Passwort bestätigen'
+    confirm_email: 'E-Mail bestätigen'
+    custom_footer_text: 'Fügen Sie HTML hinzu, das ganz unten auf der Seite angezeigt werden soll.'
+    custom_footer_title: 'Benutzerdefinierte Fußzeile bearbeiten'
+    custom_header_text: 'Fügen Sie HTML hinzu, das ganz oben auf der Seite angezeigt wird, über dem eigenen Header von Flarum.'
+    custom_header_title: 'Benutzerdefinierte Kopfzeile bearbeiten'
+    delete: Löschen
+    delete_forever: 'Für immer löschen'
+    discussions: Diskussionen
+    edit: Redigieren
+    edit_user: 'Benutzer bearbeiten'
+    email: 'E-Mail senden'
+    extensions: Erweiterungen
+    generic_confirmation_message: 'Sind Sie sicher, dass Sie fortfahren möchten? Diese Aktion kann nicht rückgängig gemacht werden.'
+    icon: Ikone
+    load_more: 'Mehr laden'
+    loading: Laden...
+    log_in: Anmelden
+    log_out: Ausloggen
+    mark_all_as_read: 'Alle als gelesen markieren'
+    never: Nie
+    new_token: 'Neuer Token'
+    next_page: 'Nächste Seite'
+    notifications: Benachrichtigungen
+    okay: OKAY
+    password: Passwort
+    posts: Beiträge
+    previous_page: 'Vorherige Seite'
+    remove: Entfernen
+    rename: Umbenennen
+    reply: Antwort
+    reset_your_password: 'Setzen Sie Ihr Passwort zurück'
+    restore: Wiederherstellen
+    save_changes: 'Änderungen speichern'
+    search_users: 'Benutzer suchen'
+    security: Sicherheit
+    settings: Einstellungen
+    sign_up: Anmelden
+    start_a_discussion: 'Starten einer Diskussion'
+    username: Nutzername
+    users: Benutzer
+    view: Ansehen
+    write_a_reply: 'Antwort schreiben...'
+    you: Du
+  group:
+    admin: Administrator
+    admins: Administratoren
+    guest: Gast
+    guests: Gäste
+    member: Mitglied
+    members: Angehörige
+    mod: Weise
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Alle Schlagwörter'
+      meta_title_text: Schilder
+    choose_tags:
+      title: 'Wählen Sie Tags für Ihre Diskussion aus'
+    discussion_controls:
+      edit_tags_button: 'Tags bearbeiten'
+    header:
+      back_to_tags_tooltip: 'Zurück zur Tag-Liste'
+    index:
+      more_link: Mehr...
+      untagged_link: Unmarkiert
+      tags_link: Schilder
+    composer_discussion:
+      choose_tags_link: 'Tags auswählen'
+  lib:
+    deleted_tag_text: Gelöscht
+    tag_selection_modal:
+      bypass_requirements: 'Anforderungen an die Umgehung von Tags'
+      submit_button: OKAY
+      title: 'Tags auswählen'
+  ref:
+    choose_tags: 'Tags auswählen'
+    name: Name
+    tags: Schilder
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Erwähnen Sie einen Benutzer, eine Gruppe oder einen Beitrag'
+    mentioned_by:
+      title: 'Antworten auf diesen Beitrag'
+      load_more_button: 'Mehr laden'
+    post:
+      quote_button: Zitieren
+      reply_link: Antwort
+      you_text: Du
+    settings:
+      notify_post_mentioned_label: 'Jemand antwortet auf einen meiner Beiträge'
+      notify_user_mentioned_label: 'Jemand erwähnt mich in einem Beitrag'
+      notify_group_mentioned_label: 'Jemand erwähnt in einem Beitrag eine Gruppe, in der ich Mitglied bin'
+    user:
+      mentions_link: Erwähnungen
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Nicht mehr folgen'
+      unignore_button: Unsir
+      follow_button: Folgen
+    settings:
+      follow_after_reply_label: 'Automatisches Folgen von Diskussionen, auf die ich antworte'
+      notify_for_all_posts_label: 'Benachrichtigen Sie über jeden neuen Beitrag und nicht nur über den letzten in einer Diskussion'
+      notify_new_post_label: 'Jemand postet in einer Diskussion, der ich folge'
+    sub_controls:
+      following_text: 'Lassen Sie sich über alle Antworten benachrichtigen.'
+      ignoring_text: 'Lassen Sie sich niemals benachrichtigen. Aus der Diskussionsliste ausblenden.'
+      not_following_button: 'Nicht folgen'
+      not_following_text: 'Lassen Sie sich nur benachrichtigen, wenn @mentioned.'
+      notify_alert_tooltip: 'Erhalten Sie eine Forenbenachrichtigung, wenn es neue Beiträge gibt'
+      notify_email_tooltip: 'Erhalten Sie eine E-Mail, wenn es neue Beiträge gibt'
+      follow_button: Folgen
+      following_button: Folgende
+      ignoring_button: Ignorierend
+    badge:
+      following_tooltip: Folgende
+      ignoring_tooltip: Ignorierend
+    following:
+      meta_title_text: Folgende
+    index:
+      following_link: Folgende
+  ref:
+    follow: Folgen
+    following: Folgende
+    ignoring: Ignorierend
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Vielen Dank, dass Sie diesen Beitrag gemeldet haben. Unsere Moderatoren werden sich darum kümmern.'
+      reason_inappropriate_label: Unangebracht
+      reason_inappropriate_text: 'Dieser Beitrag ist beleidigend, beleidigend oder verstößt gegen unsere <a>Community-Richtlinien</a>.'
+      reason_missing_message: 'Bitte geben Sie einige Details für unsere Moderatoren an.'
+      reason_off_topic_label: Off-Topic
+      reason_off_topic_text: 'Dieser Beitrag ist für die aktuelle Diskussion nicht relevant und sollte an einen anderen Ort verschoben werden.'
+      reason_other_label: 'Sonstiges (bitte angeben)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Bei diesem Beitrag handelt es sich um eine Werbung.'
+      dismiss_button: OKAY
+      submit_button: Flaggen-Pfosten
+      title: Flaggen-Pfosten
+    flagged_posts:
+      empty_text: 'Keine Flaggen'
+      title: 'Markierte Beiträge'
+      tooltip: 'Markierte Beiträge'
+    post:
+      dismiss_flag_button: 'Flagge verwerfen'
+    post_controls:
+      flag_button: Flagge
+  ref:
+    flag_post: Flaggen-Pfosten
+    flagged_posts: 'Markierte Beiträge'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Sie wurden auf unbestimmte Zeit suspendiert'
+      user_unsuspended_text: 'Sie wurden entsperrt'
+    suspension_info:
+      dismiss_button: Entlassen
+      indefinite: 'Es handelt sich um eine unbefristete Aussetzung'
+      title: 'Dieses Konto ist gesperrt'
+    suspend_user:
+      display_message: 'Meldung für Benutzer anzeigen'
+      indefinitely_label: 'Auf unbestimmte Zeit ausgesetzt'
+      limited_time_days_text: ' Tage'
+      limited_time_label: 'Für eine begrenzte Zeit ausgesetzt...'
+      not_suspended_label: 'Nicht ausgesetzt'
+      placeholder_optional: Wahlfrei
+      reason: 'Grund für die Suspendierung'
+      status_heading: 'Status der Suspendierung'
+      submit_button: 'Änderungen speichern'
+    user_badge:
+      suspended_tooltip: Ausgesetzt
+    user_controls:
+      suspend_button: Aufhängen
+  email:
+    no_reason_given: 'Für diese Aussetzung wurde kein Grund genannt.'
+    suspended:
+      subject: 'Ihr Konto wurde gesperrt'
+    unsuspended:
+      subject: 'Die Sperrung Ihres Kontos wurde aufgehoben'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Alle Dateien, die vom Benutzer hochgeladen werden.', anonymize_description: 'Entfernt den Benutzerverweis aus den hochgeladenen Dateien. Die Dateien selbst bleiben für Benutzer zugänglich, die sie vor der Anonymisierung anzeigen konnten.', delete_description: 'Löscht alle Dateien, die vom Benutzer hochgeladen wurden.' }
+      tagsubscription: { export_description: 'Exportiert Details der Abonnementstufe für ein Tag, falls vorhanden.', anonymize_description: 'Entfernt das Abonnement des Benutzers für das Tag.' }
+      followuser: { export_description: 'Exportiert Details zu Benutzern, denen Sie gefolgt sind, und zu folgenden Benutzern.', delete_description: 'Löscht alle Daten, die sich auf folgende Benutzer beziehen.', anonymize_description: 'Löscht alle Daten, die sich auf folgende Benutzer beziehen.' }
+      bannedipdata: { export_description: 'Wenn ein IP-Sperreintrag mit einem Benutzer verknüpft ist (d. h. der Benutzer wurde per IP gesperrt), wird die IP-Adresse des Benutzers zusammen mit dem Grund für die Sperre und dem Erstellungsdatum in den Export einbezogen.', anonymize_description: 'Alle IP-Adressen, die mit dem Benutzer verknüpft sind, werden entkoppelt, aber die IP selbst bleibt zusammen mit dem Grund gesperrt. Stellen Sie sicher, dass keine personenbezogenen Daten im Feld "Grund" gespeichert werden.' }
+fof-upload:
+  forum:
+    media_manager: Medienmanager
+    buttons:
+      attach: Befestigen
+      upload: Hochladen
+      upload_shared: Geteilt
+      user_uploads: Benutzer-Uploads
+      cancel: Abbrechen
+      media: 'Meine Medien'
+      shared_media: 'Freigegebene Medien'
+    states:
+      error: Fehler
+      loading: Hochladen
+      unauthorized: 'Es ist Ihnen nicht gestattet, Dateien herunterzuladen'
+    text_preview:
+      expand: 'Vorschau erweitern'
+      collapse: 'Vorschau einklappen'
+      error: "Fehler bei der Vorschau der Datei. Möglicherweise wurde sie gelöscht, oder die angegebene Datei-ID ist ungültig.\n"
+      no_snippet_preview: '<Die Vorschau wird hier nach dem Posten angezeigt>'
+      no_snippet: '<Kein Vorschau-Snippet verfügbar>'
+  api:
+    upload_errors:
+      forbidden_type: 'Das Hochladen von Dateien dieses Typs ist nicht erlaubt.'
+      could_not_detect_mime: 'Der MIME-Typ dieser Datei konnte nicht erkannt werden, versuchen Sie es bitte erneut.'
+      max_upload_file_size_ini: 'Die maximale Dateigröße für Uploads wird ab php.ini erreicht.'
+      max_upload_file_size_form: 'Maximale Dateigröße beim Hochladen über das Formular erreicht.'
+      partial_upload: 'Teilweiser Upload.'
+      no_file_uploaded: 'Keine Datei hochgeladen.'
+      no_upload_tmp_folder: 'Kein tmp-Ordner zum Hochladen von Dateien.'
+      cannot_write_to_disk: 'Es kann nicht auf den Datenträger geschrieben werden.'
+      upload_blocked_by_php_extension: 'Eine PHP-Erweiterung blockierte den Upload.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Neue freigegebene Datei'
+      dropzone: 'Ziehen Sie Dateien hierher und legen Sie sie dort ab oder klicken Sie, um sie zu durchsuchen'
+      hide-from-media-gallery: 'Aus der Mediengalerie des Benutzers ausblenden'
+      upload: Hochladen
+    file_list:
+      loading: 'Dateien werden geladen...'
+      empty: 'Es gibt keine Dateien, die angezeigt werden können.'
+      release_to_upload: 'Zum Hochladen freigeben'
+      modal_empty_desktop: 'Ihre Dateiliste ist leer. Klicken Sie auf die Schaltfläche oder ziehen Sie eine Datei hierher, um sie hochzuladen.'
+      modal_empty_phone: 'Ihre Dateiliste ist leer. Tippen Sie auf die Schaltfläche oben, um eine Datei hochzuladen.'
+      load_more_files_btn: 'Weitere Dateien laden'
+      hide_file: { hide_success: 'Datei versteckt', show_success: 'Angezeigte Datei', loading: 'Datei verstecken...' }
+      hide_shared_file: { hide_success: 'Datei privat gemacht', show_success: 'Datei veröffentlicht', loading: 'Datei privat machen...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: schrieb
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Fügen Sie fetten Text hinzu'
+      code_tooltip: 'Code einfügen'
+      header_tooltip: 'Hinzufügen von Kopfzeilentext'
+      image_tooltip: 'Hinzufügen eines Bildes'
+      italic_tooltip: 'Kursiven Text hinzufügen'
+      link_tooltip: 'Fügen Sie einen Link hinzu'
+      ordered_list_tooltip: 'Hinzufügen einer nummerierten Liste'
+      quote_tooltip: 'Geben Sie ein Zitat ein'
+      spoiler_tooltip: 'Einen Spoiler einfügen'
+      strikethrough_tooltip: 'Hinzufügen von durchgestrichenem Text'
+      unordered_list_tooltip: 'Hinzufügen einer Aufzählung'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Jemand erstellt eine Diskussion in einem Tag, dem ich folge'
+      notify_new_post_label: 'Jemand postet in einem Tag, dem ich folge'
+      notify_new_discussion_tag_label: 'Jemand markiert eine Diskussion auf einen Tag, dem ich folge'
+    index:
+      follow_tag_button: Folgen
+      unfollow_tag_button: 'Hören Sie auf zu folgen'
+      following: { following_none_label: 'Verfolgte Diskussionen', following_tags_label: 'Gefolgte Tags' }
+    badge:
+      following_tag_tooltip: Folgende
+      lurking_tag_tooltip: Lauernd
+    sub_controls:
+      following_text: 'Lassen Sie sich über alle neuen Diskussionen informieren.'
+      hiding_text: 'Blenden Sie Diskussionen auf der Seite "Alle Diskussionen" aus.'
+      ignoring_text: 'Lassen Sie sich niemals benachrichtigen.'
+      lurking_text: 'Lassen Sie sich über alle neuen Diskussionen und Antworten informieren.'
+      not_following_button: 'Nicht folgen'
+      not_following_text: 'Lassen Sie sich nur benachrichtigen, wenn @mentioned.'
+      notify_alert_tooltip: 'Erhalten Sie eine Forum-Benachrichtigung, wenn es neue Diskussionen oder Beiträge gibt'
+      notify_email_tooltip: 'Erhalten Sie eine E-Mail, wenn es neue Diskussionen oder Beiträge gibt'
+      submit_button: 'Abonnement bestätigen'
+      follow_button: Folgen
+      following_button: Folgende
+      hiding_button: Verheimlichend
+      ignoring_button: Ignorierend
+      lurking_button: Lauernd
+    user:
+      settings: { heading: 'Tags folgen', filter_label: 'Was standardmäßig auf der folgenden Seite angezeigt werden soll' }
+  ref:
+    follow: Folgen
+    following: Folgende
+    hiding: Verheimlichend
+    ignoring: Ignorierend
+    lurking: Lauernd
+    filtering_options:
+      none: 'Verfolgte Diskussionen'
+      tags: 'Gefolgte Tags'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Dieser Spitzname ist ungültig. Bitte wenden Sie sich an Ihren Forenadministrator, um weitere Informationen zu den Regeln für Spitznamen zu erhalten.'
+  ref:
+    change_nickname: 'Spitznamen ändern'
+    nickname: Spitzname
+  forum:
+    change_nickname:
+      submit_button: 'Änderungen speichern'
+      title: 'Spitznamen ändern'
+    edit_user:
+      nicknames_heading: 'Spitznamen ändern'
+      nicknames_text: Spitzname
+    settings:
+      change_nickname_button: 'Spitznamen ändern'
+    sign_up:
+      nickname_placeholder: Spitzname
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Verknüpfte Konten', last-used-label: 'Zuletzt verwendet', link-created-label: 'Link erstellt', orphaned-account: 'Sie haben sich bereits über diesen Anbieter angemeldet, aber dieses Forum hat die Anmeldung mit dieser Methode seitdem deaktiviert.', help: 'Diese verknüpften Konten ermöglichen es Ihnen, sich mit anderen Anbietern im Forum anzumelden.' } }
+    signup:
+      username_help: 'Bitte wählen Sie hier einen Benutzernamen aus, der bekannt sein soll'
+    unlink: 'Link entfernen'
+    error:
+      bad_verification_code: 'Ungültiges oder abgelaufenes Verifizierungstoken. Bitte versuchen Sie es erneut.'
+      invalid_state: 'Ungültiger Status. Bitte versuchen Sie es erneut.'
+    providers:
+      discord: Zwietracht
+      facebook: 'Auf Facebook (Englisch)'
+      github: 'GitHub (Englisch)'
+      gitlab: 'GitLab (Englisch)'
+      google: Googeln
+      linkedin: 'LinkedIn (Englisch)'
+      twitter: Zwitschern
+  lib:
+    providers:
+      discord: Zwietracht
+      facebook: 'Auf Facebook (Englisch)'
+      github: 'GitHub (Englisch)'
+      gitlab: 'GitLab (Englisch)'
+      twitter: Zwitschern
+      google: Googeln
+      linkedin: 'LinkedIn (Englisch)'
+  ref:
+    settings:
+      app_id: App-Kennung
+      app_secret: App-Geheimnis
+      client_id: Client-ID
+      client_secret: 'Geheimer Clientschlüssel'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Melden Sie sich als anderer Benutzer an'
+      placeholder_optional: '(Fakultativ) Geben Sie den Grund für den Wechsel zu diesem Benutzer an.'
+      placeholder_required: 'Sie müssen den Grund für den Wechsel zu diesem Benutzer angeben, bevor Sie fortfahren können'
+    user_controls:
+      impersonate_button: 'Melden Sie sich als Benutzer an'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Private Diskussion' }
+    buttons:
+      add_recipients: Empfänger
+      submit: OKAY
+      edit_recipients: 'Empfänger bearbeiten'
+      cancel: Abbrechen
+      make_public: 'Diese Diskussion öffentlich machen'
+      remove_from_discussion: 'Verlassen Sie diese private Diskussion'
+    composer_private_discussion:
+      submit_button: 'Private Diskussion posten'
+      title_placeholder: 'Titel der privaten Diskussion'
+    confirm:
+      make_public: 'Sind Sie sicher, dass Sie die Empfänger entfernen und diese Diskussion für jeden sichtbar machen möchten, der das zugewiesene Tag sehen kann?'
+    nav:
+      start_button: 'Diskutieren Sie privat'
+      nav_item: 'Private Diskussionen'
+    input:
+      search_recipients: 'Suchen Sie den Empfänger, indem Sie die ersten drei Zeichen eingeben...'
+    search:
+      headings: { groups: Berechtigungsgruppen }
+    modal:
+      titles: { add_recipients: 'Hinzufügen von Empfängern zu Ihrer Diskussion' }
+      labels: { selected_users: 'Ausgewählte Benutzer', search_field: 'Nach Benutzer suchen' }
+      help: { add_recipients: 'Diese Diskussion ist nur für die Benutzer sichtbar, die Sie hier auswählen. Mindestens 1 Empfänger (außer Ihnen selbst) ist erforderlich.', update_recipients: 'Diese Diskussion ist nur für die Benutzer sichtbar, die Sie hier auswählen.', selected_users: 'Klicken Sie auf den Namen eines Benutzers, um ihn zu entfernen.', click_user_to_remove_tooltip: 'Klicken zum Entfernen' }
+    user:
+      settings: { block_pd: 'Private Diskussionen blockieren' }
+      byobu_link: 'Private Diskussionen'
+      dropdown_label: 'Private Diskussionen'
+    notifications:
+      pd_label: 'Jemand nimmt mich in eine neue private Diskussion mit ein'
+      pd_reply_label: 'Jemand postet in einer privaten Diskussion, die ich erhalten habe'
+      pd_user_left_label: 'Ein empfangender Benutzer verlässt eine private Diskussion, an der ich teile.'
+      pd_added_label: 'Jemand fügt mich zu einer bestehenden privaten Diskussion hinzu'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informationen zum Badge'
+    all_badges: 'Alle Abzeichen anzeigen'
+    all_users: 'Alle Benutzer anzeigen'
+    give_badge: 'Abzeichen geben'
+    update_badge: 'Badge aktualisieren'
+    select_badge: 'Badge auswählen'
+    user_has_badge: 'Der Benutzer verfügt bereits über dieses Abzeichen.'
+    user_no_badges: 'Dieser Benutzer hat noch keine Badges.'
+    no_received: 'Kein Benutzer hat dieses Abzeichen verdient.'
+    save_changes: 'Speichern der Änderungen'
+    badge:
+      badge: Abzeichen
+      badges: Kennzeichen
+      name: 'Name des Abzeichens'
+      description: 'Beschreibung des Abzeichens'
+      earning_reason: 'Grund für das Verdienen von Badges'
+      update_earning_reason: 'Aktualisieren des Verdienstgrundes'
+      no_earning_reason: 'Kein Verdienstgrund festgelegt'
+      earned_on: 'Abzeichen, das Sie erhalten haben am'
+      category: 'Kategorie "Abzeichen"'
+      badge_details: 'Details zum Badge'
+    badges_in_card:
+      title: 'Abzeichen in der Benutzerkarte'
+      manage_badges: 'Verwalten von Abzeichen'
+      description: 'Sie können die sichtbaren Badges in Ihrer Benutzerkarte durch eines Ihrer anderen Badges ersetzen. Wenn Sie keine auswählen, werden sie automatisch ausgewählt.'
+    moderation:
+      remove_badge: 'Abzeichen vom Benutzer entfernen'
+      remove_badge_confirm: 'Sind Sie sicher, dass Sie dieses Abzeichen von diesem Benutzer entfernen möchten?'
+      give_badge: 'Abzeichen geben'
+    notification:
+      title: 'Sie haben einen neuen Badge erhalten'
+      settings: 'Ich habe einen Badge erhalten'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Elender Zustand'
+      not_miserable_label: 'Nicht miserabel'
+      indefinitely_label: 'Elend auf unbestimmte Zeit'
+      limited_time_label: 'Elend für eine begrenzte Zeit...'
+      limited_time_days_text: ' Tage'
+      submit_button: 'Änderungen speichern'
+    user_badge:
+      miserable_user_tooltip: 'Unglücklicher Benutzer'
+    user_controls:
+      miserable_user_button: 'Unglücklicher Benutzer'
+  ref:
+    miserable_user: 'Unglücklicher Benutzer'
+sycho-profile-cover:
+  forum:
+    cover: Deckel
+    edit_cover: 'Cover bearbeiten'
+    added:
+      success: 'Profilcover aktualisiert.'
+      error: 'Das Bild konnte nicht hochgeladen werden.'
+    removed:
+      success: 'Profilabdeckung entfernt.'
+      error: 'Abdeckung konnte nicht entfernt werden, versuchen Sie es später erneut.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'In Zwischenablage kopieren'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Letzte Besucher', guest: Gast }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: Landescode
+    saveButton: Retten
+    clickToSelectCountry: 'Wählen Sie Ihr Land aus'
+    countrySaved: 'Land erfolgreich gerettet!'
+    field_placeholder: 'Länderflaggen bestätigen'
+    binding_country: 'Wir haben festgestellt, dass Sie Ihren Aufenthaltsort nicht festgelegt haben. Bitte verlinken Sie zuerst Ihr Land. Sie können erst Nachrichten posten und hinterlassen, nachdem Sie Ihr Land verknüpft haben.'
+    binding_country_click: 'Klicken Sie auf Jetzt'
+username-blacklist:
+  forum:
+    modal-title: Warnung!
+    modal-body-first-line: 'Warnung - Dieser Benutzername wird <strong>vom Administrator blockiert</strong>'
+    modal-body-second-line: 'Bitte wählen Sie einen anderen Benutzernamen, der nicht gegen unsere Community-Richtlinien verstößt, und versuchen Sie es erneut.'
+  admin:
+    blackList: 'Benutzername auf der schwarzen Liste'
+    blackList-help: 'Schreiben Sie hier den Benutzernamen, den Sie bei der Registrierung blockieren möchten (durch Komma getrennt)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Zusammenfassung, show-summaries: 'Zeigen Sie einen Auszug aus jeder Diskussion in Diskussionslisten an (Desktop/Tablet)', show-summaries-mobile: 'Zeigen Sie einen Auszug aus jeder Diskussion in Diskussionslisten an (Mobil)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Aktivität im Forum'
+      forum_new_discussions: 'Neue Diskussionen im Forum'
+      discussion_last_posts: 'Diese Diskussion'
+      user_last_posts: 'Beiträge & Kommentare dieses Nutzers'
+    feeds:
+      titles: { main_subtitle: 'Letzte Beiträge im Forum', main_d_subtitle: 'Die neuesten Diskussionen im Forum', discussion_subtitle: 'Letzte Nachrichten in dieser Diskussion', user_subtitle: 'Neueste Beiträge und Kommentare dieses Benutzers.' }
+    discussion:
+      feed_link: Füttern
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Gefolgt
+    profile_page:
+      no_following: 'Es sieht so aus, als würdest du niemandem folgen.'
+    settings:
+      notify_new_follower_label: 'Jemand folgt mir'
+      notify_new_unfollower_label: 'Jemand hört auf, mir zu folgen'
+      notify_new_discussion_label: 'Jemand, dem ich folge, startet eine Diskussion'
+      notify_new_post_label: 'Jemand, dem ich folge, Beiträge in einer bestehenden Diskussion'
+      block_follow: 'Verhindern, dass Benutzer mir folgen'
+    badge:
+      label: { follow: 'Im Anschluss an die Diskussionen', lurk: 'Nach allen' }
+    filter:
+      following: 'Gefolgte Benutzer'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Levels folgen', follow_select_label: 'Typ folgen', no_user_attr_provided_err: 'Oh oh, beim Öffnen dieses Modals ist etwas schief gelaufen.', no_user_attr_provided_err_debug: 'Bei der Erstellung wurde kein ''user''-Attribut an das SelectFollowUserLevel-Modal übergeben. Das Modal kann nicht gerendert werden.', save_btn: Retten, cancel_btn: Abbrechen }
+    profile_link: 'Gefolgte Benutzer'
+    user_controls:
+      follow_button: Folgen
+      unfollow_button: 'Nicht mehr folgen'
+      change_button: 'Follow-Typ ändern'
+    index:
+      follow_tag_button: Folgen
+      unfollow_tag_button: 'Follow-Typ ändern'
+  email:
+    new_follower_subject: '[Benutzer folgen] Sie haben einen neuen Follower!'
+  lib:
+    following_link: 'Gefolgte Benutzer'
+    follow: Folgen
+    change_follow_type: 'Follow-Typ ändern'
+    unfollow: 'Nicht mehr folgen'
+    follow_levels:
+      unfollow: { name: 'Nicht folgen' }
+      follow: { name: 'Diskussionen verfolgen' }
+      lurk: { name: 'Folgen Sie allen' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Bitte stellen Sie sicher, dass diese beantragte Änderung des Nicknamens den Richtlinien des Forums entspricht.', decision_title: Entscheidung, approval_label: Billigen, rejected_label: Ablehnen, submit_button: Senden, reason_title: 'Grund für die Ablehnung', success: 'Entscheidung gesendet.', title: 'Anfrage zur Änderung des Spitznamens' }
+      results: { title: 'Anfrage zur Änderung des Spitznamens', approved: 'Ihr Antrag auf Änderung des Spitznamens wurde genehmigt', rejected: 'Ihr Antrag auf Änderung des Spitznamens wurde abgelehnt', resubmit: 'Zu diesem Zeitpunkt können Sie in Ihren Kontoeinstellungen erneut einen neuen Antrag auf Änderung des Spitznamens stellen, wenn Sie dies wünschen.', dismiss_button: OKAY }
+      request: { title: 'Nickname-Änderung anfordern', submit_button: 'Anfrage senden', delete_button: 'Anfrage löschen', confirmation_message: 'Ihr Antrag auf Änderung des Spitznamens wurde übermittelt und muss noch genehmigt werden.', deleted: 'Nickname-Anfrage gelöscht.', dismiss_button: OKAY }
+    username_modals:
+      action: { help_text: 'Bitte stellen Sie sicher, dass diese beantragte Änderung des Benutzernamens den Richtlinien des Forums entspricht.', decision_title: Entscheidung, approval_label: Billigen, rejected_label: Ablehnen, submit_button: Senden, reason_title: 'Grund für die Ablehnung', success: 'Entscheidung gesendet.', title: 'Antrag auf Änderung des Benutzernamens' }
+      results: { title: 'Antrag auf Änderung des Benutzernamens', approved: 'Ihr Antrag auf Änderung des Benutzernamens wurde genehmigt', rejected: 'Ihr Antrag auf Änderung des Benutzernamens wurde abgelehnt', resubmit: 'Zu diesem Zeitpunkt können Sie in Ihren Kontoeinstellungen erneut einen Antrag auf Änderung des Benutzernamens stellen, wenn Sie dies wünschen.', dismiss_button: OKAY }
+      request: { title: 'Änderung des Benutzernamens anfordern', submit_button: 'Anfrage senden', delete_button: 'Anfrage löschen', confirmation_message: 'Ihr Antrag auf Änderung des Benutzernamens wurde eingereicht und muss noch genehmigt werden.', deleted: 'Antrag auf Benutzername gelöscht.', dismiss_button: OKAY }
+    pending_requests:
+      empty_text: 'Es wurden keine Namensänderungsanforderungen gefunden.'
+      tooltip: 'Anträge auf Namensänderung'
+      title: 'Anträge auf Namensänderung'
+    settings:
+      nickname_request_button: 'Spitznamen ändern'
+      username_request_button: 'Benutzername ändern'
+    user:
+      name_history_link: 'Geschichte des Namens'
+  ref:
+    name_change_request: 'Antrag auf Namensänderung'
+    name_change_requests: 'Anträge auf Namensänderung'
+    nickname_change_request: 'Anfrage zur Änderung des Spitznamens'
+    nickname_change_requests: 'Änderungsanträge für Spitznamen'
+    username_change_request: 'Antrag auf Änderung des Benutzernamens'
+    username_change_requests: 'Anfragen zur Änderung des Benutzernamens'
+  email:
+    body:
+      noReasonProvided: 'Kein Grund angegeben.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Schreibe etwas über dich selbst'
+    profile:
+      cancel_confirm: 'Bist du sicher, dass du die Bearbeitung deiner Biografie abbrechen möchtest? Alle Änderungen, die Sie vorgenommen haben, gehen verloren.'
+      cancel_button: Abbrechen
+      save_button: Retten
+      edit_bio_label: 'Biografie bearbeiten'
+fof-split:
+  forum:
+    split:
+      from: 'Von hier aus abgespalten'
+      to: 'Split bis hierher'
+      cancel: 'Split aufheben'
+    modal:
+      title: 'Geteilte Diskussion'
+      new_discussion_label: 'Geben Sie den Titel für die neue Diskussion an'
+      submit_button: Trennen
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Bearbeiten Sie Ihre Social-Media-Schaltflächen'
+      add: 'Fügen Sie Schaltflächen zu Ihren sozialen Medien hinzu'
+      headtitle: 'Schaltflächen "Bearbeiten"'
+      title: Titel
+      url: 'URL (Englisch)'
+      submit: Retten
+      delete: Löschen
+      deletetitle: 'Schaltfläche "Löschen"'
+      save_disabled_fetching_favicons: 'Ein oder mehrere Symbole werden abgerufen. Bitte warten.'
+      favicon: Favicon
+      grey_favicon: 'Graues Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Freigeben
+      share_dropdown_accessible_label: 'Dropdown-Menü für Diskussionsfreigaben umschalten'
+    modal:
+      title: Freigeben
+      copy_button: Kopieren
+  lib:
+    networks:
+      facebook: 'Auf Facebook (Englisch)'
+      twitter: Zwitschern
+      linkedin: 'LinkedIn (Englisch)'
+      reddit: 'Reddit (Englisch)'
+      whatsapp: 'WhatsApp (Englisch)'
+      telegram: Telegramm
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Meine Welt'
+      qq: QQ
+      qzone: QZone
+      native: 'Nativer Anteil'
+fof-recaptcha:
+  forum:
+    error: 'Beim Einreichen von reCAPTCHA ist ein Fehler aufgetreten. Wiederholen.'
+    unknown_error: 'Ein unbekannter Fehler ist aufgetreten. Überprüfen Sie das Captcha und versuchen Sie es erneut.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Sie können diese Reaktion im Moment nicht verwenden, bitte aktualisieren Sie die Seite'
+    warning: 'Ihre Reaktion wurde umgewandelt'
+    settings:
+      notify_post_reacted_label: 'Jemand reagiert auf einen meiner Beiträge'
+    reacting-own-post: 'Du kannst nicht auf deinen eigenen Beitrag reagieren'
+    modal:
+      title: Reaktionen
+      no_reactions: 'Noch keine Reaktionen'
+    mod_item: 'Reaktionen anzeigen'
+    react_button_label: Reagieren
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Der Bildzuschnitt konnte nicht geladen werden.', generic_resize: 'Beim Zuschneiden und Ändern der Größe des Bildes ist etwas schief gelaufen.', get_image_data: 'Fehler beim Zuschneiden. Stellen Sie sicher, dass der Fingerabdruckschutz Ihres Browsers deaktiviert ist.' }
+      help_text: "Das Hochladen von Bildern kann fehlschlagen, wenn die Datenschutzeinstellungen Ihres Browsers sehr streng sind. Wenn Sie Probleme haben, versuchen Sie, den Fingerabdruckschutz zu deaktivieren. Andernfalls können Sie entweder <disableResize>das Komprimieren des zugeschnittenen Bildes deaktivieren</disableResize> oder <disableCrop>das Zuschneiden ganz deaktivieren</disableCrop>.\n"
+      submit_button: Hochladen
+      submit_crop_button: 'Zuschneiden & Hochladen'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Es ist sehr wahrscheinlich, dass es keiner weiteren Diskussion bedarf und es daher keinen Zweck hat, es anzustoßen.', checkbox_label: 'Ich bin mir bewusst, dass diese Diskussion ziemlich alt ist, aber ich möchte trotzdem antworten.', error: 'Diese Diskussion ist zu alt, um darauf zu antworten.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Sie haben keine Erlaubnis zur Abstimmung'
+    poll_ended: 'Diese Umfrage ist beendet.'
+    public_poll: 'Wähler anzeigen'
+    composer_discussion:
+      add_poll: 'Umfrage hinzufügen'
+      edit_poll: 'Umfrage bearbeiten'
+    modal:
+      add_title: 'Hinzufügen einer Umfrage'
+      add_option_label: 'Eine Option hinzufügen'
+      edit_title: 'Umfrage bearbeiten'
+      include_question: 'Sie müssen eine Frage einfügen'
+      max: 'Sie können maximal 10 Antworten haben'
+      min: 'Sie müssen mindestens 2 Antworten angeben'
+      no_voters: 'Keine Stimmen'
+      option_placeholder: Antwort
+      image_option_placeholder: 'Bild-URL (optional)'
+      options_label: Erwiderungen
+      public_poll_label: 'Ermöglichen Sie es den Leuten zu sehen, wer abgestimmt hat'
+      allow_multiple_votes_label: 'Erlauben Sie den Menschen, für mehrere Optionen zu stimmen'
+      max_votes_label: 'Maximale Stimmen pro Benutzer'
+      max_votes_help: 'Legen Sie diesen Wert auf 0 fest, damit Benutzer für alle Optionen abstimmen können.'
+      question_placeholder: Frage
+      submit: Senden
+    moderation:
+      delete: 'Umfrage entfernen'
+      delete_confirm: 'Sind Sie sicher, dass Sie diese Umfrage löschen möchten?'
+      edit: 'Umfrage bearbeiten'
+    tooltip:
+      badge: Umfrage
+    votes_modal:
+      title: Wähler
+fof-nightmode:
+  ref:
+    auto: 'Automatisch (basierend auf Browser- oder Geräteoptionen)'
+    light: Tag-Modus
+    dark: Nachtmodus
+  forum:
+    header:
+      nightmode_button: Nachtmodus
+    user:
+      settings: { heading: Thema, description: 'Wählen Sie aus, welches Farbthema Sie im Forum verwenden möchten.', description2: 'Dieses Theme wird mit Ihrem Konto verknüpft und gilt für alle Ihre Geräte, es sei denn, Sie aktivieren den Schalter unten für die Einstellungen pro Gerät.', device_specific_setting_checkbox: 'Einstellungen für die Verwendung pro Gerät', device_specific_setting_checkbox_tooltip: 'Ihre Themenauswahl wird für jedes Ihrer Geräte individuell gespeichert.', auto_unsupported: 'Ihr Browser unterstützt den automatischen Dunkelmodus nicht.', option_descriptions: { auto: 'Ihr Theme wird automatisch basierend auf Ihren Browser- oder Geräteeinstellungen ausgewählt. Wenn Sie beispielsweise den Dunkelmodus in iOS aktiviert haben, sind auch die Foren dunkel.', day: 'Das klassische Erlebnis, an das Sie gewöhnt sind. Geliebt und getestet.', night: 'Du bist ein bisschen wie eine Nachteule. Du wachst nachts über das Forum, während die Vögel schlafen und die Füchse jagen. Oder Sie bevorzugen einfach die dunkleren Farben!' }, options: { auto: 'Automatisch (basierend auf Browser- oder Geräteoptionen)', day: Tag-Modus, night: Nachtmodus } }
+    day: Tag-Modus
+    night: Nachtmodus
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Eine leere Note ist nicht zulässig.'
+    moderatorNotes:
+      add_button: 'Neuer Hinweis'
+      create-heading: 'Erstellen einer neuen Moderatornotiz'
+      dismiss_button: Fertig
+      noNotes: 'Es sieht so aus, als gäbe es hier keine Notizen.'
+      submit_button: 'Notiz speichern'
+      delete: Löschen
+      confirm: 'Sind Sie sicher, dass Sie diese Notiz löschen möchten?'
+    user:
+      notes: 'Anmerkungen zum Moderator'
+  api:
+    no_reason_provided: 'Keine Angabe von Gründen'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Abstimmungen
+    vote_title: 'Zeige, wer abgestimmt hat'
+    nav:
+      name: Ranglisten
+    ranking:
+      rank: Ort
+      name: Benutzer
+      amount: Punkte
+    notification:
+      prefrences: { vote: 'Wenn einer meiner Beiträge positiv/negativ bewertet wird' }
+    user:
+      votes_link: Abstimmungen
+    modal:
+      downvotes_label: 'Abstimmende:'
+      title: Wähler
+      upvotes_label: 'Upvoter:'
+    mod_item: 'Wähler anzeigen'
+    voters:
+      none: 'Noch keine Wähler'
+      label: Wähler
+      label_none: 'Keine Wähler'
+    post:
+      upvote_button: Upvote-Beitrag
+      downvote_button: 'Beitrag ablehnen'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Geplante Entwürfe sind derzeit in den Einstellungen deaktiviert.'
+  ref:
+    schedule_draft: 'Entwurf des Zeitplans'
+  forum:
+    composer:
+      title: 'Entwurf speichern'
+      saving: Ersparnis...
+      saved: Gespeichert!
+      exit_alert: 'Änderungen am Entwurf verwerfen?'
+      discard_empty_draft_alert: 'Leeren Entwurf verwerfen?'
+    dropdown:
+      empty_text: 'Sie haben keine Entwürfe gespeichert'
+      title: Entwürfe
+      delete_all_button: 'Alle Entwürfe löschen'
+      delete_button: 'Entwurf löschen'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Sind Sie sicher, dass Sie Ihren Entwurf löschen möchten?'
+      delete_all_alert: 'Sind Sie sicher, dass Sie alle Ihre Entwürfe löschen möchten?'
+      schedule_button: 'Entwurf des Zeitplans'
+      tooltip: Entwürfe
+    schedule_draft_modal:
+      text: 'Planen Sie Ihren Entwurf so, dass er automatisch zu einem späteren Zeitpunkt veröffentlicht wird!'
+      unschedule_button: Außerplanmäßig
+      unschedule_warning: 'Sind Sie sicher, dass Sie die Planung für diesen Entwurf aufheben möchten?'
+      reschedule_button: Verschieben
+      schedule_button: Zeitplan
+      schedule_time_preview_formatter: 'LLLL (LLLL)'
+      schedule_time_preview_invalid: 'Ungültiges Datum und/oder ungültige Uhrzeit'
+      title: 'Entwurf des Zeitplans'
+    user:
+      settings: { drafts_heading: Entwürfe, draft_autosave_enable: 'Automatisches Speichern des Entwurfs aktivieren?', draft_autosave_interval_label: 'Autosave-Intervall (Sekunden)', draft_autosave_interval_button: Aktualisierungsintervall, draft_autosave_interval_invalid: 'Das Intervall muss eine ganze Zahl größer als 4 sein.' }
+fof-best-answer:
+  forum:
+    answered_badge: Beantwortet
+    this_best_answer: 'Wählen Sie Beste Antwort'
+    remove_best_answer: 'Deaktivieren Sie Beste Antwort'
+    best_answer_button: 'Beste Antwort'
+    errors:
+      mismatch: 'Der ausgewählte Beitrag existiert in dieser Diskussion nicht.'
+    notification:
+      content: 'Bitte wählen Sie eine Beste Antwort aus, wenn Ihre Frage beantwortet wurde'
+      preferences: { awarded_best_answer: 'Jemand legt meinen Beitrag als beste Antwort fest', best_answer_in_discussion: 'Die beste Antwort gibt es in einer Diskussion, an der ich teilgenommen habe', select_best_answer: 'Eine automatische Erinnerung, um die beste Antwort in einer von mir begonnenen Diskussion auszuwählen' }
+    index:
+      ask_question: 'Eine Frage stellen'
+      cannot_ask_question: 'Es kann keine Frage gestellt werden.'
+      solved_link: 'Gelöste Diskussionen'
+      unsolved_link: 'Ungelöste Diskussionen'
+    filter:
+      all_label: 'Alle Fragen'
+      solved_label: 'Gelöste Fragen'
+      unsolved_label: 'Ungelöste Fragen'
+      accessible_label: 'Auswahl "Gelöst/Ungelöst"'
+    composer:
+      titlePlaceholder: 'Titel der Frage'
+    search:
+      discussions_solutions_heading: 'Diskussionen mit Lösungen'
+    discussion:
+      jump_to_best_answer_button: 'Die beste Antwort'
+  email:
+    subject:
+      select: 'Hast du deine Frage beantwortet?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Die besten Antworten'
+      least_best_answers: 'Die am wenigsten besten Antworten'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Niemand sonst wird gesperrt'
+    user_badge:
+      banned_tooltip: Verboten
+    ban_ip_button: 'IP sperren'
+    unban_ip_button: 'IP entsperren'
+    user_controls:
+      ban_button: Verbot
+      unban_button: 'Entbannung aufheben'
+  error:
+    banned_ip_message: 'Fehler bei der Autorisierung.'
+    no_ips_found_message: 'Keine IP(s) für den Benutzer gefunden.'
+  lib:
+    modal:
+      check_button: Prüfen
+      save_button: Retten
+      ban_ip_confirmation: 'Sind Sie sicher, dass Sie diese IP-Adresse für die Verwendung im Forum sperren möchten? Dadurch werden Benutzer mit dieser IP-Adresse(n) daran gehindert, sich anzumelden und zu registrieren.'
+      unban_ip_confirmation: 'Sind Sie sicher, dass Sie diesen Benutzer und alle anderen Benutzer, die nicht von anderen IPs gesperrt wurden, entsperren möchten?'
+      unban_ip_no_users: 'Niemand sonst wird entsperrt'
+      title: 'IP(s) verbieten'
+      unban_title: 'IP(s) entsperren'
+      address_label: IP-Adresse
+      reason_label: Grund
+      ban_button: Verbot
+      unban_button: 'Entbannung aufheben'
+  ref:
+    ban_label: Verbot
+    ban_ip_addresses: 'IP(s) verbieten'
+    ban_ip_button: 'IP sperren'
+    unban_label: 'Entbannung aufheben'
+    unban_ip_addresses: 'IP(s) entsperren'
+    unban_ip_button: 'IP entsperren'
+    address_label: IP-Adresse
+    reason_label: Grund
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Details zu Ihrer Registrierung wurden in einer Datenbank zur Verhinderung von Spam gefunden, daher wurde Ihre Registrierung blockiert.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Diskussionen löschen'
+      hard_delete_discussions_help: 'Dadurch werden alle Diskussionen, die von diesem Benutzer gestartet wurden, dauerhaft gelöscht. Wenn diese Option deaktiviert ist, werden Diskussionen stattdessen ausgeblendet.'
+      hard_delete_posts_label: 'Beiträge löschen'
+      hard_delete_posts_help: 'Dadurch werden alle Beiträge (Kommentare, Antworten usw.) dieses Benutzers dauerhaft gelöscht. Wenn diese Option deaktiviert ist, werden Beiträge stattdessen ausgeblendet.'
+      hard_delete_user_label: 'Benutzer löschen'
+      hard_delete_user_help: 'Dadurch wird der Benutzer dauerhaft gelöscht. Wenn diese Option deaktiviert ist, wird der Benutzer stattdessen gesperrt.'
+      intro: 'Wenn Sie einen Benutzer als Spammer markieren, werden mehrere Aktionen ausgeführt, die von den in Ihrem Forum verfügbaren Erweiterungen abhängen.'
+      move_discussions_tag_label: 'Diskussionen in das Quarantäne-Tag verschieben'
+      move_discussions_tag_help: 'Dadurch werden alle Diskussionen, die von diesem Benutzer gestartet wurden, in den Tag verschoben, den Sie in den Foreneinstellungen angegeben haben. Wenn diese Option deaktiviert ist, werden die Diskussionen in ihren aktuellen Tags belassen.'
+      process_button: Prozess
+      report_to_sfs_label: 'Melden Sie sich bei StopForumSpam'
+      report_to_sfs_help: 'Dadurch werden die grundlegenden Daten des Benutzers (Benutzername, E-Mail, IP-Adresse) an StopForumSpam gemeldet. Dadurch wird verhindert, dass sich der Benutzer in anderen Foren registriert, die den StopForumSpam-Dienst verwenden.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Anzahl der Diskussionsaufrufe zurücksetzen'
+      submit: Senden
+      label: 'Auf Aufrufanzahl festlegen'
+    discussion_controls:
+      resetviews_button: 'Festlegen der Anzahl der Aufrufe'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Unverklebt
+      sticky_button: Klebrig
+    badge:
+      sticky_tooltip: Klebrig
+  ref:
+    sticky: Klebrig
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Verschlossen
+    discussion_controls:
+      lock_button: Schleuse
+      unlock_button: Aufschließen
+    settings:
+      notify_discussion_locked_label: 'Jemand sperrt eine Diskussion, die ich begonnen habe'
+flarum-likes:
+  forum:
+    post:
+      like_link: Mögen
+      unlike_link: Unähnlich
+      you_text: Du
+    post_likes:
+      title: 'Benutzer, die das mögen'
+      load_more_button: 'Mehr laden'
+    settings:
+      notify_post_liked_label: 'Jemand mag einen meiner Beiträge'
+    user:
+      likes_link: Mag
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Emoji einfügen'
+      type_to_search_text: 'Geben Sie ein, um nach einem Emoji zu suchen'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Ihr Inhalt ist zu groß, bitte lesen Sie unsere Richtlinien zum Posten' }
+dhtml-persona:
+  forum:
+    persona: Person
+dhtml-leaderboard:
+  forum:
+    leaderboard: Bestenliste
+dhtml-gender:
+  forum:
+    male: Männlich
+    female: Weiblich
+    other: 'Ich möchte es lieber nicht sagen'
+    inputGender: Geschlecht
+    saveButton: Retten
+    clickToSelectGender: 'Wählen Sie Ihr Geschlecht'
+    genderSaved: 'Geschlecht erfolgreich gerettet!'
+    field_placeholder: 'Geschlecht bestätigen'
+    binding_gender: 'Wir haben festgestellt, dass Sie Ihr Geschlecht nicht festgelegt haben. Bitte geben Sie zuerst Ihr Geschlecht an. Sie können nur Nachrichten posten und hinterlassen, nachdem Sie Ihr Geschlecht festgelegt haben.'
+    binding_gender_click: 'Klicken Sie auf Jetzt'
+flarum-content-pages:
+  forum:
+    home: Heim
+    about-us: 'Über uns'
+    guidelines: Leitlinien
+    privacy-policy: Datenschutzrichtlinie
+    terms-of-use: Nutzungsbedingungen
+    contact-us: 'Kontaktieren Sie uns'
+    download-app: 'App herunterladen'
+    discord-chat: Discord-Chat
+    tags-cloud: 'Schlagwörter Wolke'
+    languages: Sprachen
+    leaderboard: Bestenliste
+    live: Leben
+    live-coding: 'Live Coating'
+    challenges: Herausforderungen
+    dev-challenges: 'Dev Challenges'
+    jobs: Jobs
+    community: Gemeinschaft
+    dev-jobs: Stellenangebote
+    job-posting: Stellenangebote
+    job-postings: Stellenangebote
+    workshops: Veranstaltungen
+    dev-workshops: Workshops
+    events: Veranstaltungen
+    conferences: Konferenzen
+    event-conferences: 'Veranstaltungen / Konferenzen'
+    showcase: Fall
+    tags: Schilder
+    more: Mehr
+    memberships: Mitgliedschaften
+    members: Angehörige
+    general-discussion: 'Allgemeine Diskussion'
+    technology-articles: 'Technologie Artikel'
+    coding-challenges: 'Coding Challenges'
+    q-a: 'Abschnitt Q/A'
+    artificial-intelligence: 'Künstliche Intelligenz'
+    computer-science: Informatik
+    programming-languages: Programmiersprachen
+    development-tools: Entwicklungswerkzeuge
+    software-development: Softwareentwicklung
+    frontend-development: Frontend-Entwicklung
+    backend-development: 'Backend Entwicklung'
+    software-engineering: Softwareentwicklung
+    cybersecurity: Cybersicherheit
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: Zeichen-Zähler
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Geburtsdatum bearbeiten'
+      date_of_birth_text: Geburtsdatum
+      submit_button: 'Änderungen speichern'
+    settings:
+      change_dob_label: 'Geburtsdatum ändern'
+      show_dob_date_label: 'Tag und Monat der Geburt anzeigen'
+      show_dob_year_label: 'Geburtsjahr anzeigen'
+      show_dob_year_help: 'Auf diese Weise können die Leute Ihr Alter sehen.'
+      dob_heading: Geburtsdatum
+    nav:
+      nav_item: 'Die heutigen Geburtstage'
+    edit_user:
+      dob_heading: Geburtsdatum
+    sign_up:
+      dob_placeholder: Geburtsdatum
+  api:
+    invalid_dob_message: 'Ungültiges Geburtsdatum'
+  ref:
+    date_of_birth: Geburtsdatum
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: Emoji-Auswahl
+    search_placeholder: Suchen...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Autor und Datum bearbeiten'
+    modal:
+      title-post: 'Beitragsautor und Datum bearbeiten'
+      title-discussion: 'Diskussionsautor und -datum bearbeiten'
+      user: Verfasser
+      created_at: Erstellungszeit
+      edited_at: Bearbeitungszeit
+      sync-with-discussion: 'Mit Diskussion synchronisieren'
+      sync-with-post: 'Mit dem ersten Beitrag synchronisieren'
+      sync-impossible: 'Erster Beitrag kann nicht gefunden werden. Versuchen Sie, zum Anfang der Diskussion zu scrollen.'
+      submit: Retten
+      cancel: Abbrechen
+    search:
+      placeholder: 'Benutzer suchen'
+      type-more: 'Geben Sie 3 Zeichen ein, um die Datenbank zu durchsuchen'
+      no-results: 'Keine Ergebnisse'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Rich-Text-Modus umschalten'
+      insert_button: Einfügen
+      insert_image: { src_placeholder: Verbinden, title_placeholder: Titel }
+      insert_link: { text_placeholder: Text, href_placeholder: 'URL (Englisch)', title_placeholder: 'Titel (wird beim Bewegen des Mauszeigers angezeigt)', remove_button: Entfernen }
+      additional_items_tooltip: 'Zusätzliche Steuerelemente'
+      code_block_tooltip: 'Einfügen eines Codeblocks'
+      horizontal_rule_tooltip: 'Horizontale Linie einfügen'
+      image_tooltip: 'Hinzufügen eines Bildes'
+      link_tooltip: 'Fügen Sie einen Link hinzu'
+      spoiler_block_tooltip: 'Block Spoiler/Dropdown'
+      strike_tooltip: 'Durchgestrichen <alt-shift-5>'
+      text_type_tooltip: 'Texttyp auswählen'
+  forum:
+    settings:
+      composer_heading: Komponist
+      use_rich_text_editor_label: 'Verwenden Sie den Rich-Text-Editor?'
+      rich_text_compact_paragraphs_label: 'Trennen Sie Absätze nicht durch Zeilenumbrüche.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Sie haben Push-Benachrichtigungen aktiviert, aber dieses Gerät nicht konfiguriert.'
+      optin_button: Konfigurieren
+    discussion_controls:
+      share_button: Freigeben
+    post_controls:
+      share_button: Freigeben
+    user_controls:
+      share_button: Freigeben
+    settings:
+      push_header: Drücken
+      pwa_notifications: { access_default: 'Aufgrund von Browsereinschränkungen müssen Sie sich anmelden, um Push-Benachrichtigungen auf diesem Gerät zu erhalten.', access_default_button: Anmelden, access_denied: 'Sie müssen Ihre Browsereinstellungen anpassen, um Push-Benachrichtigungen auf diesem Gerät zu erhalten.', access_denied_button: 'Erfahren Sie mehr', no_browser_support: 'Dieser Browser unterstützt keine Push-Benachrichtigungen für progressive Web-Apps.', no_browser_support_button: 'Weitere Informationen' }
+  views:
+    offline:
+      header: 'Fehler bei der Netzwerkverbindung'
+      text: 'Für diese App ist eine Netzwerkverbindung erforderlich. Es kann nicht offline verwendet werden. Bitte überprüfen Sie Ihre Verbindung.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Benutzer warnen'
+    user:
+      warnings: 'Warnungen für Moderatoren'
+    settings:
+      warning_notification_label: 'Ein Moderator warnt mich'
+    validation:
+      public_comment_required: 'Du gibst am meisten einen öffentlichen Kommentar ab.'
+      invalid_strike_count: 'Die Anzahl der Verwarnungen muss eine ganze Zahl zwischen 0 und 5 sein.'
+    warning_controls:
+      delete_button: Entfernen
+      restore_button: Wiederherstellen
+      delete_forever_button: 'Dauerhaft löschen'
+    warning_list:
+      add_button: 'Neue Warnung'
+      no_warnings: 'Es sieht so aus, als gäbe es hier keine Warnungen.'
+      warnings_no_strikes: 'Moderator-Warnungen: Keine Verwarnungen erhalten'
+    warning_list_item:
+      public_comment: Warnung
+      private_comment: 'Für den Moderator sichtbare Kommentare'
+      linked_post: 'Verlinkter Beitrag'
+    warning_modal:
+      confirmation_message: 'Ihre Warnung wurde gespeichert. Möglicherweise müssen Sie die Seite aktualisieren, um sie anzuzeigen.'
+      strikes_heading: 'Wie viele Verwarnungen sollten angewendet werden?'
+      submit_button: 'Warnung speichern'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Antwortvorlage bearbeiten'
+    reply_template:
+      title: 'Antwortvorlage bearbeiten'
+      submit_button: 'Antwortvorlage speichern'

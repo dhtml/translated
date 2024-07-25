@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'La contrasenya que heu introduït és incorrecta.'
+      confirm_password_placeholder: 'Confirma la contrasenya'
+      dismiss_button: 'D''ACORD'
+      submit_button: 'Desa els canvis'
+      title: 'Canvia el correu electrònic'
+    change_password:
+      send_button: 'Envia el correu electrònic de restabliment de contrasenya'
+      text: 'Feu clic al botó següent i comproveu si hi ha un enllaç per canviar la contrasenya al correu electrònic.'
+      title: 'Canviar contrasenya'
+    composer:
+      close_tooltip: Tancar
+      exit_full_screen_tooltip: 'Sortir de la pantalla completa'
+      full_screen_tooltip: 'Pantalla completa'
+      minimize_tooltip: Minimitzar
+      preview_tooltip: Preestrena
+    composer_discussion:
+      body_placeholder: 'Escriu un post...'
+      discard_confirmation: 'No has publicat la teva discussió. Voleu descartar-lo?'
+      submit_button: 'Discussió posterior'
+      title_placeholder: 'Títol de la discussió'
+      title: 'Iniciar una discussió'
+    composer_edit:
+      discard_confirmation: 'No has desat els canvis. Voleu descartar-los?'
+      edited_message: 'La teva edició s''ha fet.'
+      submit_button: 'Desa els canvis'
+      view_button: Vista
+    composer_reply:
+      discard_confirmation: 'No has publicat la teva resposta. Voleu descartar-lo?'
+      posted_message: 'La teva resposta ha estat publicada.'
+      submit_button: 'Publicar respostes'
+      body_placeholder: 'Escriu una resposta...'
+      view_button: Vista
+    discussion_controls:
+      cannot_reply_button: 'No es pot respondre'
+      cannot_reply_text: 'No teniu permís per respondre a aquesta discussió.'
+      delete_confirmation: 'Segur que vols esborrar aquesta discussió?'
+      log_in_to_reply_button: 'Inicieu sessió per respondre'
+      toggle_dropdown_accessible_label: 'Commuta el menú desplegable d''accions de discussió'
+      delete_button: Esborrar
+      delete_forever_button: 'Suprimeix per sempre'
+      rename_button: Rebatejar
+      reply_button: Resposta
+      restore_button: Restaurar
+    discussion_list:
+      empty_text: 'Sembla que aquí no hi ha discussions.'
+      load_more_button: 'Carrega més'
+    forgot_password:
+      email_sent_message: 'Si el correu electrònic que heu introduït està registrat en aquest lloc, us enviarem un correu electrònic que contingui un enllaç per a reiniciar la vostra contrasenya. Comproveu la vostra carpeta de correu brossa si no la rebeu en el següent minut o dos.'
+      not_found_message: 'No hi ha cap usuari registrat amb aquesta adreça de correu electrònic.'
+      submit_button: 'Recupera la contrasenya'
+      text: 'Introduïu l'' adreça de correu electrònic i us enviarem un enllaç per a reiniciar la vostra contrasenya.'
+      title: 'Contrasenya perduda'
+      dismiss_button: 'D''ACORD'
+      email_placeholder: 'Correu electrònic'
+    header:
+      admin_button: Administració
+      back_to_index_tooltip: 'Tornar a la llista de discussió'
+      locale_dropdown_accessible_label: 'Canviar la configuració regional del fòrum'
+      profile_button: Perfil
+      search_clear_button_accessible_label: 'Esborra la consulta de cerca'
+      search_placeholder: 'Fòrum de cerca'
+      search_role_label: 'Fòrum de cerca'
+      session_dropdown_accessible_label: 'Menú desplegable Activa les opcions de la sessió'
+      log_in_link: 'Inici de sessió'
+      log_out_button: 'Tancar sessió'
+      settings_button: Configuració
+      sign_up_link: 'Registra''t'
+    index:
+      cannot_start_discussion_button: 'No puc iniciar la discussió'
+      mark_all_as_read_confirmation: 'Esteu segurs que voleu marcar totes les discussions com a llegides?'
+      refresh_tooltip: Refrescar
+      toggle_sidenav_dropdown_accessible_label: 'Commuta el menú desplegable de navegació'
+      all_discussions_link: 'Tots els debats'
+      mark_all_as_read_tooltip: 'Marca-ho tot com a llegit'
+      meta_title_text: 'Tots els debats'
+      start_discussion_button: 'Iniciar una discussió'
+    index_sort:
+      latest_button: Última
+      newest_button: 'El més nou'
+      oldest_button: 'Més antic'
+      relevance_button: Rellevància
+      toggle_dropdown_accessible_label: 'Canviar l''ordenació de les llistes de discussió'
+      top_button: Cim
+      hot_button: Tendències
+      votes_button: 'Vots positius'
+      front_button: Portada
+      popular_button: Popular
+      unpopular_button: Impopular
+    log_in:
+      forgot_password_link: 'Has oblidat la contrasenya?'
+      invalid_login_message: 'Les vostres dades d''inici de sessió eren incorrectes.'
+      remember_me_label: 'Recorda''m'
+      sign_up_text: 'No tens compte? <a>Registra''t</a>'
+      username_or_email_placeholder: 'Nom d''usuari o correu electrònic'
+      password_placeholder: Contrasenya
+      submit_button: 'Inici de sessió'
+      title: 'Inici de sessió'
+    notifications:
+      delete_all_confirm: 'Estàs segur que vols eliminar totes les notificacions? Aquesta acció no és reversible'
+      delete_all_tooltip: 'Suprimir totes les notificacions'
+      empty_text: 'Sense notificacions'
+      mark_as_read_tooltip: 'Marcar com a llegit'
+      toggle_dropdown_accessible_label: 'Veure notificacions'
+      mark_all_as_read_tooltip: 'Marca-ho tot com a llegit'
+      title: Notificacions
+      tooltip: Notificacions
+    post:
+      edited_text: Editat
+    post_controls:
+      delete_confirmation: 'Estàs segur que vols esborrar aquest post per sempre? Aquesta acció no es pot desfer.'
+      hide_confirmation: 'Estàs segur que vols esborrar aquest post?'
+      toggle_dropdown_accessible_label: 'Menú desplegable Commuta els controls de publicacions'
+      push_to_front_button: 'Empènyer a FrontPage'
+      pull_from_front_button: 'Tira de FrontPage'
+      delete_button: Esborrar
+      delete_forever_button: 'Suprimeix per sempre'
+      edit_button: Editar
+      restore_button: Restaurar
+    post_scrubber:
+      now_link: Ara
+      original_post_link: 'Missatge original'
+    post_stream:
+      load_more_button: 'Carrega més'
+      reply_placeholder: 'Escriu una resposta...'
+    rename_discussion:
+      title: 'Reanomenar discussió'
+      submit_button: Rebatejar
+    search:
+      discussions_heading: Discussions
+      users_heading: Usuaris
+    security:
+      cannot_terminate_current_session: 'No es pot finalitzar la sessió activa actual. Tanqueu la sessió.'
+      created: Creada
+      current_active_session: 'Sessió activa actual'
+      developer_tokens_heading: 'Fitxes de desenvolupador'
+      empty_text: 'Sembla que aquí no hi ha res a veure.'
+      global_logout: { heading: 'Tancament de sessió global', help_text: 'Esborra la sessió actual de galetes, cancel·la totes les sessions, revoca els testimonis de desenvolupador i invalida qualsevol correu electrònic de confirmació de correu electrònic o de restabliment de contrasenya.', log_out_button: 'Tancar sessió' }
+      hide_access_token: 'Amaga el testimoni'
+      last_activity: 'Última activitat'
+      new_access_token_modal: { submit_button: 'Crea un testimoni', title_placeholder: Títol, title: 'Nou testimoni' }
+      revoke_access_token: Revocar
+      sessions_heading: 'Sessions actives'
+      session_termination_failed: 'S''ha produït un error en finalitzar les sessions.'
+      show_access_token: 'Veure fitxa'
+      terminate_all_other_sessions: 'Donar per finalitzades la resta de sessions'
+      terminate_session: Acabar
+      token_revoked: 'Testimoni revocat.'
+      token_title_placeholder: /
+      never: Mai
+      new_access_token_button: 'Nou testimoni'
+      revoke_access_token_confirmation: 'Estàs segur que vols continuar? Aquesta acció no es pot desfer.'
+      terminate_all_other_sessions_confirmation: 'Estàs segur que vols continuar? Aquesta acció no es pot desfer.'
+      title: Seguretat
+    settings:
+      account_heading: Compte
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Algú reanomena una discussió que he iniciat'
+      privacy_disclose_online_label: 'Permetre que altres persones vegin quan estic en línia'
+      privacy_heading: Privacitat
+      change_email_button: 'Canvia el correu electrònic'
+      change_password_button: 'Canviar contrasenya'
+      notifications_heading: Notificacions
+      notify_by_email_heading: 'Correu electrònic'
+      title: Configuració
+    sign_up:
+      log_in_text: 'Ja tens un compte? <a>Inici de sessió</a>'
+      dismiss_button: 'D''ACORD'
+      email_placeholder: 'Correu electrònic'
+      password_placeholder: Contrasenya
+      submit_button: 'Registra''t'
+      title: 'Registra''t'
+      username_placeholder: 'Nom d''usuari'
+    user:
+      avatar_upload_button: Pujar
+      avatar_upload_tooltip: 'Pujar un avatar nou'
+      online_text: 'En línia'
+      posts_empty_text: 'Sembla que aquí no hi ha publicacions.'
+      avatar_remove_button: Treure
+      discussions_link: Discussions
+      posts_link: Llocs
+      posts_load_more_button: 'Carrega més'
+      security_link: Seguretat
+      settings_link: Configuració
+    user_controls:
+      button: Controls
+      delete_confirmation: 'Estàs segur que vols esborrar aquest usuari? Les publicacions de l''usuari NO se suprimiran.'
+      toggle_dropdown_accessible_label: 'Commuta el menú desplegable de controls d''usuari'
+      delete_button: Esborrar
+      edit_button: Editar
+    user_email_confirmation:
+      resend_button: 'Tornar a enviar el correu electrònic de confirmació'
+      sent_message: Enviat
+    welcome_hero:
+      hide: 'Amaga el missatge de benvinguda'
+    badge:
+      frontpage_tooltip: 'Marcat com a FrontPage'
+  lib:
+    debug_button: Depurar
+    alert:
+      dismiss_a11y_label: 'Descarta l''alerta'
+    badge:
+      hidden_tooltip: Amagat
+    dropdown:
+      toggle_dropdown_accessible_label: 'Commuta el menú desplegable'
+    edit_user:
+      activate_button: 'Activar usuari'
+      groups_heading: Grups
+      set_password_label: 'Definir una contrasenya nova'
+      nothing_available: 'No està permès editar aquest usuari.'
+      email_heading: 'Correu electrònic'
+      email_label: 'Correu electrònic'
+      password_heading: Contrasenya
+      password_label: Contrasenya
+      submit_button: 'Desa els canvis'
+      title: 'Edita l''usuari'
+      username_heading: 'Nom d''usuari'
+      username_label: 'Nom d''usuari'
+    error:
+      generic_message: 'Ui! Alguna cosa ha anat malament. Torneu a carregar la pàgina i torneu-ho a provar.'
+      generic_cross_origin_message: 'Ui! Alguna cosa ha fallat durant una sol·licitud d''origen creuat. Torneu a carregar la pàgina i torneu-ho a provar.'
+      not_found_message: 'No s''ha trobat el recurs sol·licitat.'
+      payload_too_large_message: 'La càrrega útil de la sol·licitud era massa gran.'
+      permission_denied_message: 'No teniu permís per fer-ho.'
+      rate_limit_exceeded_message: 'Vas una mica massa ràpid. Torneu-ho a provar en uns segons.'
+      render_failed_message: 'Ho sentim, hem trobat un error en mostrar aquest contingut. Si sou un usuari, torneu-ho a provar més tard. Si sou administrador, doneu un cop d''ull als fitxers de registre de Flarum per obtenir més informació.'
+    modal:
+      close: Tancar
+    nav:
+      drawer_button: 'Obrir calaix de navegació'
+    loading_indicator:
+      accessible_label: Càrrega...
+  views:
+    confirm_email:
+      text: 'Feu clic al botó següent per confirmar el correu electrònic del compte.'
+      submit_button: 'Confirmeu el correu electrònic'
+      title: 'Confirmeu el correu electrònic'
+    content:
+      javascript_disabled_message: 'Aquest lloc es visualitza millor en un navegador modern amb JavaScript habilitat.'
+      load_error_message: 'Alguna cosa ha fallat en intentar carregar la versió completa d''aquest lloc. Proveu d''actualitzar aquesta pàgina per solucionar l''error.'
+      loading_text: Càrrega...
+    error:
+      csrf_token_mismatch: 'Fa massa temps que estàs inactiu.'
+      csrf_token_mismatch_return_link: 'Torna-ho enrere, per tornar-ho a provar'
+      invalid_confirmation_token: 'Aquest enllaç de confirmació ja s''ha utilitzat o no és vàlid.'
+      not_authenticated: 'No teniu permís per accedir a aquesta pàgina. Torna-ho a provar després d''iniciar sessió.'
+      not_found: 'No s''ha pogut trobar la pàgina que heu sol·licitat.'
+      permission_denied: 'No teniu permís per accedir a aquesta pàgina.'
+      unknown: 'S''ha produït un error en intentar carregar aquesta pàgina.'
+    log_out:
+      log_out_button: 'Tancar sessió'
+      title: 'Tancar sessió'
+    reset_password:
+      confirm_password_label: 'Confirmeu una contrasenya nova'
+      new_password_label: 'Nova contrasenya'
+      submit_button: 'Desa els canvis'
+      title: 'Restableix la contrasenya'
+    discussion:
+      next_page_button: 'Pàgina següent'
+      previous_page_button: 'Pàgina anterior'
+    index:
+      all_discussions_heading: 'Tots els debats'
+      next_page_button: 'Pàgina següent'
+      previous_page_button: 'Pàgina anterior'
+  api:
+    invalid_username_message: 'El nom d''usuari només pot contenir lletres, números i guions.'
+  email:
+    activate_account:
+      subject: 'Activa el teu nou compte'
+    confirm_email:
+      subject: 'Confirmeu la vostra adreça electrònica nova'
+    reset_password:
+      subject: 'Restableix la contrasenya'
+    send_test:
+      subject: 'Prova de correu electrònic Flarum'
+  ref:
+    all_discussions: 'Tots els debats'
+    change_email: 'Canvia el correu electrònic'
+    change_password: 'Canviar contrasenya'
+    color: Color
+    confirm_password: 'Confirma la contrasenya'
+    confirm_email: 'Confirmeu el correu electrònic'
+    custom_footer_text: 'Afegiu HTML perquè es mostri a la part inferior de la pàgina.'
+    custom_footer_title: 'Editeu el peu de pàgina personalitzat'
+    custom_header_text: 'Afegiu HTML per mostrar-lo a la part superior de la pàgina, a sobre de la capçalera de Flarum.'
+    custom_header_title: 'Edita la capçalera personalitzada'
+    delete: Esborrar
+    delete_forever: 'Suprimeix per sempre'
+    discussions: Discussions
+    edit: Editar
+    edit_user: 'Edita l''usuari'
+    email: 'Correu electrònic'
+    extensions: Extensions
+    generic_confirmation_message: 'Estàs segur que vols continuar? Aquesta acció no es pot desfer.'
+    icon: Icona
+    load_more: 'Carrega més'
+    loading: Càrrega...
+    log_in: 'Inici de sessió'
+    log_out: 'Tancar sessió'
+    mark_all_as_read: 'Marca-ho tot com a llegit'
+    never: Mai
+    new_token: 'Nou testimoni'
+    next_page: 'Pàgina següent'
+    notifications: Notificacions
+    okay: 'D''ACORD'
+    password: Contrasenya
+    posts: Llocs
+    previous_page: 'Pàgina anterior'
+    remove: Treure
+    rename: Rebatejar
+    reply: Resposta
+    reset_your_password: 'Restableix la contrasenya'
+    restore: Restaurar
+    save_changes: 'Desa els canvis'
+    search_users: 'Cerca usuaris'
+    security: Seguretat
+    settings: Configuració
+    sign_up: 'Registra''t'
+    start_a_discussion: 'Iniciar una discussió'
+    username: 'Nom d''usuari'
+    users: Usuaris
+    view: Vista
+    write_a_reply: 'Escriu una resposta...'
+    you: Tu
+  group:
+    admin: Admin
+    admins: Administradors
+    guest: Hoste
+    guests: Clients
+    member: Membre
+    members: Membres
+    mod: Manera
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Totes les etiquetes'
+      meta_title_text: Etiquetes
+    choose_tags:
+      title: 'Trieu etiquetes per a la vostra discussió'
+    discussion_controls:
+      edit_tags_button: 'Edita etiquetes'
+    header:
+      back_to_tags_tooltip: 'Torna a Tag List'
+    index:
+      more_link: Més...
+      untagged_link: 'Sense etiquetar'
+      tags_link: Etiquetes
+    composer_discussion:
+      choose_tags_link: 'Trieu etiquetes'
+  lib:
+    deleted_tag_text: Suprimit
+    tag_selection_modal:
+      bypass_requirements: 'Omet els requisits de les etiquetes'
+      submit_button: 'D''ACORD'
+      title: 'Trieu etiquetes'
+  ref:
+    choose_tags: 'Trieu etiquetes'
+    name: Nom
+    tags: Etiquetes
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Mencionar un usuari, un grup o una publicació'
+    mentioned_by:
+      title: 'Respostes a aquest post'
+      load_more_button: 'Carrega més'
+    post:
+      quote_button: Citar
+      reply_link: Resposta
+      you_text: Tu
+    settings:
+      notify_post_mentioned_label: 'Algú respon a una de les meves publicacions'
+      notify_user_mentioned_label: 'Algú m''esmenta en un post'
+      notify_group_mentioned_label: 'Algú esmenta un grup del qual sóc membre en una publicació'
+    user:
+      mentions_link: Esmenta
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Deixar de seguir'
+      unignore_button: Unsir
+      follow_button: Seguir
+    settings:
+      follow_after_reply_label: 'Seguiu automàticament les discussions a les quals responc'
+      notify_for_all_posts_label: 'Notifiqueu sobre cada entrada nova en lloc de només l''última d''una discussió'
+      notify_new_post_label: 'Algú publica en una discussió que estic seguint'
+    sub_controls:
+      following_text: 'Ser notificat de totes les respostes.'
+      ignoring_text: 'No s''ha de notificar mai. Amaga''t de la llista de discussió.'
+      not_following_button: 'No segueix'
+      not_following_text: 'Només se us notificarà quan @mentioned.'
+      notify_alert_tooltip: 'Rebre una notificació del fòrum quan hi hagi publicacions noves'
+      notify_email_tooltip: 'Rebre un correu electrònic quan hi hagi publicacions noves'
+      follow_button: Seguir
+      following_button: Següent
+      ignoring_button: Ignorant
+    badge:
+      following_tooltip: Següent
+      ignoring_tooltip: Ignorant
+    following:
+      meta_title_text: Següent
+    index:
+      following_link: Següent
+  ref:
+    follow: Seguir
+    following: Següent
+    ignoring: Ignorant
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Gràcies per marcar aquest post. Els nostres moderadors ho estudiaran.'
+      reason_inappropriate_label: Inadequat
+      reason_inappropriate_text: 'Aquesta publicació és ofensiva, abusiva o infringeix les directrius de la <a>comunitat</a>.'
+      reason_missing_message: 'Proporcioneu alguns detalls per als nostres moderadors.'
+      reason_off_topic_label: 'Fora de tema'
+      reason_off_topic_text: 'Aquest article no és rellevant per a la discussió actual i s''hauria de traslladar a un altre lloc.'
+      reason_other_label: 'Altres (si us plau especifiqueu)'
+      reason_spam_label: 'Correu brossa'
+      reason_spam_text: 'Aquest post és un anunci.'
+      dismiss_button: 'D''ACORD'
+      submit_button: 'Senyal de bandera'
+      title: 'Senyal de bandera'
+    flagged_posts:
+      empty_text: 'Sense banderes'
+      title: 'Publicacions marcades'
+      tooltip: 'Publicacions marcades'
+    post:
+      dismiss_flag_button: 'Descarta la bandera'
+    post_controls:
+      flag_button: Bandera
+  ref:
+    flag_post: 'Senyal de bandera'
+    flagged_posts: 'Publicacions marcades'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Ha estat suspès indefinidament'
+      user_unsuspended_text: 'Has estat suspès sense suspendre'
+    suspension_info:
+      dismiss_button: Acomiadar
+      indefinite: 'Es tracta d''una suspensió indefinida'
+      title: 'Aquest compte està suspès'
+    suspend_user:
+      display_message: 'Missatge de visualització per a l''usuari'
+      indefinitely_label: 'Suspesa indefinidament'
+      limited_time_days_text: ' Dies'
+      limited_time_label: 'Suspesa per un temps limitat...'
+      not_suspended_label: 'No suspesa'
+      placeholder_optional: Opcional
+      reason: 'Motiu de la suspensió'
+      status_heading: 'Estat de suspensió'
+      submit_button: 'Desa els canvis'
+    user_badge:
+      suspended_tooltip: Suspès
+    user_controls:
+      suspend_button: Suspendre
+  email:
+    no_reason_given: 'No es va donar cap motiu per a aquesta suspensió.'
+    suspended:
+      subject: 'El vostre compte s''ha suspès'
+    unsuspended:
+      subject: 'El compte s''ha suspès sense suspendre'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Tots els arxius pujats per l''usuari.', anonymize_description: 'Elimina la referència d''usuari dels fitxers carregats. Els fitxers mateixos continuen sent accessibles per als usuaris que podrien veure''ls abans de l''anonimització.', delete_description: 'Suprimeix tots els fitxers pujats per l''usuari.' }
+      tagsubscription: { export_description: 'Exporta els detalls del nivell de subscripció d''una etiqueta, si n''hi ha.', anonymize_description: 'Suprimeix la subscripció de l''usuari a l''etiqueta.' }
+      followuser: { export_description: 'Exporta les dades dels usuaris seguits i els usuaris que segueixen.', delete_description: 'Suprimeix totes les dades relacionades amb els usuaris següents.', anonymize_description: 'Suprimeix totes les dades relacionades amb els usuaris següents.' }
+      bannedipdata: { export_description: 'Si un registre de prohibició d''IP està associat a un usuari (és a dir, l''usuari ha estat prohibit per IP), l''adreça IP de l''usuari s''inclourà a l''exportació, juntament amb el motiu de la prohibició i la data de creació.', anonymize_description: 'Totes les adreces IP vinculades a l''usuari es desacoblen, però la pròpia IP romandrà prohibida, juntament amb el motiu. Assegureu-vos que no s''emmagatzemin dades d''IIP al camp "motiu".' }
+fof-upload:
+  forum:
+    media_manager: 'Gestor de mitjans'
+    buttons:
+      attach: Adjuntar
+      upload: Pujar
+      upload_shared: Compartit
+      user_uploads: 'Càrregues d''usuaris'
+      cancel: Cancel·lar
+      media: 'Els meus mitjans'
+      shared_media: 'Mitjans compartits'
+    states:
+      error: Error
+      loading: Carregar
+      unauthorized: 'No està permès descarregar arxius'
+    text_preview:
+      expand: 'Amplia la previsualització'
+      collapse: 'Replega la previsualització'
+      error: "Error en la previsualització del fitxer. És possible que s'hagi suprimit o que l'identificador de fitxer proporcionat no sigui vàlid.\n"
+      no_snippet_preview: '<la vista prèvia apareixerà aquí després de publicar-la>'
+      no_snippet: '<No hi ha fragment de previsualització disponible>'
+  api:
+    upload_errors:
+      forbidden_type: 'No es permet pujar fitxers d''aquest tipus.'
+      could_not_detect_mime: 'No s''ha pogut detectar el tipus MIME d''aquest fitxer, torneu-ho a provar.'
+      max_upload_file_size_ini: 'Pengeu el límit màxim de mida del fitxer assolit des de php.ini.'
+      max_upload_file_size_form: 'Pengeu el límit màxim de mida del fitxer assolit des del formulari.'
+      partial_upload: 'Càrrega parcial.'
+      no_file_uploaded: 'No s''ha pujat cap fitxer.'
+      no_upload_tmp_folder: 'No hi ha carpeta tmp per pujar fitxers.'
+      cannot_write_to_disk: 'No es pot gravar al disc.'
+      upload_blocked_by_php_extension: 'Una extensió php va bloquejar la càrrega.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Nou arxiu compartit'
+      dropzone: 'Arrossegueu i deixeu anar fitxers aquí o feu clic per navegar'
+      hide-from-media-gallery: 'Amaga''t de la galeria de suports de l''usuari'
+      upload: Pujar
+    file_list:
+      loading: 'Carregant fitxers...'
+      empty: 'No hi ha fitxers per mostrar.'
+      release_to_upload: 'Versió per penjar'
+      modal_empty_desktop: 'La llista de fitxers està buida. Feu clic al botó o arrossegueu un fitxer aquí per penjar-lo.'
+      modal_empty_phone: 'La llista de fitxers està buida. Toqueu el botó superior per penjar un fitxer.'
+      load_more_files_btn: 'Carregar més fitxers'
+      hide_file: { hide_success: 'Arxiu ocult', show_success: 'Arxiu mostrat', loading: 'Amagant fitxer...' }
+      hide_shared_file: { hide_success: 'Arxiu fet privat', show_success: 'Arxiu fet públic', loading: 'Fer que el fitxer sigui privat...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Escriure
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Afegir text en negreta'
+      code_tooltip: 'Inserir codi'
+      header_tooltip: 'Afegir text de capçalera'
+      image_tooltip: 'Afegir una imatge'
+      italic_tooltip: 'Afegir text en cursiva'
+      link_tooltip: 'Afegir un enllaç'
+      ordered_list_tooltip: 'Afegir una llista numerada'
+      quote_tooltip: 'Inserir un pressupost'
+      spoiler_tooltip: 'Introduïu un aleró'
+      strikethrough_tooltip: 'Afegir text ratllat'
+      unordered_list_tooltip: 'Afegir una llista amb pics'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Algú crea una discussió en una etiqueta que segueixo'
+      notify_new_post_label: 'Algú publica en una etiqueta que segueixo'
+      notify_new_discussion_tag_label: 'Algú torna a etiquetar una discussió a una etiqueta que segueixo'
+    index:
+      follow_tag_button: Seguir
+      unfollow_tag_button: 'Deixar de seguir'
+      following: { following_none_label: 'Debats seguits', following_tags_label: 'Etiquetes seguides' }
+    badge:
+      following_tag_tooltip: Següent
+      lurking_tag_tooltip: Aguait
+    sub_controls:
+      following_text: 'Ser notificat de totes les noves discussions.'
+      hiding_text: 'Amaga les discussions de la pàgina Totes les discussions.'
+      ignoring_text: 'No s''ha de notificar mai.'
+      lurking_text: 'Sigueu notificats de totes les noves discussions i respostes.'
+      not_following_button: 'No segueix'
+      not_following_text: 'Només se us notificarà quan @mentioned.'
+      notify_alert_tooltip: 'Rebre una notificació al fòrum quan hi hagi debats o publicacions noves'
+      notify_email_tooltip: 'Rebre un correu electrònic quan hi hagi noves discussions o publicacions'
+      submit_button: 'Confirma la subscripció'
+      follow_button: Seguir
+      following_button: Següent
+      hiding_button: Amagar
+      ignoring_button: Ignorant
+      lurking_button: Aguait
+    user:
+      settings: { heading: 'Seguiu les etiquetes', filter_label: 'Què mostrar per defecte a la pàgina següent' }
+  ref:
+    follow: Seguir
+    following: Següent
+    hiding: Amagar
+    ignoring: Ignorant
+    lurking: Aguait
+    filtering_options:
+      none: 'Debats seguits'
+      tags: 'Etiquetes seguides'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Aquest sobrenom no és vàlid. Poseu-vos en contacte amb l''administrador del fòrum per obtenir més informació sobre les regles dels àlies.'
+  ref:
+    change_nickname: 'Canvia l''àlies'
+    nickname: Sobrenom
+  forum:
+    change_nickname:
+      submit_button: 'Desa els canvis'
+      title: 'Canvia l''àlies'
+    edit_user:
+      nicknames_heading: 'Canvia l''àlies'
+      nicknames_text: Sobrenom
+    settings:
+      change_nickname_button: 'Canvia l''àlies'
+    sign_up:
+      nickname_placeholder: Sobrenom
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Comptes enllaçats', last-used-label: 'Utilitzat per darrera vegada', link-created-label: 'Enllaç creat', orphaned-account: 'Heu iniciat la sessió a través d''aquest proveïdor anteriorment, però aquest fòrum ha desactivat l''inici de sessió amb aquest mètode des de llavors.', help: 'Aquests comptes enllaçats us permeten iniciar la sessió al fòrum mitjançant altres proveïdors.' } }
+    signup:
+      username_help: 'Si us plau, trieu un nom d''usuari per ser conegut per aquí'
+    unlink: 'Suprimeix l''enllaç'
+    error:
+      bad_verification_code: 'Testimoni de verificació no vàlid o caducat. Torneu-ho a provar.'
+      invalid_state: 'Estat no vàlid. Torneu-ho a provar.'
+    providers:
+      discord: Discòrdia
+      facebook: 'Més informació'
+      github: GitHub
+      gitlab: GitLab
+      google: Anònim
+      linkedin: LinkedIn
+      twitter: Twitter
+  lib:
+    providers:
+      discord: Discòrdia
+      facebook: 'Més informació'
+      github: GitHub
+      gitlab: GitLab
+      twitter: Twitter
+      google: Anònim
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'App ID'
+      app_secret: 'Secret de l''aplicació'
+      client_id: 'Identificador de client'
+      client_secret: 'Client Secret'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Inicia sessió com un altre usuari'
+      placeholder_optional: '(Opcional) Proporcioneu la vostra raó per canviar a aquest usuari'
+      placeholder_required: 'Heu de proporcionar el motiu per canviar a aquest usuari abans de continuar'
+    user_controls:
+      impersonate_button: 'Inicia sessió com a usuari'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Discussió privada' }
+    buttons:
+      add_recipients: Destinataris
+      submit: 'D''ACORD'
+      edit_recipients: 'Editar destinataris'
+      cancel: Cancel·lar
+      make_public: 'Fer pública aquesta discussió'
+      remove_from_discussion: 'Deixa aquesta discussió privada'
+    composer_private_discussion:
+      submit_button: 'Post Discussió privada'
+      title_placeholder: 'Títol de la discussió privada'
+    confirm:
+      make_public: 'Esteu segurs que voleu eliminar els destinataris i fer visible aquesta discussió per a qualsevol persona que pugui veure l''etiqueta assignada?'
+    nav:
+      start_button: 'Parleu en privat'
+      nav_item: 'Discussions privades'
+    input:
+      search_recipients: 'Cerca destinatari escrivint els tres primers caràcters...'
+    search:
+      headings: { groups: 'Grups de permisos' }
+    modal:
+      titles: { add_recipients: 'Afegir destinataris a la discussió' }
+      labels: { selected_users: 'Usuaris seleccionats', search_field: 'Cerca d''usuari' }
+      help: { add_recipients: 'Aquesta discussió només serà visible per als usuaris que trieu aquí. Es requereix almenys 1 destinatari (que no sigui tu mateix).', update_recipients: 'Aquesta discussió només serà visible per als usuaris que trieu aquí.', selected_users: 'Fes clic al nom d''un usuari per eliminar-lo.', click_user_to_remove_tooltip: 'Feu clic per suprimir' }
+    user:
+      settings: { block_pd: 'Bloquejar debats privats' }
+      byobu_link: 'Discussions privades'
+      dropdown_label: 'Discussions privades'
+    notifications:
+      pd_label: 'Algú m''inclou en una nova discussió privada'
+      pd_reply_label: 'Algú publica en una discussió privada de la qual sóc destinatari'
+      pd_user_left_label: 'Un usuari destinatari deixa una discussió privada de la qual formo part'
+      pd_added_label: 'Algú m''afegeix a una discussió privada existent'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informació de la insígnia'
+    all_badges: 'Veure totes les insígnies'
+    all_users: 'Veure tots els usuaris'
+    give_badge: 'Regala la insígnia'
+    update_badge: 'Actualitzar la insígnia'
+    select_badge: 'Selecciona la insígnia'
+    user_has_badge: 'L''usuari ja disposa d''aquest distintiu.'
+    user_no_badges: 'Aquest usuari encara no té cap insígnia.'
+    no_received: 'Cap usuari ha guanyat aquesta insígnia.'
+    save_changes: 'Desar canvis'
+    badge:
+      badge: Distintiu
+      badges: Distintius
+      name: 'Nom de la insígnia'
+      description: 'Descripció de la insígnia'
+      earning_reason: 'Insígnia per guanyar la raó'
+      update_earning_reason: 'Actualitzar el motiu de guanys'
+      no_earning_reason: 'No s''estableix cap raó de guany'
+      earned_on: 'Insígnia guanyada el'
+      category: 'Categoria d''insígnia'
+      badge_details: 'Detalls de la insígnia'
+    badges_in_card:
+      title: 'Insígnies en targeta d''usuari'
+      manage_badges: 'Gestionar les insígnies'
+      description: 'Podeu canviar les insígnies visibles de la vostra targeta d''usuari amb una de les altres insígnies. Si no en selecciones cap, se seleccionaran automàticament.'
+    moderation:
+      remove_badge: 'Suprimir la insígnia de l''usuari'
+      remove_badge_confirm: 'Estàs segur que vols eliminar aquesta insígnia d''aquest usuari?'
+      give_badge: 'Regala la insígnia'
+    notification:
+      title: 'Has rebut una nova insígnia'
+      settings: 'He rebut una insígnia'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Estat miserable'
+      not_miserable_label: 'No és miserable'
+      indefinitely_label: 'Miserable indefinidament'
+      limited_time_label: 'Miserable durant un temps limitat...'
+      limited_time_days_text: ' Dies'
+      submit_button: 'Desa els canvis'
+    user_badge:
+      miserable_user_tooltip: 'Usuari miserable'
+    user_controls:
+      miserable_user_button: 'Usuari miserable'
+  ref:
+    miserable_user: 'Usuari miserable'
+sycho-profile-cover:
+  forum:
+    cover: Cobrir
+    edit_cover: 'Edita la portada'
+    added:
+      success: 'Portada del perfil actualitzada.'
+      error: 'No s''ha pogut carregar la imatge.'
+    removed:
+      success: 'S''ha suprimit la coberta del perfil.'
+      error: 'No s''ha pogut treure la coberta, torna-ho a provar més tard.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Copiar al porta-retalls'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Últims visitants', guest: Hoste }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Codi del país'
+    saveButton: Salvar
+    clickToSelectCountry: 'Selecciona el teu país'
+    countrySaved: 'País salvat amb èxit!'
+    field_placeholder: 'Confirmeu les banderes dels països'
+    binding_country: 'Hem descobert que no heu lligat el vostre parador. Si us plau, enllaceu primer el vostre país. Només podeu publicar i deixar missatges després d''enllaçar el vostre país.'
+    binding_country_click: 'Feu clic ara'
+username-blacklist:
+  forum:
+    modal-title: Advertiment!
+    modal-body-first-line: 'Avís - Aquest nom d''usuari està <strong>bloquejat per l''administrador</strong>'
+    modal-body-second-line: 'Trieu un altre nom d''usuari que no infringeixi les directrius de la comunitat i torneu-ho a provar.'
+  admin:
+    blackList: 'Nom d''usuari a la llista negra'
+    blackList-help: 'Escriviu aquí el nom d''usuari que voleu bloquejar durant el registre (separats per comes)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Sinopsi, show-summaries: 'Mostra un extracte de cada discussió en llistes de discussió (Escriptori/Tauleta)', show-summaries-mobile: 'Mostra un extracte de cada discussió en llistes de discussió (Mòbil)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Activitat del fòrum'
+      forum_new_discussions: 'Nous debats del Fòrum'
+      discussion_last_posts: 'Aquesta discussió'
+      user_last_posts: 'Missatges i comentaris d''aquest usuari'
+    feeds:
+      titles: { main_subtitle: 'Últims posts del fòrum', main_d_subtitle: 'Els debats més recents del fòrum', discussion_subtitle: 'Últims missatges d''aquesta discussió', user_subtitle: 'Últimes entrades i comentaris d''aquest usuari.' }
+    discussion:
+      feed_link: Alimentar
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Seguit
+    profile_page:
+      no_following: 'Sembla que no segueixes ningú.'
+    settings:
+      notify_new_follower_label: 'Algú em segueix'
+      notify_new_unfollower_label: 'Algú deixa de seguir-me'
+      notify_new_discussion_label: 'Algú que segueixo inicia una discussió'
+      notify_new_post_label: 'Algú que estic seguint missatges en una discussió existent'
+      block_follow: 'Impedir que els usuaris em segueixin'
+    badge:
+      label: { follow: 'Discussions següents', lurk: 'Seguint a tots' }
+    filter:
+      following: 'Usuaris seguits'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Seguir nivells', follow_select_label: 'Seguir tipus', no_user_attr_provided_err: Uh, no_user_attr_provided_err_debug: 'No es va passar cap atribut ''user'' al modal SelectFollowUserLevel quan es va crear. El modal no es pot representar.', save_btn: Salvar, cancel_btn: Cancel·lar }
+    profile_link: 'Usuaris seguits'
+    user_controls:
+      follow_button: Seguir
+      unfollow_button: 'Deixar de seguir'
+      change_button: 'Canviar seguir el tipus'
+    index:
+      follow_tag_button: Seguir
+      unfollow_tag_button: 'Canviar seguir el tipus'
+  email:
+    new_follower_subject: '[Seguir usuari] Tens un nou seguidor!'
+  lib:
+    following_link: 'Usuaris seguits'
+    follow: Seguir
+    change_follow_type: 'Canviar seguir el tipus'
+    unfollow: 'Deixar de seguir'
+    follow_levels:
+      unfollow: { name: 'No segueixis' }
+      follow: { name: 'Seguir debats' }
+      lurk: { name: 'Segueix-ho tot' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Assegureu-vos que aquest canvi d''àlies sol·licitat segueixi les directrius del fòrum.', decision_title: Decisió, approval_label: Aprovar, rejected_label: Refusar, submit_button: Entregar, reason_title: 'Motiu del rebuig', success: 'Resolució enviada.', title: 'Sol·licitud de canvi d''àlies' }
+      results: { title: 'Sol·licitud de canvi d''àlies', approved: 'S''ha aprovat la sol·licitud de canvi d''àlies', rejected: 'La sol·licitud de canvi d''àlies s''ha rebutjat', resubmit: 'En aquest moment, podeu tornar a enviar una nova sol·licitud de canvi d''àlies des de la configuració del vostre compte si així ho decidiu.', dismiss_button: 'D''ACORD' }
+      request: { title: 'Sol·licitar el canvi d''àlies', submit_button: 'Enviar sol·licitud', delete_button: 'Suprimeix la sol·licitud', confirmation_message: 'La vostra sol·licitud de canvi d''àlies s''ha enviat i està pendent d''aprovació.', deleted: 'Sol·licitud d''àlies suprimida.', dismiss_button: 'D''ACORD' }
+    username_modals:
+      action: { help_text: 'Assegureu-vos que aquest canvi de nom d''usuari sol·licitat segueix les directrius del fòrum.', decision_title: Decisió, approval_label: Aprovar, rejected_label: Refusar, submit_button: Entregar, reason_title: 'Motiu del rebuig', success: 'Resolució enviada.', title: 'Sol·licitud de canvi de nom d''usuari' }
+      results: { title: 'Sol·licitud de canvi de nom d''usuari', approved: 'S''ha aprovat la sol·licitud de canvi de nom d''usuari', rejected: 'La vostra sol·licitud de canvi de nom d''usuari s''ha rebutjat', resubmit: 'En aquest moment, podeu tornar a enviar una nova sol·licitud de canvi de nom d''usuari des de la configuració del vostre compte si així ho decidiu.', dismiss_button: 'D''ACORD' }
+      request: { title: 'Sol·licitar canvi de nom d''usuari', submit_button: 'Enviar sol·licitud', delete_button: 'Suprimeix la sol·licitud', confirmation_message: 'La vostra sol·licitud de canvi de nom d''usuari s''ha enviat i està pendent d''aprovació.', deleted: 'Sol·licitud de nom d''usuari suprimida.', dismiss_button: 'D''ACORD' }
+    pending_requests:
+      empty_text: 'No s''ha trobat cap sol·licitud de canvi de nom.'
+      tooltip: 'Sol·licituds de canvi de nom'
+      title: 'Sol·licituds de canvi de nom'
+    settings:
+      nickname_request_button: 'Canvia l''àlies'
+      username_request_button: 'Canvia el nom d''usuari'
+    user:
+      name_history_link: 'Historial de noms'
+  ref:
+    name_change_request: 'Sol·licitud de canvi de nom'
+    name_change_requests: 'Sol·licituds de canvi de nom'
+    nickname_change_request: 'Sol·licitud de canvi d''àlies'
+    nickname_change_requests: 'Sol·licituds de canvi d''àlies'
+    username_change_request: 'Sol·licitud de canvi de nom d''usuari'
+    username_change_requests: 'Sol·licituds de canvi de nom d''usuari'
+  email:
+    body:
+      noReasonProvided: 'No s''ha proporcionat cap motiu.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Escriu alguna cosa sobre tu mateix'
+    profile:
+      cancel_confirm: 'Estàs segur que vols cancel·lar l''edició de la teva biografia? Perdràs tots els canvis que hagis fet.'
+      cancel_button: Cancel·lar
+      save_button: Salvar
+      edit_bio_label: 'Edita la biografia'
+fof-split:
+  forum:
+    split:
+      from: 'Separa''t d''aquí'
+      to: 'Divideix en aquí'
+      cancel: 'Cancel·la la divisió'
+    modal:
+      title: 'Discussió dividida'
+      new_discussion_label: 'Especifiqueu el títol de la nova discussió'
+      submit_button: Partir
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Editeu els botons dels mitjans socials'
+      add: 'Afegeix botons a les teves xarxes socials'
+      headtitle: 'Botons d''edició'
+      title: Títol
+      url: URL
+      submit: Salvar
+      delete: Esborrar
+      deletetitle: 'Botó Suprimeix'
+      save_disabled_fetching_favicons: 'S''estan obtenint una o més icones. Si us plau espera.'
+      favicon: Favicó
+      grey_favicon: 'Favicon gris'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Compartir
+      share_dropdown_accessible_label: 'Commuta el menú desplegable Compartir debat'
+    modal:
+      title: Compartir
+      copy_button: Copiar
+  lib:
+    networks:
+      facebook: 'Més informació'
+      twitter: Twitter
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: 'Què tal'
+      telegram: Telegrama
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'El meu món'
+      qq: QQ
+      qzone: QZone
+      native: 'Quota nativa'
+fof-recaptcha:
+  forum:
+    error: 'S''ha produït un error en enviar reCAPTCHA. Prova una altra vegada.'
+    unknown_error: 'S''ha produït un error desconegut. Comproveu el captcha i torneu-ho a provar.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'No podeu utilitzar aquesta reacció ara mateix, actualitzeu la pàgina'
+    warning: 'La seva reacció es va convertir'
+    settings:
+      notify_post_reacted_label: 'Algú reacciona a una de les meves publicacions'
+    reacting-own-post: 'No podeu reaccionar a la vostra pròpia publicació'
+    modal:
+      title: Reaccions
+      no_reactions: 'Encara no hi ha reaccions'
+    mod_item: 'Veure reaccions'
+    react_button_label: Reaccionar
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'No s''ha pogut carregar el retallador d''imatges.', generic_resize: 'Alguna cosa ha fallat en retallar i canviar la mida de la imatge.', get_image_data: 'No va poder retallar. Assegureu-vos que la protecció amb empremtes digitals del navegador estigui desactivada.' }
+      help_text: "La càrrega d'imatges pot fallar si la configuració de privadesa del navegador és molt estricta. Si tens problemes, desactiva la protecció amb empremtes digitals. En cas contrari, podeu <disableResize>desactivar la compressió de la imatge retallada</disableResize> o <disableCrop>desactivar la retallada del tot</disableCrop>.\n"
+      submit_button: Pujar
+      submit_crop_button: 'Retalla i penja'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'És molt probable que no necessiti més discussió i, per tant, no serveix per a res.', checkbox_label: 'Sóc conscient que aquesta discussió és bastant antiga, però encara voldria respondre.', error: 'Aquesta discussió és massa antiga per respondre-hi.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'No tens permís per votar'
+    poll_ended: 'Aquesta enquesta ha acabat.'
+    public_poll: 'Veure els votants'
+    composer_discussion:
+      add_poll: 'Afegeix una enquesta'
+      edit_poll: 'Edita l''enquesta'
+    modal:
+      add_title: 'Afegir una enquesta'
+      add_option_label: 'Afegeix una opció'
+      edit_title: 'Edita l''enquesta'
+      include_question: 'Has d''incloure una pregunta'
+      max: 'Pots tenir un màxim de 10 respostes'
+      min: 'Has d''incloure un mínim de 2 respostes'
+      no_voters: 'Sense vots'
+      option_placeholder: Resposta
+      image_option_placeholder: 'URL de la imatge (opcional)'
+      options_label: Respostes
+      public_poll_label: 'Permetre que la gent vegi qui ha votat'
+      allow_multiple_votes_label: 'Permetre que la gent voti per diverses opcions'
+      max_votes_label: 'Màxim vots per usuari'
+      max_votes_help: 'Definiu a 0 per permetre als usuaris votar per totes les opcions.'
+      question_placeholder: Pregunta
+      submit: Entregar
+    moderation:
+      delete: 'Suprimeix l''enquesta'
+      delete_confirm: 'Estàs segur que vols esborrar aquesta enquesta?'
+      edit: 'Edita l''enquesta'
+    tooltip:
+      badge: Enquesta
+    votes_modal:
+      title: Votants
+fof-nightmode:
+  ref:
+    auto: 'Automàtic (basat en les opcions del navegador o del dispositiu)'
+    light: 'Mode dia'
+    dark: 'Mode nocturn'
+  forum:
+    header:
+      nightmode_button: 'Mode nocturn'
+    user:
+      settings: { heading: Tema, description: 'Trieu quin tema de color voleu utilitzar al fòrum.', description2: 'Aquest tema s''enllaçarà al vostre compte i s''aplicarà a tots els vostres dispositius, tret que activeu l''interruptor següent per a la configuració del dispositiu.', device_specific_setting_checkbox: 'Ús per configuració del dispositiu', device_specific_setting_checkbox_tooltip: 'La vostra elecció del tema es desarà individualment per a cadascun dels vostres dispositius.', auto_unsupported: 'El seu navegador no suporta el mode fosc automàtic.', option_descriptions: { auto: 'El tema se seleccionarà automàticament en funció de la configuració del navegador o del dispositiu. Per exemple, si teniu activat el mode fosc a iOS, els fòrums també seran foscos.', day: 'L''experiència clàssica a la qual estàs acostumat. Estimat i provat.', night: 'Ets una mica noctàmbul. Vigiles el fòrum a la nit, mentre els ocells dormen i les guineus cacen. O simplement prefereixes els colors més foscos!' }, options: { auto: 'Automàtic (basat en les opcions del navegador o del dispositiu)', day: 'Mode dia', night: 'Mode nocturn' } }
+    day: 'Mode dia'
+    night: 'Mode nocturn'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'No es permet una nota buida.'
+    moderatorNotes:
+      add_button: 'Nova nota'
+      create-heading: 'Crear una nota de moderador nova'
+      dismiss_button: Fet
+      noNotes: 'Sembla que aquí no hi ha notes.'
+      submit_button: 'Desar nota'
+      delete: Esborrar
+      confirm: 'Estàs segur que vols esborrar aquesta nota?'
+    user:
+      notes: 'Notes del moderador'
+  api:
+    no_reason_provided: 'No es proporciona cap motiu'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Vots
+    vote_title: 'Mostra qui ha votat'
+    nav:
+      name: Classificació
+    ranking:
+      rank: Lloc
+      name: Usuari
+      amount: Punts
+    notification:
+      prefrences: { vote: 'Quan una de les meves publicacions és votada amunt / avall' }
+    user:
+      votes_link: Vots
+    modal:
+      downvotes_label: 'Votants a la baixa:'
+      title: Votants
+      upvotes_label: 'Votants ascendents:'
+    mod_item: 'Veure els votants'
+    voters:
+      none: 'Encara no hi ha votants'
+      label: Votants
+      label_none: 'Sense votants'
+    post:
+      upvote_button: 'Publicació de vot ascendent'
+      downvote_button: 'Entrada a la baixa'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Actualment, els esborranys programats estan desactivats a la configuració.'
+  ref:
+    schedule_draft: 'Esborrany de planificació'
+  forum:
+    composer:
+      title: 'Desa l''esborrany'
+      saving: Estalvi...
+      saved: Salvat!
+      exit_alert: 'Descartar canvis a l''esborrany?'
+      discard_empty_draft_alert: 'Descartar esborrany buit?'
+    dropdown:
+      empty_text: 'No heu desat cap esborrany'
+      title: Esborranys
+      delete_all_button: 'Suprimir tots els esborranys'
+      delete_button: 'Suprimeix l''esborrany'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Estàs segur que vols esborrar l''esborrany?'
+      delete_all_alert: 'Estàs segur que vols esborrar tots els teus esborranys?'
+      schedule_button: 'Esborrany de planificació'
+      tooltip: Esborranys
+    schedule_draft_modal:
+      text: 'Programeu el vostre esborrany perquè es publiqui automàticament més endavant.'
+      unschedule_button: Descalendari
+      unschedule_warning: 'Estàs segur que vols desprogramar aquest esborrany?'
+      reschedule_button: Planificar
+      schedule_button: Horari
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Data i/o hora no vàlida'
+      title: 'Esborrany de planificació'
+    user:
+      settings: { drafts_heading: Esborranys, draft_autosave_enable: 'Activeu l''esborrany de desament automàtic?', draft_autosave_interval_label: 'Interval de desament automàtic (segons)', draft_autosave_interval_button: 'Interval d''actualització', draft_autosave_interval_invalid: 'L''interval ha de ser un enter més gran que 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Contestades
+    this_best_answer: 'Seleccioneu la millor resposta'
+    remove_best_answer: 'Desseleccioneu la millor resposta'
+    best_answer_button: 'Millor resposta'
+    errors:
+      mismatch: 'L''entrada seleccionada no existeix en aquesta discussió.'
+    notification:
+      content: 'Seleccioneu la millor resposta si la vostra pregunta s''ha respost'
+      preferences: { awarded_best_answer: 'Algú estableix la meva publicació com la millor resposta', best_answer_in_discussion: 'Una millor resposta s''estableix en una discussió en la qual vaig participar', select_best_answer: 'Un recordatori automàtic per seleccionar la millor resposta en una discussió que he iniciat' }
+    index:
+      ask_question: 'Fes una pregunta'
+      cannot_ask_question: 'No es pot fer una pregunta'
+      solved_link: 'Discussions resoltes'
+      unsolved_link: 'Discussions sense resoldre'
+    filter:
+      all_label: 'Totes les preguntes'
+      solved_label: 'Preguntes resoltes'
+      unsolved_label: 'Preguntes sense resoldre'
+      accessible_label: 'Selecció resolta/no resolta'
+    composer:
+      titlePlaceholder: 'Títol de la pregunta'
+    search:
+      discussions_solutions_heading: 'Debats amb solucions'
+    discussion:
+      jump_to_best_answer_button: 'Mostra la millor resposta'
+  email:
+    subject:
+      select: 'Has aconseguit que em responguessin la pregunta?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Les millors respostes'
+      least_best_answers: 'Menys millors respostes'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'No es prohibirà ningú més'
+    user_badge:
+      banned_tooltip: Prohibit
+    ban_ip_button: 'Prohibir IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Prohibir
+      unban_button: Prohibició
+  error:
+    banned_ip_message: 'Autorització fallida.'
+    no_ips_found_message: 'No s''ha trobat cap IP (s) per a l''usuari.'
+  lib:
+    modal:
+      check_button: Comprovar
+      save_button: Salvar
+      ban_ip_confirmation: 'Esteu segur que voleu bloquejar aquesta adreça IP per utilitzar-la al fòrum? Això bloquejarà als usuaris amb aquestes adreces IP iniciar sessió i registrar-se.'
+      unban_ip_confirmation: 'Esteu segur que voleu prohibir aquest usuari i tots els altres usuaris no prohibits per altres IP?'
+      unban_ip_no_users: 'Ningú més serà prohibit'
+      title: 'Prohibir IP(s)'
+      unban_title: 'Unban IP(s)'
+      address_label: 'Adreça IP'
+      reason_label: Raó
+      ban_button: Prohibir
+      unban_button: Prohibició
+  ref:
+    ban_label: Prohibir
+    ban_ip_addresses: 'Prohibir IP(s)'
+    ban_ip_button: 'Prohibir IP'
+    unban_label: Prohibició
+    unban_ip_addresses: 'Unban IP(s)'
+    unban_ip_button: 'Unban IP'
+    address_label: 'Adreça IP'
+    reason_label: Raó
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Les dades del seu registre s''han trobat en una base de dades de prevenció de correu brossa, per la qual cosa el seu registre ha estat bloquejat.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Esborrar discussions'
+      hard_delete_discussions_help: 'Això esborrarà permanentment totes les discussions iniciades per aquest usuari. Quan es desactivi, les discussions s''ocultaran.'
+      hard_delete_posts_label: 'Suprimir publicacions'
+      hard_delete_posts_help: 'Això eliminarà definitivament tots els missatges (comentaris, respostes, etc) realitzats per aquest usuari. Quan estigui desactivat, les publicacions s''ocultaran.'
+      hard_delete_user_label: 'Suprimeix usuari'
+      hard_delete_user_help: 'Això suprimirà permanentment l''usuari. Quan estigui desactivat, l''usuari serà suspès en el seu lloc.'
+      intro: 'Quan marqueu un usuari com a spammer, es duran a terme diverses accions, que depenen de les extensions disponibles al vostre fòrum.'
+      move_discussions_tag_label: 'Moure els debats a l''etiqueta en quarantena'
+      move_discussions_tag_help: 'Això mourà totes les discussions iniciades per aquest usuari a l''etiqueta que heu especificat a la configuració del fòrum. Quan estigui desactivat, les discussions es deixaran a les etiquetes actuals.'
+      process_button: Procés
+      report_to_sfs_label: 'Informe a StopForumSpam'
+      report_to_sfs_help: 'Això informarà dels detalls bàsics de l''usuari (nom d''usuari, correu electrònic, adreça IP) a StopForumSpam. Això ajudarà a evitar que l''usuari es registri en altres fòrums que utilitzen el servei StopForumSpam.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Restablir el recompte de visualitzacions de discussió'
+      submit: Entregar
+      label: 'Definir com a recompte de visualitzacions'
+    discussion_controls:
+      resetviews_button: 'Definir el recompte de visualitzacions'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Enganxós
+      sticky_button: Enganxós
+    badge:
+      sticky_tooltip: Enganxós
+  ref:
+    sticky: Enganxós
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Tancat
+    discussion_controls:
+      lock_button: Pany
+      unlock_button: Obrir
+    settings:
+      notify_discussion_locked_label: 'Algú bloqueja una discussió que he iniciat'
+flarum-likes:
+  forum:
+    post:
+      like_link: Agradar
+      unlike_link: 'A diferència de'
+      you_text: Tu
+    post_likes:
+      title: 'Usuaris que els agrada'
+      load_more_button: 'Carrega més'
+    settings:
+      notify_post_liked_label: 'A algú li agrada una de les meves publicacions'
+    user:
+      likes_link: 'Li agrada'
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Inserir emoji'
+      type_to_search_text: 'Escriviu per cercar un emoji'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'El vostre contingut és massa gran, llegiu les nostres directrius per publicar' }
+dhtml-persona:
+  forum:
+    persona: Persona
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Taula de classificació'
+dhtml-gender:
+  forum:
+    male: Mascle
+    female: Femella
+    other: 'Prefereix no dir'
+    inputGender: Gènere
+    saveButton: Salvar
+    clickToSelectGender: 'Selecciona el teu sexe'
+    genderSaved: 'Gènere salvat amb èxit!'
+    field_placeholder: 'Confirma el sexe'
+    binding_gender: 'Hem descobert que no heu definit el vostre sexe. Definiu primer el vostre sexe. Només pots publicar i deixar missatges després de definir el sexe.'
+    binding_gender_click: 'Feu clic ara'
+flarum-content-pages:
+  forum:
+    home: Llar
+    about-us: 'Sobre nosaltres'
+    guidelines: Directrius
+    privacy-policy: 'Política de privacitat'
+    terms-of-use: 'Condicions d''ús'
+    contact-us: 'Contacta amb nosaltres'
+    download-app: 'Descarrega l''aplicació'
+    discord-chat: 'Xat de Discord'
+    tags-cloud: 'etiquetes: Núvol'
+    languages: Idiomes
+    leaderboard: 'Taula de classificació'
+    live: Viu
+    live-coding: 'Codificació en directe'
+    challenges: Repte
+    dev-challenges: 'Reptes Dev'
+    jobs: Treballs
+    community: Comunitat
+    dev-jobs: 'Tasques de Dev'
+    job-posting: 'Posting de treball'
+    job-postings: 'Articles de treball'
+    workshops: Workshops
+    dev-workshops: 'Dev Workshops'
+    events: Esdeveniments
+    conferences: Conferèncias
+    event-conferences: 'Esdeveniments / conferències'
+    showcase: 'Mostra la caixa'
+    tags: Etiquetes
+    more: Més
+    memberships: 'Estats membres'
+    members: Membres
+    general-discussion: 'Conferencia general'
+    technology-articles: 'Articles de tecnologia'
+    coding-challenges: 'Repte de la codificació'
+    q-a: 'Secció Q/A'
+    artificial-intelligence: 'Intel·ligència artificial'
+    computer-science: 'Ciència de l''ordinador'
+    programming-languages: 'Idiomes de programació'
+    development-tools: 'Eines de desenvolupament'
+    software-development: 'Desenvolupament del programari'
+    frontend-development: 'Desenvolupament per Frontal'
+    backend-development: 'Desenvolupament del dorsal'
+    software-engineering: 'Enginyeria de programari'
+    cybersecurity: 'La inseguretat'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Comptador de caràcters'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Edita la data de naixement'
+      date_of_birth_text: 'Data de naixement'
+      submit_button: 'Desa els canvis'
+    settings:
+      change_dob_label: 'Canviar data de naixement'
+      show_dob_date_label: 'Mostra dia i mes de naixement'
+      show_dob_year_label: 'Mostra l''any de naixement'
+      show_dob_year_help: 'Això permetrà que la gent vegi la vostra edat.'
+      dob_heading: 'Data de naixement'
+    nav:
+      nav_item: 'Aniversaris d''avui'
+    edit_user:
+      dob_heading: 'Data de naixement'
+    sign_up:
+      dob_placeholder: 'Data de naixement'
+  api:
+    invalid_dob_message: 'Data de naixement no vàlida'
+  ref:
+    date_of_birth: 'Data de naixement'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Selector d''emojis'
+    search_placeholder: Buscar...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Edita l''autor i la data'
+    modal:
+      title-post: 'Edita l''autor de l''entrada i la data'
+      title-discussion: 'Edita la discussió, autor i data'
+      user: Autor
+      created_at: 'Temps de creació'
+      edited_at: 'Edita el temps'
+      sync-with-discussion: 'Sincronització amb la discussió'
+      sync-with-post: 'Sincronització amb el primer post'
+      sync-impossible: 'No trobo el primer post. Proveu de desplaçar-vos fins a l''inici de la discussió.'
+      submit: Salvar
+      cancel: Cancel·lar
+    search:
+      placeholder: 'Cerca usuaris'
+      type-more: 'Escriviu 3 caràcters per cercar a la base de dades'
+      no-results: 'Sense resultats'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Commuta el mode de text enriquit'
+      insert_button: Inserir
+      insert_image: { src_placeholder: Lligam, title_placeholder: Títol }
+      insert_link: { text_placeholder: SMS, href_placeholder: URL, title_placeholder: 'Títol (es mostra en passar el cursor per sobre)', remove_button: Treure }
+      additional_items_tooltip: 'Controls addicionals'
+      code_block_tooltip: 'Inserir un bloc de codi'
+      horizontal_rule_tooltip: 'Inserir regla horitzontal'
+      image_tooltip: 'Afegir una imatge'
+      link_tooltip: 'Afegir un enllaç'
+      spoiler_block_tooltip: 'Bloc spoiler/desplegable'
+      strike_tooltip: 'Ratllat <alt-shift-5>'
+      text_type_tooltip: 'Seleccioneu el tipus de text'
+  forum:
+    settings:
+      composer_heading: Compositor
+      use_rich_text_editor_label: 'Utilitzeu un editor de text enriquit?'
+      rich_text_compact_paragraphs_label: 'No separeu els paràgrafs amb newline.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Teniu activades les notificacions automàtiques, però no heu configurat aquest dispositiu.'
+      optin_button: Configurar
+    discussion_controls:
+      share_button: Compartir
+    post_controls:
+      share_button: Compartir
+    user_controls:
+      share_button: Compartir
+    settings:
+      push_header: Empènyer
+      pwa_notifications: { access_default: 'A causa de les restriccions del navegador, heu d''activar l''opció per rebre notificacions automàtiques en aquest dispositiu.', access_default_button: 'Opt In', access_denied: 'Heu d''ajustar la configuració del navegador per rebre notificacions push en aquest dispositiu.', access_denied_button: Aprendre, no_browser_support: 'Aquest navegador no suporta notificacions push per a aplicacions web progressives.', no_browser_support_button: 'Aprèn més' }
+  views:
+    offline:
+      header: 'Error de connexió a la xarxa'
+      text: 'Aquesta aplicació requereix una connexió de xarxa; No es pot utilitzar fora de línia. Comproveu la vostra connexió.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Avisar a l''usuari'
+    user:
+      warnings: 'Advertiments del moderador'
+    settings:
+      warning_notification_label: 'Un moderador m''avisa'
+    validation:
+      public_comment_required: 'La majoria proporcioneu un comentari públic.'
+      invalid_strike_count: 'El nombre de vagues ha de ser enter entre 0 i 5.'
+    warning_controls:
+      delete_button: Treure
+      restore_button: Restaurar
+      delete_forever_button: 'Suprimeix permanentment'
+    warning_list:
+      add_button: 'Nou avís'
+      no_warnings: 'Sembla que aquí no hi ha avisos.'
+      warnings_no_strikes: 'Advertiments del moderador: no s''han rebut tocs d''atenció'
+    warning_list_item:
+      public_comment: Advertiment
+      private_comment: 'Moderador-Comentaris visibles'
+      linked_post: 'Post enllaçat'
+    warning_modal:
+      confirmation_message: 'El vostre advertiment s''ha desat. És possible que hàgiu d''actualitzar la pàgina per veure-la.'
+      strikes_heading: 'Quantes vagues s''han d''aplicar?'
+      submit_button: 'Desa l''avís'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Edita la plantilla de resposta'
+    reply_template:
+      title: 'Edita la plantilla de resposta'
+      submit_button: 'Desa la plantilla de resposta'

@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: '입력하신 비밀번호가 잘못되었습니다.'
+      confirm_password_placeholder: '비밀번호 확인'
+      dismiss_button: 그래
+      submit_button: '변경 사항 저장(Save Changes)'
+      title: '이메일 변경'
+    change_password:
+      send_button: '비밀번호 재설정 이메일 보내기'
+      text: '아래 버튼을 클릭하고 이메일을 통해 비밀번호를 변경할 수 있는 링크를 확인하세요.'
+      title: '비밀번호 변경'
+    composer:
+      close_tooltip: 닫다
+      exit_full_screen_tooltip: '전체 화면 종료'
+      full_screen_tooltip: '전체 화면'
+      minimize_tooltip: 최소화
+      preview_tooltip: '미리 보기'
+    composer_discussion:
+      body_placeholder: '게시물 작성...'
+      discard_confirmation: '토론을 게시하지 않았습니다. 버리시겠습니까?'
+      submit_button: '토론 게시'
+      title_placeholder: '토론 제목'
+      title: '토론 시작'
+    composer_edit:
+      discard_confirmation: '변경 사항을 저장하지 않았습니다. 그것들을 버리고 싶습니까?'
+      edited_message: '편집이 완료되었습니다.'
+      submit_button: '변경 사항 저장(Save Changes)'
+      view_button: 보기
+    composer_reply:
+      discard_confirmation: '답글을 게시하지 않았습니다. 버리시겠습니까?'
+      posted_message: '귀하의 답변이 게시되었습니다.'
+      submit_button: '댓글 게시'
+      body_placeholder: '답장 쓰기...'
+      view_button: 보기
+    discussion_controls:
+      cannot_reply_button: '답장할 수 없음'
+      cannot_reply_text: '이 토론에 답변할 수 있는 권한이 없습니다.'
+      delete_confirmation: '이 토론을 삭제하시겠습니까?'
+      log_in_to_reply_button: '로그인하여 회신'
+      toggle_dropdown_accessible_label: '토론 작업 드롭다운 메뉴 전환'
+      delete_button: 삭제하다
+      delete_forever_button: '영구 삭제'
+      rename_button: '이름 바꾸기'
+      reply_button: 회답
+      restore_button: 복원
+    discussion_list:
+      empty_text: '여기에는 토론이 없는 것 같습니다.'
+      load_more_button: 더를로드
+    forgot_password:
+      email_sent_message: '입력된 이메일이 이 사이트에 등록되어 있는 경우, 비밀번호 재설정 링크가 포함된 이메일을 보내드립니다. 다음 분 또는 두 분 내에 수신하지 않으면 스팸 폴더를 확인하십시오.'
+      not_found_message: '그 이메일 주소로 등록된 사용자도 없습니다.'
+      submit_button: '비밀번호 복구'
+      text: '이메일 주소를 입력하시면 비밀번호 재설정 링크를 보내드립니다.'
+      title: 비밀번호
+      dismiss_button: 그래
+      email_placeholder: '이름 *'
+    header:
+      admin_button: 주요사업
+      back_to_index_tooltip: '토론 목록으로 돌아가기'
+      locale_dropdown_accessible_label: '포럼 로캘 변경'
+      profile_button: 윤곽
+      search_clear_button_accessible_label: '검색어 지우기'
+      search_placeholder: '검색 포럼'
+      search_role_label: '검색 포럼'
+      session_dropdown_accessible_label: 'Toggle session options(세션 옵션) 드롭다운 메뉴'
+      log_in_link: 로그인
+      log_out_button: 로그아웃
+      settings_button: 설정
+      sign_up_link: 등록하세요
+    index:
+      cannot_start_discussion_button: '토론을 시작할 수 없음'
+      mark_all_as_read_confirmation: '모든 토론을 읽음으로 표시하시겠습니까?'
+      refresh_tooltip: 리프레쉬
+      toggle_sidenav_dropdown_accessible_label: 'Toggle navigation 드롭다운 메뉴'
+      all_discussions_link: '모든 토론'
+      mark_all_as_read_tooltip: '모두 읽음으로 표시'
+      meta_title_text: '모든 토론'
+      start_discussion_button: '토론 시작'
+    index_sort:
+      latest_button: 최근
+      newest_button: 최신
+      oldest_button: '오래 된'
+      relevance_button: 관련성
+      toggle_dropdown_accessible_label: '토론 목록 정렬 변경'
+      top_button: '맨 위로'
+      hot_button: 동향
+      votes_button: 추천
+      front_button: '프론트 페이지'
+      popular_button: '인기 있는'
+      unpopular_button: 인기
+    log_in:
+      forgot_password_link: '비밀번호를 잊으셨나요?'
+      invalid_login_message: '로그인 정보가 정확하지 않습니다.'
+      remember_me_label: '내 정보 기억'
+      sign_up_text: '계정이 없으신가요? <a>등록하세요</a>'
+      username_or_email_placeholder: '사용자 이름 또는 이메일'
+      password_placeholder: 암호
+      submit_button: 로그인
+      title: 로그인
+    notifications:
+      delete_all_confirm: '모든 알림을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다'
+      delete_all_tooltip: '모든 알림 삭제'
+      empty_text: '알림 없음'
+      mark_as_read_tooltip: '읽음으로 표시'
+      toggle_dropdown_accessible_label: '알림 보기'
+      mark_all_as_read_tooltip: '모두 읽음으로 표시'
+      title: 알림을
+      tooltip: 알림을
+    post:
+      edited_text: 편집
+    post_controls:
+      delete_confirmation: '이 게시물을 영원히 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.'
+      hide_confirmation: '이 게시물을 삭제하시겠습니까?'
+      toggle_dropdown_accessible_label: '게시물 컨트롤 전환 드롭다운 메뉴'
+      push_to_front_button: 'FrontPage로 푸시'
+      pull_from_front_button: 'FrontPage에서 끌어오기'
+      delete_button: 삭제하다
+      delete_forever_button: '영구 삭제'
+      edit_button: 편집하다
+      restore_button: 복원
+    post_scrubber:
+      now_link: 지금
+      original_post_link: '원본 게시물'
+    post_stream:
+      load_more_button: 더를로드
+      reply_placeholder: '답장 쓰기...'
+    rename_discussion:
+      title: '토론 이름 바꾸기'
+      submit_button: '이름 바꾸기'
+    search:
+      discussions_heading: 토론
+      users_heading: 사용자
+    security:
+      cannot_terminate_current_session: '현재 활성 세션을 종료할 수 없습니다. 대신 로그아웃합니다.'
+      created: 만든
+      current_active_session: '현재 활성 세션'
+      developer_tokens_heading: '개발자 토큰'
+      empty_text: '여기에 볼 것이 없는 것 같습니다.'
+      global_logout: { heading: '전역 로그아웃', help_text: '현재 쿠키 세션을 지우고, 모든 세션을 종료하고, 개발자 토큰을 취소하고, 이메일 확인 또는 비밀번호 재설정 이메일을 무효화합니다.', log_out_button: 로그아웃 }
+      hide_access_token: '토큰 숨기기'
+      last_activity: '마지막 활동'
+      new_access_token_modal: { submit_button: '토큰 생성', title_placeholder: 타이틀, title: '새로운 토큰' }
+      revoke_access_token: 취소
+      sessions_heading: '활성 세션'
+      session_termination_failed: '세션을 종료하는 동안 오류가 발생했습니다.'
+      show_access_token: '토큰 보기'
+      terminate_all_other_sessions: '다른 모든 세션을 종료합니다'
+      terminate_session: 끝내다
+      token_revoked: '토큰이 해지되었습니다.'
+      token_title_placeholder: /
+      never: 결코
+      new_access_token_button: '새로운 토큰'
+      revoke_access_token_confirmation: '계속하시겠습니까? 이 작업은 취소할 수 없습니다.'
+      terminate_all_other_sessions_confirmation: '계속하시겠습니까? 이 작업은 취소할 수 없습니다.'
+      title: 안전
+    settings:
+      account_heading: 계좌
+      notify_by_web_heading: 웹
+      notify_discussion_renamed_label: '누군가 내가 시작한 토론의 이름을 바꾼 경우'
+      privacy_disclose_online_label: '내가 온라인 상태일 때 다른 사람이 볼 수 있도록 허용'
+      privacy_heading: 사생활
+      change_email_button: '이메일 변경'
+      change_password_button: '비밀번호 변경'
+      notifications_heading: 알림을
+      notify_by_email_heading: '이름 *'
+      title: 설정
+    sign_up:
+      log_in_text: '이미 계정이 있으신가요? <a>로그인</a>'
+      dismiss_button: 그래
+      email_placeholder: '이름 *'
+      password_placeholder: 암호
+      submit_button: 등록하세요
+      title: 등록하세요
+      username_placeholder: '사용자 이름'
+    user:
+      avatar_upload_button: 업로드
+      avatar_upload_tooltip: '새 아바타 업로드'
+      online_text: 온라인
+      posts_empty_text: '여기에 게시물이 없는 것 같습니다.'
+      avatar_remove_button: 제거하다
+      discussions_link: 토론
+      posts_link: 게시물
+      posts_load_more_button: 더를로드
+      security_link: 안전
+      settings_link: 설정
+    user_controls:
+      button: 컨트롤
+      delete_confirmation: '이 사용자를 삭제하시겠습니까? 사용자의 게시물은 삭제되지 않습니다.'
+      toggle_dropdown_accessible_label: '사용자 컨트롤 드롭다운 메뉴 전환'
+      delete_button: 삭제하다
+      edit_button: 편집하다
+    user_email_confirmation:
+      resend_button: '확인 이메일 재발송'
+      sent_message: 전송
+    welcome_hero:
+      hide: '환영 메시지 숨기기'
+    badge:
+      frontpage_tooltip: 'FrontPage로 표시됨'
+  lib:
+    debug_button: 디버그
+    alert:
+      dismiss_a11y_label: '경고 해제'
+    badge:
+      hidden_tooltip: 숨겨진
+    dropdown:
+      toggle_dropdown_accessible_label: '드롭다운 메뉴 전환'
+    edit_user:
+      activate_button: '사용자 활성화'
+      groups_heading: 그룹
+      set_password_label: '새 비밀번호 설정'
+      nothing_available: '이 사용자는 편집할 수 없습니다.'
+      email_heading: '이름 *'
+      email_label: '이름 *'
+      password_heading: 암호
+      password_label: 암호
+      submit_button: '변경 사항 저장(Save Changes)'
+      title: '사용자 편집'
+      username_heading: '사용자 이름'
+      username_label: '사용자 이름'
+    error:
+      generic_message: '이런! 문제가 발생했습니다. 페이지를 새로고침한 후 다시 시도하세요.'
+      generic_cross_origin_message: '이런! 원본 간 요청 중에 문제가 발생했습니다. 페이지를 새로고침한 후 다시 시도하세요.'
+      not_found_message: '요청한 리소스를 찾을 수 없습니다.'
+      payload_too_large_message: '요청 페이로드가 너무 큽니다.'
+      permission_denied_message: '그렇게 할 수 있는 권한이 없습니다.'
+      rate_limit_exceeded_message: '당신은 조금 너무 빨리 가고 있습니다. 몇 초 후에 다시 시도하십시오.'
+      render_failed_message: '죄송합니다. 이 콘텐츠를 표시하는 동안 오류가 발생했습니다. 사용자인 경우 나중에 다시 시도하세요. 관리자인 경우 Flarum 로그 파일에서 자세한 내용을 확인하세요.'
+    modal:
+      close: 닫다
+    nav:
+      drawer_button: 'Navigation Drawer 열기'
+    loading_indicator:
+      accessible_label: 로드...
+  views:
+    confirm_email:
+      text: '아래 버튼을 클릭하여 계정 이메일을 확인하십시오.'
+      submit_button: '이메일 확인'
+      title: '이메일 확인'
+    content:
+      javascript_disabled_message: '이 사이트는 JavaScript가 활성화된 최신 브라우저에서 가장 잘 볼 수 있습니다.'
+      load_error_message: '이 사이트의 전체 버전을 로드하는 동안 문제가 발생했습니다. 이 페이지를 하드 새로고침하여 오류를 수정해 보세요.'
+      loading_text: 로드...
+    error:
+      csrf_token_mismatch: '너무 오랫동안 비활성 상태였습니다.'
+      csrf_token_mismatch_return_link: '돌아가서 다시 시도하십시오.'
+      invalid_confirmation_token: '이 확인 링크는 이미 사용되었거나 유효하지 않습니다.'
+      not_authenticated: '이 페이지에 액세스할 수 있는 권한이 없습니다. 로그인 후 다시 시도하십시오.'
+      not_found: '요청하신 페이지를 찾을 수 없습니다.'
+      permission_denied: '이 페이지에 액세스할 수 있는 권한이 없습니다.'
+      unknown: '이 페이지를 로드하는 동안 오류가 발생했습니다.'
+    log_out:
+      log_out_button: 로그아웃
+      title: 로그아웃
+    reset_password:
+      confirm_password_label: '새 비밀번호 확인'
+      new_password_label: '새 비밀번호'
+      submit_button: '변경 사항 저장(Save Changes)'
+      title: '비밀번호 재설정하기'
+    discussion:
+      next_page_button: '다음 페이지'
+      previous_page_button: '이전 페이지'
+    index:
+      all_discussions_heading: '모든 토론'
+      next_page_button: '다음 페이지'
+      previous_page_button: '이전 페이지'
+  api:
+    invalid_username_message: '사용자 이름에는 문자, 숫자 및 대시만 포함할 수 있습니다.'
+  email:
+    activate_account:
+      subject: '새 계정을 활성화하십시오.'
+    confirm_email:
+      subject: '새 이메일 주소 확인'
+    reset_password:
+      subject: '비밀번호 재설정하기'
+    send_test:
+      subject: 'Flarum 이메일 테스트'
+  ref:
+    all_discussions: '모든 토론'
+    change_email: '이메일 변경'
+    change_password: '비밀번호 변경'
+    color: 색
+    confirm_password: '비밀번호 확인'
+    confirm_email: '이메일 확인'
+    custom_footer_text: '페이지 맨 아래에 표시할 HTML을 추가합니다.'
+    custom_footer_title: '사용자 정의 바닥글 편집'
+    custom_header_text: 'Flarum의 자체 헤더 위, 페이지 맨 위에 표시할 HTML을 추가합니다.'
+    custom_header_title: '사용자 지정 헤더 편집'
+    delete: 삭제하다
+    delete_forever: '영구 삭제'
+    discussions: 토론
+    edit: 편집하다
+    edit_user: '사용자 편집'
+    email: '이름 *'
+    extensions: 확장
+    generic_confirmation_message: '계속하시겠습니까? 이 작업은 취소할 수 없습니다.'
+    icon: 아이콘
+    load_more: 더를로드
+    loading: 로드...
+    log_in: 로그인
+    log_out: 로그아웃
+    mark_all_as_read: '모두 읽음으로 표시'
+    never: 결코
+    new_token: '새로운 토큰'
+    next_page: '다음 페이지'
+    notifications: 알림을
+    okay: 그래
+    password: 암호
+    posts: 게시물
+    previous_page: '이전 페이지'
+    remove: 제거하다
+    rename: '이름 바꾸기'
+    reply: 회답
+    reset_your_password: '비밀번호 재설정하기'
+    restore: 복원
+    save_changes: '변경 사항 저장(Save Changes)'
+    search_users: '사용자 검색'
+    security: 안전
+    settings: 설정
+    sign_up: 등록하세요
+    start_a_discussion: '토론 시작'
+    username: '사용자 이름'
+    users: 사용자
+    view: 보기
+    write_a_reply: '답장 쓰기...'
+    you: 너
+  group:
+    admin: 관리자
+    admins: 관리자
+    guest: 손님
+    guests: 손님
+    member: 구성원
+    members: 회원
+    mod: 방법
+    mods: 개조
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: '모든 태그'
+      meta_title_text: 태그
+    choose_tags:
+      title: '토론에 사용할 태그를 선택합니다.'
+    discussion_controls:
+      edit_tags_button: '태그 편집'
+    header:
+      back_to_tags_tooltip: '태그 목록으로 돌아가기'
+    index:
+      more_link: 더...
+      untagged_link: '태그 없음'
+      tags_link: 태그
+    composer_discussion:
+      choose_tags_link: '태그 선택'
+  lib:
+    deleted_tag_text: 삭제
+    tag_selection_modal:
+      bypass_requirements: '태그 요구 사항 무시'
+      submit_button: 그래
+      title: '태그 선택'
+  ref:
+    choose_tags: '태그 선택'
+    name: 이름
+    tags: 태그
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: '사용자, 그룹 또는 게시물 멘션하기'
+    mentioned_by:
+      title: '이 게시물에 대한 답글'
+      load_more_button: 더를로드
+    post:
+      quote_button: 견적
+      reply_link: 회답
+      you_text: 너
+    settings:
+      notify_post_mentioned_label: '누군가 내 게시물 중 하나에 답글을 달 수 있습니다.'
+      notify_user_mentioned_label: '누군가 게시물에서 나를 언급함'
+      notify_group_mentioned_label: '누군가 게시물에서 내가 속해 있는 그룹을 언급했습니다.'
+    user:
+      mentions_link: 언급
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 언팔로우
+      unignore_button: 언시르
+      follow_button: 뒤따르다
+    settings:
+      follow_after_reply_label: '내가 답글한 토론을 자동으로 팔로우'
+      notify_for_all_posts_label: '토론의 마지막 게시물만 알리는 대신 모든 새 게시물에 대해 알림'
+      notify_new_post_label: '누군가 내가 팔로우하는 토론에 게시물을 올립니다.'
+    sub_controls:
+      following_text: '모든 회신에 대한 알림을 받습니다.'
+      ignoring_text: '알림을 받지 않습니다. 토론 목록에서 숨깁니다.'
+      not_following_button: '팔로우하지 않음'
+      not_following_text: '@mentioned 때만 알림을 받습니다.'
+      notify_alert_tooltip: '새 게시물이 있을 때 포럼 알림 받기'
+      notify_email_tooltip: '새 게시물이 있을 때 이메일 받기'
+      follow_button: 뒤따르다
+      following_button: 다음
+      ignoring_button: 무시
+    badge:
+      following_tooltip: 다음
+      ignoring_tooltip: 무시
+    following:
+      meta_title_text: 다음
+    index:
+      following_link: 다음
+  ref:
+    follow: 뒤따르다
+    following: 다음
+    ignoring: 무시
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: '이 게시물을 신고해 주셔서 감사합니다. 중재자가 조사할 것입니다.'
+      reason_inappropriate_label: '부적 절 한'
+      reason_inappropriate_text: '이 게시물은 불쾌감을 주거나, 모욕적이거나, <a>커뮤니티 가이드라인</a>을 위반합니다.'
+      reason_missing_message: '중재자를 위해 몇 가지 세부 정보를 제공하십시오.'
+      reason_off_topic_label: '주제에서 벗어남'
+      reason_off_topic_text: '이 게시물은 현재 토론과 관련이 없으므로 다른 곳으로 이동해야 합니다.'
+      reason_other_label: '기타 (구체적으로 기재하십시오)'
+      reason_spam_label: 스팸
+      reason_spam_text: '이 게시물은 광고입니다.'
+      dismiss_button: 그래
+      submit_button: '깃발 포스트'
+      title: '깃발 포스트'
+    flagged_posts:
+      empty_text: '플래그 없음'
+      title: '플래그가 지정된 게시물'
+      tooltip: '플래그가 지정된 게시물'
+    post:
+      dismiss_flag_button: '해제 플래그'
+    post_controls:
+      flag_button: 기
+  ref:
+    flag_post: '깃발 포스트'
+    flagged_posts: '플래그가 지정된 게시물'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: '귀하는 무기한 정지되었습니다.'
+      user_unsuspended_text: '일시 중단이 해제되었습니다.'
+    suspension_info:
+      dismiss_button: 해고하다
+      indefinite: '이것은 무기한 정지입니다'
+      title: '이 계정은 일시 중지되었습니다.'
+    suspend_user:
+      display_message: '사용자에 대한 메시지 표시'
+      indefinitely_label: '무기한 중단됨'
+      limited_time_days_text: ' 일'
+      limited_time_label: '기간 한정 일시 중단...'
+      not_suspended_label: '일시 중단되지 않음'
+      placeholder_optional: 선택적
+      reason: '일시 중단 사유'
+      status_heading: '일시 중단 상태'
+      submit_button: '변경 사항 저장(Save Changes)'
+    user_badge:
+      suspended_tooltip: '일시 중단'
+    user_controls:
+      suspend_button: 매달다
+  email:
+    no_reason_given: '이 중단에 대한 이유는 제공되지 않았습니다.'
+    suspended:
+      subject: '계정이 정지되었습니다.'
+    unsuspended:
+      subject: '계정의 정지가 해제되었습니다.'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: '사용자가 업로드한 모든 파일.', anonymize_description: '업로드된 파일에서 사용자 참조를 제거합니다. 파일 자체는 익명화 전에 파일을 볼 수 있는 사용자가 계속 액세스할 수 있습니다.', delete_description: '사용자가 업로드한 모든 파일을 삭제합니다.' }
+      tagsubscription: { export_description: '태그에 대한 구독 수준의 세부 정보(있는 경우)를 내보냅니다.', anonymize_description: '태그에 대한 사용자의 구독을 제거합니다.' }
+      followuser: { export_description: '팔로우한 사용자와 팔로우하는 사용자의 세부 정보를 내보냅니다.', delete_description: '다음 사용자와 관련된 모든 데이터를 삭제합니다.', anonymize_description: '다음 사용자와 관련된 모든 데이터를 삭제합니다.' }
+      bannedipdata: { export_description: 'IP 금지 레코드가 사용자와 연결된 경우(즉, 사용자가 IP에 의해 차단된 경우) 사용자의 IP 주소가 사용 금지 이유 및 생성 날짜와 함께 내보내기에 포함됩니다.', anonymize_description: '사용자와 연결된 모든 IP 주소는 분리되지만 IP 자체는 이유와 함께 금지된 상태로 유지됩니다. ''reason'' 필드에 PII 데이터가 저장되어 있지 않은지 확인합니다.' }
+fof-upload:
+  forum:
+    media_manager: '미디어 매니저'
+    buttons:
+      attach: 붙이다
+      upload: 업로드
+      upload_shared: 공유
+      user_uploads: '사용자 업로드'
+      cancel: 취소
+      media: '내 미디어'
+      shared_media: '공유 미디어'
+    states:
+      error: 오류
+      loading: 업로드
+      unauthorized: '파일을 다운로드할 수 없습니다.'
+    text_preview:
+      expand: '미리보기 확장'
+      collapse: '미리보기 축소'
+      error: "파일을 미리 보는 중 오류가 발생했습니다. 삭제되었거나 제공된 파일 ID가 잘못되었을 수 있습니다.\n"
+      no_snippet_preview: '< 게시 후 여기에 미리보기가 표시됩니다>'
+      no_snippet: '<사용할 수 있는 미리보기 스니펫이 없습니다>'
+  api:
+    upload_errors:
+      forbidden_type: '이 유형의 파일은 업로드할 수 없습니다.'
+      could_not_detect_mime: '이 파일의 MIME 유형을 감지할 수 없습니다. 다시 시도하십시오.'
+      max_upload_file_size_ini: 'php.ini에서 업로드 최대 파일 크기 제한에 도달했습니다.'
+      max_upload_file_size_form: '양식에서 업로드 최대 파일 크기 제한에 도달했습니다.'
+      partial_upload: '부분 업로드.'
+      no_file_uploaded: '업로드된 파일이 없습니다.'
+      no_upload_tmp_folder: '파일을 업로드하기 위한 tmp 폴더가 없습니다.'
+      cannot_write_to_disk: '디스크에 쓸 수 없습니다.'
+      upload_blocked_by_php_extension: 'PHP 확장 프로그램이 업로드를 차단했습니다.'
+  lib:
+    upload-shared-file-modal:
+      title: '새 공유 파일'
+      dropzone: '여기에 파일을 끌어다 놓거나 클릭하여 찾아봅니다.'
+      hide-from-media-gallery: '사용자의 미디어 갤러리에서 숨기기'
+      upload: 업로드
+    file_list:
+      loading: '파일을 불러오는 중...'
+      empty: '표시할 파일이 없습니다.'
+      release_to_upload: '업로드할 릴리스'
+      modal_empty_desktop: '파일 목록이 비어 있습니다. 버튼을 클릭하거나 파일을 여기로 드래그하여 업로드합니다.'
+      modal_empty_phone: '파일 목록이 비어 있습니다. 위의 버튼을 눌러 파일을 업로드합니다.'
+      load_more_files_btn: '더 많은 파일 로드'
+      hide_file: { hide_success: '파일 숨김', show_success: '표시된 파일', loading: '파일을 숨기는 중...' }
+      hide_shared_file: { hide_success: '파일을 비공개로 설정', show_success: '파일이 공개됨', loading: '파일을 비공개로 설정...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: 쓴
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: '굵은 텍스트 추가'
+      code_tooltip: '코드 삽입'
+      header_tooltip: '머리글 텍스트 추가'
+      image_tooltip: '이미지 추가'
+      italic_tooltip: '기울임꼴 텍스트 추가'
+      link_tooltip: '링크 추가'
+      ordered_list_tooltip: '번호 매기기 목록 추가'
+      quote_tooltip: '견적 삽입'
+      spoiler_tooltip: '스포일러 삽입'
+      strikethrough_tooltip: '취소선 텍스트 추가'
+      unordered_list_tooltip: '글머리 기호 목록 추가'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: '누군가 내가 팔로우하는 태그에 토론을 만듭니다.'
+      notify_new_post_label: '누군가 내가 팔로우하는 태그에 게시물을 올립니다.'
+      notify_new_discussion_tag_label: '누군가 내가 팔로우하는 태그에 토론 태그를 다시 지정합니다.'
+    index:
+      follow_tag_button: 뒤따르다
+      unfollow_tag_button: '팔로우 중지'
+      following: { following_none_label: '팔로우한 토론', following_tags_label: '팔로우한 태그' }
+    badge:
+      following_tag_tooltip: 다음
+      lurking_tag_tooltip: 숨어
+    sub_controls:
+      following_text: '모든 새로운 토론에 대한 알림을 받습니다.'
+      hiding_text: '모든 토론 페이지에서 토론을 숨깁니다.'
+      ignoring_text: '알림을 받지 않습니다.'
+      lurking_text: '모든 새로운 토론 및 답변에 대한 알림을 받습니다.'
+      not_following_button: '팔로우하지 않음'
+      not_following_text: '@mentioned 때만 알림을 받습니다.'
+      notify_alert_tooltip: '새로운 토론이나 게시물이 있을 때 포럼 알림 받기'
+      notify_email_tooltip: '새 토론이나 게시물이 있을 때 이메일 받기'
+      submit_button: '구독 확인'
+      follow_button: 뒤따르다
+      following_button: 다음
+      hiding_button: 숨기기
+      ignoring_button: 무시
+      lurking_button: 숨어
+    user:
+      settings: { heading: '태그 따르기', filter_label: '다음 페이지에서 기본적으로 표시할 내용' }
+  ref:
+    follow: 뒤따르다
+    following: 다음
+    hiding: 숨기기
+    ignoring: 무시
+    lurking: 숨어
+    filtering_options:
+      none: '팔로우한 토론'
+      tags: '팔로우한 태그'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: '이 닉네임은 유효하지 않습니다. 닉네임 규칙에 대한 자세한 내용은 포럼 관리자에게 문의하십시오.'
+  ref:
+    change_nickname: '닉네임 변경'
+    nickname: 별명
+  forum:
+    change_nickname:
+      submit_button: '변경 사항 저장(Save Changes)'
+      title: '닉네임 변경'
+    edit_user:
+      nicknames_heading: '닉네임 변경'
+      nicknames_text: 별명
+    settings:
+      change_nickname_button: '닉네임 변경'
+    sign_up:
+      nickname_placeholder: 별명
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: '연결된 계정', last-used-label: '마지막으로 사용됨', link-created-label: '링크가 생성됨', orphaned-account: '이전에 이 공급자를 통해 로그인했지만 이 포럼에서 이후 이 방법으로 로그인할 수 없도록 설정했습니다.', help: '이러한 연결된 계정을 사용하면 다른 공급자를 사용하여 포럼에 로그인할 수 있습니다.' } }
+    signup:
+      username_help: '여기에서 알 수 있는 사용자 이름을 선택하십시오.'
+    unlink: '링크 제거'
+    error:
+      bad_verification_code: '유효하지 않거나 만료된 확인 토큰입니다. 다시 시도하십시오.'
+      invalid_state: '유효하지 않은 상태입니다. 다시 시도하십시오.'
+    providers:
+      discord: 갈등
+      facebook: 페이스북
+      github: 깃허브(GitHub)
+      gitlab: 깃랩
+      google: 구글
+      linkedin: 링크드인
+      twitter: 지저귀다
+  lib:
+    providers:
+      discord: 갈등
+      facebook: 페이스북
+      github: 깃허브(GitHub)
+      gitlab: 깃랩
+      twitter: 지저귀다
+      google: 구글
+      linkedin: 링크드인
+  ref:
+    settings:
+      app_id: '앱 ID'
+      app_secret: '앱 시크릿'
+      client_id: '클라이언트 ID'
+      client_secret: '클라이언트 시크릿'
+fof-impersonate:
+  forum:
+    modal:
+      title: '다른 사용자로 로그인'
+      placeholder_optional: '(선택 사항) 이 사용자로 전환하는 이유를 입력합니다.'
+      placeholder_required: '계속하기 전에 이 사용자로 전환하는 이유를 제공해야 합니다'
+    user_controls:
+      impersonate_button: '사용자로 로그인'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: '비공개 토론' }
+    buttons:
+      add_recipients: '받는 사람'
+      submit: 그래
+      edit_recipients: '수신자 편집'
+      cancel: 취소
+      make_public: '이 토론을 공개로 설정'
+      remove_from_discussion: '이 비공개 토론에서 나가기'
+    composer_private_discussion:
+      submit_button: '비공개 토론 게시'
+      title_placeholder: '비공개 토론 제목'
+    confirm:
+      make_public: '받는 사람을 제거하고 할당된 태그를 볼 수 있는 모든 사람이 이 토론을 볼 수 있도록 하시겠습니까?'
+    nav:
+      start_button: '개인적으로 토론한다'
+      nav_item: '비공개 토론'
+    input:
+      search_recipients: '처음 세 글자를 입력하여 수신자 검색...'
+    search:
+      headings: { groups: '권한 그룹' }
+    modal:
+      titles: { add_recipients: '토론에 수신자 추가' }
+      labels: { selected_users: '선택한 사용자', search_field: '사용자 검색' }
+      help: { add_recipients: '이 토론은 여기에서 선택한 사용자만 볼 수 있습니다. 최소 1명의 수취인(본인 제외)이 필요합니다.', update_recipients: '이 토론은 여기에서 선택한 사용자만 볼 수 있습니다.', selected_users: '사용자 이름을 클릭하여 제거합니다.', click_user_to_remove_tooltip: '제거하려면 클릭하십시오.' }
+    user:
+      settings: { block_pd: '비공개 토론 차단' }
+      byobu_link: '비공개 토론'
+      dropdown_label: '비공개 토론'
+    notifications:
+      pd_label: '누군가 나를 새로운 비공개 토론에 포함시켰습니다.'
+      pd_reply_label: '누군가 내가 받는 비공개 토론에 게시하는 경우'
+      pd_user_left_label: '수신자 사용자가 내가 참여한 비공개 토론에서 나갑니다.'
+      pd_added_label: '누군가 나를 기존 비공개 토론에 추가합니다.'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: '배지 정보'
+    all_badges: '모든 배지 보기'
+    all_users: '모든 사용자 보기'
+    give_badge: '배지 제공'
+    update_badge: '배지 업데이트'
+    select_badge: '배지 선택'
+    user_has_badge: '사용자에게 이미 이 배지가 있습니다.'
+    user_no_badges: '이 사용자는 아직 배지가 없습니다.'
+    no_received: '이 배지를 획득한 사용자가 없습니다.'
+    save_changes: '변경 사항 저장'
+    badge:
+      badge: 배지
+      badges: 배지
+      name: '배지 이름'
+      description: '배지 설명'
+      earning_reason: '배지 획득 이유'
+      update_earning_reason: '적립 사유 업데이트'
+      no_earning_reason: '적립 사유가 설정되지 않음'
+      earned_on: '배지 획득 날짜'
+      category: '배지 범주'
+      badge_details: '배지 세부 정보'
+    badges_in_card:
+      title: '사용자 카드의 배지'
+      manage_badges: '배지 관리'
+      description: '사용자 카드에 표시되는 배지를 다른 배지 중 하나로 변경할 수 있습니다. 아무 것도 선택하지 않으면 자동으로 선택됩니다.'
+    moderation:
+      remove_badge: '사용자의 배지 제거'
+      remove_badge_confirm: '이 사용자로부터 이 배지를 제거하시겠습니까?'
+      give_badge: '배지 제공'
+    notification:
+      title: '새 배지를 받았습니다.'
+      settings: '배지를 받았습니다.'
+    uncategorized: '분류 되지 않은'
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: '비참한 상태'
+      not_miserable_label: '비참하지 않다'
+      indefinitely_label: '무한히 비참하다'
+      limited_time_label: '제한된 시간 동안 비참합니다 ...'
+      limited_time_days_text: ' 일'
+      submit_button: '변경 사항 저장(Save Changes)'
+    user_badge:
+      miserable_user_tooltip: '비참한 사용자'
+    user_controls:
+      miserable_user_button: '비참한 사용자'
+  ref:
+    miserable_user: '비참한 사용자'
+sycho-profile-cover:
+  forum:
+    cover: 표지
+    edit_cover: '표지 편집'
+    added:
+      success: '프로필 커버가 업데이트되었습니다.'
+      error: '이미지를 업로드할 수 없습니다.'
+    removed:
+      success: '프로파일 커버가 제거되었습니다.'
+      error: '덮개를 제거할 수 없습니다. 나중에 다시 시도하십시오.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: '클립보드에 복사'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: '마지막 방문자', guest: 손님 }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: '국가 코드'
+    saveButton: 구해내다
+    clickToSelectCountry: '국가를 선택하세요'
+    countrySaved: '나라를 성공적으로 구했습니다!'
+    field_placeholder: '국기 확인'
+    binding_country: '우리는 당신이 당신의 행방을 제한하지 않았다는 것을 발견했습니다. 먼저 국가를 연결하십시오. 국가를 연결한 후에만 메시지를 게시하고 남길 수 있습니다.'
+    binding_country_click: '지금을 클릭합니다'
+username-blacklist:
+  forum:
+    modal-title: 경고!
+    modal-body-first-line: '경고 - 이 사용자 이름은 <strong>관리자에 의해 차단되었습니다.</strong>'
+    modal-body-second-line: '커뮤니티 가이드라인을 위반하지 않는 다른 사용자 이름을 선택하고 다시 시도하세요.'
+  admin:
+    blackList: '블랙리스트에 오른 사용자 이름'
+    blackList-help: '등록하는 동안 차단하려는 사용자 이름을 여기에 작성하십시오(쉼표로 구분).'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: 개요, show-summaries: '토론 목록에 각 토론의 발췌문 표시(데스크톱/태블릿)', show-summaries-mobile: '토론 목록에 각 토론에서 발췌한 내용 표시(모바일)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: '포럼 활동'
+      forum_new_discussions: '포럼의 새로운 토론'
+      discussion_last_posts: '이 토론'
+      user_last_posts: '이 사용자의 게시물 및 댓글'
+    feeds:
+      titles: { main_subtitle: '포럼의 마지막 게시물', main_d_subtitle: '포럼의 최신 토론', discussion_subtitle: '이 토론의 마지막 메시지', user_subtitle: '이 사용자의 최신 게시물 및 댓글.' }
+    discussion:
+      feed_link: 피드
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: 따라
+    profile_page:
+      no_following: '아무도 팔로우하지 않는 것 같습니다.'
+    settings:
+      notify_new_follower_label: '누군가 나를 따라옵니다.'
+      notify_new_unfollower_label: '누군가 나를 팔로우하지 않습니다.'
+      notify_new_discussion_label: '내가 팔로우하는 사람이 토론을 시작합니다.'
+      notify_new_post_label: '내가 팔로우하고 있는 사용자가 기존 토론의 게시물입니다.'
+      block_follow: '사용자가 나를 팔로우하지 못하도록 차단'
+    badge:
+      label: { follow: '토론 따르기', lurk: '모두 팔로우' }
+    filter:
+      following: '팔로우한 사용자'
+    modals:
+      select_follow_level: { follow_levels_heading: '레벨 따르기', follow_select_label: '팔로우 유형', no_user_attr_provided_err: '어, 이 모달을 여는 동안 문제가 발생했습니다.', no_user_attr_provided_err_debug: '생성될 때 SelectFollowUserLevel 모달에 ''user'' 속성이 전달되지 않았습니다. 모달을 렌더링할 수 없습니다.', save_btn: 구해내다, cancel_btn: 취소 }
+    profile_link: '팔로우한 사용자'
+    user_controls:
+      follow_button: 뒤따르다
+      unfollow_button: 언팔로우
+      change_button: '팔로우 유형 변경'
+    index:
+      follow_tag_button: 뒤따르다
+      unfollow_tag_button: '팔로우 유형 변경'
+  email:
+    new_follower_subject: '[사용자 팔로우] 새로운 추종자가 생겼습니다!'
+  lib:
+    following_link: '팔로우한 사용자'
+    follow: 뒤따르다
+    change_follow_type: '팔로우 유형 변경'
+    unfollow: 언팔로우
+    follow_levels:
+      unfollow: { name: '팔로우하지 마세요' }
+      follow: { name: '토론 따르기' }
+      lurk: { name: '모두 따르기' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: '이 요청된 닉네임 변경이 포럼 가이드라인을 준수하는지 확인하세요.', decision_title: 결정, approval_label: 승인, rejected_label: 거절하다, submit_button: 전송, reason_title: '거부 사유', success: '결정이 전송되었습니다.', title: '닉네임 변경 요청' }
+      results: { title: '닉네임 변경 요청', approved: '닉네임 변경 요청이 승인되었습니다.', rejected: '닉네임 변경 요청이 거부되었습니다.', resubmit: '이때 원하는 경우 계정 설정에서 새 닉네임 변경 요청을 다시 제출할 수 있습니다.', dismiss_button: 그래 }
+      request: { title: '닉네임 변경 요청', submit_button: '요청 제출', delete_button: '삭제 요청', confirmation_message: '닉네임 변경 요청이 제출되었으며 승인 대기 중입니다.', deleted: '닉네임 요청이 삭제되었습니다.', dismiss_button: 그래 }
+    username_modals:
+      action: { help_text: '이 요청된 사용자 이름 변경이 포럼 가이드라인을 따르는지 확인하세요.', decision_title: 결정, approval_label: 승인, rejected_label: 거절하다, submit_button: 전송, reason_title: '거부 사유', success: '결정이 전송되었습니다.', title: '사용자 이름 변경 요청' }
+      results: { title: '사용자 이름 변경 요청', approved: '사용자 이름 변경 요청이 승인되었습니다.', rejected: '사용자 이름 변경 요청이 거부되었습니다.', resubmit: '이때 원하는 경우 계정 설정에서 새 사용자 이름 변경 요청을 다시 제출할 수 있습니다.', dismiss_button: 그래 }
+      request: { title: '사용자 이름 변경 요청', submit_button: '요청 제출', delete_button: '삭제 요청', confirmation_message: '사용자 이름 변경 요청이 제출되었으며 승인 대기 중입니다.', deleted: '사용자 이름 요청이 삭제되었습니다.', dismiss_button: 그래 }
+    pending_requests:
+      empty_text: '이름 변경 요청을 찾을 수 없습니다.'
+      tooltip: '이름 변경 요청'
+      title: '이름 변경 요청'
+    settings:
+      nickname_request_button: '닉네임 변경'
+      username_request_button: '사용자 이름 변경'
+    user:
+      name_history_link: '이름 기록'
+  ref:
+    name_change_request: '이름 변경 요청'
+    name_change_requests: '이름 변경 요청'
+    nickname_change_request: '닉네임 변경 요청'
+    nickname_change_requests: '닉네임 변경 요청'
+    username_change_request: '사용자 이름 변경 요청'
+    username_change_requests: '사용자 이름 변경 요청'
+  email:
+    body:
+      noReasonProvided: '이유가 제공되지 않았습니다.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: '자신에 대해 글을 써보세요'
+    profile:
+      cancel_confirm: '자기소개 편집을 취소하시겠습니까? 변경 사항이 모두 손실됩니다.'
+      cancel_button: 취소
+      save_button: 구해내다
+      edit_bio_label: '자기소개 편집'
+fof-split:
+  forum:
+    split:
+      from: '여기에서 분할'
+      to: '여기로 분할'
+      cancel: '분할 취소'
+    modal:
+      title: '토론 분할'
+      new_discussion_label: '새 토론의 제목을 지정합니다'
+      submit_button: 쪼개다
+fof-socialprofile:
+  forum:
+    edit:
+      edit: '소셜 미디어 버튼 편집'
+      add: '소셜 미디어에 버튼 추가'
+      headtitle: '편집 버튼'
+      title: 타이틀
+      url: 'URL (영문)'
+      submit: 구해내다
+      delete: 삭제하다
+      deletetitle: '삭제 버튼'
+      save_disabled_fetching_favicons: '하나 이상의 아이콘을 가져오는 중입니다. 기다리세요.'
+      favicon: 파비콘
+      grey_favicon: '그레이 파비콘'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: 공유
+      share_dropdown_accessible_label: '토론 공유 드롭다운 메뉴 전환'
+    modal:
+      title: 공유
+      copy_button: 복사
+  lib:
+    networks:
+      facebook: 페이스북
+      twitter: 지저귀다
+      linkedin: 링크드인
+      reddit: 레딧
+      whatsapp: 왓츠앱
+      telegram: 전보
+      vkontakte: 브이콘탁테
+      odnoklassniki: 오드노클라스니키
+      my_mail: '마이 월드'
+      qq: 큐큐(QQ)
+      qzone: 큐즈원
+      native: '네이티브 공유'
+fof-recaptcha:
+  forum:
+    error: 'reCAPTCHA를 제출하는 동안 오류가 발생했습니다. 다시 한 번 시도해 보세요.'
+    unknown_error: '알 수 없는 오류가 발생했습니다. 캡챠를 확인하고 다시 시도하세요.'
+fof-reactions:
+  forum:
+    disabled-reaction: '지금은 이 반응을 사용할 수 없으므로 페이지를 새로 고치세요.'
+    warning: '당신의 반응은 변화되었습니다'
+    settings:
+      notify_post_reacted_label: '누군가 내 게시물 중 하나에 반응합니다.'
+    reacting-own-post: '자신의 게시물에 공감할 수 없습니다.'
+    modal:
+      title: 반응
+      no_reactions: '아직 반응이 없습니다.'
+    mod_item: '반응 보기'
+    react_button_label: 반응
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: '이미지 자르기 도구를 로드하지 못했습니다.', generic_resize: '이미지를 자르고 크기를 조정하는 동안 문제가 발생했습니다.', get_image_data: '자르지 못했습니다. 브라우저의 지문 보호가 비활성화되어 있는지 확인하십시오.' }
+      help_text: "브라우저의 개인 정보 설정이 매우 엄격한 경우 이미지 업로드가 실패할 수 있습니다. 문제가 있는 경우 디지털 지문 보호를 사용 중지해 보세요. 그렇지 않으면 <disableResize>자른 이미지의 압축을 비활성화</disableResize>하거나 <disableCrop>자르기를 완전히 비활성화할 수 있습니다</disableCrop>.\n"
+      submit_button: 업로드
+      submit_crop_button: '자르기 & 업로드'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: '더 이상의 논의가 필요하지 않을 가능성이 매우 높으므로 부딪히는 것은 아무 소용이 없습니다.', checkbox_label: '나는이 토론이 다소 오래되었다는 것을 알고 있지만 여전히 대답하고 싶다.', error: '이 토론은 너무 오래되어 답변할 수 없습니다.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: '투표 권한이 없습니다.'
+    poll_ended: '이 투표는 종료되었습니다.'
+    public_poll: '유권자 보기'
+    composer_discussion:
+      add_poll: '설문 추가'
+      edit_poll: '투표 편집'
+    modal:
+      add_title: '설문조사 추가'
+      add_option_label: '옵션을 추가합니다'
+      edit_title: '투표 편집'
+      include_question: '질문을 포함해야 합니다.'
+      max: '최대 10개의 답변을 가질 수 있습니다'
+      min: '최소 2개의 답변을 포함해야 합니다.'
+      no_voters: '투표 없음'
+      option_placeholder: 대답
+      image_option_placeholder: '이미지 URL(선택 사항)'
+      options_label: 답변
+      public_poll_label: '투표한 사람을 볼 수 있도록 허용'
+      allow_multiple_votes_label: '사람들이 여러 옵션에 투표할 수 있도록 허용'
+      max_votes_label: '사용자당 최대 투표 수'
+      max_votes_help: '사용자가 모든 옵션에 투표할 수 있도록 하려면 0으로 설정합니다.'
+      question_placeholder: 질문
+      submit: 전송
+    moderation:
+      delete: '투표 제거'
+      delete_confirm: '이 설문조사를 삭제하시겠습니까?'
+      edit: '투표 편집'
+    tooltip:
+      badge: 투표
+    votes_modal:
+      title: 유권자
+fof-nightmode:
+  ref:
+    auto: '자동(브라우저 또는 장치 옵션에 따라)'
+    light: '데이 모드'
+    dark: '야간 모드'
+  forum:
+    header:
+      nightmode_button: '야간 모드'
+    user:
+      settings: { heading: 주제, description: '포럼에서 사용할 색상 테마를 선택합니다.', description2: '이 테마는 계정에 연결되며 장치별 설정에 대해 아래 스위치를 켜지 않는 한 모든 장치에 적용됩니다.', device_specific_setting_checkbox: '기기별 설정 사용', device_specific_setting_checkbox_tooltip: '선택한 테마는 각 장치에 대해 개별적으로 저장됩니다.', auto_unsupported: '브라우저가 자동 다크 모드를 지원하지 않습니다.', option_descriptions: { auto: '테마는 브라우저 또는 장치 설정에 따라 자동으로 선택됩니다. 예를 들어 iOS에서 다크 모드를 활성화한 경우 포럼도 어두워집니다.', day: '당신에게 익숙한 고전적인 경험. 사랑받고 시험받았습니다.', night: '넌 좀 올빼미족이잖아. 밤에는 새들이 자고 여우가 사냥하는 동안 포럼을 감시합니다. 또는 더 어두운 색상을 선호합니다!' }, options: { auto: '자동(브라우저 또는 장치 옵션에 따라)', day: '데이 모드', night: '야간 모드' } }
+    day: '데이 모드'
+    night: '야간 모드'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: '빈 메모는 허용되지 않습니다.'
+    moderatorNotes:
+      add_button: '새 메모'
+      create-heading: '새 진행자 노트 만들기'
+      dismiss_button: 수행
+      noNotes: '여기에 메모가 없는 것 같습니다.'
+      submit_button: '메모 저장'
+      delete: 삭제하다
+      confirm: '이 메모를 삭제하시겠습니까?'
+    user:
+      notes: '진행자 노트'
+  api:
+    no_reason_provided: '이유가 제공되지 않음'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: 투표
+    vote_title: '투표한 사람 표시'
+    nav:
+      name: 순위
+    ranking:
+      rank: 장소
+      name: 사용자
+      amount: 포인트
+    notification:
+      prefrences: { vote: '내 게시물 중 하나가 찬성/반대 투표를 받은 경우' }
+    user:
+      votes_link: 투표
+    modal:
+      downvotes_label: 'Downvoter:'
+      title: 유권자
+      upvotes_label: '찬성 투표자:'
+    mod_item: '유권자 보기'
+    voters:
+      none: '아직 투표자가 없습니다.'
+      label: 유권자
+      label_none: '투표자 없음'
+    post:
+      upvote_button: '찬성 투표 게시물'
+      downvote_button: '반대 투표 게시물'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: '예약된 초안은 현재 설정에서 비활성화되어 있습니다.'
+  ref:
+    schedule_draft: '스케줄 초안'
+  forum:
+    composer:
+      title: '초안 저장'
+      saving: 절약...
+      saved: 저장!
+      exit_alert: '초안에 대한 변경 사항을 취소하시겠습니까?'
+      discard_empty_draft_alert: '빈 초안을 버리시겠습니까?'
+    dropdown:
+      empty_text: '초안을 저장하지 않았습니다.'
+      title: 초안
+      delete_all_button: '모든 초안 삭제'
+      delete_button: '초안 삭제'
+      scheduled_icon_tooltip_formatter: 'L [에서] LT'
+      alert: '초안을 삭제하시겠습니까?'
+      delete_all_alert: '초안을 모두 삭제하시겠습니까?'
+      schedule_button: '스케줄 초안'
+      tooltip: 초안
+    schedule_draft_modal:
+      text: '나중에 자동으로 게시되도록 초안을 예약하세요!'
+      unschedule_button: '일정 취소'
+      unschedule_warning: '이 초안의 예약을 취소하시겠습니까?'
+      reschedule_button: 일정
+      schedule_button: 일정
+      schedule_time_preview_formatter: '법학 박사'
+      schedule_time_preview_invalid: '유효하지 않은 날짜 및/또는 시간'
+      title: '스케줄 초안'
+    user:
+      settings: { drafts_heading: 초안, draft_autosave_enable: '초안 자동 저장을 사용하시겠습니까?', draft_autosave_interval_label: '자동 저장 간격(초)', draft_autosave_interval_button: '업데이트 간격', draft_autosave_interval_invalid: '간격은 4보다 큰 정수여야 합니다.' }
+fof-best-answer:
+  forum:
+    answered_badge: 대답
+    this_best_answer: '우수 답변 선택'
+    remove_best_answer: '우수 답안 선택 취소'
+    best_answer_button: 모범답안
+    errors:
+      mismatch: '선택한 게시물이 이 토론에 없습니다.'
+    notification:
+      content: '질문에 대한 답변이 있는 경우 우수 답변을 선택하십시오.'
+      preferences: { awarded_best_answer: '누군가 내 게시물을 우수 답변으로 설정했습니다.', best_answer_in_discussion: '가장 좋은 답변은 내가 참여한 토론에 설정되어 있습니다.', select_best_answer: '내가 시작한 토론에서 가장 좋은 답변을 선택하라는 자동 알림' }
+    index:
+      ask_question: 질문하기
+      cannot_ask_question: '질문할 수 없음'
+      solved_link: '해결된 토론'
+      unsolved_link: '해결되지 않은 토론'
+    filter:
+      all_label: '모든 질문'
+      solved_label: '해결된 질문'
+      unsolved_label: '풀리지 않은 질문'
+      accessible_label: '해결된/해결되지 않은 선택'
+    composer:
+      titlePlaceholder: '질문 제목'
+    search:
+      discussions_solutions_heading: '솔루션에 대한 토론'
+    discussion:
+      jump_to_best_answer_button: '가장 좋은 대답'
+  email:
+    subject:
+      select: '질문에 대한 답변을 받으시겠습니까?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: '가장 좋은 답변'
+      least_best_answers: '가장 우수하지 않은 답변'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: '다른 사람은 차단되지 않습니다.'
+    user_badge:
+      banned_tooltip: 금지
+    ban_ip_button: 'IP 차단'
+    unban_ip_button: 'IP 차단 해제'
+    user_controls:
+      ban_button: 금지하다
+      unban_button: '금지 해제'
+  error:
+    banned_ip_message: '권한 부여에 실패했습니다.'
+    no_ips_found_message: '사용자에 대한 IP를 찾을 수 없습니다.'
+  lib:
+    modal:
+      check_button: 검사
+      save_button: 구해내다
+      ban_ip_confirmation: '포럼에서 이 IP 주소가 사용되지 않도록 차단하시겠습니까? 이렇게 하면 이 IP 주소를 가진 사용자가 로그인 및 등록할 수 없습니다.'
+      unban_ip_confirmation: '이 사용자와 다른 IP에 의해 차단되지 않은 다른 모든 사용자의 차단을 해제하시겠습니까?'
+      unban_ip_no_users: '다른 사람은 차단 해제되지 않습니다'
+      title: 'IP 차단'
+      unban_title: 'IP 차단 해제'
+      address_label: 'IP 주소'
+      reason_label: 이유
+      ban_button: 금지하다
+      unban_button: '금지 해제'
+  ref:
+    ban_label: 금지하다
+    ban_ip_addresses: 'IP 차단'
+    ban_ip_button: 'IP 차단'
+    unban_label: '금지 해제'
+    unban_ip_addresses: 'IP 차단 해제'
+    unban_ip_button: 'IP 차단 해제'
+    address_label: 'IP 주소'
+    reason_label: 이유
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: '귀하의 등록 세부 정보가 스팸 방지 데이터베이스에서 발견되었으므로 귀하의 등록이 차단되었습니다.' }
+    spammer_modal:
+      hard_delete_discussions_label: '토론 삭제'
+      hard_delete_discussions_help: '이렇게 하면 이 사용자가 시작한 모든 토론이 영구적으로 삭제됩니다. 비활성화하면 토론이 대신 숨겨집니다.'
+      hard_delete_posts_label: '게시물 삭제'
+      hard_delete_posts_help: '이렇게 하면 이 사용자가 작성한 모든 게시물(댓글, 답글 등)이 영구적으로 삭제됩니다. 비활성화하면 게시물이 대신 숨겨집니다.'
+      hard_delete_user_label: '사용자 삭제'
+      hard_delete_user_help: '이렇게 하면 사용자가 영구적으로 삭제됩니다. 비활성화되면 사용자가 대신 일시 중단됩니다.'
+      intro: '사용자를 스팸 발송자로 표시하면 포럼에서 사용할 수 있는 확장 프로그램에 따라 몇 가지 조치가 취해집니다.'
+      move_discussions_tag_label: '토론을 격리된 태그로 이동'
+      move_discussions_tag_help: '이렇게 하면 이 사용자가 시작한 모든 토론이 포럼 설정에서 지정한 태그로 이동됩니다. 비활성화하면 토론이 현재 태그에 남아 있습니다.'
+      process_button: 프로세스
+      report_to_sfs_label: 'StopForumSpam에 신고'
+      report_to_sfs_help: '그러면 사용자의 기본 세부 정보(사용자 이름, 이메일, IP 주소)가 StopForumSpam에 보고됩니다. 이렇게 하면 사용자가 StopForumSpam 서비스를 사용하는 다른 포럼에 등록하는 것을 방지할 수 있습니다.'
+    user_controls:
+      spammer_button: '스팸 발송자'
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: '토론 조회수 재설정'
+      submit: 전송
+      label: '조회수 설정'
+    discussion_controls:
+      resetviews_button: '조회수 설정'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: '끈적임 없음'
+      sticky_button: 끈적끈적한
+    badge:
+      sticky_tooltip: 끈적끈적한
+  ref:
+    sticky: 끈적끈적한
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: 잠긴
+    discussion_controls:
+      lock_button: 자물쇠
+      unlock_button: '잠금 해제'
+    settings:
+      notify_discussion_locked_label: '누군가 내가 시작한 토론을 잠궜습니다.'
+flarum-likes:
+  forum:
+    post:
+      like_link: 같이
+      unlike_link: 달리
+      you_text: 너
+    post_likes:
+      title: '이것을 좋아하는 사용자'
+      load_more_button: 더를로드
+    settings:
+      notify_post_liked_label: '누군가 내 게시물 중 하나에 좋아요를 눌렀습니다.'
+    user:
+      likes_link: 좋아하는
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: '이모티콘 삽입'
+      type_to_search_text: '이모티콘을 검색하려면 입력합니다.'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: '콘텐츠가 너무 큽니다. 게시에 대한 가이드라인을 읽어보세요.' }
+dhtml-persona:
+  forum:
+    persona: 사람
+dhtml-leaderboard:
+  forum:
+    leaderboard: 리더보드
+dhtml-gender:
+  forum:
+    male: 남성
+    female: 여성
+    other: '말하고 싶지 않다'
+    inputGender: 성별
+    saveButton: 구해내다
+    clickToSelectGender: '성별을 선택하세요'
+    genderSaved: '성별이 성공적으로 저장되었습니다!'
+    field_placeholder: '성별 확인'
+    binding_gender: '귀하가 성별을 설정하지 않았다는 사실을 발견했습니다. 먼저 성별을 설정해 주세요. 성별을 설정한 후에만 메시지를 게시하고 남길 수 있습니다.'
+    binding_gender_click: '지금을 클릭합니다'
+flarum-content-pages:
+  forum:
+    home: 집
+    about-us: '우리에 관해서'
+    guidelines: 지침
+    privacy-policy: 개인정보처리방침
+    terms-of-use: '이용 약관'
+    contact-us: 문의
+    download-app: '앱 다운로드'
+    discord-chat: '디스코드 채팅'
+    tags-cloud: '태그 : 구름'
+    languages: 언어들
+    leaderboard: 리더보드
+    live: 지원하다
+    live-coding: '라이브 코딩'
+    challenges: 공지사항
+    dev-challenges: 'Dev 도전'
+    jobs: 한국어
+    community: '- 연혁'
+    dev-jobs: 'Dev 작업'
+    job-posting: 채용공고
+    job-postings: 채용공고
+    workshops: '회사 소개'
+    dev-workshops: 'Dev 워크숍'
+    events: (주)
+    conferences: 컨퍼런스
+    event-conferences: '행사 / 회의'
+    showcase: '기타 제품'
+    tags: 태그
+    more: '더 보기'
+    memberships: '이름 *'
+    members: 회원
+    general-discussion: '일반 토론'
+    technology-articles: '기술 기사'
+    coding-challenges: '코딩 도전'
+    q-a: 'Q/A 단면도'
+    artificial-intelligence: 인공지능
+    computer-science: '컴퓨터 과학'
+    programming-languages: '언어 선택'
+    development-tools: '개발 도구'
+    software-development: '소프트웨어 개발'
+    frontend-development: 'Frontend 개발'
+    backend-development: '백엔드 개발'
+    software-engineering: '소프트웨어 공학'
+    cybersecurity: '사이버 보안'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: '캐릭터 카운터'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: '생년월일 편집'
+      date_of_birth_text: 생년월일
+      submit_button: '변경 사항 저장(Save Changes)'
+    settings:
+      change_dob_label: '생년월일 변경'
+      show_dob_date_label: '생년월일 및 월 표시'
+      show_dob_year_label: '생년월일 표시'
+      show_dob_year_help: '이렇게 하면 사람들이 귀하의 나이를 볼 수 있습니다.'
+      dob_heading: 생년월일
+    nav:
+      nav_item: '오늘의 생일'
+    edit_user:
+      dob_heading: 생년월일
+    sign_up:
+      dob_placeholder: 생년월일
+  api:
+    invalid_dob_message: '유효하지 않은 생년월일'
+  ref:
+    date_of_birth: 생년월일
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: '이모티콘 선택기'
+    search_placeholder: 검색...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: '작성자 및 날짜 편집'
+    modal:
+      title-post: '게시물 작성자 및 날짜 편집'
+      title-discussion: '토론 작성자 및 날짜 편집'
+      user: 저자
+      created_at: '생성 시간'
+      edited_at: '시간 편집'
+      sync-with-discussion: '토론과 동기화'
+      sync-with-post: '첫 번째 게시물과 동기화'
+      sync-impossible: '첫 번째 게시물을 찾을 수 없습니다. 토론의 시작 부분으로 스크롤해 보십시오.'
+      submit: 구해내다
+      cancel: 취소
+    search:
+      placeholder: '사용자 검색'
+      type-more: '3자를 입력하여 데이터베이스 검색'
+      no-results: '결과 없음'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: '리치 텍스트 모드 전환(Toggle Rich Text Mode)'
+      insert_button: 삽입하다
+      insert_image: { src_placeholder: 링크, title_placeholder: 타이틀 }
+      insert_link: { text_placeholder: '문자 메시지', href_placeholder: 'URL (영문)', title_placeholder: '제목(마우스로 가리키면 표시)', remove_button: 제거하다 }
+      additional_items_tooltip: '추가 컨트롤'
+      code_block_tooltip: '코드 블록 삽입'
+      horizontal_rule_tooltip: '수평선 삽입'
+      image_tooltip: '이미지 추가'
+      link_tooltip: '링크 추가'
+      spoiler_block_tooltip: '블록 스포일러/드롭다운'
+      strike_tooltip: '취소선 <alt-shift-5>'
+      text_type_tooltip: '텍스트 유형 선택'
+  forum:
+    settings:
+      composer_heading: 작곡가
+      use_rich_text_editor_label: '서식 있는 텍스트 편집기를 사용하시겠습니까?'
+      rich_text_compact_paragraphs_label: '줄 바꿈으로 단락을 구분하지 마십시오.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: '푸시 알림을 사용하도록 설정했지만 이 장치를 구성하지 않았습니다.'
+      optin_button: 구성
+    discussion_controls:
+      share_button: 공유
+    post_controls:
+      share_button: 공유
+    user_controls:
+      share_button: 공유
+    settings:
+      push_header: 밀다
+      pwa_notifications: { access_default: '브라우저 제한으로 인해 이 장치에서 푸시 알림을 수신하도록 선택해야 합니다.', access_default_button: 옵트인, access_denied: '이 장치에서 푸시 알림을 받으려면 브라우저 설정을 조정해야 합니다.', access_denied_button: '방법 알아보기', no_browser_support: '이 브라우저는 프로그레시브 웹 앱에 대한 푸시 알림을 지원하지 않습니다.', no_browser_support_button: '더 알아보세요' }
+  views:
+    offline:
+      header: '네트워크 연결 오류'
+      text: '이 앱은 네트워크 연결이 필요합니다. 오프라인에서는 사용할 수 없습니다. 연결 상태를 확인해 주세요.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: '사용자에게 경고'
+    user:
+      warnings: '중재자 경고'
+    settings:
+      warning_notification_label: '진행자가 경고합니다.'
+    validation:
+      public_comment_required: '대부분의 경우 공개 댓글을 제공합니다.'
+      invalid_strike_count: '스트라이크 횟수는 0에서 5 사이의 정수여야 합니다.'
+    warning_controls:
+      delete_button: 제거하다
+      restore_button: 복원
+      delete_forever_button: '영구 삭제'
+    warning_list:
+      add_button: '새 경고'
+      no_warnings: '여기에 경고가 없는 것 같습니다.'
+      warnings_no_strikes: '중재자 경고: 받은 경고 없음'
+    warning_list_item:
+      public_comment: 경고
+      private_comment: '중재자가 볼 수 있는 댓글'
+      linked_post: '링크된 게시물'
+    warning_modal:
+      confirmation_message: '귀하의 경고가 저장되었습니다. 페이지를 보려면 페이지를 새로 고쳐야 할 수 있습니다.'
+      strikes_heading: '얼마나 많은 스트라이크를 적용해야 합니까?'
+      submit_button: '저장 경고'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: '회신 템플릿 편집'
+    reply_template:
+      title: '회신 템플릿 편집'
+      submit_button: '회신 템플릿 저장'

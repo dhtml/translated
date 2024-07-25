@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Het wachtwoord dat u hebt ingevoerd, is onjuist.'
+      confirm_password_placeholder: 'Wachtwoord bevestigen'
+      dismiss_button: OK
+      submit_button: 'Wijzigingen opslaan'
+      title: 'E-mailadres wijzigen'
+    change_password:
+      send_button: 'Stuur een e-mail voor het opnieuw instellen van het wachtwoord'
+      text: 'Klik op de onderstaande knop en controleer uw e-mail voor een link om uw wachtwoord te wijzigen.'
+      title: 'Wachtwoord wijzigen'
+    composer:
+      close_tooltip: Sluiten
+      exit_full_screen_tooltip: 'Volledig scherm afsluiten'
+      full_screen_tooltip: 'Volledig scherm'
+      minimize_tooltip: Minimaliseren
+      preview_tooltip: Voorbeeld
+    composer_discussion:
+      body_placeholder: 'Schrijf een bericht...'
+      discard_confirmation: 'Je hebt je discussie niet gepost. Wilt u het weggooien?'
+      submit_button: 'Discussie plaatsen'
+      title_placeholder: 'Titel van de discussie'
+      title: 'Start een discussie'
+    composer_edit:
+      discard_confirmation: 'U hebt uw wijzigingen niet opgeslagen. Wilt u ze weggooien?'
+      edited_message: 'De bewerking is uitgevoerd.'
+      submit_button: 'Wijzigingen opslaan'
+      view_button: Bekijken
+    composer_reply:
+      discard_confirmation: 'U heeft uw antwoord niet gepost. Wilt u het weggooien?'
+      posted_message: 'Je antwoord is gepost.'
+      submit_button: 'Antwoord plaatsen'
+      body_placeholder: 'Schrijf een antwoord...'
+      view_button: Bekijken
+    discussion_controls:
+      cannot_reply_button: 'Kan niet antwoorden'
+      cannot_reply_text: 'Je hebt geen toestemming om te reageren op deze discussie.'
+      delete_confirmation: 'Weet je zeker dat je deze discussie wilt verwijderen?'
+      log_in_to_reply_button: 'Log in om Reply'
+      toggle_dropdown_accessible_label: 'Vervolgkeuzemenu voor discussieacties in-/uitschakelen'
+      delete_button: Verwijderen
+      delete_forever_button: 'Voor altijd verwijderen'
+      rename_button: Herdopen
+      reply_button: Antwoord
+      restore_button: Herstellen
+    discussion_list:
+      empty_text: 'Het lijkt erop dat er hier geen discussies zijn.'
+      load_more_button: 'Laad meer'
+    forgot_password:
+      email_sent_message: 'Als de door u ingevoerde e-mail is geregistreerd bij deze site, sturen wij u een e-mail met een link om uw wachtwoord te resetten. Controleer uw spammap als u deze niet binnen een paar minuten ontvangt.'
+      not_found_message: 'Er is geen gebruiker geregistreerd met dat e-mailadres.'
+      submit_button: 'Wachtwoord herstellen'
+      text: 'Voer uw e-mailadres in en wij sturen u een link om uw wachtwoord te resetten.'
+      title: 'Wachtwoord vergeten'
+      dismiss_button: OK
+      email_placeholder: E-mail
+    header:
+      admin_button: Administratie
+      back_to_index_tooltip: 'Terug naar de discussielijst'
+      locale_dropdown_accessible_label: 'De landinstelling van het forum wijzigen'
+      profile_button: Profiel
+      search_clear_button_accessible_label: 'Zoekopdracht wissen'
+      search_placeholder: 'Zoeken in het forum'
+      search_role_label: 'Zoeken in het forum'
+      session_dropdown_accessible_label: 'Vervolgkeuzemenu Sessie-opties in-/uitschakelen'
+      log_in_link: Aanmelden
+      log_out_button: Uitloggen
+      settings_button: Instellingen
+      sign_up_link: Inschrijven
+    index:
+      cannot_start_discussion_button: 'Kan geen discussie starten'
+      mark_all_as_read_confirmation: 'Weet je zeker dat je alle discussies als gelezen wilt markeren?'
+      refresh_tooltip: Opfrissen
+      toggle_sidenav_dropdown_accessible_label: 'Vervolgkeuzemenu voor navigatie in-/uitschakelen'
+      all_discussions_link: 'Alle discussies'
+      mark_all_as_read_tooltip: 'Alles markeren als gelezen'
+      meta_title_text: 'Alle discussies'
+      start_discussion_button: 'Start een discussie'
+    index_sort:
+      latest_button: Laatst
+      newest_button: Nieuwste
+      oldest_button: Oudst
+      relevance_button: Relevantie
+      toggle_dropdown_accessible_label: 'Sorteren van discussielijsten wijzigen'
+      top_button: Boven
+      hot_button: Trending
+      votes_button: Stemmen
+      front_button: Voorpagina
+      popular_button: Populair
+      unpopular_button: Impopulair
+    log_in:
+      forgot_password_link: 'Wachtwoord vergeten?'
+      invalid_login_message: 'Uw inloggegevens waren onjuist.'
+      remember_me_label: 'Onthoud mij'
+      sign_up_text: 'Heb je nog geen account? <a>Inschrijven</a>'
+      username_or_email_placeholder: 'Gebruikersnaam of e-mailadres'
+      password_placeholder: Wachtwoord
+      submit_button: Aanmelden
+      title: Aanmelden
+    notifications:
+      delete_all_confirm: 'Weet je zeker dat je alle meldingen wilt verwijderen? Deze actie is niet ongedaan te maken'
+      delete_all_tooltip: 'Alle meldingen verwijderen'
+      empty_text: 'Geen meldingen'
+      mark_as_read_tooltip: 'Markeren als gelezen'
+      toggle_dropdown_accessible_label: 'Meldingen bekijken'
+      mark_all_as_read_tooltip: 'Alles markeren als gelezen'
+      title: Meldingen
+      tooltip: Meldingen
+    post:
+      edited_text: Bewerkt
+    post_controls:
+      delete_confirmation: 'Weet je zeker dat je dit bericht voor altijd wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.'
+      hide_confirmation: 'Weet je zeker dat je dit bericht wilt verwijderen?'
+      toggle_dropdown_accessible_label: 'Dropdown-menu voor berichtbediening in-/uitschakelen'
+      push_to_front_button: 'Ga naar FrontPage'
+      pull_from_front_button: 'Ophalen van FrontPage'
+      delete_button: Verwijderen
+      delete_forever_button: 'Voor altijd verwijderen'
+      edit_button: Bewerken
+      restore_button: Herstellen
+    post_scrubber:
+      now_link: Nu
+      original_post_link: 'Origineel bericht'
+    post_stream:
+      load_more_button: 'Laad meer'
+      reply_placeholder: 'Schrijf een antwoord...'
+    rename_discussion:
+      title: 'Discussie hernoemen'
+      submit_button: Herdopen
+    search:
+      discussions_heading: Discussies
+      users_heading: Gebruikers
+    security:
+      cannot_terminate_current_session: 'Kan de huidige actieve sessie niet beëindigen. Log in plaats daarvan uit.'
+      created: Geschapen
+      current_active_session: 'Huidige actieve sessie'
+      developer_tokens_heading: 'Ontwikkelaars tokens'
+      empty_text: 'Het lijkt alsof hier niets te zien is.'
+      global_logout: { heading: 'Wereldwijd uitloggen', help_text: 'Hiermee wordt de huidige cookiesessie gewist, worden alle sessies beëindigd, worden ontwikkelaarstokens ingetrokken en worden e-mails met e-mailbevestigingen of e-mails voor het opnieuw instellen van het wachtwoord ongeldig.', log_out_button: Uitloggen }
+      hide_access_token: 'Token verbergen'
+      last_activity: 'Laatste activiteit'
+      new_access_token_modal: { submit_button: 'Token maken', title_placeholder: Titel, title: 'Nieuw token' }
+      revoke_access_token: Intrekken
+      sessions_heading: 'Actieve sessies'
+      session_termination_failed: 'Er is een fout opgetreden bij het beëindigen van uw sessies.'
+      show_access_token: 'Token bekijken'
+      terminate_all_other_sessions: 'Beëindig alle andere sessies'
+      terminate_session: Beëindigen
+      token_revoked: 'Token ingetrokken.'
+      token_title_placeholder: /
+      never: Nooit
+      new_access_token_button: 'Nieuw token'
+      revoke_access_token_confirmation: 'Weet je zeker dat je door wilt gaan? Deze actie kan niet ongedaan worden gemaakt.'
+      terminate_all_other_sessions_confirmation: 'Weet je zeker dat je door wilt gaan? Deze actie kan niet ongedaan worden gemaakt.'
+      title: Veiligheid
+    settings:
+      account_heading: Rekening
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Iemand hernoemt de naam van een discussie die ik ben gestart'
+      privacy_disclose_online_label: 'Anderen toestaan te zien wanneer ik online ben'
+      privacy_heading: Privacy
+      change_email_button: 'E-mailadres wijzigen'
+      change_password_button: 'Wachtwoord wijzigen'
+      notifications_heading: Meldingen
+      notify_by_email_heading: E-mail
+      title: Instellingen
+    sign_up:
+      log_in_text: 'Heb je al een account? <a>Aanmelden</a>'
+      dismiss_button: OK
+      email_placeholder: E-mail
+      password_placeholder: Wachtwoord
+      submit_button: Inschrijven
+      title: Inschrijven
+      username_placeholder: Gebruikersnaam
+    user:
+      avatar_upload_button: Uploaden
+      avatar_upload_tooltip: 'Upload een nieuwe avatar'
+      online_text: Online
+      posts_empty_text: 'Het lijkt erop dat er hier geen berichten zijn.'
+      avatar_remove_button: Verwijderen
+      discussions_link: Discussies
+      posts_link: Berichten
+      posts_load_more_button: 'Laad meer'
+      security_link: Veiligheid
+      settings_link: Instellingen
+    user_controls:
+      button: Besturingselementen
+      delete_confirmation: 'Weet u zeker dat u deze gebruiker wilt verwijderen? De berichten van de gebruiker worden NIET verwijderd.'
+      toggle_dropdown_accessible_label: 'Vervolgkeuzemenu voor gebruikersbediening in-/uitschakelen'
+      delete_button: Verwijderen
+      edit_button: Bewerken
+    user_email_confirmation:
+      resend_button: 'Bevestigingsmail opnieuw verzenden'
+      sent_message: Gezonden
+    welcome_hero:
+      hide: 'Welkomstbericht verbergen'
+    badge:
+      frontpage_tooltip: 'Gemarkeerd als FrontPage'
+  lib:
+    debug_button: Debuggen
+    alert:
+      dismiss_a11y_label: 'Waarschuwing negeren'
+    badge:
+      hidden_tooltip: Verborgen
+    dropdown:
+      toggle_dropdown_accessible_label: 'Vervolgkeuzemenu in-/uitschakelen'
+    edit_user:
+      activate_button: 'Gebruiker activeren'
+      groups_heading: Groepen
+      set_password_label: 'Nieuw wachtwoord instellen'
+      nothing_available: 'Het is niet toegestaan om deze gebruiker te bewerken.'
+      email_heading: E-mail
+      email_label: E-mail
+      password_heading: Wachtwoord
+      password_label: Wachtwoord
+      submit_button: 'Wijzigingen opslaan'
+      title: 'Gebruiker bewerken'
+      username_heading: Gebruikersnaam
+      username_label: Gebruikersnaam
+    error:
+      generic_message: 'Oeps! Er is iets misgegaan. Laad de pagina opnieuw en probeer het opnieuw.'
+      generic_cross_origin_message: 'Oeps! Er is iets misgegaan tijdens een cross-origin aanvraag. Laad de pagina opnieuw en probeer het opnieuw.'
+      not_found_message: 'De gevraagde bron is niet gevonden.'
+      payload_too_large_message: 'Het laadvermogen van de aanvraag was te groot.'
+      permission_denied_message: 'Daar heb je geen toestemming voor.'
+      rate_limit_exceeded_message: 'Je gaat een beetje te snel. Probeer het over een paar seconden opnieuw.'
+      render_failed_message: 'Sorry, er is een fout opgetreden bij het weergeven van deze inhoud. Als u een gebruiker bent, probeert u het later opnieuw. Als u een beheerder bent, kunt u in uw Flarum-logbestanden kijken voor meer informatie.'
+    modal:
+      close: Sluiten
+    nav:
+      drawer_button: 'Open Navigatie Lade'
+    loading_indicator:
+      accessible_label: Laden...
+  views:
+    confirm_email:
+      text: 'Klik op de onderstaande knop om het e-mailadres van uw account te bevestigen.'
+      submit_button: 'Bevestig e-mail'
+      title: 'Bevestig e-mail'
+    content:
+      javascript_disabled_message: 'Deze site kan het beste worden bekeken in een moderne browser met JavaScript ingeschakeld.'
+      load_error_message: 'Er is iets misgegaan bij het laden van de volledige versie van deze site. Probeer deze pagina hard te vernieuwen om de fout op te lossen.'
+      loading_text: Laden...
+    error:
+      csrf_token_mismatch: 'Je bent te lang inactief geweest.'
+      csrf_token_mismatch_return_link: 'Ga terug om het opnieuw te proberen'
+      invalid_confirmation_token: 'Deze bevestigingslink is al gebruikt of is ongeldig.'
+      not_authenticated: 'Je hebt geen toestemming om deze pagina te bezoeken. Probeer het opnieuw nadat je bent ingelogd.'
+      not_found: 'De pagina die u hebt opgevraagd kon niet worden gevonden.'
+      permission_denied: 'Je hebt geen toestemming om deze pagina te bezoeken.'
+      unknown: 'Er is een fout opgetreden bij het laden van deze pagina.'
+    log_out:
+      log_out_button: Uitloggen
+      title: Uitloggen
+    reset_password:
+      confirm_password_label: 'Bevestig nieuw wachtwoord'
+      new_password_label: 'Nieuw wachtwoord'
+      submit_button: 'Wijzigingen opslaan'
+      title: 'Je wachtwoord opnieuw instellen'
+    discussion:
+      next_page_button: 'Volgende pagina'
+      previous_page_button: 'Vorige pagina'
+    index:
+      all_discussions_heading: 'Alle discussies'
+      next_page_button: 'Volgende pagina'
+      previous_page_button: 'Vorige pagina'
+  api:
+    invalid_username_message: 'De gebruikersnaam mag alleen letters, cijfers en streepjes bevatten.'
+  email:
+    activate_account:
+      subject: 'Activeer je nieuwe account'
+    confirm_email:
+      subject: 'Bevestig je nieuwe e-mailadres'
+    reset_password:
+      subject: 'Je wachtwoord opnieuw instellen'
+    send_test:
+      subject: 'Flarum e-mailtest'
+  ref:
+    all_discussions: 'Alle discussies'
+    change_email: 'E-mailadres wijzigen'
+    change_password: 'Wachtwoord wijzigen'
+    color: Kleur
+    confirm_password: 'Wachtwoord bevestigen'
+    confirm_email: 'Bevestig e-mail'
+    custom_footer_text: 'Voeg HTML toe die helemaal onderaan de pagina moet worden weergegeven.'
+    custom_footer_title: 'Aangepaste voettekst bewerken'
+    custom_header_text: 'Voeg HTML toe die helemaal bovenaan de pagina moet worden weergegeven, boven Flarum''s eigen koptekst.'
+    custom_header_title: 'Aangepaste koptekst bewerken'
+    delete: Verwijderen
+    delete_forever: 'Voor altijd verwijderen'
+    discussions: Discussies
+    edit: Bewerken
+    edit_user: 'Gebruiker bewerken'
+    email: E-mail
+    extensions: Extensies
+    generic_confirmation_message: 'Weet je zeker dat je door wilt gaan? Deze actie kan niet ongedaan worden gemaakt.'
+    icon: Pictogram
+    load_more: 'Laad meer'
+    loading: Laden...
+    log_in: Aanmelden
+    log_out: Uitloggen
+    mark_all_as_read: 'Alles markeren als gelezen'
+    never: Nooit
+    new_token: 'Nieuw token'
+    next_page: 'Volgende pagina'
+    notifications: Meldingen
+    okay: OK
+    password: Wachtwoord
+    posts: Berichten
+    previous_page: 'Vorige pagina'
+    remove: Verwijderen
+    rename: Herdopen
+    reply: Antwoord
+    reset_your_password: 'Je wachtwoord opnieuw instellen'
+    restore: Herstellen
+    save_changes: 'Wijzigingen opslaan'
+    search_users: 'Gebruikers zoeken'
+    security: Veiligheid
+    settings: Instellingen
+    sign_up: Inschrijven
+    start_a_discussion: 'Start een discussie'
+    username: Gebruikersnaam
+    users: Gebruikers
+    view: Bekijken
+    write_a_reply: 'Schrijf een antwoord...'
+    you: Jij
+  group:
+    admin: Admin
+    admins: Beheerders
+    guest: Gast
+    guests: Gasten
+    member: Lid
+    members: Leden
+    mod: Manier
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Alle Tags'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Tags kiezen voor je discussie'
+    discussion_controls:
+      edit_tags_button: 'Tags bewerken'
+    header:
+      back_to_tags_tooltip: 'Terug naar de taglijst'
+    index:
+      more_link: Meer...
+      untagged_link: Gecodeerde
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Tags kiezen'
+  lib:
+    deleted_tag_text: Verwijderd
+    tag_selection_modal:
+      bypass_requirements: 'Tag-vereisten omzeilen'
+      submit_button: OK
+      title: 'Tags kiezen'
+  ref:
+    choose_tags: 'Tags kiezen'
+    name: Naam
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Een gebruiker, groep of bericht vermelden'
+    mentioned_by:
+      title: 'Reacties op dit bericht'
+      load_more_button: 'Laad meer'
+    post:
+      quote_button: Citaat
+      reply_link: Antwoord
+      you_text: Jij
+    settings:
+      notify_post_mentioned_label: 'Iemand reageert op een van mijn berichten'
+      notify_user_mentioned_label: 'Iemand noemt me in een bericht'
+      notify_group_mentioned_label: 'Iemand noemt in een bericht een groep waarvan ik lid ben'
+    user:
+      mentions_link: Vermeldt
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Niet meer volgen'
+      unignore_button: Oneerlijk
+      follow_button: Volgen
+    settings:
+      follow_after_reply_label: 'Automatisch discussies volgen waarop ik reageer'
+      notify_for_all_posts_label: 'Breng elk nieuw bericht op de hoogte in plaats van alleen het laatste in een discussie'
+      notify_new_post_label: 'Iemand plaatst berichten in een discussie die ik volg'
+    sub_controls:
+      following_text: 'Ontvang een melding van alle antwoorden.'
+      ignoring_text: 'Laat u nooit op de hoogte stellen. Verberg je voor de discussielijst.'
+      not_following_button: 'Niet volgen'
+      not_following_text: 'Ontvang alleen een melding wanneer @mentioned.'
+      notify_alert_tooltip: 'Ontvang een forummelding wanneer er nieuwe berichten zijn'
+      notify_email_tooltip: 'Ontvang een e-mail als er nieuwe berichten zijn'
+      follow_button: Volgen
+      following_button: Volgend
+      ignoring_button: Negeren
+    badge:
+      following_tooltip: Volgend
+      ignoring_tooltip: Negeren
+    following:
+      meta_title_text: Volgend
+    index:
+      following_link: Volgend
+  ref:
+    follow: Volgen
+    following: Volgend
+    ignoring: Negeren
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Bedankt voor het markeren van dit bericht. Onze moderators zullen het onderzoeken.'
+      reason_inappropriate_label: Ongepast
+      reason_inappropriate_text: 'Dit bericht is aanstootgevend, beledigend of in strijd met onze <a>communityrichtlijnen</a>.'
+      reason_missing_message: 'Geef enkele details voor onze moderators.'
+      reason_off_topic_label: Off-topic
+      reason_off_topic_text: 'Dit bericht is niet relevant voor de huidige discussie en moet ergens anders worden verplaatst.'
+      reason_other_label: 'Andere (gelieve te specificeren)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Dit bericht is een advertentie.'
+      dismiss_button: OK
+      submit_button: Vlaggenpost
+      title: Vlaggenpost
+    flagged_posts:
+      empty_text: 'Geen vlaggen'
+      title: 'Gemarkeerde berichten'
+      tooltip: 'Gemarkeerde berichten'
+    post:
+      dismiss_flag_button: 'Vlag sluiten'
+    post_controls:
+      flag_button: Vlag
+  ref:
+    flag_post: Vlaggenpost
+    flagged_posts: 'Gemarkeerde berichten'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Je bent voor onbepaalde tijd geschorst'
+      user_unsuspended_text: 'Je bent geschorst'
+    suspension_info:
+      dismiss_button: Ontslaan
+      indefinite: 'Dit is een schorsing voor onbepaalde tijd'
+      title: 'Dit account is opgeschort'
+    suspend_user:
+      display_message: 'Bericht weergeven voor gebruiker'
+      indefinitely_label: 'Voor onbepaalde tijd geschorst'
+      limited_time_days_text: ' Dagen'
+      limited_time_label: 'Geschorst voor een beperkte tijd...'
+      not_suspended_label: 'Niet geschorst'
+      placeholder_optional: Facultatief
+      reason: 'Reden voor schorsing'
+      status_heading: 'Status van de opschorting'
+      submit_button: 'Wijzigingen opslaan'
+    user_badge:
+      suspended_tooltip: Latent
+    user_controls:
+      suspend_button: Opschorten
+  email:
+    no_reason_given: 'Er werd geen reden gegeven voor deze schorsing.'
+    suspended:
+      subject: 'Je account is opgeschort'
+    unsuspended:
+      subject: 'De blokkering van je account is opgeheven'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Alle bestanden die door de gebruiker zijn geüpload.', anonymize_description: 'Hiermee verwijdert u de gebruikersreferentie uit de geüploade bestanden. De bestanden zelf blijven toegankelijk voor gebruikers die ze vóór de anonimisering zouden kunnen bekijken.', delete_description: 'Verwijdert alle bestanden die door de gebruiker zijn geüpload.' }
+      tagsubscription: { export_description: 'Exporteert details van het abonnementsniveau voor een tag, indien aanwezig.', anonymize_description: 'Hiermee verwijdert u het abonnement van de gebruiker op de tag.' }
+      followuser: { export_description: 'Exporteert details van gevolgde gebruikers en volgende gebruikers.', delete_description: 'Verwijdert alle gegevens met betrekking tot volgende gebruikers.', anonymize_description: 'Verwijdert alle gegevens met betrekking tot volgende gebruikers.' }
+      bannedipdata: { export_description: 'Als een IP-banrecord is gekoppeld aan een gebruiker (d.w.z. de gebruiker is verbannen door IP), wordt het IP-adres van de gebruiker opgenomen in de export, samen met de reden voor de ban en de aanmaakdatum.', anonymize_description: 'Alle IP-adressen die aan de gebruiker zijn gekoppeld, worden ontkoppeld, maar het IP-adres zelf blijft verbannen, samen met de reden. Zorg ervoor dat er geen PII-gegevens zijn opgeslagen in het veld ''reden''.' }
+fof-upload:
+  forum:
+    media_manager: Mediamanager
+    buttons:
+      attach: Vastmaken
+      upload: Uploaden
+      upload_shared: Gedeeld
+      user_uploads: 'Uploads van gebruikers'
+      cancel: Annuleren
+      media: 'Mijn media'
+      shared_media: 'Gedeelde media'
+    states:
+      error: Fout
+      loading: Uploaden
+      unauthorized: 'Het is niet toegestaan om bestanden te downloaden'
+    text_preview:
+      expand: 'Voorbeeld uitvouwen'
+      collapse: 'Voorvertoning samenvouwen'
+      error: "Fout bij het bekijken van een voorbeeld. Het kan zijn dat het is verwijderd of dat de opgegeven bestands-ID ongeldig is.\n"
+      no_snippet_preview: '<preview verschijnt hier na het plaatsen>'
+      no_snippet: '<Geen voorbeeldfragment beschikbaar>'
+  api:
+    upload_errors:
+      forbidden_type: 'Het uploaden van dit soort bestanden is niet toegestaan.'
+      could_not_detect_mime: 'Kan het MIME-type van dit bestand niet detecteren, probeer het opnieuw.'
+      max_upload_file_size_ini: 'Maximale uploadlimiet voor bestandsgrootte bereikt vanaf php.ini.'
+      max_upload_file_size_form: 'Maximale uploadlimiet voor bestandsgrootte bereikt vanaf het formulier.'
+      partial_upload: 'Gedeeltelijke upload.'
+      no_file_uploaded: 'Er is geen bestand geüpload.'
+      no_upload_tmp_folder: 'Geen tmp-map voor het uploaden van bestanden.'
+      cannot_write_to_disk: 'Kan niet naar schijf schrijven.'
+      upload_blocked_by_php_extension: 'Een php-extensie blokkeerde de upload.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Nieuw gedeeld bestand'
+      dropzone: 'Sleep bestanden hierheen en klik om te bladeren'
+      hide-from-media-gallery: 'Verbergen in de mediagalerij van de gebruiker'
+      upload: Uploaden
+    file_list:
+      loading: 'Bestanden worden geladen...'
+      empty: 'Er zijn geen bestanden om weer te geven.'
+      release_to_upload: 'Laat los om te uploaden'
+      modal_empty_desktop: 'Uw bestandenlijst is leeg. Klik op de knop of sleep een bestand hierheen om te uploaden.'
+      modal_empty_phone: 'Uw bestandenlijst is leeg. Tik op de knop hierboven om een bestand te uploaden.'
+      load_more_files_btn: 'Laad meer bestanden'
+      hide_file: { hide_success: 'Bestand verborgen', show_success: 'Getoond bestand', loading: 'Bestand verbergen...' }
+      hide_shared_file: { hide_success: 'Bestand privé gemaakt', show_success: 'Dossier openbaar gemaakt', loading: 'Bestand privé maken...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Wrote
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Vetgedrukte tekst toevoegen'
+      code_tooltip: 'Code invoeren'
+      header_tooltip: 'Koptekst toevoegen'
+      image_tooltip: 'Voeg een afbeelding toe'
+      italic_tooltip: 'Cursieve tekst toevoegen'
+      link_tooltip: 'Voeg een link toe'
+      ordered_list_tooltip: 'Een genummerde lijst toevoegen'
+      quote_tooltip: 'Een citaat invoegen'
+      spoiler_tooltip: 'Plaats een spoiler'
+      strikethrough_tooltip: 'Doorgestreepte tekst toevoegen'
+      unordered_list_tooltip: 'Een lijst met opsommingstekens toevoegen'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Iemand maakt een discussie in een tag die ik volg'
+      notify_new_post_label: 'Iemand plaatst berichten in een tag die ik volg'
+      notify_new_discussion_tag_label: 'Iemand tagt een discussie opnieuw naar een tag die ik volg'
+    index:
+      follow_tag_button: Volgen
+      unfollow_tag_button: 'Stoppen met volgen'
+      following: { following_none_label: 'Gevolgde discussies', following_tags_label: 'Gevolgde tags' }
+    badge:
+      following_tag_tooltip: Volgend
+      lurking_tag_tooltip: Loer
+    sub_controls:
+      following_text: 'Blijf op de hoogte van alle nieuwe discussies.'
+      hiding_text: 'Verberg discussies op de pagina Alle discussies.'
+      ignoring_text: 'Laat u nooit op de hoogte stellen.'
+      lurking_text: 'Blijf op de hoogte van alle nieuwe discussies en antwoorden.'
+      not_following_button: 'Niet volgen'
+      not_following_text: 'Ontvang alleen een melding wanneer @mentioned.'
+      notify_alert_tooltip: 'Ontvang een forummelding wanneer er nieuwe discussies of berichten zijn'
+      notify_email_tooltip: 'Ontvang een e-mail wanneer er nieuwe discussies of berichten zijn'
+      submit_button: 'Abonnement bevestigen'
+      follow_button: Volgen
+      following_button: Volgend
+      hiding_button: Verbergen
+      ignoring_button: Negeren
+      lurking_button: Loer
+    user:
+      settings: { heading: 'Volg Tags', filter_label: 'Wat moet u standaard weergeven op de volgende pagina?' }
+  ref:
+    follow: Volgen
+    following: Volgend
+    hiding: Verbergen
+    ignoring: Negeren
+    lurking: Loer
+    filtering_options:
+      none: 'Gevolgde discussies'
+      tags: 'Gevolgde tags'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Deze bijnaam is ongeldig. Neem contact op met je forumbeheerder voor meer informatie over de regels voor bijnamen.'
+  ref:
+    change_nickname: 'Bijnaam wijzigen'
+    nickname: Bijnaam
+  forum:
+    change_nickname:
+      submit_button: 'Wijzigingen opslaan'
+      title: 'Bijnaam wijzigen'
+    edit_user:
+      nicknames_heading: 'Bijnaam wijzigen'
+      nicknames_text: Bijnaam
+    settings:
+      change_nickname_button: 'Bijnaam wijzigen'
+    sign_up:
+      nickname_placeholder: Bijnaam
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Gekoppelde accounts', last-used-label: 'Laatst gebruikt', link-created-label: 'Link aangemaakt', orphaned-account: 'Je hebt je eerder aangemeld via deze provider, maar dit forum heeft inloggen met deze methode sindsdien uitgeschakeld.', help: 'Met deze gekoppelde accounts kun je je aanmelden bij het forum met behulp van andere providers.' } }
+    signup:
+      username_help: 'Kies hier een gebruikersnaam om bekend te zijn'
+    unlink: 'Link verwijderen'
+    error:
+      bad_verification_code: 'Ongeldig of verlopen verificatietoken. Probeer het opnieuw.'
+      invalid_state: 'Ongeldige staat. Probeer het opnieuw.'
+    providers:
+      discord: Onenigheid
+      facebook: 'Naar de Facebookpagina'
+      github: 'GitHub (Engelstalig)'
+      gitlab: GitLab
+      google: 'Google (Google)'
+      linkedin: Linkedin
+      twitter: Sjilpen
+  lib:
+    providers:
+      discord: Onenigheid
+      facebook: 'Naar de Facebookpagina'
+      github: 'GitHub (Engelstalig)'
+      gitlab: GitLab
+      twitter: Sjilpen
+      google: 'Google (Google)'
+      linkedin: Linkedin
+  ref:
+    settings:
+      app_id: App-ID
+      app_secret: App-geheim
+      client_id: Klant-ID
+      client_secret: 'Geheim van de klant'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Log in als een andere gebruiker'
+      placeholder_optional: '(Optioneel) Geef de reden op waarom u naar deze gebruiker overstapt'
+      placeholder_required: 'U moet uw reden voor het overschakelen naar deze gebruiker opgeven voordat u doorgaat'
+    user_controls:
+      impersonate_button: 'Inloggen als gebruiker'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: Privé-bespreking }
+    buttons:
+      add_recipients: Ontvangers
+      submit: OK
+      edit_recipients: 'Ontvangers bewerken'
+      cancel: Annuleren
+      make_public: 'Maak deze discussie openbaar'
+      remove_from_discussion: 'Verlaat deze privédiscussie'
+    composer_private_discussion:
+      submit_button: 'Privégesprek plaatsen'
+      title_placeholder: 'Titel privédiscussie'
+    confirm:
+      make_public: 'Weet u zeker dat u de ontvangers wilt verwijderen en deze discussie zichtbaar wilt maken voor iedereen die de toegewezen tag kan bekijken?'
+    nav:
+      start_button: 'Privé bespreken'
+      nav_item: 'Privé discussies'
+    input:
+      search_recipients: 'Zoek de ontvanger door de eerste drie tekens te typen...'
+    search:
+      headings: { groups: 'Machtiging Groepen' }
+    modal:
+      titles: { add_recipients: 'Geadresseerden toevoegen aan je discussie' }
+      labels: { selected_users: 'Geselecteerde gebruikers', search_field: 'Zoeken naar gebruiker' }
+      help: { add_recipients: 'Deze discussie is alleen zichtbaar voor de gebruikers die u hier kiest. Er is minimaal 1 ontvanger (anders dan jijzelf) nodig.', update_recipients: 'Deze discussie is alleen zichtbaar voor de gebruikers die u hier kiest.', selected_users: 'Klik op de naam van een gebruiker om deze te verwijderen.', click_user_to_remove_tooltip: 'Klik om te verwijderen' }
+    user:
+      settings: { block_pd: 'Privédiscussies blokkeren' }
+      byobu_link: 'Privé discussies'
+      dropdown_label: 'Privé discussies'
+    notifications:
+      pd_label: 'Iemand neemt me op in een nieuwe privédiscussie'
+      pd_reply_label: 'Iemand plaatst berichten in een privédiscussie waarvan ik een ontvanger ben'
+      pd_user_left_label: 'Een ontvangende gebruiker verlaat een privédiscussie waar ik deel van uitmaak'
+      pd_added_label: 'Iemand voegt me toe aan een bestaande privédiscussie'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informatie over de badge'
+    all_badges: 'Bekijk alle badges'
+    all_users: 'Bekijk alle gebruikers'
+    give_badge: 'Badge geven'
+    update_badge: 'Badge bijwerken'
+    select_badge: 'Badge selecteren'
+    user_has_badge: 'De gebruiker heeft deze badge al.'
+    user_no_badges: 'Deze gebruiker heeft nog geen badges.'
+    no_received: 'Geen enkele gebruiker heeft deze badge verdiend.'
+    save_changes: 'Wijzigingen opslaan'
+    badge:
+      badge: Insigne
+      badges: Badges
+      name: 'Naam van de badge'
+      description: 'Beschrijving van de badge'
+      earning_reason: 'Reden voor het verdienen van badges'
+      update_earning_reason: 'Verdienreden bijwerken'
+      no_earning_reason: 'Geen verdienreden ingesteld'
+      earned_on: 'Badge verdiend op'
+      category: 'Categorie van de badge'
+      badge_details: 'Details van de badge'
+    badges_in_card:
+      title: 'Badges in gebruikerskaart'
+      manage_badges: 'Badges beheren'
+      description: 'U kunt de zichtbare badges in uw gebruikerskaart wijzigen met een van uw andere badges. Als u er geen selecteert, worden ze automatisch geselecteerd.'
+    moderation:
+      remove_badge: 'Badge van gebruiker verwijderen'
+      remove_badge_confirm: 'Weet u zeker dat u deze badge van deze gebruiker wilt verwijderen?'
+      give_badge: 'Badge geven'
+    notification:
+      title: 'Je hebt een nieuwe badge ontvangen'
+      settings: 'Ik heb een badge ontvangen'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Ellendige status'
+      not_miserable_label: 'Niet ellendig'
+      indefinitely_label: 'Ellendig voor onbepaalde tijd'
+      limited_time_label: 'Ellendig voor een beperkte tijd...'
+      limited_time_days_text: ' Dagen'
+      submit_button: 'Wijzigingen opslaan'
+    user_badge:
+      miserable_user_tooltip: 'Ellendige gebruiker'
+    user_controls:
+      miserable_user_button: 'Ellendige gebruiker'
+  ref:
+    miserable_user: 'Ellendige gebruiker'
+sycho-profile-cover:
+  forum:
+    cover: Bedekken
+    edit_cover: 'Omslag bewerken'
+    added:
+      success: 'Profielomslag bijgewerkt.'
+      error: 'Afbeelding kan niet worden geüpload.'
+    removed:
+      success: 'Profielafdekking verwijderd.'
+      error: 'Kan het deksel niet verwijderen, probeer het later opnieuw.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Naar klembord kopiëren'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Laatste bezoekers', guest: Gast }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: Landcode
+    saveButton: Redden
+    clickToSelectCountry: 'Selecteer uw land'
+    countrySaved: 'Land succesvol gered!'
+    field_placeholder: 'Vlaggen van landen bevestigen'
+    binding_country: 'We hebben ontdekt dat je je verblijfplaats niet hebt gebonden. Koppel eerst uw land. Je kunt alleen berichten plaatsen en achterlaten nadat je je land hebt gekoppeld.'
+    binding_country_click: 'Klik nu'
+username-blacklist:
+  forum:
+    modal-title: Waarschuwing!
+    modal-body-first-line: 'Waarschuwing - Deze gebruikersnaam is <strong>geblokkeerd door de beheerder</strong>'
+    modal-body-second-line: 'Kies een andere gebruikersnaam die niet in strijd is met onze communityrichtlijnen en probeer het opnieuw.'
+  admin:
+    blackList: 'Gebruikersnaam op de zwarte lijst'
+    blackList-help: 'Schrijf hier de gebruikersnaam die u wilt blokkeren tijdens de registratie (gescheiden door komma''s)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Samenvatting, show-summaries: 'Een fragment van elke discussie weergeven in discussielijsten (desktop/tablet)', show-summaries-mobile: 'Een fragment van elke discussie weergeven in discussielijsten (mobiel)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Activiteit op het forum'
+      forum_new_discussions: 'Nieuwe discussies op het forum'
+      discussion_last_posts: 'Deze discussie'
+      user_last_posts: 'Berichten en opmerkingen van deze gebruiker'
+    feeds:
+      titles: { main_subtitle: 'Laatste berichten in het forum', main_d_subtitle: 'De nieuwste discussies in het forum', discussion_subtitle: 'Laatste berichten in deze discussie', user_subtitle: 'Laatste berichten en opmerkingen van deze gebruiker.' }
+    discussion:
+      feed_link: Voeden
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Gevolgd
+    profile_page:
+      no_following: 'Het lijkt erop dat je niemand volgt.'
+    settings:
+      notify_new_follower_label: 'Iemand volgt me'
+      notify_new_unfollower_label: 'Iemand volgt me niet meer'
+      notify_new_discussion_label: 'Iemand die ik volg start een discussie'
+      notify_new_post_label: 'Iemand die ik volg, plaatst berichten in een bestaande discussie'
+      block_follow: 'Voorkomen dat gebruikers mij volgen'
+    badge:
+      label: { follow: 'Na afloop van de besprekingen', lurk: 'In navolging van alles' }
+    filter:
+      following: 'Gevolgde gebruikers'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Niveaus volgen', follow_select_label: 'Type volgen', no_user_attr_provided_err: 'Uh oh, er is iets misgegaan bij het openen van dit modal.', no_user_attr_provided_err_debug: 'Er is geen kenmerk ''user'' doorgegeven aan de modal SelectFollowUserLevel toen het werd gemaakt. Modal kan niet worden gerenderd.', save_btn: Redden, cancel_btn: Annuleren }
+    profile_link: 'Gevolgde gebruikers'
+    user_controls:
+      follow_button: Volgen
+      unfollow_button: 'Niet meer volgen'
+      change_button: 'Volgtype wijzigen'
+    index:
+      follow_tag_button: Volgen
+      unfollow_tag_button: 'Volgtype wijzigen'
+  email:
+    new_follower_subject: '[Gebruiker volgen] Je hebt een nieuwe volger!'
+  lib:
+    following_link: 'Gevolgde gebruikers'
+    follow: Volgen
+    change_follow_type: 'Volgtype wijzigen'
+    unfollow: 'Niet meer volgen'
+    follow_levels:
+      unfollow: { name: 'Niet volgen' }
+      follow: { name: 'Discussies volgen' }
+      lurk: { name: 'Volg alles' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Zorg ervoor dat deze gevraagde bijnaamwijziging voldoet aan de forumrichtlijnen.', decision_title: Beslissing, approval_label: Goedkeuren, rejected_label: Verwerpen, submit_button: Opslaan, reason_title: 'Reden voor afwijzing', success: 'Verzonden beslissing.', title: 'Verzoek tot wijziging van bijnaam' }
+      results: { title: 'Verzoek tot wijziging van bijnaam', approved: 'Je verzoek tot wijziging van je bijnaam is goedgekeurd', rejected: 'Je verzoek om je bijnaam te wijzigen is afgewezen', resubmit: 'Op dit moment kun je een nieuw verzoek voor het wijzigen van je bijnaam opnieuw indienen via je accountinstellingen als je dat wilt.', dismiss_button: OK }
+      request: { title: 'Wijziging van bijnaam aanvragen', submit_button: 'Aanvraag indienen', delete_button: 'Verzoek verwijderen', confirmation_message: 'Je verzoek om je gebruikersnaam te wijzigen is ingediend en moet nog worden goedgekeurd.', deleted: 'Verzoek om bijnaam verwijderd.', dismiss_button: OK }
+    username_modals:
+      action: { help_text: 'Zorg ervoor dat deze aangevraagde gebruikersnaamwijziging voldoet aan de forumrichtlijnen.', decision_title: Beslissing, approval_label: Goedkeuren, rejected_label: Verwerpen, submit_button: Opslaan, reason_title: 'Reden voor afwijzing', success: 'Verzonden beslissing.', title: 'Verzoek tot wijziging van de gebruikersnaam' }
+      results: { title: 'Verzoek tot wijziging van de gebruikersnaam', approved: 'Uw verzoek tot wijziging van uw gebruikersnaam is goedgekeurd', rejected: 'Uw verzoek tot wijziging van uw gebruikersnaam is afgewezen', resubmit: 'Op dit moment kunt u een nieuw verzoek tot wijziging van uw gebruikersnaam opnieuw indienen via uw accountinstellingen als u dat wilt.', dismiss_button: OK }
+      request: { title: 'Wijziging van gebruikersnaam aanvragen', submit_button: 'Aanvraag indienen', delete_button: 'Verzoek verwijderen', confirmation_message: 'Uw verzoek tot wijziging van uw gebruikersnaam is ingediend en moet nog worden goedgekeurd.', deleted: 'Verzoek om gebruikersnaam verwijderd.', dismiss_button: OK }
+    pending_requests:
+      empty_text: 'Geen aanvragen voor naamswijziging gevonden.'
+      tooltip: 'Verzoeken tot naamswijziging'
+      title: 'Verzoeken tot naamswijziging'
+    settings:
+      nickname_request_button: 'Bijnaam wijzigen'
+      username_request_button: 'Gebruikersnaam wijzigen'
+    user:
+      name_history_link: 'Naam Geschiedenis'
+  ref:
+    name_change_request: 'Verzoek tot naamswijziging'
+    name_change_requests: 'Verzoeken tot naamswijziging'
+    nickname_change_request: 'Verzoek tot wijziging van bijnaam'
+    nickname_change_requests: 'Verzoeken voor het wijzigen van bijnamen'
+    username_change_request: 'Verzoek tot wijziging van de gebruikersnaam'
+    username_change_requests: 'Verzoeken tot wijziging van gebruikersnamen'
+  email:
+    body:
+      noReasonProvided: 'Geen reden opgegeven.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Schrijf iets over jezelf'
+    profile:
+      cancel_confirm: 'Weet je zeker dat je het bewerken van je bio wilt annuleren? Alle wijzigingen die je hebt aangebracht, raak je kwijt.'
+      cancel_button: Annuleren
+      save_button: Redden
+      edit_bio_label: 'Bio bewerken'
+fof-split:
+  forum:
+    split:
+      from: 'Splits vanaf hier'
+      to: 'Splitsen naar hier'
+      cancel: 'Splitsing annuleren'
+    modal:
+      title: 'Gesplitste discussie'
+      new_discussion_label: 'Geef de titel op voor de nieuwe discussie'
+      submit_button: Splijten
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Bewerk je social media buttons'
+      add: 'Voeg knoppen toe aan je sociale media'
+      headtitle: 'Knoppen bewerken'
+      title: Titel
+      url: 'Naar de URL'
+      submit: Redden
+      delete: Verwijderen
+      deletetitle: 'Knop Verwijderen'
+      save_disabled_fetching_favicons: 'Een of meer pictogrammen worden opgehaald. Een ogenblik geduld.'
+      favicon: 'Favicon (Favicon)'
+      grey_favicon: 'Grijze Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Delen
+      share_dropdown_accessible_label: 'Vervolgkeuzemenu voor het delen van discussies in-/uitschakelen'
+    modal:
+      title: Delen
+      copy_button: Kopiëren
+  lib:
+    networks:
+      facebook: 'Naar de Facebookpagina'
+      twitter: Sjilpen
+      linkedin: Linkedin
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Telegram
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Mijn Wereld'
+      qq: QQ
+      qzone: QZone
+      native: 'Native delen'
+fof-recaptcha:
+  forum:
+    error: 'Er is een fout opgetreden bij het verzenden van reCAPTCHA. Probeer het opnieuw.'
+    unknown_error: 'Er is een onbekende fout opgetreden. Controleer de captcha en probeer het opnieuw.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Je kunt deze reactie nu niet gebruiken, ververs de pagina'
+    warning: 'Je reactie is geconverteerd'
+    settings:
+      notify_post_reacted_label: 'Iemand reageert op een van mijn berichten'
+    reacting-own-post: 'Je kunt niet reageren op je eigen bericht'
+    modal:
+      title: Reacties
+      no_reactions: 'Nog geen reacties'
+    mod_item: 'Reacties bekijken'
+    react_button_label: Reageren
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Het bijsnijden van afbeeldingen kan niet worden geladen.', generic_resize: 'Er is iets misgegaan tijdens het bijsnijden en vergroten of verkleinen van de afbeelding.', get_image_data: 'Kan niet bijsnijden. Zorg ervoor dat de vingerafdrukbeveiliging van uw browser is uitgeschakeld.' }
+      help_text: "Het uploaden van de afbeelding kan mislukken als de privacy-instellingen van uw browser erg streng zijn. Als je problemen ondervindt, probeer dan de vingerafdrukbeveiliging uit te schakelen. Anders kunt u <disableResize>het comprimeren van de bijgesneden afbeelding uitschakelen</disableResize> of <disableCrop>het bijsnijden helemaal uitschakelen</disableCrop>.\n"
+      submit_button: Uploaden
+      submit_crop_button: 'Bijsnijden en uploaden'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Het is zeer waarschijnlijk dat het geen verdere bespreking behoeft en dus heeft het geen zin om het te stoten.', checkbox_label: 'Ik ben me ervan bewust dat deze discussie nogal oud is, maar ik wil er toch graag op reageren.', error: 'Deze discussie is te oud om op te reageren.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Je hebt geen toestemming om te stemmen'
+    poll_ended: 'Deze peiling is afgelopen.'
+    public_poll: 'Kiezers bekijken'
+    composer_discussion:
+      add_poll: 'Poll toevoegen'
+      edit_poll: 'Peiling bewerken'
+    modal:
+      add_title: 'Een poll toevoegen'
+      add_option_label: 'Een optie toevoegen'
+      edit_title: 'Peiling bewerken'
+      include_question: 'U moet een vraag opnemen'
+      max: 'Je kunt maximaal 10 antwoorden hebben'
+      min: 'U moet minimaal 2 antwoorden opnemen'
+      no_voters: 'Geen stemmen'
+      option_placeholder: Antwoorden
+      image_option_placeholder: 'Afbeeldings-URL (optioneel)'
+      options_label: Antwoorden
+      public_poll_label: 'Laat mensen zien wie er heeft gestemd'
+      allow_multiple_votes_label: 'Sta mensen toe om op meerdere opties te stemmen'
+      max_votes_label: 'Max stemmen per gebruiker'
+      max_votes_help: 'Stel in op 0 om gebruikers toe te staan op alle opties te stemmen.'
+      question_placeholder: Vraag
+      submit: Opslaan
+    moderation:
+      delete: 'Poll verwijderen'
+      delete_confirm: 'Weet je zeker dat je deze poll wilt verwijderen?'
+      edit: 'Peiling bewerken'
+    tooltip:
+      badge: Peiling
+    votes_modal:
+      title: Kiezers
+fof-nightmode:
+  ref:
+    auto: 'Automatisch (op basis van browser- of apparaatopties)'
+    light: Dagmodus
+    dark: Nachtmodus
+  forum:
+    header:
+      nightmode_button: Nachtmodus
+    user:
+      settings: { heading: Thema, description: 'Kies welk kleurenthema je op het forum wilt gebruiken.', description2: 'Dit thema wordt gekoppeld aan je account en is van toepassing op al je apparaten, tenzij je de onderstaande schakelaar aanzet voor de instellingen per apparaat.', device_specific_setting_checkbox: 'Gebruik per apparaat instellingen', device_specific_setting_checkbox_tooltip: 'Je themakeuze wordt voor elk van je apparaten afzonderlijk opgeslagen.', auto_unsupported: 'Uw browser ondersteunt de automatische donkere modus niet.', option_descriptions: { auto: 'Je thema wordt automatisch geselecteerd op basis van de instellingen van je browser of apparaat. Als je bijvoorbeeld de donkere modus hebt ingeschakeld in iOS, zijn de forums ook donker.', day: 'De klassieke ervaring die je gewend bent. Geliefd en getest.', night: 'Je bent een beetje een nachtbraker. Je waakt ''s nachts over het forum, terwijl de vogels slapen en de vossen jagen. Of je houdt gewoon meer van de donkere kleuren!' }, options: { auto: 'Automatisch (op basis van browser- of apparaatopties)', day: Dagmodus, night: Nachtmodus } }
+    day: Dagmodus
+    night: Nachtmodus
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Een leeg briefje is niet toegestaan.'
+    moderatorNotes:
+      add_button: 'Nieuwe notitie'
+      create-heading: 'Een nieuwe moderatornotitie maken'
+      dismiss_button: Klaar
+      noNotes: 'Het lijkt erop dat er hier geen notities zijn.'
+      submit_button: 'Notitie opslaan'
+      delete: Verwijderen
+      confirm: 'Weet je zeker dat je deze notitie wilt verwijderen?'
+    user:
+      notes: 'Opmerkingen van de moderator'
+  api:
+    no_reason_provided: 'Geen reden opgegeven'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Stemmen
+    vote_title: 'Laat zien wie er gestemd heeft'
+    nav:
+      name: Rankings
+    ranking:
+      rank: Plaats
+      name: Gebruiker
+      amount: Punten
+    notification:
+      prefrences: { vote: 'Wanneer een van mijn berichten omhoog/omlaag wordt gestemd' }
+    user:
+      votes_link: Stemmen
+    modal:
+      downvotes_label: 'Mindere stemmers:'
+      title: Kiezers
+      upvotes_label: 'Kiezers:'
+    mod_item: 'Kiezers bekijken'
+    voters:
+      none: 'Nog geen kiezers'
+      label: Kiezers
+      label_none: 'Geen stemmers'
+    post:
+      upvote_button: 'Bericht upvote'
+      downvote_button: 'Bericht omlaag stemmen'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Geplande concepten zijn momenteel uitgeschakeld in de instellingen.'
+  ref:
+    schedule_draft: 'Ontwerp van de planning'
+  forum:
+    composer:
+      title: 'Concept opslaan'
+      saving: Besparing...
+      saved: Opgeslagen!
+      exit_alert: 'Wijzigingen in het concept negeren?'
+      discard_empty_draft_alert: 'Leeg concept weggooien?'
+    dropdown:
+      empty_text: 'Je hebt geen concepten opgeslagen'
+      title: Concepten
+      delete_all_button: 'Alle concepten verwijderen'
+      delete_button: 'Concept verwijderen'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Weet je zeker dat je je concept wilt verwijderen?'
+      delete_all_alert: 'Weet je zeker dat je al je concepten wilt verwijderen?'
+      schedule_button: 'Ontwerp van de planning'
+      tooltip: Concepten
+    schedule_draft_modal:
+      text: 'Plan je concept om automatisch op een later tijdstip te posten!'
+      unschedule_button: 'Schema ongedaan maken'
+      unschedule_warning: 'Weet je zeker dat je dit concept wilt uitplannen?'
+      reschedule_button: Plannen
+      schedule_button: Rooster
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Ongeldige datum en/of tijd'
+      title: 'Ontwerp van de planning'
+    user:
+      settings: { drafts_heading: Concepten, draft_autosave_enable: 'Automatisch opslaan van concept inschakelen?', draft_autosave_interval_label: 'Interval voor automatisch opslaan (seconden)', draft_autosave_interval_button: 'Interval bijwerken', draft_autosave_interval_invalid: 'Het interval moet een geheel getal zijn dat groter is dan 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Beantwoordt
+    this_best_answer: 'Selecteer Beste antwoord'
+    remove_best_answer: 'De selectie van het beste antwoord ongedaan maken'
+    best_answer_button: 'Beste antwoord'
+    errors:
+      mismatch: 'Geselecteerd bericht bestaat niet in deze discussie.'
+    notification:
+      content: 'Selecteer een Beste antwoord als uw vraag is beantwoord'
+      preferences: { awarded_best_answer: 'Iemand stelt mijn bericht in als het beste antwoord', best_answer_in_discussion: 'Een beste antwoord wordt gegeven in een discussie waaraan ik heb deelgenomen', select_best_answer: 'Een geautomatiseerde herinnering om het beste antwoord te kiezen in een discussie die ik heb gestart' }
+    index:
+      ask_question: 'Stel een vraag'
+      cannot_ask_question: 'Kan geen vraag stellen'
+      solved_link: 'Opgeloste discussies'
+      unsolved_link: 'Onopgeloste discussies'
+    filter:
+      all_label: 'Alle vragen'
+      solved_label: 'Opgeloste vragen'
+      unsolved_label: 'Onopgeloste vragen'
+      accessible_label: 'Opgeloste/onopgeloste selectie'
+    composer:
+      titlePlaceholder: 'Titel van de vraag'
+    search:
+      discussions_solutions_heading: 'Discussies met oplossingen'
+    discussion:
+      jump_to_best_answer_button: 'Bekijk het beste antwoord'
+  email:
+    subject:
+      select: 'Heb je je vraag beantwoord?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Meest beste antwoorden'
+      least_best_answers: 'Minst beste antwoorden'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Niemand anders zal worden verbannen'
+    user_badge:
+      banned_tooltip: Verboden
+    ban_ip_button: 'IP verbieden'
+    unban_ip_button: 'IP deblokkeren'
+    user_controls:
+      ban_button: Verbod
+      unban_button: 'Verbod opheffen'
+  error:
+    banned_ip_message: 'Autorisatie is mislukt.'
+    no_ips_found_message: 'Geen IP-adres gevonden voor de gebruiker.'
+  lib:
+    modal:
+      check_button: Cheque
+      save_button: Redden
+      ban_ip_confirmation: 'Weet je zeker dat je dit IP-adres wilt blokkeren voor gebruik op het forum? Hierdoor kunnen gebruikers met dit IP-adres of deze IP-adressen niet inloggen en zich registreren.'
+      unban_ip_confirmation: 'Weet je zeker dat je deze gebruiker en alle andere gebruikers die niet door andere IP''s zijn verbannen, wilt deblokkeren?'
+      unban_ip_no_users: 'Niemand anders zal worden opgeheven'
+      title: 'IP(''s) verbieden'
+      unban_title: 'IP(''s) opheffen'
+      address_label: IP-adres
+      reason_label: Reden
+      ban_button: Verbod
+      unban_button: 'Verbod opheffen'
+  ref:
+    ban_label: Verbod
+    ban_ip_addresses: 'IP(''s) verbieden'
+    ban_ip_button: 'IP verbieden'
+    unban_label: 'Verbod opheffen'
+    unban_ip_addresses: 'IP(''s) opheffen'
+    unban_ip_button: 'IP deblokkeren'
+    address_label: IP-adres
+    reason_label: Reden
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Details van uw registratie zijn gevonden in een spampreventiedatabase, daarom is uw registratie geblokkeerd.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Discussies verwijderen'
+      hard_delete_discussions_help: 'Hiermee worden alle discussies die door deze gebruiker zijn gestart, permanent verwijderd. Als deze optie is uitgeschakeld, worden discussies in plaats daarvan verborgen.'
+      hard_delete_posts_label: 'Berichten verwijderen'
+      hard_delete_posts_help: 'Hiermee worden alle berichten (opmerkingen, antwoorden, enz.) die door deze gebruiker zijn geplaatst, permanent verwijderd. Als deze optie is uitgeschakeld, worden berichten in plaats daarvan verborgen.'
+      hard_delete_user_label: 'Gebruiker verwijderen'
+      hard_delete_user_help: 'Hiermee wordt de gebruiker permanent verwijderd. Als deze optie is uitgeschakeld, wordt de gebruiker in plaats daarvan opgeschort.'
+      intro: 'Wanneer een gebruiker als spammer wordt gemarkeerd, worden er verschillende acties ondernomen, afhankelijk van de extensies die beschikbaar zijn op uw forum.'
+      move_discussions_tag_label: 'Discussies verplaatsen naar de tag in quarantaine'
+      move_discussions_tag_help: 'Hierdoor worden alle discussies die door deze gebruiker zijn gestart, verplaatst naar de tag die je hebt opgegeven in de foruminstellingen. Als deze optie is uitgeschakeld, blijven discussies in hun huidige tags staan.'
+      process_button: Proces
+      report_to_sfs_label: 'Rapporteren aan StopForumSpam'
+      report_to_sfs_help: 'Hierdoor worden de basisgegevens van de gebruiker (gebruikersnaam, e-mail, IP-adres) gerapporteerd aan StopForumSpam. Dit helpt voorkomen dat de gebruiker zich registreert op andere forums die de StopForumSpam-service gebruiken.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Aantal discussieweergaven opnieuw instellen'
+      submit: Opslaan
+      label: 'Instellen op aantal weergaven'
+    discussion_controls:
+      resetviews_button: 'Aantal weergaven instellen'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: 'Plakkerig maken'
+      sticky_button: Kleverig
+    badge:
+      sticky_tooltip: Kleverig
+  ref:
+    sticky: Kleverig
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: 'Op slot'
+    discussion_controls:
+      lock_button: Slot
+      unlock_button: Ontsluiten
+    settings:
+      notify_discussion_locked_label: 'Iemand vergrendelt een discussie die ik heb gestart'
+flarum-likes:
+  forum:
+    post:
+      like_link: Als
+      unlike_link: Verschillend
+      you_text: Jij
+    post_likes:
+      title: 'Gebruikers die dit leuk vinden'
+      load_more_button: 'Laad meer'
+    settings:
+      notify_post_liked_label: 'Iemand vindt een van mijn berichten leuk'
+    user:
+      likes_link: Houdt
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Emoji invoegen'
+      type_to_search_text: 'Typ om naar een emoji te zoeken'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Je inhoud is te groot, lees onze richtlijnen voor het plaatsen van berichten' }
+dhtml-persona:
+  forum:
+    persona: Persoon
+dhtml-leaderboard:
+  forum:
+    leaderboard: Klassement
+dhtml-gender:
+  forum:
+    male: Mannelijk
+    female: Vrouwelijk
+    other: 'Zeg liever niet'
+    inputGender: Geslacht
+    saveButton: Redden
+    clickToSelectGender: 'Selecteer je geslacht'
+    genderSaved: 'Geslacht succesvol opgeslagen!'
+    field_placeholder: 'Geslacht bevestigen'
+    binding_gender: 'We hebben ontdekt dat je je geslacht niet hebt ingesteld. Stel eerst uw geslacht in. Je kunt alleen berichten plaatsen en achterlaten nadat je je geslacht hebt ingesteld.'
+    binding_gender_click: 'Klik nu'
+flarum-content-pages:
+  forum:
+    home: Thuis
+    about-us: Informatie
+    guidelines: Richtsnoeren
+    privacy-policy: Privacybeleid
+    terms-of-use: Gebruiksvoorwaarden
+    contact-us: 'Neem contact met ons op'
+    download-app: 'App downloaden'
+    discord-chat: 'Onenigheid Chatten'
+    tags-cloud: 'Tags: Wolk'
+    languages: Talen
+    leaderboard: Klassement
+    live: Levend
+    live-coding: 'Live coding'
+    challenges: Uitdagingen
+    dev-challenges: 'Dev Challenges'
+    jobs: Taken
+    community: Gemeenschap
+    dev-jobs: 'Dev Jobs'
+    job-posting: Jobposting
+    job-postings: Vacatures
+    workshops: Werkplaatsen
+    dev-workshops: 'Dev Workshops'
+    events: Gebeurtenissen
+    conferences: Conferenties
+    event-conferences: 'Evenementen / Conferenties'
+    showcase: Tonen
+    tags: Tags
+    more: Meer
+    memberships: Leden
+    members: Leden
+    general-discussion: 'Algemene discussie'
+    technology-articles: 'Technische artikelen'
+    coding-challenges: 'Coding Challenges'
+    q-a: 'Sectie Q/A'
+    artificial-intelligence: 'Artificiële intelligentie'
+    computer-science: Computerwetenschappen
+    programming-languages: Programmeertalen
+    development-tools: Ontwikkelingsinstrumenten
+    software-development: Softwareontwikkeling
+    frontend-development: 'Ontwikkeling frontend'
+    backend-development: Backend-ontwikkeling
+    software-engineering: 'Software Engineering'
+    cybersecurity: Cybersecurity
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Teken teller'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Geboortedatum bewerken'
+      date_of_birth_text: Geboortedatum
+      submit_button: 'Wijzigingen opslaan'
+    settings:
+      change_dob_label: 'Geboortedatum wijzigen'
+      show_dob_date_label: 'Toon dag en maand van geboorte'
+      show_dob_year_label: 'Geboortejaar weergeven'
+      show_dob_year_help: 'Hierdoor kunnen mensen uw leeftijd zien.'
+      dob_heading: Geboortedatum
+    nav:
+      nav_item: 'De verjaardagen van vandaag'
+    edit_user:
+      dob_heading: Geboortedatum
+    sign_up:
+      dob_placeholder: Geboortedatum
+  api:
+    invalid_dob_message: 'Ongeldige geboortedatum'
+  ref:
+    date_of_birth: Geboortedatum
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: Emoji-kiezer
+    search_placeholder: Zoeken...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Auteur en datum bewerken'
+    modal:
+      title-post: 'Auteur en datum van bericht bewerken'
+      title-discussion: 'Auteur en datum van de discussie bewerken'
+      user: Auteur
+      created_at: 'Tijd tot oprichting'
+      edited_at: 'Tijd bewerken'
+      sync-with-discussion: 'Synchroniseren met discussie'
+      sync-with-post: 'Synchroniseren met eerste bericht'
+      sync-impossible: 'Kan eerste bericht niet vinden. Scrol naar het begin van de discussie.'
+      submit: Redden
+      cancel: Annuleren
+    search:
+      placeholder: 'Gebruikers zoeken'
+      type-more: 'Typ 3 tekens om de database te doorzoeken'
+      no-results: 'Geen resultaten'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Rich Text-modus in-/uitschakelen'
+      insert_button: Invoegen
+      insert_image: { src_placeholder: Verbinden, title_placeholder: Titel }
+      insert_link: { text_placeholder: Sms, href_placeholder: 'Naar de URL', title_placeholder: 'Titel (wordt weergegeven bij aanwijzen)', remove_button: Verwijderen }
+      additional_items_tooltip: 'Aanvullende bedieningselementen'
+      code_block_tooltip: 'Een codeblok invoegen'
+      horizontal_rule_tooltip: 'Horizontale lijn invoegen'
+      image_tooltip: 'Voeg een afbeelding toe'
+      link_tooltip: 'Voeg een link toe'
+      spoiler_block_tooltip: 'Blokkeer spoiler/dropdown'
+      strike_tooltip: 'Doorhaling <alt-shift-5>'
+      text_type_tooltip: 'Selecteer Teksttype'
+  forum:
+    settings:
+      composer_heading: Componist
+      use_rich_text_editor_label: 'Rich text-editor gebruiken?'
+      rich_text_compact_paragraphs_label: 'Scheid alinea''s niet met een nieuwe regel.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Je hebt pushmeldingen ingeschakeld, maar je hebt dit apparaat niet geconfigureerd.'
+      optin_button: Configureren
+    discussion_controls:
+      share_button: Delen
+    post_controls:
+      share_button: Delen
+    user_controls:
+      share_button: Delen
+    settings:
+      push_header: Duwen
+      pwa_notifications: { access_default: 'Vanwege browserbeperkingen moet u zich aanmelden voor het ontvangen van pushmeldingen op dit apparaat.', access_default_button: Aanmelden, access_denied: 'U moet uw browserinstellingen aanpassen om pushmeldingen op dit apparaat te ontvangen.', access_denied_button: 'Lees hier hoe', no_browser_support: 'Deze browser ondersteunt geen pushmeldingen voor progressieve web-apps.', no_browser_support_button: 'Meer informatie' }
+  views:
+    offline:
+      header: 'Fout in netwerkverbinding'
+      text: 'Voor deze app is een netwerkverbinding vereist; Het kan niet offline worden gebruikt. Controleer uw verbinding.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Gebruiker waarschuwen'
+    user:
+      warnings: 'Waarschuwingen voor moderators'
+    settings:
+      warning_notification_label: 'Een moderator waarschuwt me'
+    validation:
+      public_comment_required: 'U geeft het meest een openbare opmerking.'
+      invalid_strike_count: 'Het aantal waarschuwingen moet een geheel getal tussen 0 en 5 zijn.'
+    warning_controls:
+      delete_button: Verwijderen
+      restore_button: Herstellen
+      delete_forever_button: 'Definitief verwijderen'
+    warning_list:
+      add_button: 'Nieuwe waarschuwing'
+      no_warnings: 'Het lijkt erop dat er hier geen waarschuwingen zijn.'
+      warnings_no_strikes: 'Waarschuwingen voor moderators: geen waarschuwingen ontvangen'
+    warning_list_item:
+      public_comment: Waarschuwing
+      private_comment: 'Moderator-zichtbare opmerkingen'
+      linked_post: 'Verwante post'
+    warning_modal:
+      confirmation_message: 'Uw waarschuwing is opgeslagen. Mogelijk moet u de pagina vernieuwen om deze te zien.'
+      strikes_heading: 'Hoeveel waarschuwingen moeten worden toegepast?'
+      submit_button: 'Waarschuwing opslaan'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Antwoordsjabloon bewerken'
+    reply_template:
+      title: 'Antwoordsjabloon bewerken'
+      submit_button: 'Antwoordsjabloon opslaan'

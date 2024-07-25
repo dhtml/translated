@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Паролата, която въведохте, е неправилна.'
+      confirm_password_placeholder: 'Потвърдете паролата'
+      dismiss_button: Добре
+      submit_button: 'Запазите промените'
+      title: 'Промяна на имейл'
+    change_password:
+      send_button: 'Изпрати имейл за нулиране на парола'
+      text: 'Кликнете върху бутона по-долу и проверете имейла си за връзка, за да промените паролата си.'
+      title: 'Смяна на парола'
+    composer:
+      close_tooltip: Затварям
+      exit_full_screen_tooltip: 'Изход от цял екран'
+      full_screen_tooltip: 'Цял екран'
+      minimize_tooltip: Намали
+      preview_tooltip: Преглед
+    composer_discussion:
+      body_placeholder: 'Напиши публикация...'
+      discard_confirmation: 'Не сте публикували дискусията си. Искате ли да го изхвърлите?'
+      submit_button: 'Публикуване на обсъждане'
+      title_placeholder: 'Заглавие на обсъждане'
+      title: 'Започване на дискусия'
+    composer_edit:
+      discard_confirmation: 'Не сте записали промените си. Искате ли да ги изхвърлите?'
+      edited_message: 'Вашата редакция е направена.'
+      submit_button: 'Запазите промените'
+      view_button: Изглед
+    composer_reply:
+      discard_confirmation: 'Не сте публикували отговора си. Искате ли да го изхвърлите?'
+      posted_message: 'Вашият отговор беше публикуван.'
+      submit_button: 'Публикувай отговор'
+      body_placeholder: 'Напишете отговор...'
+      view_button: Изглед
+    discussion_controls:
+      cannot_reply_button: 'Не мога да отговоря'
+      cannot_reply_text: 'Нямате разрешение да отговаряте на това обсъждане.'
+      delete_confirmation: 'Наистина ли искате да изтриете това обсъждане?'
+      log_in_to_reply_button: 'Влезте, за да отговорите'
+      toggle_dropdown_accessible_label: 'Превключване на действията за обсъждане падащо меню'
+      delete_button: Изтривам
+      delete_forever_button: 'Изтриване завинаги'
+      rename_button: Преименуване
+      reply_button: Отговор
+      restore_button: Възстановявам
+    discussion_list:
+      empty_text: 'Изглежда, че тук няма дискусии.'
+      load_more_button: 'Зареди още'
+    forgot_password:
+      email_sent_message: 'Ако имейлът, който сте въвели е регистриран с този сайт, ще ви изпратим имейл, съдържащ линк, за да рестартирате паролата си. Проверете папката за спам, ако не я получите в следващата минута или две.'
+      not_found_message: 'Няма регистриран потребител с този имейл адрес.'
+      submit_button: 'Възстановяване на паролата'
+      text: 'Въведете вашия имейл адрес и ние ще ви изпратим линк, за да рестартирате паролата си.'
+      title: 'Забравена парола'
+      dismiss_button: Добре
+      email_placeholder: 'Е- поща'
+    header:
+      admin_button: Приложение
+      back_to_index_tooltip: 'Обратно към списъка с обсъждания'
+      locale_dropdown_accessible_label: 'Промяна на езиковата променлива на форума'
+      profile_button: Профил
+      search_clear_button_accessible_label: 'Изчистване на заявката за търсене'
+      search_placeholder: 'Търсене във форума'
+      search_role_label: 'Търсене във форума'
+      session_dropdown_accessible_label: 'Падащо меню "Опции за сесията"'
+      log_in_link: Влизане
+      log_out_button: Изход
+      settings_button: Настройки
+      sign_up_link: 'Регистрирайте се'
+    index:
+      cannot_start_discussion_button: 'Не може да се започне обсъждане'
+      mark_all_as_read_confirmation: 'Наистина ли искате да маркирате всички обсъждания като прочетени?'
+      refresh_tooltip: Опреснявам
+      toggle_sidenav_dropdown_accessible_label: 'Падащо меню за превключване на навигацията'
+      all_discussions_link: 'Всички дискусии'
+      mark_all_as_read_tooltip: 'Маркирай всичко като прочетено'
+      meta_title_text: 'Всички дискусии'
+      start_discussion_button: 'Започване на дискусия'
+    index_sort:
+      latest_button: Последна
+      newest_button: Най-нови
+      oldest_button: Старите
+      relevance_button: Значение
+      toggle_dropdown_accessible_label: 'Промяна на сортирането на списъка с обсъждания'
+      top_button: Връх
+      hot_button: Тенденция
+      votes_button: Upvotes
+      front_button: 'Начална страница'
+      popular_button: Популярен
+      unpopular_button: Непопулярни
+    log_in:
+      forgot_password_link: 'Забравена парола?'
+      invalid_login_message: 'Данните ви за вход са неправилни.'
+      remember_me_label: 'Запомни ме'
+      sign_up_text: 'Нямате акаунт? <a>Регистрирайте се</a>'
+      username_or_email_placeholder: 'Потребителско име или имейл адрес:'
+      password_placeholder: Парола
+      submit_button: Влизане
+      title: Влизане
+    notifications:
+      delete_all_confirm: 'Наистина ли искате да изтриете всички известия? Това действие не е обратимо'
+      delete_all_tooltip: 'Изтриване на всички известия'
+      empty_text: 'Няма известия'
+      mark_as_read_tooltip: 'Маркирай като прочетено'
+      toggle_dropdown_accessible_label: 'Преглед на известията'
+      mark_all_as_read_tooltip: 'Маркирай всичко като прочетено'
+      title: Уведомления
+      tooltip: Уведомления
+    post:
+      edited_text: Редактирани
+    post_controls:
+      delete_confirmation: 'Наистина ли искате да изтриете тази публикация завинаги? Това действие не може да бъде отменено.'
+      hide_confirmation: 'Наистина ли искате да изтриете тази публикация?'
+      toggle_dropdown_accessible_label: 'Превключване на контролите за публикуване падащо меню'
+      push_to_front_button: 'Натисни към FrontPage'
+      pull_from_front_button: 'Издърпайте от FrontPage'
+      delete_button: Изтривам
+      delete_forever_button: 'Изтриване завинаги'
+      edit_button: Редактирам
+      restore_button: Възстановявам
+    post_scrubber:
+      now_link: Сега
+      original_post_link: 'Оригинална публикация'
+    post_stream:
+      load_more_button: 'Зареди още'
+      reply_placeholder: 'Напишете отговор...'
+    rename_discussion:
+      title: 'Преименуване на обсъждане'
+      submit_button: Преименуване
+    search:
+      discussions_heading: Дискусии
+      users_heading: Потребители
+    security:
+      cannot_terminate_current_session: 'Текущата активна сесия не може да бъде прекратена. Вместо това излезте.'
+      created: Създаден
+      current_active_session: 'Текуща активна сесия'
+      developer_tokens_heading: 'Токени за разработчици'
+      empty_text: 'Изглежда, че тук няма какво да се види.'
+      global_logout: { heading: 'Глобално излизане', help_text: 'Изчиства текущата сесия на "бисквитките", прекратява всички сесии, отменя маркерите за разработчици и анулира всички имейли за потвърждение на имейл или нулиране на паролата.', log_out_button: Изход }
+      hide_access_token: 'Скрий маркера'
+      last_activity: 'Последна дейност'
+      new_access_token_modal: { submit_button: 'Създаване на маркер', title_placeholder: Заглавие, title: 'Нов маркер' }
+      revoke_access_token: Отменям
+      sessions_heading: 'Активни сесии'
+      session_termination_failed: 'Възникна грешка при прекратяване на вашите сесии.'
+      show_access_token: 'Преглед на маркер'
+      terminate_all_other_sessions: 'Прекратяване на всички други сесии'
+      terminate_session: Приключвам
+      token_revoked: 'Маркерът е отменен.'
+      token_title_placeholder: /
+      never: Никога
+      new_access_token_button: 'Нов маркер'
+      revoke_access_token_confirmation: 'Наистина ли искате да продължите? Това действие не може да бъде отменено.'
+      terminate_all_other_sessions_confirmation: 'Наистина ли искате да продължите? Това действие не може да бъде отменено.'
+      title: Безопасност
+    settings:
+      account_heading: Сметка
+      notify_by_web_heading: Уеб
+      notify_discussion_renamed_label: 'Някой преименува дискусия, която започнах'
+      privacy_disclose_online_label: 'Позволяване на другите да виждат, когато съм онлайн'
+      privacy_heading: Поверителност
+      change_email_button: 'Промяна на имейл'
+      change_password_button: 'Смяна на парола'
+      notifications_heading: Уведомления
+      notify_by_email_heading: 'Е- поща'
+      title: Настройки
+    sign_up:
+      log_in_text: 'Вече имате акаунт? <a>Влизане</a>'
+      dismiss_button: Добре
+      email_placeholder: 'Е- поща'
+      password_placeholder: Парола
+      submit_button: 'Регистрирайте се'
+      title: 'Регистрирайте се'
+      username_placeholder: 'Потребителско име'
+    user:
+      avatar_upload_button: Качвам
+      avatar_upload_tooltip: 'Качване на нов аватар'
+      online_text: Онлайн
+      posts_empty_text: 'Изглежда, че тук няма публикации.'
+      avatar_remove_button: Махам
+      discussions_link: Дискусии
+      posts_link: Постове
+      posts_load_more_button: 'Зареди още'
+      security_link: Безопасност
+      settings_link: Настройки
+    user_controls:
+      button: Контрол
+      delete_confirmation: 'Наистина ли искате да изтриете този потребител? Публикациите на потребителя няма да бъдат изтривани.'
+      toggle_dropdown_accessible_label: 'Превключване на падащото меню за потребителски контроли'
+      delete_button: Изтривам
+      edit_button: Редактирам
+    user_email_confirmation:
+      resend_button: 'Повторно изпращане на имейл за потвърждение'
+      sent_message: Изпратени
+    welcome_hero:
+      hide: 'Скрий приветственото съобщение'
+    badge:
+      frontpage_tooltip: 'Маркирано като FrontPage'
+  lib:
+    debug_button: Отстраняване
+    alert:
+      dismiss_a11y_label: 'Отхвърляне на предупреждение'
+    badge:
+      hidden_tooltip: Скрит
+    dropdown:
+      toggle_dropdown_accessible_label: 'Превключване на падащото меню'
+    edit_user:
+      activate_button: 'Активиране на потребител'
+      groups_heading: Групи
+      set_password_label: 'Задаване на нова парола'
+      nothing_available: 'Нямате право да редактирате този потребител.'
+      email_heading: 'Е- поща'
+      email_label: 'Е- поща'
+      password_heading: Парола
+      password_label: Парола
+      submit_button: 'Запазите промените'
+      title: 'Редактиране на потребител'
+      username_heading: 'Потребителско име'
+      username_label: 'Потребителско име'
+    error:
+      generic_message: 'Опа! Нещо се обърка. Моля, презаредете страницата и опитайте отново.'
+      generic_cross_origin_message: 'Опа! Нещо се обърка по време на искане за кръстосан произход. Моля, презаредете страницата и опитайте отново.'
+      not_found_message: 'Заявеният ресурс не е намерен.'
+      payload_too_large_message: 'Полезният товар на заявката е твърде голям.'
+      permission_denied_message: 'Нямате разрешение да правите това.'
+      rate_limit_exceeded_message: 'Отиваш малко прекалено бързо. Моля, опитайте отново след няколко секунди.'
+      render_failed_message: 'За съжаление се натъкнахме на грешка при показването на това съдържание. Ако сте потребител, моля, опитайте отново по-късно. Ако сте администратор, погледнете в регистрационните файлове на Flarum за повече информация.'
+    modal:
+      close: Затварям
+    nav:
+      drawer_button: 'Отваряне на чекмеджето за навигация'
+    loading_indicator:
+      accessible_label: Зареждане...
+  views:
+    confirm_email:
+      text: 'Кликнете върху бутона по-долу, за да потвърдите имейла на профила си.'
+      submit_button: 'Потвърдете имейла'
+      title: 'Потвърдете имейла'
+    content:
+      javascript_disabled_message: 'Този сайт се разглежда най-добре в модерен браузър с активиран JavaScript.'
+      load_error_message: 'Нещо се обърка, докато се опитвахте да заредите пълната версия на този сайт. Опитайте да обновите тази страница, за да поправите грешката.'
+      loading_text: Зареждане...
+    error:
+      csrf_token_mismatch: 'Твърде дълго сте били неактивни.'
+      csrf_token_mismatch_return_link: 'Върни се, за да опиташ отново'
+      invalid_confirmation_token: 'Тази връзка за потвърждение вече е използвана или е невалидна.'
+      not_authenticated: 'Нямате разрешение за достъп до тази страница. Опитайте отново, след като влезете.'
+      not_found: 'Страницата, която търсите не може да бъде намерена.'
+      permission_denied: 'Нямате разрешение за достъп до тази страница.'
+      unknown: 'Възникна грешка при опит за зареждане на тази страница.'
+    log_out:
+      log_out_button: Изход
+      title: Изход
+    reset_password:
+      confirm_password_label: 'Потвърждаване на нова парола'
+      new_password_label: 'Нова парола'
+      submit_button: 'Запазите промените'
+      title: 'Нулиране на паролата'
+    discussion:
+      next_page_button: 'Следваща страница'
+      previous_page_button: 'Предишна страница'
+    index:
+      all_discussions_heading: 'Всички дискусии'
+      next_page_button: 'Следваща страница'
+      previous_page_button: 'Предишна страница'
+  api:
+    invalid_username_message: 'Потребителското име може да съдържа само букви, цифри и тирета.'
+  email:
+    activate_account:
+      subject: 'Активирайте новия си акаунт'
+    confirm_email:
+      subject: 'Потвърдете новия си имейл адрес'
+    reset_password:
+      subject: 'Нулиране на паролата'
+    send_test:
+      subject: 'Тест за електронна поща на Flarum'
+  ref:
+    all_discussions: 'Всички дискусии'
+    change_email: 'Промяна на имейл'
+    change_password: 'Смяна на парола'
+    color: Цвят
+    confirm_password: 'Потвърдете паролата'
+    confirm_email: 'Потвърдете имейла'
+    custom_footer_text: 'Добавете HTML, който да се показва в долната част на страницата.'
+    custom_footer_title: 'Редактиране на потребителски долен колонтитул'
+    custom_header_text: 'Добавете HTML, за да се показва в най-горната част на страницата, над собствената заглавка на Flarum.'
+    custom_header_title: 'Редактиране на потребителски горен колонтитул'
+    delete: Изтривам
+    delete_forever: 'Изтриване завинаги'
+    discussions: Дискусии
+    edit: Редактирам
+    edit_user: 'Редактиране на потребител'
+    email: 'Е- поща'
+    extensions: Разширения
+    generic_confirmation_message: 'Наистина ли искате да продължите? Това действие не може да бъде отменено.'
+    icon: Икона
+    load_more: 'Зареди още'
+    loading: Зареждане...
+    log_in: Влизане
+    log_out: Изход
+    mark_all_as_read: 'Маркирай всичко като прочетено'
+    never: Никога
+    new_token: 'Нов маркер'
+    next_page: 'Следваща страница'
+    notifications: Уведомления
+    okay: Добре
+    password: Парола
+    posts: Постове
+    previous_page: 'Предишна страница'
+    remove: Махам
+    rename: Преименуване
+    reply: Отговор
+    reset_your_password: 'Нулиране на паролата'
+    restore: Възстановявам
+    save_changes: 'Запазите промените'
+    search_users: 'Търсене на потребители'
+    security: Безопасност
+    settings: Настройки
+    sign_up: 'Регистрирайте се'
+    start_a_discussion: 'Започване на дискусия'
+    username: 'Потребителско име'
+    users: Потребители
+    view: Изглед
+    write_a_reply: 'Напишете отговор...'
+    you: Ти
+  group:
+    admin: Администратор
+    admins: Администратори
+    guest: Гост
+    guests: Гостите
+    member: Член
+    members: Членове
+    mod: Начин
+    mods: Модове
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Всички етикети'
+      meta_title_text: Етикети
+    choose_tags:
+      title: 'Изберете етикети за вашето обсъждане'
+    discussion_controls:
+      edit_tags_button: 'Редактиране на етикети'
+    header:
+      back_to_tags_tooltip: 'Обратно към списъка с етикети'
+    index:
+      more_link: Още...
+      untagged_link: Немаркирани
+      tags_link: Етикети
+    composer_discussion:
+      choose_tags_link: 'Изберете етикети'
+  lib:
+    deleted_tag_text: Изтрити
+    tag_selection_modal:
+      bypass_requirements: 'Изисквания за обхождане на етикети'
+      submit_button: Добре
+      title: 'Изберете етикети'
+  ref:
+    choose_tags: 'Изберете етикети'
+    name: Име
+    tags: Етикети
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Споменаване на потребител, група или публикация'
+    mentioned_by:
+      title: 'Отговори на тази публикация'
+      load_more_button: 'Зареди още'
+    post:
+      quote_button: Цитат
+      reply_link: Отговор
+      you_text: Ти
+    settings:
+      notify_post_mentioned_label: 'Някой отговаря на един от постовете ми'
+      notify_user_mentioned_label: 'Някой ме споменава в пост'
+      notify_group_mentioned_label: 'Някой споменава група, на която съм член в пост'
+    user:
+      mentions_link: Споменава
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Отмяна на следването'
+      unignore_button: Унсир
+      follow_button: Следвам
+    settings:
+      follow_after_reply_label: 'Автоматично следвай обсъжданията, на които отговарям'
+      notify_for_all_posts_label: 'Уведомявайте за всяка нова публикация, вместо само за последната в дискусия'
+      notify_new_post_label: 'Някой публикува в дискусия, която следя'
+    sub_controls:
+      following_text: 'Бъдете уведомени за всички отговори.'
+      ignoring_text: 'Никога не бъдете уведомени. Скриване от списъка с обсъждания.'
+      not_following_button: 'Не следва'
+      not_following_text: 'Бъдете уведомявани само когато @mentioned.'
+      notify_alert_tooltip: 'Получаване на известие във форума, когато има нови публикации'
+      notify_email_tooltip: 'Получаване на имейл, когато има нови публикации'
+      follow_button: Следвам
+      following_button: Следните
+      ignoring_button: Игнорира
+    badge:
+      following_tooltip: Следните
+      ignoring_tooltip: Игнорира
+    following:
+      meta_title_text: Следните
+    index:
+      following_link: Следните
+  ref:
+    follow: Следвам
+    following: Следните
+    ignoring: Игнорира
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Благодаря ви, че маркирахте този пост. Нашите модератори ще го разгледат.'
+      reason_inappropriate_label: Неподходящ
+      reason_inappropriate_text: 'Тази публикация е обидна, обидна или нарушава <a>нашите насоки за общността</a>.'
+      reason_missing_message: 'Моля, дайте някои подробности за нашите модератори.'
+      reason_off_topic_label: 'Извън темата'
+      reason_off_topic_text: 'Тази публикация не е свързана с настоящата дискусия и трябва да бъде преместена другаде.'
+      reason_other_label: 'Друго (моля, уточнете)'
+      reason_spam_label: Спам
+      reason_spam_text: 'Тази статия е реклама.'
+      dismiss_button: Добре
+      submit_button: 'Флаг пост'
+      title: 'Флаг пост'
+    flagged_posts:
+      empty_text: 'Няма знамена'
+      title: 'Маркирани с флаг публикации'
+      tooltip: 'Маркирани с флаг публикации'
+    post:
+      dismiss_flag_button: 'Отхвърляне на флаг'
+    post_controls:
+      flag_button: Флаг
+  ref:
+    flag_post: 'Флаг пост'
+    flagged_posts: 'Маркирани с флаг публикации'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Отстранени сте за неопределено време'
+      user_unsuspended_text: 'Вие сте били отстранени'
+    suspension_info:
+      dismiss_button: Отхвърли
+      indefinite: 'Това е безсрочно спиране'
+      title: 'Този акаунт е спрян'
+    suspend_user:
+      display_message: 'Показване на съобщение за потребител'
+      indefinitely_label: 'Спряно за неопределено време'
+      limited_time_days_text: ' Дни'
+      limited_time_label: 'Спряно за ограничен период от време...'
+      not_suspended_label: 'Не е спряно'
+      placeholder_optional: Факултативен
+      reason: 'Причина за спирането'
+      status_heading: 'Състояние на суспендирането'
+      submit_button: 'Запазите промените'
+    user_badge:
+      suspended_tooltip: Спряно
+    user_controls:
+      suspend_button: Спирам
+  email:
+    no_reason_given: 'Не беше посочена причина за това спиране.'
+    suspended:
+      subject: 'Вашият акаунт е спрян'
+    unsuspended:
+      subject: 'Вашият акаунт не е спрян'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Всички файлове, качени от потребителя.', anonymize_description: 'Премахва потребителската препратка от качените файлове. Самите файлове остават достъпни за потребителите, които биха могли да ги видят предварително анонимизиране.', delete_description: 'Изтрива всички файлове, качени от потребителя.' }
+      tagsubscription: { export_description: 'Експортира подробни данни за нивото на абонамент за етикет, ако има такъв.', anonymize_description: 'Премахва абонамента на потребителя за етикета.' }
+      followuser: { export_description: 'Експортира подробни данни за следваните потребители и следващите потребители.', delete_description: 'Изтрива всички данни, свързани със следните потребители.', anonymize_description: 'Изтрива всички данни, свързани със следните потребители.' }
+      bannedipdata: { export_description: 'Ако запис за забрана на IP е свързан с потребител (т.е. потребителят е бил забранен от IP), IP адресът на потребителя ще бъде включен в експортирането, заедно с причината за забраната и датата на създаване.', anonymize_description: 'Всички IP адреси, свързани с потребителя, са отделени, но самият IP адрес ще остане забранен, заедно с причината. Уверете се, че в полето "причина" не се съхраняват лични данни.' }
+fof-upload:
+  forum:
+    media_manager: 'Медиен мениджър'
+    buttons:
+      attach: Прикрепям
+      upload: Качвам
+      upload_shared: Споделени
+      user_uploads: 'Качване от потребители'
+      cancel: Отмени
+      media: 'Моята медия'
+      shared_media: 'Споделена медия'
+    states:
+      error: Грешка
+      loading: Качване
+      unauthorized: 'Нямате право да изтегляте файлове'
+    text_preview:
+      expand: 'Разгъване на визуализацията'
+      collapse: 'Свиване на визуализацията'
+      error: "Грешка при визуализиране на файл. Възможно е да е изтрит или предоставеният ИД на файл да е невалиден.\n"
+      no_snippet_preview: '<предварителен преглед ще се появи тук след публикуване>'
+      no_snippet: '<няма наличен фрагмент за визуализация>'
+  api:
+    upload_errors:
+      forbidden_type: 'Качването на файлове от този тип не е разрешено.'
+      could_not_detect_mime: 'MIME типът на този файл не можа да бъде открит, опитайте отново.'
+      max_upload_file_size_ini: 'Качване на максималния размер на файла, достигнат от php.ini.'
+      max_upload_file_size_form: 'Качване на максималния лимит за размер на файла, достигнат от формуляра.'
+      partial_upload: 'Частично качване.'
+      no_file_uploaded: 'Няма качен файл.'
+      no_upload_tmp_folder: 'Няма tmp папка за качване на файлове.'
+      cannot_write_to_disk: 'Не може да се записва на диска.'
+      upload_blocked_by_php_extension: 'Разширение на php блокира качването.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Нов споделен файл'
+      dropzone: 'Плъзнете и пуснете файлове тук или щракнете, за да прегледате'
+      hide-from-media-gallery: 'Скриване от медийната галерия на потребителя'
+      upload: Качвам
+    file_list:
+      loading: 'Зареждане на файлове...'
+      empty: 'Няма файлове за показване.'
+      release_to_upload: 'Освободете за качване'
+      modal_empty_desktop: 'Вашият списък с файлове е празен. Щракнете върху бутона или плъзнете файл тук, за да качите.'
+      modal_empty_phone: 'Вашият списък с файлове е празен. Докоснете бутона по-горе, за да качите файл.'
+      load_more_files_btn: 'Зареждане на още файлове'
+      hide_file: { hide_success: 'Файлът е скрит', show_success: 'Показан файл', loading: 'Скриване на файл...' }
+      hide_shared_file: { hide_success: 'Файлът става частен', show_success: 'Файлът е публично оповестен', loading: 'Правене на файла частен...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Написал
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Добавяне на получер текст'
+      code_tooltip: 'Вмъкване на код'
+      header_tooltip: 'Добавяне на текст на горен колонтитул'
+      image_tooltip: 'Добавяне на изображение'
+      italic_tooltip: 'Добавяне на курсив текст'
+      link_tooltip: 'Добавяне на връзка'
+      ordered_list_tooltip: 'Добавяне на номериран списък'
+      quote_tooltip: 'Вмъкване на оферта'
+      spoiler_tooltip: 'Вмъкване на спойлер'
+      strikethrough_tooltip: 'Добавяне на зачеркнат текст'
+      unordered_list_tooltip: 'Добавяне на списък с водещи символи'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Някой създава дискусия в етикет, който следвам'
+      notify_new_post_label: 'Някой публикува в етикет, който следвам'
+      notify_new_discussion_tag_label: 'Някой повторно маркира дискусия в етикет, който следвам'
+    index:
+      follow_tag_button: Следвам
+      unfollow_tag_button: 'Спри да следваш'
+      following: { following_none_label: 'Следвани дискусии', following_tags_label: 'Следвани етикети' }
+    badge:
+      following_tag_tooltip: Следните
+      lurking_tag_tooltip: Дебнат
+    sub_controls:
+      following_text: 'Бъдете уведомени за всички нови дискусии.'
+      hiding_text: 'Скриване на обсъжданията от страницата "Всички обсъждания".'
+      ignoring_text: 'Никога не бъдете уведомени.'
+      lurking_text: 'Бъдете уведомени за всички нови дискусии и отговори.'
+      not_following_button: 'Не следва'
+      not_following_text: 'Бъдете уведомявани само когато @mentioned.'
+      notify_alert_tooltip: 'Получаване на известие във форума, когато има нови дискусии или публикации'
+      notify_email_tooltip: 'Получаване на имейл, когато има нови дискусии или публикации'
+      submit_button: 'Потвърждаване на абонамента'
+      follow_button: Следвам
+      following_button: Следните
+      hiding_button: Крие
+      ignoring_button: Игнорира
+      lurking_button: Дебнат
+    user:
+      settings: { heading: 'Следвай етикетите', filter_label: 'Какво да се показва по подразбиране в следващата страница' }
+  ref:
+    follow: Следвам
+    following: Следните
+    hiding: Крие
+    ignoring: Игнорира
+    lurking: Дебнат
+    filtering_options:
+      none: 'Следвани дискусии'
+      tags: 'Следвани етикети'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Този псевдоним е невалиден. Моля, свържете се с администратора на вашия форум за повече информация относно правилата за псевдоними.'
+  ref:
+    change_nickname: 'Промяна на псевдоним'
+    nickname: Прякор
+  forum:
+    change_nickname:
+      submit_button: 'Запазите промените'
+      title: 'Промяна на псевдоним'
+    edit_user:
+      nicknames_heading: 'Промяна на псевдоним'
+      nicknames_text: Прякор
+    settings:
+      change_nickname_button: 'Промяна на псевдоним'
+    sign_up:
+      nickname_placeholder: Прякор
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Свързани акаунти', last-used-label: 'Последно използван', link-created-label: 'Връзката е създадена', orphaned-account: 'Влизали сте чрез този доставчик и преди, но оттогава този форум е забранил влизането с този метод.', help: 'Тези свързани акаунти ви позволяват да влезете във форума с помощта на други доставчици.' } }
+    signup:
+      username_help: 'Моля, изберете потребителско име, което да познавате от тук'
+    unlink: 'Премахване на връзка'
+    error:
+      bad_verification_code: 'Невалиден или изтекъл маркер за потвърждение. Моля, опитайте отново.'
+      invalid_state: 'Невалидно състояние. Моля, опитайте отново.'
+    providers:
+      discord: Раздор
+      facebook: 'Карта сайта'
+      github: ГитХъб
+      gitlab: ГитЛаб
+      google: Гугъл
+      linkedin: Линкови
+      twitter: '2014'
+  lib:
+    providers:
+      discord: Раздор
+      facebook: 'Карта сайта'
+      github: ГитХъб
+      gitlab: ГитЛаб
+      twitter: '2014'
+      google: Гугъл
+      linkedin: Линкови
+  ref:
+    settings:
+      app_id: 'ИД на приложение'
+      app_secret: 'Тайна на приложението'
+      client_id: 'ИД на клиент'
+      client_secret: 'Клиентска тайна'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Вход като друг потребител'
+      placeholder_optional: '(По избор) Посочете причината за преминаване към този потребител'
+      placeholder_required: 'Трябва да посочите причината за преминаване към този потребител, преди да продължите'
+    user_controls:
+      impersonate_button: 'Вход като потребител'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Частна дискусия' }
+    buttons:
+      add_recipients: Получатели
+      submit: Добре
+      edit_recipients: 'Редактиране на получатели'
+      cancel: Отмени
+      make_public: 'Направете тази дискусия публична'
+      remove_from_discussion: 'Оставете тази лична дискусия'
+    composer_private_discussion:
+      submit_button: 'Публикуване на лично обсъждане'
+      title_placeholder: 'Заглавие на частна дискусия'
+    confirm:
+      make_public: 'Наистина ли искате да премахнете получателите и да направите това обсъждане видимо за всеки, който може да види присвоения етикет?'
+    nav:
+      start_button: 'Обсъдете частно'
+      nav_item: 'Частни дискусии'
+    input:
+      search_recipients: 'Търсене на получател чрез въвеждане на първите три знака...'
+    search:
+      headings: { groups: 'Групи разрешения' }
+    modal:
+      titles: { add_recipients: 'Добавяне на получатели към вашето обсъждане' }
+      labels: { selected_users: 'Избрани потребители', search_field: 'Търсене на потребител' }
+      help: { add_recipients: 'Тази дискусия ще бъде видима само за потребителите, които изберете тук. Изисква се поне 1 получател (различен от вас).', update_recipients: 'Тази дискусия ще бъде видима само за потребителите, които изберете тук.', selected_users: 'Щракнете върху името на потребителя, за да го премахнете.', click_user_to_remove_tooltip: 'Щракнете, за да премахнете' }
+    user:
+      settings: { block_pd: 'Блокиране на частни обсъждания' }
+      byobu_link: 'Частни дискусии'
+      dropdown_label: 'Частни дискусии'
+    notifications:
+      pd_label: 'Някой ме включва в нова лична дискусия'
+      pd_reply_label: 'Някой публикува в частна дискусия, на която съм получател'
+      pd_user_left_label: 'Потребител получател оставя лично обсъждане, от което съм част'
+      pd_added_label: 'Някой ме добавя към съществуваща частна дискусия'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Информация за значката'
+    all_badges: 'Виж всички значки'
+    all_users: 'Виж всички потребители'
+    give_badge: 'Дайте значка'
+    update_badge: 'Актуализиране на значка'
+    select_badge: 'Изберете значка'
+    user_has_badge: 'Потребителят вече има тази значка.'
+    user_no_badges: 'Този потребител все още няма значки.'
+    no_received: 'Никой потребител не е спечелил тази значка.'
+    save_changes: 'Запазите промените'
+    badge:
+      badge: Значка
+      badges: Значки
+      name: 'Име на значката'
+      description: 'Описание на значката'
+      earning_reason: 'Причина за спечелване на значка'
+      update_earning_reason: 'Актуализиране на причината за печалба'
+      no_earning_reason: 'Няма зададена причина за печалба'
+      earned_on: 'Значка, спечелена на'
+      category: 'Категория значка'
+      badge_details: 'Подробности за значката'
+    badges_in_card:
+      title: 'Значки в потребителската карта'
+      manage_badges: 'Управление на значки'
+      description: 'Можете да промените видимите значки в потребителската си карта с една от другите си значки. Ако не изберете такива, те ще бъдат избрани автоматично.'
+    moderation:
+      remove_badge: 'Премахване на значка от потребителя'
+      remove_badge_confirm: 'Наистина ли искате да премахнете тази значка от този потребител?'
+      give_badge: 'Дайте значка'
+    notification:
+      title: 'Получихте нова значка'
+      settings: 'Получих значка'
+    uncategorized: 'Без категория'
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Нещастен статус'
+      not_miserable_label: 'Не е нещастен'
+      indefinitely_label: 'Нещастен за неопределено време'
+      limited_time_label: 'Нещастен за ограничен период от време...'
+      limited_time_days_text: ' Дни'
+      submit_button: 'Запазите промените'
+    user_badge:
+      miserable_user_tooltip: 'Нещастен потребител'
+    user_controls:
+      miserable_user_button: 'Нещастен потребител'
+  ref:
+    miserable_user: 'Нещастен потребител'
+sycho-profile-cover:
+  forum:
+    cover: Капак
+    edit_cover: 'Редактиране на корица'
+    added:
+      success: 'Обложката на профила е актуализирана.'
+      error: 'Изображението не можа да бъде качено.'
+    removed:
+      success: 'Капакът на профила е премахнат.'
+      error: 'Капакът не можа да бъде премахнат, опитайте отново по-късно.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Копиране в системния буфер'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Последни посетители', guest: Гост }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Код на държава'
+    saveButton: Спасявам
+    clickToSelectCountry: 'Изберете вашата държава'
+    countrySaved: 'Държавата е успешно спасена!'
+    field_placeholder: 'Потвърждаване на флаговете на държавите'
+    binding_country: 'Открихме, че не сте обвързали местонахождението си. Моля, свържете първо вашата страна. Можете да публикувате и оставяте съобщения само след свързване на вашата страна.'
+    binding_country_click: 'Щракнете сега'
+username-blacklist:
+  forum:
+    modal-title: Предупреждение!
+    modal-body-first-line: 'Предупреждение - Това потребителско име е <strong>блокирано от администратор</strong>'
+    modal-body-second-line: 'Моля, изберете друго потребителско име, което не нарушава нашите насоки за общността и опитайте отново.'
+  admin:
+    blackList: 'Потребителско име в черния списък'
+    blackList-help: 'Напишете тук потребителско име, което искате да блокирате по време на регистрацията (разделено със запетая)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Синопсис, show-summaries: 'Показване на откъс от всяко обсъждане в списъци с обсъждания (настолен компютър/таблет)', show-summaries-mobile: 'Показване на откъс от всяко обсъждане в списъци с обсъждания (мобилни)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Дейност на форума'
+      forum_new_discussions: 'Новите дискусии във форума'
+      discussion_last_posts: 'Тази дискусия'
+      user_last_posts: 'Публикации & коментари от този потребител'
+    feeds:
+      titles: { main_subtitle: 'Последни публикации във форума', main_d_subtitle: 'Най-новите дискусии във форума', discussion_subtitle: 'Последни съобщения в това обсъждане', user_subtitle: 'Последни публикации & коментари от този потребител.' }
+    discussion:
+      feed_link: Храня
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Последвано
+    profile_page:
+      no_following: 'Изглежда, че не следваш никого.'
+    settings:
+      notify_new_follower_label: 'Някой ме следва'
+      notify_new_unfollower_label: 'Някой спира да ме следва'
+      notify_new_discussion_label: 'Някой, когото следвам, започва дискусия'
+      notify_new_post_label: 'Някой, когото следя постове в съществуваща дискусия'
+      block_follow: 'Забрани на потребителите да ме следват'
+    badge:
+      label: { follow: 'След дискусии', lurk: 'Следвайки всички' }
+    filter:
+      following: 'Следвани потребители'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Следване на нива', follow_select_label: 'Следвай типа', no_user_attr_provided_err: 'Нещо се обърка, докато отваряше този модал.', no_user_attr_provided_err_debug: 'При създаването му не е предаден атрибут "потребител" на модала SelectFollowUserLevel. Модалът не може да бъде рендиран.', save_btn: Спасявам, cancel_btn: Отмени }
+    profile_link: 'Следвани потребители'
+    user_controls:
+      follow_button: Следвам
+      unfollow_button: 'Отмяна на следването'
+      change_button: 'Промяна на типа на следване'
+    index:
+      follow_tag_button: Следвам
+      unfollow_tag_button: 'Промяна на типа на следване'
+  email:
+    new_follower_subject: '[Следвай потребителя] Имате нов последовател!'
+  lib:
+    following_link: 'Следвани потребители'
+    follow: Следвам
+    change_follow_type: 'Промяна на типа на следване'
+    unfollow: 'Отмяна на следването'
+    follow_levels:
+      unfollow: { name: 'Не следвайте' }
+      follow: { name: 'Следване на обсъжданията' }
+      lurk: { name: 'Следете всички' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Моля, уверете се, че тази поискана промяна на псевдонима следва указанията на форума.', decision_title: Решение, approval_label: Одобрявам, rejected_label: Отхвърлям, submit_button: Изпрати, reason_title: 'Причина за отхвърляне', success: 'Решението е изпратено.', title: 'Искане за промяна на псевдоним' }
+      results: { title: 'Искане за промяна на псевдоним', approved: 'Вашето искане за промяна на псевдоним е одобрено', rejected: 'Вашето искане за промяна на псевдоним е отхвърлено', resubmit: 'В този момент можете да изпратите отново нова заявка за промяна на псевдонима от настройките на профила си, ако решите.', dismiss_button: Добре }
+      request: { title: 'Искане за промяна на псевдоним', submit_button: 'Подаване на заявка', delete_button: 'Изтриване на искане', confirmation_message: 'Вашата заявка за промяна на псевдоним е подадена и чака одобрение.', deleted: 'Искането за псевдоним е изтрито.', dismiss_button: Добре }
+    username_modals:
+      action: { help_text: 'Моля, уверете се, че тази поискана промяна на потребителското име следва указанията на форума.', decision_title: Решение, approval_label: Одобрявам, rejected_label: Отхвърлям, submit_button: Изпрати, reason_title: 'Причина за отхвърляне', success: 'Решението е изпратено.', title: 'Искане за промяна на потребителско име' }
+      results: { title: 'Искане за промяна на потребителско име', approved: 'Вашата заявка за промяна на потребителско име е одобрена', rejected: 'Вашата заявка за промяна на потребителско име е отхвърлена', resubmit: 'В този момент можете да изпратите отново нова заявка за промяна на потребителско име от настройките на профила си, ако решите.', dismiss_button: Добре }
+      request: { title: 'Искане за промяна на потребителско име', submit_button: 'Подаване на заявка', delete_button: 'Изтриване на искане', confirmation_message: 'Вашата заявка за промяна на потребителско име е подадена и чака одобрение.', deleted: 'Заявката за потребителско име е изтрита.', dismiss_button: Добре }
+    pending_requests:
+      empty_text: 'Не са намерени искания за промяна на името.'
+      tooltip: 'Искания за промяна на име'
+      title: 'Искания за промяна на име'
+    settings:
+      nickname_request_button: 'Промяна на псевдоним'
+      username_request_button: 'Промяна на потребителско име'
+    user:
+      name_history_link: 'История на имената'
+  ref:
+    name_change_request: 'Искане за промяна на име'
+    name_change_requests: 'Искания за промяна на име'
+    nickname_change_request: 'Искане за промяна на псевдоним'
+    nickname_change_requests: 'Искания за промяна на псевдоним'
+    username_change_request: 'Искане за промяна на потребителско име'
+    username_change_requests: 'Заявки за промяна на потребителско име'
+  email:
+    body:
+      noReasonProvided: 'Не е посочена причина.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Напиши нещо за себе си'
+    profile:
+      cancel_confirm: 'Наистина ли искате да отмените редактирането на вашата биография? Ще загубите всички промени, които сте направили.'
+      cancel_button: Отмени
+      save_button: Спасявам
+      edit_bio_label: 'Редактиране на био'
+fof-split:
+  forum:
+    split:
+      from: 'Разделете се от тук'
+      to: 'Разделете се на тук'
+      cancel: 'Отмени разделянето'
+    modal:
+      title: 'Разделно обсъждане'
+      new_discussion_label: 'Задайте заглавието на новото обсъждане'
+      submit_button: Цепя
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Редактиране на бутоните за социални медии'
+      add: 'Добавяне на бутони към социалните медии'
+      headtitle: 'Редактиране на бутони'
+      title: Заглавие
+      url: 'URL адрес'
+      submit: Спасявам
+      delete: Изтривам
+      deletetitle: 'Бутон за изтриване'
+      save_disabled_fetching_favicons: 'Извличат се една или повече икони. Моля, изчакайте.'
+      favicon: Фавикон
+      grey_favicon: 'Сив фавикон'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Дял
+      share_dropdown_accessible_label: 'Превключване на падащото меню за споделяне на обсъждания'
+    modal:
+      title: Дял
+      copy_button: Копирам
+  lib:
+    networks:
+      facebook: 'Карта сайта'
+      twitter: '2014'
+      linkedin: Линкови
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Телеграма
+      vkontakte: ВКонтакте
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Моят свят'
+      qq: QQ
+      qzone: QZone
+      native: 'Родно споделяне'
+fof-recaptcha:
+  forum:
+    error: 'Възникна грешка при подаване на reCAPTCHA. Опитайте отново.'
+    unknown_error: 'Възникна неизвестна грешка. Проверете captcha и опитайте отново.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Не можете да използвате тази реакция в момента, моля, обновете страницата'
+    warning: 'Реакцията ви е преобразувана'
+    settings:
+      notify_post_reacted_label: 'Някой реагира на един от постовете ми'
+    reacting-own-post: 'Не можете да реагирате на собствения си пост'
+    modal:
+      title: Реакции
+      no_reactions: 'Все още няма реакции'
+    mod_item: 'Преглед на реакциите'
+    react_button_label: Реагира
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Неуспешно зареждане на изрязващия образ.', generic_resize: 'Нещо се обърка при изрязване & преоразмеряване на изображението.', get_image_data: 'Неуспешно изрязване. Уверете се, че защитата от пръстови отпечатъци на браузъра ви е деактивирана.' }
+      help_text: "Качването на изображения може да се провали, ако настройките за поверителност на браузъра ви са много строги. Ако имате проблеми, опитайте да деактивирате защитата от пръстови отпечатъци. В противен случай можете или да <disableResize>деактивирате компресирането на изрязаното изображение</disableResize>, или да <disableCrop>деактивирате изрязването напълно</disableCrop>.\n"
+      submit_button: Качвам
+      submit_crop_button: 'Изрязване и качване'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Много е вероятно тя да не се нуждае от по-нататъшно обсъждане и по този начин да не служи на никаква цел.', checkbox_label: 'Наясно съм, че тази дискусия е доста стара, но все пак бих искал да отговоря.', error: 'Това обсъждане е твърде старо, за да се отговори.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Нямате разрешение да гласувате'
+    poll_ended: 'Тази анкета приключи.'
+    public_poll: 'Преглед на избирателите'
+    composer_discussion:
+      add_poll: 'Добавяне на анкета'
+      edit_poll: 'Редактиране на анкета'
+    modal:
+      add_title: 'Добавяне на анкета'
+      add_option_label: 'Добавяне на опция'
+      edit_title: 'Редактиране на анкета'
+      include_question: 'Трябва да включите въпрос'
+      max: 'Можете да имате максимум 10 отговора'
+      min: 'Трябва да включите минимум 2 отговора'
+      no_voters: 'Няма гласове'
+      option_placeholder: Отговор
+      image_option_placeholder: 'URL адрес на изображение (по избор)'
+      options_label: Отговори
+      public_poll_label: 'Дайте възможност на хората да видят кой е гласувал'
+      allow_multiple_votes_label: 'Позволяване на хората да гласуват за няколко опции'
+      max_votes_label: 'Максимален брой гласове на потребител'
+      max_votes_help: 'Задайте 0, за да позволите на потребителите да гласуват за всички опции.'
+      question_placeholder: Въпрос
+      submit: Изпрати
+    moderation:
+      delete: 'Премахване на анкета'
+      delete_confirm: 'Наистина ли искате да изтриете тази анкета?'
+      edit: 'Редактиране на анкета'
+    tooltip:
+      badge: Анкета
+    votes_modal:
+      title: Избирателите
+fof-nightmode:
+  ref:
+    auto: 'Автоматично (въз основа на опциите на браузъра или устройството)'
+    light: 'Дневен режим'
+    dark: 'Нощен режим'
+  forum:
+    header:
+      nightmode_button: 'Нощен режим'
+    user:
+      settings: { heading: Тема, description: 'Изберете коя цветова тема искате да използвате във форума.', description2: 'Тази тема ще бъде свързана с вашия акаунт и се отнася за всички ваши устройства, освен ако не превключите превключвателя по-долу за настройките на устройството.', device_specific_setting_checkbox: 'Използване на настройките за устройство', device_specific_setting_checkbox_tooltip: 'Вашият избор на тема ще бъде запазен индивидуално за всяко от вашите устройства.', auto_unsupported: 'Вашият браузър не поддържа автоматичен тъмен режим.', option_descriptions: { auto: 'Вашата тема ще бъде избрана автоматично въз основа на настройките на вашия браузър или устройство. Например, ако имате активиран тъмен режим в iOS, форумите също ще бъдат тъмни.', day: 'Класическото преживяване, с което сте свикнали. Обичан и изпитан.', night: 'Ти си малко нощна птица. Вие наблюдавате форума през нощта, докато птиците спят, а лисиците ловуват. Или просто предпочитате по-тъмните цветове!' }, options: { auto: 'Автоматично (въз основа на опциите на браузъра или устройството)', day: 'Дневен режим', night: 'Нощен режим' } }
+    day: 'Дневен режим'
+    night: 'Нощен режим'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Празна бележка не е позволена.'
+    moderatorNotes:
+      add_button: 'Нова бележка'
+      create-heading: 'Създаване на нова бележка на модератор'
+      dismiss_button: Направи
+      noNotes: 'Изглежда, че тук няма бележки.'
+      submit_button: 'Запиши бележката'
+      delete: Изтривам
+      confirm: 'Наистина ли искате да изтриете тази бележка?'
+    user:
+      notes: 'Бележки на модератора'
+  api:
+    no_reason_provided: 'Не е посочена причина'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Гласовете
+    vote_title: 'Покажи кой е гласувал'
+    nav:
+      name: Класиране
+    ranking:
+      rank: Място
+      name: Потребител
+      amount: Точки
+    notification:
+      prefrences: { vote: 'Когато един от моите постове е нагоре / надолу гласува' }
+    user:
+      votes_link: Гласовете
+    modal:
+      downvotes_label: 'Downvoters:'
+      title: Избирателите
+      upvotes_label: 'Upvoters:'
+    mod_item: 'Преглед на избирателите'
+    voters:
+      none: 'Все още няма избиратели'
+      label: Избирателите
+      label_none: 'Няма избиратели'
+    post:
+      upvote_button: 'Upvote пост'
+      downvote_button: 'Downvote пост'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Планираните чернови в момента са забранени в настройките.'
+  ref:
+    schedule_draft: 'Чернова на графика'
+  forum:
+    composer:
+      title: 'Запиши черновата'
+      saving: Спестяване...
+      saved: Записани!
+      exit_alert: 'Да се отхвърлят ли промените в черновата?'
+      discard_empty_draft_alert: 'Да се отхвърли празната чернова?'
+    dropdown:
+      empty_text: 'Не сте записали никакви чернови'
+      title: Проекти
+      delete_all_button: 'Изтриване на всички чернови'
+      delete_button: 'Изтриване на чернова'
+      scheduled_icon_tooltip_formatter: 'Л [в] ЛТ'
+      alert: 'Наистина ли искате да изтриете черновата си?'
+      delete_all_alert: 'Наистина ли искате да изтриете всичките си чернови?'
+      schedule_button: 'Чернова на графика'
+      tooltip: Проекти
+    schedule_draft_modal:
+      text: 'Планирайте черновата си автоматично да публикувате по-късно!'
+      unschedule_button: 'Отмяна на график'
+      unschedule_warning: 'Наистина ли искате да прекратите планирането на тази чернова?'
+      reschedule_button: Препланира
+      schedule_button: Разписание
+      schedule_time_preview_formatter: ЛЛЛ
+      schedule_time_preview_invalid: 'Невалидна дата и/или час'
+      title: 'Чернова на графика'
+    user:
+      settings: { drafts_heading: Проекти, draft_autosave_enable: 'Да се разреши ли автоматичното записване на чернови?', draft_autosave_interval_label: 'Интервал на автоматично записване (секунди)', draft_autosave_interval_button: 'Интервал на актуализиране', draft_autosave_interval_invalid: 'Интервалът трябва да бъде цяло число, по-голямо от 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Отговори
+    this_best_answer: 'Изберете най-добрия отговор'
+    remove_best_answer: 'Отмени избора на най-добрия отговор'
+    best_answer_button: 'Най-добър отговор'
+    errors:
+      mismatch: 'Избраната публикация не съществува в това обсъждане.'
+    notification:
+      content: 'Моля, изберете най-добър отговор, ако на въпроса Ви е отговорено'
+      preferences: { awarded_best_answer: 'Някой определя поста ми като най-добър отговор', best_answer_in_discussion: 'Най-добрият отговор е поставен в дискусия, в която участвах', select_best_answer: 'Автоматично напомняне за избор на най-добър отговор в започнато от мен обсъждане' }
+    index:
+      ask_question: 'Задайте въпрос'
+      cannot_ask_question: 'Не мога да задам въпрос'
+      solved_link: 'Решени дискусии'
+      unsolved_link: 'Нерешени дискусии'
+    filter:
+      all_label: 'Всички въпроси'
+      solved_label: 'Решени въпроси'
+      unsolved_label: 'Нерешени въпроси'
+      accessible_label: 'Решен / Нерешен избор'
+    composer:
+      titlePlaceholder: 'Заглавие на въпроса'
+    search:
+      discussions_solutions_heading: 'Дискусии с решения'
+    discussion:
+      jump_to_best_answer_button: 'Преглед на най-добрия отговор'
+  email:
+    subject:
+      select: 'Успя ли да получиш отговор на въпроса си?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Най-добрите отговори'
+      least_best_answers: 'Най-малко най-добрите отговори'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Никой друг няма да бъде забранен'
+    user_badge:
+      banned_tooltip: Забранени
+    ban_ip_button: 'Бан IP'
+    unban_ip_button: 'Отмяна на IP'
+    user_controls:
+      ban_button: Забрана
+      unban_button: Унбан
+  error:
+    banned_ip_message: 'Удостоверяването е неуспешно.'
+    no_ips_found_message: 'Не са намерени IP адреси за потребителя.'
+  lib:
+    modal:
+      check_button: Проверявам
+      save_button: Спасявам
+      ban_ip_confirmation: 'Наистина ли искате да блокирате използването на този IP адрес във форума? Това ще блокира потребителите с този IP адрес (и) да влизат и да се регистрират.'
+      unban_ip_confirmation: 'Наистина ли искате да забраните този потребител и всички други потребители, които не са забранени от други IP адреси?'
+      unban_ip_no_users: 'Никой друг няма да бъде забранен'
+      title: 'Забрана на IP(s)'
+      unban_title: 'Премахване на забрана на IP(s)'
+      address_label: 'IP адрес'
+      reason_label: Причина
+      ban_button: Забрана
+      unban_button: Унбан
+  ref:
+    ban_label: Забрана
+    ban_ip_addresses: 'Забрана на IP(s)'
+    ban_ip_button: 'Бан IP'
+    unban_label: Унбан
+    unban_ip_addresses: 'Премахване на забрана на IP(s)'
+    unban_ip_button: 'Отмяна на IP'
+    address_label: 'IP адрес'
+    reason_label: Причина
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Подробности за Вашата регистрация са намерени в база данни за предотвратяване на спам, поради което регистрацията Ви е блокирана.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Изтриване на обсъждания'
+      hard_delete_discussions_help: 'Това ще изтрие окончателно всички обсъждания, започнати от този потребител. Когато са забранени, вместо това обсъжданията ще бъдат скрити.'
+      hard_delete_posts_label: 'Изтриване на публикации'
+      hard_delete_posts_help: 'Това ще изтрие завинаги всички публикации (коментари, отговори и т.н.), направени от този потребител. Когато са деактивирани, вместо това публикациите ще бъдат скрити.'
+      hard_delete_user_label: 'Изтриване на потребител'
+      hard_delete_user_help: 'Това ще изтрие завинаги потребителя. Когато е забранен, потребителят ще бъде спрян вместо това.'
+      intro: 'Когато маркирате потребител като спамър, ще бъдат предприети няколко действия, което зависи от разширенията, налични във вашия форум.'
+      move_discussions_tag_label: 'Преместване на обсъжданията в етикет под карантина'
+      move_discussions_tag_help: 'Това ще премести всички дискусии, започнати от този потребител, в маркера, който сте посочили в настройките на форума. Когато са забранени, обсъжданията ще бъдат оставени в текущите им етикети.'
+      process_button: Процес
+      report_to_sfs_label: 'Докладвайте на StopForumSpam'
+      report_to_sfs_help: 'Това ще докладва основните данни на потребителя (потребителско име, имейл, IP адрес) на StopForumSpam. Това ще помогне да се предотврати регистрирането на потребителя в други форуми, които използват услугата StopForumSpam.'
+    user_controls:
+      spammer_button: Спамър
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Нулиране на броя на изгледите за обсъждане'
+      submit: Изпрати
+      label: 'Задаване на брой изгледи'
+    discussion_controls:
+      resetviews_button: 'Задаване на брой изгледи'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Нелепкаво
+      sticky_button: Лепкав
+    badge:
+      sticky_tooltip: Лепкав
+  ref:
+    sticky: Лепкав
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Заключен
+    discussion_controls:
+      lock_button: Ключалка
+      unlock_button: Отключа
+    settings:
+      notify_discussion_locked_label: 'Някой заключва дискусия, която започнах'
+flarum-likes:
+  forum:
+    post:
+      like_link: Като
+      unlike_link: 'За разлика от'
+      you_text: Ти
+    post_likes:
+      title: 'Потребители, които харесват това'
+      load_more_button: 'Зареди още'
+    settings:
+      notify_post_liked_label: 'Някой харесва един от постовете ми'
+    user:
+      likes_link: Обича
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Вмъкване на емоджи'
+      type_to_search_text: 'Въведете , за да търсите емоджи'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Вашето съдържание е твърде голямо, моля, прочетете нашите указания за публикуване' }
+dhtml-persona:
+  forum:
+    persona: Човек
+dhtml-leaderboard:
+  forum:
+    leaderboard: Класиране
+dhtml-gender:
+  forum:
+    male: Мъжки
+    female: Жена
+    other: 'Предпочитам да не казвам'
+    inputGender: Пол
+    saveButton: Спасявам
+    clickToSelectGender: 'Изберете вашия пол'
+    genderSaved: 'Полът е успешно спасен!'
+    field_placeholder: 'Потвърждаване на пола'
+    binding_gender: 'Открихме, че не сте определили пола си. Моля, първо определете пола си. Можете да публикувате и оставяте съобщения само след като зададете пола си.'
+    binding_gender_click: 'Щракнете сега'
+flarum-content-pages:
+  forum:
+    home: Дом
+    about-us: 'За нас'
+    guidelines: Насоки
+    privacy-policy: 'Политика за поверителност'
+    terms-of-use: 'Условия за ползване'
+    contact-us: 'Свържете се с нас'
+    download-app: 'Изтегляне на приложение'
+    discord-chat: 'Раздор чат'
+    tags-cloud: 'Етикети Облак'
+    languages: Езици
+    leaderboard: Класиране
+    live: Живи
+    live-coding: 'Кодиране на живо'
+    challenges: Предизвикателствата
+    dev-challenges: 'Dev предизвикателства'
+    jobs: Работа
+    community: Общност
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Публикуване на работа'
+    job-postings: 'Постове за работа'
+    workshops: Работилници
+    dev-workshops: 'Дев Работилници'
+    events: Събития
+    conferences: Конференции
+    event-conferences: 'Събития / Конференции'
+    showcase: Показване
+    tags: Етикети
+    more: Още
+    memberships: Членства
+    members: Членове
+    general-discussion: 'Общи дискусии'
+    technology-articles: 'Статии за технологии'
+    coding-challenges: 'Кодиращи предизвикателства'
+    q-a: 'Раздел Q/A'
+    artificial-intelligence: 'Изкуствен интелект'
+    computer-science: 'Компютърни науки'
+    programming-languages: 'Програмиране на езици'
+    development-tools: 'Инструменти за развитие'
+    software-development: 'Разработване на софтуер'
+    frontend-development: 'Frontend Development'
+    backend-development: 'Развитие на бекенда'
+    software-engineering: 'Софтуерно инженерство'
+    cybersecurity: Киберсигурност
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Брояч на знаци'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Редактиране на датата на раждане'
+      date_of_birth_text: 'Дата на раждане'
+      submit_button: 'Запазите промените'
+    settings:
+      change_dob_label: 'Промяна на датата на раждане'
+      show_dob_date_label: 'Показване на деня и месеца на раждане'
+      show_dob_year_label: 'Показване на годината на раждане'
+      show_dob_year_help: 'Това ще позволи на хората да видят възрастта ви.'
+      dob_heading: 'Дата на раждане'
+    nav:
+      nav_item: 'Днешните рождени дни'
+    edit_user:
+      dob_heading: 'Дата на раждане'
+    sign_up:
+      dob_placeholder: 'Дата на раждане'
+  api:
+    invalid_dob_message: 'Невалидна дата на раждане'
+  ref:
+    date_of_birth: 'Дата на раждане'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Избор на емотикони'
+    search_placeholder: Търсене...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Редактиране на автор и дата'
+    modal:
+      title-post: 'Редактиране на автор и дата на публикацията'
+      title-discussion: 'Редактиране на автор и дата на обсъждане'
+      user: Автор
+      created_at: 'Време на създаване'
+      edited_at: 'Редактиране на час'
+      sync-with-discussion: 'Синхронизиране с обсъждане'
+      sync-with-post: 'Синхронизиране с първата публикация'
+      sync-impossible: 'Първата публикация не може да бъде намерена. Опитайте да превъртите до началото на дискусията.'
+      submit: Спасявам
+      cancel: Отмени
+    search:
+      placeholder: 'Търсене на потребители'
+      type-more: 'Въведете 3 знака за търсене в базата данни'
+      no-results: 'Няма резултати'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Превключване на режима на RTF текст'
+      insert_button: Вмъквам
+      insert_image: { src_placeholder: Връзка, title_placeholder: Заглавие }
+      insert_link: { text_placeholder: Текст, href_placeholder: 'URL адрес', title_placeholder: 'Заглавие (показва се при посочване)', remove_button: Махам }
+      additional_items_tooltip: 'Допълнителни контроли'
+      code_block_tooltip: 'Вмъкване на кодов блок'
+      horizontal_rule_tooltip: 'Вмъкване на хоризонтално правило'
+      image_tooltip: 'Добавяне на изображение'
+      link_tooltip: 'Добавяне на връзка'
+      spoiler_block_tooltip: 'Блокиране на спойлер/падащо меню'
+      strike_tooltip: 'Зачеркване <alt-shift-5>'
+      text_type_tooltip: 'Избор на тип текст'
+  forum:
+    settings:
+      composer_heading: Композитор
+      use_rich_text_editor_label: 'Използване на RTF текстов редактор?'
+      rich_text_compact_paragraphs_label: 'Не разделяйте абзаците с нов ред.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Насочените известия са разрешени, но не сте конфигурирали това устройство.'
+      optin_button: Конфигурирате
+    discussion_controls:
+      share_button: Дял
+    post_controls:
+      share_button: Дял
+    user_controls:
+      share_button: Дял
+    settings:
+      push_header: Бутам
+      pwa_notifications: { access_default: 'Поради ограничения на браузъра, трябва да се включите, за да получавате push известия на това устройство.', access_default_button: Включване, access_denied: 'Трябва да коригирате настройките на браузъра си, за да получавате насочени известия на това устройство.', access_denied_button: 'Научете как', no_browser_support: 'Този браузър не поддържа push известия за прогресивни уеб приложения.', no_browser_support_button: 'Научете повече' }
+  views:
+    offline:
+      header: 'Грешка при мрежова връзка'
+      text: 'Това приложение изисква мрежова връзка; не може да се използва офлайн. Проверете връзката си.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Предупреждаване на потребителя'
+    user:
+      warnings: 'Предупреждения на модератора'
+    settings:
+      warning_notification_label: 'Модератор ме предупреждава'
+    validation:
+      public_comment_required: 'Вие най-често давате публичен коментар.'
+      invalid_strike_count: 'Броят на ударите трябва да бъде цяло число между 0 и 5.'
+    warning_controls:
+      delete_button: Махам
+      restore_button: Възстановявам
+      delete_forever_button: 'Окончателно изтриване'
+    warning_list:
+      add_button: 'Ново предупреждение'
+      no_warnings: 'Изглежда, че тук няма предупреждения.'
+      warnings_no_strikes: 'Предупреждения на модератора: Не са получени стачки'
+    warning_list_item:
+      public_comment: Предупреждение
+      private_comment: 'Модератор-видими коментари'
+      linked_post: 'Свързана публикация'
+    warning_modal:
+      confirmation_message: 'Вашето предупреждение е запазено. Може да се наложи да обновите страницата, за да я видите.'
+      strikes_heading: 'Колко стачки трябва да се прилагат?'
+      submit_button: 'Запиши предупреждението'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Редактиране на шаблон за отговор'
+    reply_template:
+      title: 'Редактиране на шаблон за отговор'
+      submit_button: 'Запиши шаблона за отговор'

@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Passordet du skrev inn, er feil.'
+      confirm_password_placeholder: 'Bekreft passord'
+      dismiss_button: OK
+      submit_button: 'Lagre endringer'
+      title: 'Endre e-post'
+    change_password:
+      send_button: 'Sende e-post for tilbakestilling av passord'
+      text: 'Klikk på knappen nedenfor og sjekk e-posten din for en lenke for å endre passordet ditt.'
+      title: 'Endre passord'
+    composer:
+      close_tooltip: Lukke
+      exit_full_screen_tooltip: 'Gå ut av fullskjerm'
+      full_screen_tooltip: 'Full skjerm'
+      minimize_tooltip: Minimere
+      preview_tooltip: Forhåndsvisning
+    composer_discussion:
+      body_placeholder: 'Skriv et innlegg ...'
+      discard_confirmation: 'Du har ikke lagt inn diskusjonen. Ønsker du å kaste den?'
+      submit_button: 'Post Diskusjon'
+      title_placeholder: 'Diskusjon Tittel'
+      title: 'Start en diskusjon'
+    composer_edit:
+      discard_confirmation: 'Du har ikke lagret endringene. Ønsker du å kaste dem?'
+      edited_message: 'Redigeringen ble gjort.'
+      submit_button: 'Lagre endringer'
+      view_button: Utsikt
+    composer_reply:
+      discard_confirmation: 'Du har ikke lagt inn svaret ditt. Ønsker du å kaste den?'
+      posted_message: 'Svaret ditt ble lagt ut.'
+      submit_button: 'Legg inn svar'
+      body_placeholder: 'Skriv et svar ...'
+      view_button: Utsikt
+    discussion_controls:
+      cannot_reply_button: 'Kan ikke svare'
+      cannot_reply_text: 'Du har ikke tillatelse til å svare på denne diskusjonen.'
+      delete_confirmation: 'Er du sikker på at du vil slette denne diskusjonen?'
+      log_in_to_reply_button: 'Logg inn for å svare'
+      toggle_dropdown_accessible_label: 'Aktiver/deaktiver rullegardinmenyen for diskusjonshandlinger'
+      delete_button: Slette
+      delete_forever_button: 'Slett for alltid'
+      rename_button: 'Gi nytt navn'
+      reply_button: Svare
+      restore_button: Gjenopprette
+    discussion_list:
+      empty_text: 'Det ser ut som om det ikke er noen diskusjoner her.'
+      load_more_button: 'Last inn mer'
+    forgot_password:
+      email_sent_message: 'Hvis e-posten du skrev inn er registrert hos dette nettstedet, sender vi deg en e-post som inneholder en lenke for å tilbakestille passordet ditt. Sjekk spammappen hvis du ikke mottar den i løpet av det neste minuttet eller to.'
+      not_found_message: 'Ingen bruker er registrert med denne e-postadressen.'
+      submit_button: 'Gjenopprett passord'
+      text: 'Skriv inn din e-postadresse, så sender vi deg en lenke for å tilbakestille passordet ditt.'
+      title: 'Glemt passord'
+      dismiss_button: OK
+      email_placeholder: E-post
+    header:
+      admin_button: Administrasjon
+      back_to_index_tooltip: 'Tilbake til diskusjonslisten'
+      locale_dropdown_accessible_label: 'Endre nasjonal innstilling for forum'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Fjern søk'
+      search_placeholder: 'Søk Forum'
+      search_role_label: 'Søk Forum'
+      session_dropdown_accessible_label: 'Veksle rullegardinmenyen Alternativer for økt'
+      log_in_link: 'Logg på'
+      log_out_button: 'Logg ut'
+      settings_button: Innstillinger
+      sign_up_link: 'Melde seg på'
+    index:
+      cannot_start_discussion_button: 'Kan ikke starte diskusjon'
+      mark_all_as_read_confirmation: 'Er du sikker på at du vil markere alle diskusjoner som lest?'
+      refresh_tooltip: Forfriske
+      toggle_sidenav_dropdown_accessible_label: 'Veksle rullegardinmenyen for navigasjon'
+      all_discussions_link: 'Alle diskusjoner'
+      mark_all_as_read_tooltip: 'Merk alle som lest'
+      meta_title_text: 'Alle diskusjoner'
+      start_discussion_button: 'Start en diskusjon'
+    index_sort:
+      latest_button: Senest
+      newest_button: Nyeste
+      oldest_button: Eldste
+      relevance_button: Relevans
+      toggle_dropdown_accessible_label: 'Endre sortering av diskusjonslister'
+      top_button: Topp
+      hot_button: Trending
+      votes_button: Stemmer
+      front_button: FrontPage
+      popular_button: Populær
+      unpopular_button: Upopulær
+    log_in:
+      forgot_password_link: 'Glemt passord?'
+      invalid_login_message: 'Innloggingsdetaljene dine var feil.'
+      remember_me_label: 'Husk meg'
+      sign_up_text: 'Har du ikke en konto? <a>melde seg på</a>'
+      username_or_email_placeholder: 'Brukernavn eller e-post'
+      password_placeholder: Passord
+      submit_button: 'Logg på'
+      title: 'Logg på'
+    notifications:
+      delete_all_confirm: 'Er du sikker på at du vil slette alle varsler? Denne handlingen kan ikke reverseres'
+      delete_all_tooltip: 'Slett alle varsler'
+      empty_text: 'Ingen varsler'
+      mark_as_read_tooltip: 'Merk som lest'
+      toggle_dropdown_accessible_label: 'Vis varsler'
+      mark_all_as_read_tooltip: 'Merk alle som lest'
+      title: Varslinger
+      tooltip: Varslinger
+    post:
+      edited_text: Endret
+    post_controls:
+      delete_confirmation: 'Er du sikker på at du vil slette dette innlegget for alltid? Denne handlingen kan ikke angres.'
+      hide_confirmation: 'Er du sikker på at du vil slette dette innlegget?'
+      toggle_dropdown_accessible_label: 'Veksle rullegardinmenyen for innleggskontroller'
+      push_to_front_button: 'Gå til FrontPage'
+      pull_from_front_button: 'Hente fra FrontPage'
+      delete_button: Slette
+      delete_forever_button: 'Slett for alltid'
+      edit_button: Redigere
+      restore_button: Gjenopprette
+    post_scrubber:
+      now_link: Nå
+      original_post_link: 'Opprinnelige innlegget'
+    post_stream:
+      load_more_button: 'Last inn mer'
+      reply_placeholder: 'Skriv et svar ...'
+    rename_discussion:
+      title: 'Gi nytt navn til diskusjon'
+      submit_button: 'Gi nytt navn'
+    search:
+      discussions_heading: Diskusjoner
+      users_heading: Brukere
+    security:
+      cannot_terminate_current_session: 'Kan ikke avslutte den gjeldende aktive økten. Logg ut i stedet.'
+      created: Opprettet
+      current_active_session: 'Gjeldende aktiv økt'
+      developer_tokens_heading: 'Tokener for utviklere'
+      empty_text: 'Det ser ut som det ikke er noe å se her.'
+      global_logout: { heading: 'Global utlogging', help_text: 'Sletter gjeldende økter med informasjonskapsler, avslutter alle økter, tilbakekaller utviklertokener og ugyldiggjør e-postbekreftelser eller e-postmeldinger om tilbakestilling av passord.', log_out_button: 'Logg ut' }
+      hide_access_token: 'Skjul token'
+      last_activity: 'Siste aktivitet'
+      new_access_token_modal: { submit_button: 'Opprett token', title_placeholder: Tittel, title: 'Nytt token' }
+      revoke_access_token: Tilbakekalle
+      sessions_heading: 'Aktive økter'
+      session_termination_failed: 'Det oppstod en feil under avslutning av øktene.'
+      show_access_token: 'Vis token'
+      terminate_all_other_sessions: 'Avslutt alle andre økter'
+      terminate_session: Avslutte
+      token_revoked: 'Token tilbakekalt.'
+      token_title_placeholder: /
+      never: Aldri
+      new_access_token_button: 'Nytt token'
+      revoke_access_token_confirmation: 'Er du sikker på at du vil fortsette? Denne handlingen kan ikke angres.'
+      terminate_all_other_sessions_confirmation: 'Er du sikker på at du vil fortsette? Denne handlingen kan ikke angres.'
+      title: Sikkerhet
+    settings:
+      account_heading: Konto
+      notify_by_web_heading: Vev
+      notify_discussion_renamed_label: 'Noen gir nytt navn til en diskusjon jeg startet'
+      privacy_disclose_online_label: 'La andre se når jeg er pålogget'
+      privacy_heading: Personvern
+      change_email_button: 'Endre e-post'
+      change_password_button: 'Endre passord'
+      notifications_heading: Varslinger
+      notify_by_email_heading: E-post
+      title: Innstillinger
+    sign_up:
+      log_in_text: 'Har du allerede en konto? <a>logg på</a>'
+      dismiss_button: OK
+      email_placeholder: E-post
+      password_placeholder: Passord
+      submit_button: 'Melde seg på'
+      title: 'Melde seg på'
+      username_placeholder: Brukernavn
+    user:
+      avatar_upload_button: Opplasting
+      avatar_upload_tooltip: 'Last opp en ny avatar'
+      online_text: Pålogget
+      posts_empty_text: 'Det ser ut som det ikke er noen innlegg her.'
+      avatar_remove_button: Fjerne
+      discussions_link: Diskusjoner
+      posts_link: Innlegg
+      posts_load_more_button: 'Last inn mer'
+      security_link: Sikkerhet
+      settings_link: Innstillinger
+    user_controls:
+      button: Kontroller
+      delete_confirmation: 'Er du sikker på at du vil slette denne brukeren? Brukerens innlegg vil IKKE bli slettet.'
+      toggle_dropdown_accessible_label: 'Veksle rullegardinmenyen for brukerkontroller'
+      delete_button: Slette
+      edit_button: Redigere
+    user_email_confirmation:
+      resend_button: 'Send bekreftelses-e-post på nytt'
+      sent_message: Sendt
+    welcome_hero:
+      hide: 'Skjul velkomstmelding'
+    badge:
+      frontpage_tooltip: 'Merket som FrontPage'
+  lib:
+    debug_button: Feilsøke
+    alert:
+      dismiss_a11y_label: 'Avvis varsel'
+    badge:
+      hidden_tooltip: Skjult
+    dropdown:
+      toggle_dropdown_accessible_label: 'Veksle rullegardinmeny'
+    edit_user:
+      activate_button: 'Aktivere bruker'
+      groups_heading: Grupper
+      set_password_label: 'Angi nytt passord'
+      nothing_available: 'Du har ikke lov til å redigere denne brukeren.'
+      email_heading: E-post
+      email_label: E-post
+      password_heading: Passord
+      password_label: Passord
+      submit_button: 'Lagre endringer'
+      title: 'Rediger bruker'
+      username_heading: Brukernavn
+      username_label: Brukernavn
+    error:
+      generic_message: 'Oops! Noe gikk galt. Last inn siden på nytt, og prøv på nytt.'
+      generic_cross_origin_message: 'Oops! Noe gikk galt under en forespørsel på tvers av opprinnelse. Last inn siden på nytt, og prøv på nytt.'
+      not_found_message: 'Den forespurte ressursen ble ikke funnet.'
+      payload_too_large_message: 'Forespørselsnyttelasten var for stor.'
+      permission_denied_message: 'Du har ikke tillatelse til å gjøre det.'
+      rate_limit_exceeded_message: 'Du går litt for fort. Prøv igjen om noen sekunder.'
+      render_failed_message: 'Beklager, det oppstod en feil under visning av dette innholdet. Hvis du er bruker, kan du prøve igjen senere. Hvis du er administrator, kan du ta en titt i Flarum-loggfilene for mer informasjon.'
+    modal:
+      close: Lukke
+    nav:
+      drawer_button: 'Åpne navigasjonsskuff'
+    loading_indicator:
+      accessible_label: Lasting...
+  views:
+    confirm_email:
+      text: 'Klikk på knappen nedenfor for å bekrefte e-postadressen for kontoen din.'
+      submit_button: 'Bekreft e-post'
+      title: 'Bekreft e-post'
+    content:
+      javascript_disabled_message: 'Dette nettstedet vises best i en moderne nettleser med JavaScript aktivert.'
+      load_error_message: 'Noe gikk galt under forsøk på å laste inn fullversjonen av dette nettstedet. Prøv hardt å oppdatere denne siden for å fikse feilen.'
+      loading_text: Lasting...
+    error:
+      csrf_token_mismatch: 'Du har vært inaktiv for lenge.'
+      csrf_token_mismatch_return_link: 'Gå tilbake for å prøve på nytt'
+      invalid_confirmation_token: 'Denne bekreftelseslenken er allerede brukt eller er ugyldig.'
+      not_authenticated: 'Du har ikke tillatelse til å få tilgang til denne siden. Prøv igjen etter at du har logget på.'
+      not_found: 'Siden du ba om, ble ikke funnet.'
+      permission_denied: 'Du har ikke tillatelse til å få tilgang til denne siden.'
+      unknown: 'Det oppstod en feil under forsøk på å laste inn denne siden.'
+    log_out:
+      log_out_button: 'Logg ut'
+      title: 'Logg ut'
+    reset_password:
+      confirm_password_label: 'Bekreft nytt passord'
+      new_password_label: 'Nytt passord'
+      submit_button: 'Lagre endringer'
+      title: 'Tilbakestille passordet'
+    discussion:
+      next_page_button: 'Neste side'
+      previous_page_button: 'Forrige side'
+    index:
+      all_discussions_heading: 'Alle diskusjoner'
+      next_page_button: 'Neste side'
+      previous_page_button: 'Forrige side'
+  api:
+    invalid_username_message: 'Brukernavnet kan bare inneholde bokstaver, tall og bindestreker.'
+  email:
+    activate_account:
+      subject: 'Aktiver den nye kontoen'
+    confirm_email:
+      subject: 'Bekreft den nye e-postadressen'
+    reset_password:
+      subject: 'Tilbakestille passordet'
+    send_test:
+      subject: 'Flarum e-posttest'
+  ref:
+    all_discussions: 'Alle diskusjoner'
+    change_email: 'Endre e-post'
+    change_password: 'Endre passord'
+    color: Farge
+    confirm_password: 'Bekreft passord'
+    confirm_email: 'Bekreft e-post'
+    custom_footer_text: 'Legg til HTML som skal vises helt nederst på siden.'
+    custom_footer_title: 'Redigere egendefinert bunntekst'
+    custom_header_text: 'Legg til HTML som skal vises helt øverst på siden, over Flarums egen overskrift.'
+    custom_header_title: 'Rediger egendefinert topptekst'
+    delete: Slette
+    delete_forever: 'Slett for alltid'
+    discussions: Diskusjoner
+    edit: Redigere
+    edit_user: 'Rediger bruker'
+    email: E-post
+    extensions: Utvidelser
+    generic_confirmation_message: 'Er du sikker på at du vil fortsette? Denne handlingen kan ikke angres.'
+    icon: Ikon
+    load_more: 'Last inn mer'
+    loading: Lasting...
+    log_in: 'Logg på'
+    log_out: 'Logg ut'
+    mark_all_as_read: 'Merk alle som lest'
+    never: Aldri
+    new_token: 'Nytt token'
+    next_page: 'Neste side'
+    notifications: Varslinger
+    okay: OK
+    password: Passord
+    posts: Innlegg
+    previous_page: 'Forrige side'
+    remove: Fjerne
+    rename: 'Gi nytt navn'
+    reply: Svare
+    reset_your_password: 'Tilbakestille passordet'
+    restore: Gjenopprette
+    save_changes: 'Lagre endringer'
+    search_users: 'Søk etter brukere'
+    security: Sikkerhet
+    settings: Innstillinger
+    sign_up: 'Melde seg på'
+    start_a_discussion: 'Start en diskusjon'
+    username: Brukernavn
+    users: Brukere
+    view: Utsikt
+    write_a_reply: 'Skriv et svar ...'
+    you: Du
+  group:
+    admin: Admin
+    admins: Administratorer
+    guest: Gjest
+    guests: Gjester
+    member: Medlem
+    members: Medlemmer
+    mod: Måte
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Alle tagger'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Velg koder for diskusjonen'
+    discussion_controls:
+      edit_tags_button: 'Redigere koder'
+    header:
+      back_to_tags_tooltip: 'Tilbake til merkelisten'
+    index:
+      more_link: Mer...
+      untagged_link: Ukodede
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Velg koder'
+  lib:
+    deleted_tag_text: Slettet
+    tag_selection_modal:
+      bypass_requirements: 'Omgå merkekrav'
+      submit_button: OK
+      title: 'Velg koder'
+  ref:
+    choose_tags: 'Velg koder'
+    name: Navn
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Omtale en bruker, en gruppe eller et innlegg'
+    mentioned_by:
+      title: 'Svar til dette innlegget'
+      load_more_button: 'Last inn mer'
+    post:
+      quote_button: Sitere
+      reply_link: Svare
+      you_text: Du
+    settings:
+      notify_post_mentioned_label: 'Noen svarer på et av innleggene mine'
+      notify_user_mentioned_label: 'Noen nevner meg i et innlegg'
+      notify_group_mentioned_label: 'Noen nevner en gruppe jeg er medlem av i et innlegg'
+    user:
+      mentions_link: Nevner
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Slutt å følge'
+      unignore_button: Unsir
+      follow_button: Følge
+    settings:
+      follow_after_reply_label: 'Automatisk følge diskusjoner som jeg svarer på'
+      notify_for_all_posts_label: 'Varsle om hvert nye innlegg i stedet for bare det siste i en diskusjon'
+      notify_new_post_label: 'Noen innlegg i en diskusjon jeg følger'
+    sub_controls:
+      following_text: 'Bli varslet om alle svar.'
+      ignoring_text: 'Aldri bli varslet. Skjul fra diskusjonslisten.'
+      not_following_button: 'Følger ikke'
+      not_following_text: 'Bli varslet bare når @mentioned.'
+      notify_alert_tooltip: 'Få et forumvarsel når det er nye innlegg'
+      notify_email_tooltip: 'Få en e-post når det er nye innlegg'
+      follow_button: Følge
+      following_button: Følgende
+      ignoring_button: Ignorerer
+    badge:
+      following_tooltip: Følgende
+      ignoring_tooltip: Ignorerer
+    following:
+      meta_title_text: Følgende
+    index:
+      following_link: Følgende
+  ref:
+    follow: Følge
+    following: Følgende
+    ignoring: Ignorerer
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Takk for flagging dette innlegget. Våre moderatorer vil se nærmere på det.'
+      reason_inappropriate_label: Upassende
+      reason_inappropriate_text: 'Dette innlegget er støtende, fornærmende eller bryter <a>retningslinjene for brukere</a>.'
+      reason_missing_message: 'Vennligst oppgi noen detaljer for våre moderatorer.'
+      reason_off_topic_label: 'Utenfor emnet'
+      reason_off_topic_text: 'Dette innlegget er ikke relevant for den aktuelle diskusjonen og bør flyttes et annet sted.'
+      reason_other_label: 'Annet (vennligst spesifiser)'
+      reason_spam_label: Søppelpost
+      reason_spam_text: 'Dette innlegget er en annonse.'
+      dismiss_button: OK
+      submit_button: 'Flagg Post'
+      title: 'Flagg Post'
+    flagged_posts:
+      empty_text: 'Ingen flagg'
+      title: 'Flaggede innlegg'
+      tooltip: 'Flaggede innlegg'
+    post:
+      dismiss_flag_button: 'Avvis flagg'
+    post_controls:
+      flag_button: Flagg
+  ref:
+    flag_post: 'Flagg Post'
+    flagged_posts: 'Flaggede innlegg'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Du har blitt suspendert på ubestemt tid'
+      user_unsuspended_text: 'Du har blitt opphevet suspensjon'
+    suspension_info:
+      dismiss_button: Avskjedige
+      indefinite: 'Dette er en ubestemt suspensjon'
+      title: 'Denne kontoen er suspendert'
+    suspend_user:
+      display_message: 'Vis melding for bruker'
+      indefinitely_label: 'Suspendert på ubestemt tid'
+      limited_time_days_text: ' Dager'
+      limited_time_label: 'Suspendert i en begrenset periode...'
+      not_suspended_label: 'Ikke suspendert'
+      placeholder_optional: Valgfri
+      reason: 'Årsak til suspensjon'
+      status_heading: 'Suspensjon Status'
+      submit_button: 'Lagre endringer'
+    user_badge:
+      suspended_tooltip: Suspendert
+    user_controls:
+      suspend_button: Suspendere
+  email:
+    no_reason_given: 'Det ble ikke gitt noen begrunnelse for denne suspensjonen.'
+    suspended:
+      subject: 'Kontoen din er suspendert'
+    unsuspended:
+      subject: 'Suspensjonen av kontoen din er opphevet'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Alle filer lastet opp av brukeren.', anonymize_description: 'Fjerner brukerreferansen fra de opplastede filene. Selve filene forblir tilgjengelige for brukere som kan se dem pre-anonymisering.', delete_description: 'Sletter alle filer som er lastet opp av brukeren.' }
+      tagsubscription: { export_description: 'Eksporterer detaljer om abonnementsnivået for en tag, hvis det finnes.', anonymize_description: 'Fjerner brukerens abonnement på taggen.' }
+      followuser: { export_description: 'Eksporterer detaljer om brukere som følges og brukere som følger.', delete_description: 'Sletter alle data relatert til følgende brukere.', anonymize_description: 'Sletter alle data relatert til følgende brukere.' }
+      bannedipdata: { export_description: 'Hvis en IP-forbudspost er knyttet til en bruker (dvs. brukeren ble utestengt av IP), vil brukerens IP-adresse bli inkludert i eksporten, sammen med årsaken til forbudet og opprettelsesdatoen.', anonymize_description: 'Eventuelle IP-adresser knyttet til brukeren er frakoblet, men selve IP-en vil forbli utestengt, sammen med årsaken. Forsikre deg om at ingen PII-data lagres i "årsak"-feltet.' }
+fof-upload:
+  forum:
+    media_manager: Medieansvarlig
+    buttons:
+      attach: Feste
+      upload: Opplasting
+      upload_shared: Delte
+      user_uploads: 'Opplasting av brukere'
+      cancel: Annullere
+      media: 'Mine medier'
+      shared_media: 'Delte medier'
+    states:
+      error: Feil
+      loading: Opplasting
+      unauthorized: 'Du har ikke lov til å laste ned filer'
+    text_preview:
+      expand: 'Utvid forhåndsvisning'
+      collapse: 'Skjule forhåndsvisning'
+      error: "Feil ved forhåndsvisning av fil. Den kan ha blitt slettet, eller den angitte fil-IDen er ugyldig.\n"
+      no_snippet_preview: '<Forhåndsvisning vises her etter innlegg>'
+      no_snippet: '<ingen forhåndsvisningsbit tilgjengelig>'
+  api:
+    upload_errors:
+      forbidden_type: 'Det er ikke tillatt å laste opp filer av denne typen.'
+      could_not_detect_mime: 'Kan ikke finne MIME-typen for denne filen, prøv på nytt.'
+      max_upload_file_size_ini: 'Last opp maks filstørrelsesgrense nådd fra php.ini.'
+      max_upload_file_size_form: 'Last opp maks filstørrelsesgrense nådd fra skjemaet.'
+      partial_upload: 'Delvis opplasting.'
+      no_file_uploaded: 'Ingen fil lastet opp.'
+      no_upload_tmp_folder: 'Ingen tmp-mappe for opplasting av filer.'
+      cannot_write_to_disk: 'Kan ikke skrive til disk.'
+      upload_blocked_by_php_extension: 'En php-utvidelse blokkerte opplastingen.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Ny delt fil'
+      dropzone: 'Dra og slipp filer her eller klikk for å bla gjennom'
+      hide-from-media-gallery: 'Skjul fra brukerens mediegalleri'
+      upload: Opplasting
+    file_list:
+      loading: 'Laster inn filer...'
+      empty: 'Det er ingen filer å vise.'
+      release_to_upload: 'Slipp å laste opp'
+      modal_empty_desktop: 'Fillisten er tom. Klikk på knappen eller dra en fil hit for å laste opp.'
+      modal_empty_phone: 'Fillisten er tom. Trykk på knappen ovenfor for å laste opp en fil.'
+      load_more_files_btn: 'Last inn flere filer'
+      hide_file: { hide_success: 'Fil skjult', show_success: 'Filen som vises', loading: 'Skjuler fil ...' }
+      hide_shared_file: { hide_success: 'Fil gjort privat', show_success: 'Fil offentliggjort', loading: 'Gjør filen privat ...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Skrev
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Legge til fet tekst'
+      code_tooltip: 'Sett inn kode'
+      header_tooltip: 'Legge til topptekst'
+      image_tooltip: 'Legg til et bilde'
+      italic_tooltip: 'Legge til kursiv tekst'
+      link_tooltip: 'Legge til en kobling'
+      ordered_list_tooltip: 'Legge til en nummerert liste'
+      quote_tooltip: 'Sette inn et tilbud'
+      spoiler_tooltip: 'Sett inn en spoiler'
+      strikethrough_tooltip: 'Legge til gjennomstreket tekst'
+      unordered_list_tooltip: 'Legge til en punktliste'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Noen oppretter en diskusjon i et merke jeg følger'
+      notify_new_post_label: 'Noen publiserer innlegg i et merke jeg følger'
+      notify_new_discussion_tag_label: 'Noen merker en diskusjon på nytt til et merke jeg følger'
+    index:
+      follow_tag_button: Følge
+      unfollow_tag_button: 'Slutt å følge'
+      following: { following_none_label: 'Fulgte diskusjoner', following_tags_label: 'Fulgte tagger' }
+    badge:
+      following_tag_tooltip: Følgende
+      lurking_tag_tooltip: Lurer
+    sub_controls:
+      following_text: 'Bli varslet om alle nye diskusjoner.'
+      hiding_text: 'Skjul diskusjoner fra Alle diskusjoner-siden.'
+      ignoring_text: 'Aldri bli varslet.'
+      lurking_text: 'Bli varslet om alle nye diskusjoner og svar.'
+      not_following_button: 'Følger ikke'
+      not_following_text: 'Bli varslet bare når @mentioned.'
+      notify_alert_tooltip: 'Få et forumvarsel når det er nye diskusjoner eller innlegg'
+      notify_email_tooltip: 'Få en e-post når det er nye diskusjoner eller innlegg'
+      submit_button: 'Bekreft abonnement'
+      follow_button: Følge
+      following_button: Følgende
+      hiding_button: Dekning
+      ignoring_button: Ignorerer
+      lurking_button: Lurer
+    user:
+      settings: { heading: 'Følg tagger', filter_label: 'Hva som skal vises som standard på siden Følgende' }
+  ref:
+    follow: Følge
+    following: Følgende
+    hiding: Dekning
+    ignoring: Ignorerer
+    lurking: Lurer
+    filtering_options:
+      none: 'Fulgte diskusjoner'
+      tags: 'Fulgte tagger'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Dette kallenavnet er ugyldig. Ta kontakt med forumadministratoren din for mer informasjon om regler for kallenavn.'
+  ref:
+    change_nickname: 'Endre kallenavn'
+    nickname: Kallenavn
+  forum:
+    change_nickname:
+      submit_button: 'Lagre endringer'
+      title: 'Endre kallenavn'
+    edit_user:
+      nicknames_heading: 'Endre kallenavn'
+      nicknames_text: Kallenavn
+    settings:
+      change_nickname_button: 'Endre kallenavn'
+    sign_up:
+      nickname_placeholder: Kallenavn
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Tilknyttede kontoer', last-used-label: 'Sist brukt', link-created-label: 'Link opprettet', orphaned-account: 'Du har logget på via denne leverandøren tidligere, men dette forumet har deaktivert pålogging med denne metoden siden.', help: 'Disse koblede kontoene lar deg logge deg på forumet ved hjelp av andre leverandører.' } }
+    signup:
+      username_help: 'Vennligst velg et brukernavn å bli kjent med her'
+    unlink: 'Fjern kobling'
+    error:
+      bad_verification_code: 'Ugyldig eller utløpt bekreftelsestoken. Prøv på nytt.'
+      invalid_state: 'Ugyldig tilstand. Prøv på nytt.'
+    providers:
+      discord: Disharmoni
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Kvitre
+  lib:
+    providers:
+      discord: Disharmoni
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      twitter: Kvitre
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: App-ID
+      app_secret: App-hemmelighet
+      client_id: Klient-ID
+      client_secret: 'Klientens hemmelighet'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Logg inn som en annen bruker'
+      placeholder_optional: '(Valgfritt) Oppgi grunnen til at du bytter til denne brukeren'
+      placeholder_required: 'Du må oppgi grunnen til at du bytter til denne brukeren før du fortsetter'
+    user_controls:
+      impersonate_button: 'Logg inn som bruker'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Privat diskusjon' }
+    buttons:
+      add_recipients: Mottakere
+      submit: OK
+      edit_recipients: 'Redigere mottakere'
+      cancel: Annullere
+      make_public: 'Gjør denne diskusjonen offentlig'
+      remove_from_discussion: 'La denne private diskusjonen ligge'
+    composer_private_discussion:
+      submit_button: 'Publiser privat diskusjon'
+      title_placeholder: 'Privat diskusjonstittel'
+    confirm:
+      make_public: 'Er du sikker på at du vil fjerne mottakerne og gjøre denne diskusjonen synlig for alle som kan vise den tilordnede koden?'
+    nav:
+      start_button: 'Diskuter privat'
+      nav_item: 'Private diskusjoner'
+    input:
+      search_recipients: 'Søk mottaker ved å skrive inn de tre første tegnene ...'
+    search:
+      headings: { groups: Tillatelsesgrupper }
+    modal:
+      titles: { add_recipients: 'Legge til mottakere i diskusjonen' }
+      labels: { selected_users: 'Utvalgte brukere', search_field: 'Søk etter bruker' }
+      help: { add_recipients: 'Denne diskusjonen vil bare være synlig for brukerne du velger her. Minst 1 mottaker (andre enn deg selv) kreves.', update_recipients: 'Denne diskusjonen vil bare være synlig for brukerne du velger her.', selected_users: 'Klikk navnet på en bruker for å fjerne vedkommende.', click_user_to_remove_tooltip: 'Klikk for å fjerne' }
+    user:
+      settings: { block_pd: 'Blokker private diskusjoner' }
+      byobu_link: 'Private diskusjoner'
+      dropdown_label: 'Private diskusjoner'
+    notifications:
+      pd_label: 'Noen inkluderer meg i en ny privat diskusjon'
+      pd_reply_label: 'Noen innlegg i en privat diskusjon jeg er mottaker av'
+      pd_user_left_label: 'En mottakerbruker forlater en privat diskusjon jeg er en del av'
+      pd_added_label: 'Noen legger meg til en eksisterende privat diskusjon'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informasjon om merke'
+    all_badges: 'Se alle merker'
+    all_users: 'Se alle brukere'
+    give_badge: 'Gi merke'
+    update_badge: 'Oppdater merket'
+    select_badge: 'Velg merke'
+    user_has_badge: 'Brukeren har allerede dette merket.'
+    user_no_badges: 'Denne brukeren har ingen merker ennå.'
+    no_received: 'Ingen brukere har gjort seg fortjent til dette merket.'
+    save_changes: 'Lagre endringer'
+    badge:
+      badge: Merke
+      badges: Merker
+      name: 'Navn på merke'
+      description: 'Beskrivelse av merket'
+      earning_reason: 'Grunn til merkeopptjening'
+      update_earning_reason: 'Oppdatere opptjeningsårsak'
+      no_earning_reason: 'Ingen inntjeningsgrunn satt'
+      earned_on: 'Merke opptjent på'
+      category: Merkekategori
+      badge_details: Merkedetaljer
+    badges_in_card:
+      title: 'Merker i brukerkort'
+      manage_badges: 'Behandle merker'
+      description: 'Du kan endre de synlige merkene på brukerkortet ditt med et av de andre merkene dine. Hvis du ikke velger noen, velges de automatisk.'
+    moderation:
+      remove_badge: 'Fjern merket fra brukeren'
+      remove_badge_confirm: 'Er du sikker på at du vil fjerne dette merket fra denne brukeren?'
+      give_badge: 'Gi merke'
+    notification:
+      title: 'Du har mottatt et nytt merke'
+      settings: 'Jeg har fått et merke'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Elendig status'
+      not_miserable_label: 'Ikke elendig'
+      indefinitely_label: 'Elendig på ubestemt tid'
+      limited_time_label: 'Elendig for en begrenset periode ...'
+      limited_time_days_text: ' Dager'
+      submit_button: 'Lagre endringer'
+    user_badge:
+      miserable_user_tooltip: 'Elendig bruker'
+    user_controls:
+      miserable_user_button: 'Elendig bruker'
+  ref:
+    miserable_user: 'Elendig bruker'
+sycho-profile-cover:
+  forum:
+    cover: Lokk
+    edit_cover: 'Rediger omslag'
+    added:
+      success: 'Profilomslaget er oppdatert.'
+      error: 'Bildet kunne ikke lastes opp.'
+    removed:
+      success: 'Profildeksel fjernet.'
+      error: 'Kunne ikke fjerne dekselet, prøv igjen senere.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Kopiere til utklippstavle'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Siste besøkende', guest: Gjest }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: Landkode
+    saveButton: Lagre
+    clickToSelectCountry: 'Velg ditt land'
+    countrySaved: 'Land vellykket reddet!'
+    field_placeholder: 'Bekreft landsflagg'
+    binding_country: 'Vi oppdaget at du ikke har bundet hvor du befinner deg. Vennligst link ditt land først. Du kan bare legge ut og legge igjen meldinger etter at du har koblet landet ditt.'
+    binding_country_click: 'Klikk nå'
+username-blacklist:
+  forum:
+    modal-title: Advarsel!
+    modal-body-first-line: 'Advarsel - Dette brukernavnet er <strong>blokkert av administrator</strong>'
+    modal-body-second-line: 'Velg et annet brukernavn som ikke bryter retningslinjene for fellesskapet, og prøv på nytt.'
+  admin:
+    blackList: 'Svartelistet brukernavn'
+    blackList-help: 'Skriv her brukernavn som du vil blokkere under registrering (atskilt med komma)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Synopsis, show-summaries: 'Vis et utdrag fra hver diskusjon i diskusjonslister (datamaskin/nettbrett)', show-summaries-mobile: 'Vis et utdrag fra hver diskusjon i diskusjonslister (Mobil)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Forum aktivitet'
+      forum_new_discussions: 'Forumets nye diskusjoner'
+      discussion_last_posts: 'Denne diskusjonen'
+      user_last_posts: 'Innlegg & kommentarer av denne brukeren'
+    feeds:
+      titles: { main_subtitle: 'Siste innlegg i forumet', main_d_subtitle: 'De nyeste diskusjonene i forumet', discussion_subtitle: 'Siste beskjeder i denne diskusjonen', user_subtitle: 'Siste innlegg & kommentarer av denne brukeren.' }
+    discussion:
+      feed_link: Mate
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Fulgt
+    profile_page:
+      no_following: 'Det ser ut som om du ikke følger noen.'
+    settings:
+      notify_new_follower_label: 'Noen følger etter meg'
+      notify_new_unfollower_label: 'Noen slutter å følge meg'
+      notify_new_discussion_label: 'Noen jeg følger, starter en diskusjon'
+      notify_new_post_label: 'Noen jeg følger innlegg i en eksisterende diskusjon'
+      block_follow: 'Hindre brukere i å følge meg'
+    badge:
+      label: { follow: 'Etter diskusjoner', lurk: 'Følger alle' }
+    filter:
+      following: 'Fulgte brukere'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Følg nivåer', follow_select_label: 'Følg type', no_user_attr_provided_err: 'Uh oh, noe gikk galt mens du åpner denne modalen.', no_user_attr_provided_err_debug: 'Ingen "user"-attributt ble sendt til SelectFollowUserLevel-modalen da den ble opprettet. Modal kan ikke gjengis.', save_btn: Lagre, cancel_btn: Annullere }
+    profile_link: 'Fulgte brukere'
+    user_controls:
+      follow_button: Følge
+      unfollow_button: 'Slutt å følge'
+      change_button: 'Endre følgetype'
+    index:
+      follow_tag_button: Følge
+      unfollow_tag_button: 'Endre følgetype'
+  email:
+    new_follower_subject: '[Følg bruker] Du har en ny tilhenger!'
+  lib:
+    following_link: 'Fulgte brukere'
+    follow: Følge
+    change_follow_type: 'Endre følgetype'
+    unfollow: 'Slutt å følge'
+    follow_levels:
+      unfollow: { name: 'Ikke følg' }
+      follow: { name: 'Følg diskusjoner' }
+      lurk: { name: 'Følg alle' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Sørg for at denne forespurte endringen av kallenavn følger forumretningslinjene.', decision_title: Avgjørelse, approval_label: Godkjenne, rejected_label: Vrake, submit_button: Forelegge, reason_title: 'Årsak til avslag', success: 'Vedtak sendt.', title: 'Forespørsel om endring av kallenavn' }
+      results: { title: 'Forespørsel om endring av kallenavn', approved: 'Forespørselen din om endring av kallenavn er godkjent', rejected: 'Forespørselen din om endring av kallenavn ble avvist', resubmit: 'På dette tidspunktet kan du sende inn en ny forespørsel om endring av kallenavn fra kontoinnstillingene dine hvis du ønsker det.', dismiss_button: OK }
+      request: { title: 'Be om endring av kallenavn', submit_button: 'Send forespørsel', delete_button: 'Slett forespørsel', confirmation_message: 'Forespørselen din om endring av kallenavn er sendt inn og venter på godkjenning.', deleted: 'Kallenavnforespørsel slettet.', dismiss_button: OK }
+    username_modals:
+      action: { help_text: 'Forsikre deg om at denne forespurte brukernavnendringen følger forumretningslinjene.', decision_title: Avgjørelse, approval_label: Godkjenne, rejected_label: Vrake, submit_button: Forelegge, reason_title: 'Årsak til avslag', success: 'Vedtak sendt.', title: 'Forespørsel om endring av brukernavn' }
+      results: { title: 'Forespørsel om endring av brukernavn', approved: 'Forespørselen din om endring av brukernavn er godkjent', rejected: 'Forespørselen din om endring av brukernavn ble avvist', resubmit: 'For øyeblikket kan du sende inn en ny forespørsel om endring av brukernavn fra kontoinnstillingene dine hvis du ønsker det.', dismiss_button: OK }
+      request: { title: 'Be om endring av brukernavn', submit_button: 'Send forespørsel', delete_button: 'Slett forespørsel', confirmation_message: 'Forespørselen din om endring av brukernavn er sendt inn og venter på godkjenning.', deleted: 'Forespørsel om brukernavn slettet.', dismiss_button: OK }
+    pending_requests:
+      empty_text: 'Ingen forespørsler om navneendring funnet.'
+      tooltip: 'Forespørsler om navneendring'
+      title: 'Forespørsler om navneendring'
+    settings:
+      nickname_request_button: 'Endre kallenavn'
+      username_request_button: 'Endre brukernavn'
+    user:
+      name_history_link: 'Navn Historie'
+  ref:
+    name_change_request: 'Forespørsel om navneendring'
+    name_change_requests: 'Forespørsler om navneendring'
+    nickname_change_request: 'Forespørsel om endring av kallenavn'
+    nickname_change_requests: 'Forespørsler om endring av kallenavn'
+    username_change_request: 'Forespørsel om endring av brukernavn'
+    username_change_requests: 'Forespørsler om endring av brukernavn'
+  email:
+    body:
+      noReasonProvided: 'Ingen grunn oppgitt.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Skriv noe om deg selv'
+    profile:
+      cancel_confirm: 'Er du sikker på at du vil avbryte redigeringen av biografien din? Du mister eventuelle endringer du har gjort.'
+      cancel_button: Annullere
+      save_button: Lagre
+      edit_bio_label: 'Rediger bio'
+fof-split:
+  forum:
+    split:
+      from: 'Splittet herfra'
+      to: 'Delt til her'
+      cancel: 'Avbryte deling'
+    modal:
+      title: 'Splittet diskusjon'
+      new_discussion_label: 'Angi tittelen for den nye diskusjonen'
+      submit_button: Dele
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Rediger knappene dine for sosiale medier'
+      add: 'Legg til knapper på sosiale medier'
+      headtitle: 'Rediger knapper'
+      title: Tittel
+      url: URL
+      submit: Lagre
+      delete: Slette
+      deletetitle: Slett-knappen
+      save_disabled_fetching_favicons: 'Ett eller flere ikoner hentes. Vent.'
+      favicon: Favorittikon
+      grey_favicon: 'Grå Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Aksje
+      share_dropdown_accessible_label: 'Veksle rullegardinmenyen for diskusjonsdeling'
+    modal:
+      title: Aksje
+      copy_button: Kopi
+  lib:
+    networks:
+      facebook: Facebook
+      twitter: Kvitre
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: 'Hva skjer'
+      telegram: Telegram
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Min verden'
+      qq: QQ
+      qzone: QZone
+      native: 'Opprinnelig aksje'
+fof-recaptcha:
+  forum:
+    error: 'Det oppstod en feil under sending av reCAPTCHA. Prøv igjen.'
+    unknown_error: 'Det oppstod en ukjent feil. Sjekk captcha og prøv igjen.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Du kan ikke bruke denne reaksjonen akkurat nå, vennligst oppdater siden'
+    warning: 'Reaksjonen din ble konvertert'
+    settings:
+      notify_post_reacted_label: 'Noen reagerer på et av innleggene mine'
+    reacting-own-post: 'Du kan ikke reagere på ditt eget innlegg'
+    modal:
+      title: Reaksjoner
+      no_reactions: 'Ingen reaksjoner ennå'
+    mod_item: 'Se reaksjoner'
+    react_button_label: Reagere
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Kunne ikke laste bildebeskjæreren.', generic_resize: 'Noe gikk galt under beskjæring og endring av størrelse på bildet.', get_image_data: 'Kunne ikke beskjære. Kontroller at nettleserens fingeravtrykkbeskyttelse er deaktivert.' }
+      help_text: "Bildeopplastingen kan mislykkes hvis nettleserens personverninnstillinger er svært strenge. Hvis du har problemer, kan du prøve å deaktivere fingeravtrykkbeskyttelsen. Ellers kan du enten <disableResize>deaktivere komprimering av det beskårne bildet</disableResize> eller <disableCrop>deaktivere beskjæring helt</disableCrop>.\n"
+      submit_button: Opplasting
+      submit_crop_button: 'Beskjær og last opp'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Det er svært sannsynlig at den ikke trenger noen videre diskusjon, og dermed tjener det ingen hensikt.', checkbox_label: 'Jeg er klar over at denne diskusjonen er ganske gammel, men vil likevel gjerne svare.', error: 'Denne diskusjonen er for gammel til å svare på.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Du har ikke tillatelse til å stemme'
+    poll_ended: 'Denne målingen er avsluttet.'
+    public_poll: 'Se velgere'
+    composer_discussion:
+      add_poll: 'Legg til meningsmåling'
+      edit_poll: 'Rediger meningsmåling'
+    modal:
+      add_title: 'Legg til en meningsmåling'
+      add_option_label: 'Legg til et alternativ'
+      edit_title: 'Rediger meningsmåling'
+      include_question: 'Du må inkludere et spørsmål'
+      max: 'Du kan ha maksimalt 10 svar'
+      min: 'Du må inkludere minimum 2 svar'
+      no_voters: 'Ingen stemmer'
+      option_placeholder: Svare
+      image_option_placeholder: 'URL-adresse til bilde (valgfritt)'
+      options_label: Svar
+      public_poll_label: 'La folk se hvem som stemte'
+      allow_multiple_votes_label: 'La folk stemme på flere alternativer'
+      max_votes_label: 'Maks antall stemmer per bruker'
+      max_votes_help: 'Sett til 0 for å tillate brukere å stemme på alle alternativene.'
+      question_placeholder: Spørsmål
+      submit: Forelegge
+    moderation:
+      delete: 'Fjern Poll'
+      delete_confirm: 'Er du sikker på at du vil slette denne målingen?'
+      edit: 'Rediger meningsmåling'
+    tooltip:
+      badge: Avstemning
+    votes_modal:
+      title: Velgerne
+fof-nightmode:
+  ref:
+    auto: 'Automatisk (basert på nettleser- eller enhetsalternativer)'
+    light: Dag-modus
+    dark: Nattmodus
+  forum:
+    header:
+      nightmode_button: Nattmodus
+    user:
+      settings: { heading: Tema, description: 'Velg hvilket fargetema du vil bruke på forumet.', description2: 'Dette temaet er knyttet til kontoen din og gjelder for alle enhetene dine, med mindre du slår på bryteren nedenfor for per enhetsinnstillinger.', device_specific_setting_checkbox: 'Bruk per enhetsinnstillinger', device_specific_setting_checkbox_tooltip: 'Temavalget ditt lagres individuelt for hver av enhetene dine.', auto_unsupported: 'Nettleseren din støtter ikke automatisk mørk modus.', option_descriptions: { auto: 'Temaet ditt velges automatisk basert på nettleser- eller enhetsinnstillingene. Hvis du for eksempel har mørk modus aktivert i iOS, vil forumene også være mørke.', day: 'Den klassiske opplevelsen som du er vant til. Elsket og testet.', night: 'Du er litt av en nattugle. Du våker over forumet om natten, mens fuglene sover og revene jakter. Eller du foretrekker bare de mørkere fargene!' }, options: { auto: 'Automatisk (basert på nettleser- eller enhetsalternativer)', day: Dag-modus, night: Nattmodus } }
+    day: Dag-modus
+    night: Nattmodus
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'En tom er ikke tillatt.'
+    moderatorNotes:
+      add_button: 'Nytt notat'
+      create-heading: 'Opprett et nytt sensurnotat'
+      dismiss_button: Gjort
+      noNotes: 'Det ser ut som det ikke er noen notater her.'
+      submit_button: 'Lagre notat'
+      delete: Slette
+      confirm: 'Er du sikker på at du vil slette dette notatet?'
+    user:
+      notes: 'Moderator Merknader'
+  api:
+    no_reason_provided: 'Ingen grunn oppgitt'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Stemmer
+    vote_title: 'Vis hvem som stemte'
+    nav:
+      name: Rangeringer
+    ranking:
+      rank: Sted
+      name: Bruker
+      amount: Pens
+    notification:
+      prefrences: { vote: 'Når et av innleggene mine er opp/ned stemt' }
+    user:
+      votes_link: Stemmer
+    modal:
+      downvotes_label: 'Downvoters:'
+      title: Velgerne
+      upvotes_label: 'Velgere:'
+    mod_item: 'Vis velgere'
+    voters:
+      none: 'Ingen velgere ennå'
+      label: Velgerne
+      label_none: 'Ingen velgere'
+    post:
+      upvote_button: 'Stem opp innlegg'
+      downvote_button: 'Nedstemt innlegg'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Planlagte utkast er for øyeblikket deaktivert i innstillingene.'
+  ref:
+    schedule_draft: 'Planlegg utkast'
+  forum:
+    composer:
+      title: 'Lagre utkast'
+      saving: Besparelse...
+      saved: Lagret!
+      exit_alert: 'Forkaste endringer i utkast?'
+      discard_empty_draft_alert: 'Kaste tom kladd?'
+    dropdown:
+      empty_text: 'Du har ikke lagret noen utkast'
+      title: Kladd
+      delete_all_button: 'Slett alle utkast'
+      delete_button: 'Slett utkast'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Er du sikker på at du vil slette utkastet?'
+      delete_all_alert: 'Er du sikker på at du vil slette alle utkastene dine?'
+      schedule_button: 'Planlegg utkast'
+      tooltip: Kladd
+    schedule_draft_modal:
+      text: 'Planlegg utkastet ditt til å automatisk legge inn på et senere tidspunkt!'
+      unschedule_button: 'Opphevelse av tidsplan'
+      unschedule_warning: 'Er du sikker på at du vil fjerne tidsplanen for dette utkastet?'
+      reschedule_button: Planlegge
+      schedule_button: Timeplan
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Ugyldig dato og/eller klokkeslett'
+      title: 'Planlegg utkast'
+    user:
+      settings: { drafts_heading: Kladd, draft_autosave_enable: 'Aktivere automatisk lagring av kladd?', draft_autosave_interval_label: 'Autolagringsintervall (sekunder)', draft_autosave_interval_button: Oppdateringsintervall, draft_autosave_interval_invalid: 'Intervallet må være et heltall større enn 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Svarte
+    this_best_answer: 'Velg beste svar'
+    remove_best_answer: 'Fjern merket for beste svar'
+    best_answer_button: 'Beste svar'
+    errors:
+      mismatch: 'Valgt innlegg finnes ikke i denne diskusjonen.'
+    notification:
+      content: 'Velg det beste svaret hvis spørsmålet ditt er besvart'
+      preferences: { awarded_best_answer: 'Noen setter mitt innlegg som et beste svar', best_answer_in_discussion: 'Det beste svaret er satt i en diskusjon jeg deltok i', select_best_answer: 'En automatisk påminnelse om å velge det beste svaret i en diskusjon jeg startet' }
+    index:
+      ask_question: 'Still et spørsmål'
+      cannot_ask_question: 'Kan ikke stille et spørsmål'
+      solved_link: 'Løste diskusjoner'
+      unsolved_link: 'Uløste diskusjoner'
+    filter:
+      all_label: 'Alle spørsmål'
+      solved_label: 'Løste spørsmål'
+      unsolved_label: 'Uløste spørsmål'
+      accessible_label: 'Løst/uløst utvalg'
+    composer:
+      titlePlaceholder: 'Spørsmål tittel'
+    search:
+      discussions_solutions_heading: 'Diskusjoner med løsninger'
+    discussion:
+      jump_to_best_answer_button: 'Vis det beste svaret'
+  email:
+    subject:
+      select: 'Har du fått svar på spørsmålet ditt?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'De beste svarene'
+      least_best_answers: 'Minst beste svar'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Ingen andre vil bli utestengt'
+    user_badge:
+      banned_tooltip: Forbudt
+    ban_ip_button: 'Forby IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Forbud
+      unban_button: Unban
+  error:
+    banned_ip_message: 'Autorisasjonen mislyktes.'
+    no_ips_found_message: 'Ingen IP (er) funnet for brukeren.'
+  lib:
+    modal:
+      check_button: Sjekk
+      save_button: Lagre
+      ban_ip_confirmation: 'Er du sikker på at du vil blokkere denne IP-adressen fra bruk på forumet? Dette vil blokkere brukere med denne IP-adressen (e) fra å logge inn og registrere seg.'
+      unban_ip_confirmation: 'Er du sikker på at du vil unban denne brukeren og alle andre brukere som ikke er utestengt av andre IP-er?'
+      unban_ip_no_users: 'Ingen andre vil bli utestengt'
+      title: 'Ban IP (er)'
+      unban_title: 'Opphev forbud mot IP-adresser'
+      address_label: IP-adresse
+      reason_label: Grunn
+      ban_button: Forbud
+      unban_button: Unban
+  ref:
+    ban_label: Forbud
+    ban_ip_addresses: 'Ban IP (er)'
+    ban_ip_button: 'Forby IP'
+    unban_label: Unban
+    unban_ip_addresses: 'Opphev forbud mot IP-adresser'
+    unban_ip_button: 'Unban IP'
+    address_label: IP-adresse
+    reason_label: Grunn
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Detaljer om registreringen din har blitt funnet i en spamforebyggende database, derfor har registreringen din blitt blokkert.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Slette diskusjoner'
+      hard_delete_discussions_help: 'Dette vil permanent slette alle diskusjoner startet av denne brukeren. Når deaktivert, blir diskusjoner skjult i stedet.'
+      hard_delete_posts_label: 'Slett innlegg'
+      hard_delete_posts_help: 'Dette vil permanent slette alle innlegg (kommentarer, svar, etc) laget av denne brukeren. Når deaktivert, blir innlegg skjult i stedet.'
+      hard_delete_user_label: 'Slett bruker'
+      hard_delete_user_help: 'Dette vil slette brukeren permanent. Når den er deaktivert, blir brukeren suspendert i stedet.'
+      intro: 'Når du merker en bruker som spammer, vil flere handlinger bli tatt, noe som avhenger av utvidelsene som er tilgjengelige på forumet ditt.'
+      move_discussions_tag_label: 'Flytte diskusjoner til kode i karantene'
+      move_discussions_tag_help: 'Dette vil flytte alle diskusjoner startet av denne brukeren til koden du angav i foruminnstillingene. Når deaktivert, blir diskusjoner værende i gjeldende koder.'
+      process_button: Prosess
+      report_to_sfs_label: 'Rapporter til StopForumSpam'
+      report_to_sfs_help: 'Dette vil rapportere brukerens grunnleggende detaljer (brukernavn, e-post, IP-adresse) til StopForumSpam. Dette vil bidra til å forhindre at brukeren registrerer seg på andre fora som bruker tjenesten StopForumSpam.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Tilbakestill antall diskusjonsvisninger'
+      submit: Forelegge
+      label: 'Sett til visningsantall'
+    discussion_controls:
+      resetviews_button: 'Angi antall visninger'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Klebrig
+      sticky_button: Klebrig
+    badge:
+      sticky_tooltip: Klebrig
+  ref:
+    sticky: Klebrig
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Låst
+    discussion_controls:
+      lock_button: Lås
+      unlock_button: 'Låse opp'
+    settings:
+      notify_discussion_locked_label: 'Noen låser en diskusjon jeg startet'
+flarum-likes:
+  forum:
+    post:
+      like_link: Som
+      unlike_link: Ulik
+      you_text: Du
+    post_likes:
+      title: 'Brukere som liker dette'
+      load_more_button: 'Last inn mer'
+    settings:
+      notify_post_liked_label: 'Noen liker et av innleggene mine'
+    user:
+      likes_link: Liker
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Sett inn emoji'
+      type_to_search_text: 'Skriv for å søke etter en emoji'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Innholdet ditt er for stort, vennligst les våre retningslinjer for publisering' }
+dhtml-persona:
+  forum:
+    persona: Person
+dhtml-leaderboard:
+  forum:
+    leaderboard: Resultatliste
+dhtml-gender:
+  forum:
+    male: Mannlig
+    female: Kvinnelig
+    other: 'Vil helst ikke si'
+    inputGender: Kjønn
+    saveButton: Lagre
+    clickToSelectGender: 'Velg kjønn'
+    genderSaved: 'Kjønn vellykket reddet!'
+    field_placeholder: 'Bekreft kjønn'
+    binding_gender: 'Vi oppdaget at du ikke har angitt kjønn. Vennligst angi kjønn først. Du kan bare legge ut og legge igjen meldinger etter at du har angitt kjønn.'
+    binding_gender_click: 'Klikk nå'
+flarum-content-pages:
+  forum:
+    home: Hjem
+    about-us: 'Om oss'
+    guidelines: Retningslinjer
+    privacy-policy: Personvernpolicy
+    terms-of-use: 'Vilkår for bruk'
+    contact-us: 'Kontakt oss'
+    download-app: 'Last ned app'
+    discord-chat: 'Discord Chat'
+    tags-cloud: 'Tags: Cloud'
+    languages: Språk
+    leaderboard: Resultatliste
+    live: Live
+    live-coding: 'Live Coding'
+    challenges: Utfordringer
+    dev-challenges: Dev-utfordringer
+    jobs: Jobber
+    community: Samfunn
+    dev-jobs: 'Dev jobber'
+    job-posting: Jobbinnlegg
+    job-postings: 'Job Postings'
+    workshops: Verksteder
+    dev-workshops: 'Dev Workshops'
+    events: Events
+    conferences: Konferanser
+    event-conferences: Events/konferanser
+    showcase: 'Vis alle'
+    tags: Tags
+    more: Mer
+    memberships: Medlemskap
+    members: Medlemmer
+    general-discussion: 'Generelle diskusjoner'
+    technology-articles: 'Tekniske artikler'
+    coding-challenges: Kodeutfordringer
+    q-a: 'Q/A Seksjon'
+    artificial-intelligence: 'Kunstig intelligens'
+    computer-science: Datavitenskap
+    programming-languages: Programmeringsspråk
+    development-tools: Utviklingsverktøy
+    software-development: Programvareutvikling
+    frontend-development: 'Frontend Development'
+    backend-development: Motorutvikling
+    software-engineering: Programvareteknikk
+    cybersecurity: Cybersikkerhet
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Tegn teller'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Rediger fødselsdato'
+      date_of_birth_text: Fødselsdato
+      submit_button: 'Lagre endringer'
+    settings:
+      change_dob_label: 'Endre fødselsdato'
+      show_dob_date_label: 'Vis fødselsdag og fødselsmåned'
+      show_dob_year_label: 'Vis fødselsår'
+      show_dob_year_help: 'Dette vil tillate folk å se din alder.'
+      dob_heading: Fødselsdato
+    nav:
+      nav_item: 'Dagens bursdager'
+    edit_user:
+      dob_heading: Fødselsdato
+    sign_up:
+      dob_placeholder: Fødselsdato
+  api:
+    invalid_dob_message: 'Ugyldig fødselsdato'
+  ref:
+    date_of_birth: Fødselsdato
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: Emoji-velger
+    search_placeholder: Søke...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Rediger forfatter og dato'
+    modal:
+      title-post: 'Rediger innleggsforfatter og dato'
+      title-discussion: 'Rediger diskusjonsforfatter og dato'
+      user: Forfatter
+      created_at: Opprettelsestid
+      edited_at: Redigeringstid
+      sync-with-discussion: 'Synkronisere med diskusjon'
+      sync-with-post: 'Synkroniser med første innlegg'
+      sync-impossible: 'Finner ikke første innlegg. Prøv å rulle til starten av diskusjonen.'
+      submit: Lagre
+      cancel: Annullere
+    search:
+      placeholder: 'Søk etter brukere'
+      type-more: 'Skriv inn 3 tegn for å søke i databasen'
+      no-results: 'Ingen resultater'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Veksle modus for rik tekst'
+      insert_button: 'Sette inn'
+      insert_image: { src_placeholder: Lenke, title_placeholder: Tittel }
+      insert_link: { text_placeholder: Tekst, href_placeholder: URL, title_placeholder: 'Tittel (vises på pekerfølsom)', remove_button: Fjerne }
+      additional_items_tooltip: 'Flere kontroller'
+      code_block_tooltip: 'Sette inn en kodeblokk'
+      horizontal_rule_tooltip: 'Sette inn vannrett linje'
+      image_tooltip: 'Legg til et bilde'
+      link_tooltip: 'Legge til en kobling'
+      spoiler_block_tooltip: 'Blokker spoiler/rullegardinmeny'
+      strike_tooltip: 'Gjennomstreking <alt-shift-5>'
+      text_type_tooltip: 'Velg teksttype'
+  forum:
+    settings:
+      composer_heading: Komponist
+      use_rich_text_editor_label: 'Bruker du redigeringsprogram for rik tekst?'
+      rich_text_compact_paragraphs_label: 'Ikke skill avsnitt med ny linje.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Du har aktivert push-varslinger, men har ikke konfigurert denne enheten.'
+      optin_button: Konfigurere
+    discussion_controls:
+      share_button: Aksje
+    post_controls:
+      share_button: Aksje
+    user_controls:
+      share_button: Aksje
+    settings:
+      push_header: Dytte
+      pwa_notifications: { access_default: 'På grunn av nettleserbegrensninger må du velge å motta push-varsler på denne enheten.', access_default_button: 'Meld deg på', access_denied: 'Du må justere nettleserinnstillingene for å motta push-varsler på denne enheten.', access_denied_button: 'Lær hvordan', no_browser_support: 'Denne nettleseren støtter ikke push-varslinger for progressive nettapper.', no_browser_support_button: 'Få mer informasjon' }
+  views:
+    offline:
+      header: 'Feil ved nettverkstilkobling'
+      text: 'Denne appen krever en nettverkstilkobling; Den kan ikke brukes frakoblet. Kontroller tilkoblingen din.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Advar brukeren'
+    user:
+      warnings: 'Moderator Advarsler'
+    settings:
+      warning_notification_label: 'En moderator advarer meg'
+    validation:
+      public_comment_required: 'Du gir mest en offentlig kommentar.'
+      invalid_strike_count: 'Antall slag må være et heltall mellom 0 og 5.'
+    warning_controls:
+      delete_button: Fjerne
+      restore_button: Gjenopprette
+      delete_forever_button: Slette
+    warning_list:
+      add_button: 'Ny advarsel'
+      no_warnings: 'Det ser ut som det ikke er noen advarsler her.'
+      warnings_no_strikes: 'Moderatoradvarsler: Ingen streik mottatt'
+    warning_list_item:
+      public_comment: Advarsel
+      private_comment: 'Moderator-synlige kommentarer'
+      linked_post: 'Koblet innlegg'
+    warning_modal:
+      confirmation_message: 'Advarselen din er lagret. Du må kanskje oppdatere siden for å se den.'
+      strikes_heading: 'Hvor mange streiker skal brukes?'
+      submit_button: 'Lagre advarsel'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Rediger svarmal'
+    reply_template:
+      title: 'Rediger svarmal'
+      submit_button: 'Lagre svarmal'

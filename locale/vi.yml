@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Mật khẩu bạn đã nhập không chính xác.'
+      confirm_password_placeholder: 'Xác nhận mật khẩu'
+      dismiss_button: OK
+      submit_button: 'Lưu thay đổi'
+      title: 'Thay đổi email'
+    change_password:
+      send_button: 'Gửi email đặt lại mật khẩu'
+      text: 'Nhấp vào nút bên dưới và kiểm tra email của bạn để tìm liên kết để thay đổi mật khẩu của bạn.'
+      title: 'Thay đổi mật khẩu'
+    composer:
+      close_tooltip: Đóng
+      exit_full_screen_tooltip: 'Thoát khỏi chế độ toàn màn hình'
+      full_screen_tooltip: 'Toàn màn hình'
+      minimize_tooltip: 'Giảm thiểu'
+      preview_tooltip: Download
+    composer_discussion:
+      body_placeholder: 'Viết bài...'
+      discard_confirmation: 'Bạn chưa đăng thảo luận của mình. Bạn có muốn loại bỏ nó không?'
+      submit_button: 'Đăng thảo luận'
+      title_placeholder: 'Tiêu đề thảo luận'
+      title: 'Bắt đầu một cuộc thảo luận'
+    composer_edit:
+      discard_confirmation: 'Bạn chưa lưu các thay đổi của mình. Bạn có muốn loại bỏ chúng không?'
+      edited_message: 'Chỉnh sửa của bạn đã được thực hiện.'
+      submit_button: 'Lưu thay đổi'
+      view_button: Cảnh
+    composer_reply:
+      discard_confirmation: 'Bạn chưa đăng câu trả lời của mình. Bạn có muốn loại bỏ nó không?'
+      posted_message: 'Câu trả lời của bạn đã được đăng.'
+      submit_button: 'Bài trả lời'
+      body_placeholder: 'Viết thư trả lời...'
+      view_button: Cảnh
+    discussion_controls:
+      cannot_reply_button: 'Không thể trả lời'
+      cannot_reply_text: 'Bạn không có quyền trả lời cuộc thảo luận này.'
+      delete_confirmation: 'Bạn có chắc chắn muốn xóa thảo luận này không?'
+      log_in_to_reply_button: 'Đăng nhập để trả lời'
+      toggle_dropdown_accessible_label: 'Chuyển đổi menu thả xuống hành động thảo luận'
+      delete_button: Xóa
+      delete_forever_button: 'Xóa vĩnh viễn'
+      rename_button: Rename
+      reply_button: 'Trả lời'
+      restore_button: 'Khôi phục'
+    discussion_list:
+      empty_text: 'Có vẻ như không có cuộc thảo luận nào ở đây.'
+      load_more_button: 'Tải thêm'
+    forgot_password:
+      email_sent_message: 'Nếu email bạn đã nhập được đăng ký với trang này, chúng tôi sẽ gửi cho bạn một email chứa một liên kết để đặt lại mật khẩu của bạn. Kiểm tra thư rác của bạn nếu bạn không nhận được nó trong vòng một hoặc hai phút.'
+      not_found_message: 'Không có người dùng đăng ký với địa chỉ email đó.'
+      submit_button: 'Mật khẩu phục hồi'
+      text: 'Hãy nhập địa chỉ email của bạn và chúng tôi sẽ gửi cho bạn một liên kết để đặt lại mật khẩu của bạn.'
+      title: 'Mật khẩu bị quên'
+      dismiss_button: OK
+      email_placeholder: Email
+    header:
+      admin_button: 'Quản trị'
+      back_to_index_tooltip: 'Quay lại danh sách thảo luận'
+      locale_dropdown_accessible_label: 'Thay đổi ngôn ngữ diễn đàn'
+      profile_button: 'Hồ sơ'
+      search_clear_button_accessible_label: 'Xóa truy vấn tìm kiếm'
+      search_placeholder: 'Diễn đàn tìm kiếm'
+      search_role_label: 'Diễn đàn tìm kiếm'
+      session_dropdown_accessible_label: 'Chuyển đổi menu thả xuống tùy chọn phiên'
+      log_in_link: 'Đăng nhập'
+      log_out_button: 'Đăng xuất'
+      settings_button: 'Cài đặt'
+      sign_up_link: 'Đăng ký'
+    index:
+      cannot_start_discussion_button: 'Không thể bắt đầu thảo luận'
+      mark_all_as_read_confirmation: 'Bạn có chắc chắn muốn đánh dấu tất cả các cuộc thảo luận là đã đọc không?'
+      refresh_tooltip: 'Làm tươi'
+      toggle_sidenav_dropdown_accessible_label: 'Chuyển đổi menu thả xuống điều hướng'
+      all_discussions_link: 'Tất cả các cuộc thảo luận'
+      mark_all_as_read_tooltip: 'Đánh dấu tất cả là đã đọc'
+      meta_title_text: 'Tất cả các cuộc thảo luận'
+      start_discussion_button: 'Bắt đầu một cuộc thảo luận'
+    index_sort:
+      latest_button: Đặt
+      newest_button: 'Mới nhất'
+      oldest_button: 'Lâu đời nhất'
+      relevance_button: 'Liên quan'
+      toggle_dropdown_accessible_label: 'Thay đổi sắp xếp danh sách thảo luận'
+      top_button: Đỉnh
+      hot_button: 'Xu hướng'
+      votes_button: 'Lượt ủng hộ'
+      front_button: 'Trang đầu'
+      popular_button: 'Phổ biến'
+      unpopular_button: 'Ưa chuộng'
+    log_in:
+      forgot_password_link: 'Quên mật khẩu?'
+      invalid_login_message: 'Chi tiết đăng nhập của bạn không chính xác.'
+      remember_me_label: 'Ghi nhớ tôi'
+      sign_up_text: 'Bạn chưa có tài khoản? <a>Đăng ký</a>'
+      username_or_email_placeholder: 'Tên người dùng hoặc Email'
+      password_placeholder: 'Mật khẩu'
+      submit_button: 'Đăng nhập'
+      title: 'Đăng nhập'
+    notifications:
+      delete_all_confirm: 'Bạn có chắc chắn muốn xóa tất cả thông báo không? Hành động này không thể đảo ngược'
+      delete_all_tooltip: 'Xóa tất cả thông báo'
+      empty_text: 'Không có thông báo'
+      mark_as_read_tooltip: 'Đánh dấu là đã đọc'
+      toggle_dropdown_accessible_label: 'Xem thông báo'
+      mark_all_as_read_tooltip: 'Đánh dấu tất cả là đã đọc'
+      title: 'Thông báo'
+      tooltip: 'Thông báo'
+    post:
+      edited_text: Edited
+    post_controls:
+      delete_confirmation: 'Bạn có chắc chắn muốn xóa bài đăng này mãi mãi không? Hành động này không thể hoàn tác.'
+      hide_confirmation: 'Bạn có chắc chắn muốn xóa bài đăng này không?'
+      toggle_dropdown_accessible_label: 'Chuyển đổi menu thả xuống kiểm soát bài đăng'
+      push_to_front_button: 'Đẩy lên FrontPage'
+      pull_from_front_button: 'Kéo từ FrontPage'
+      delete_button: Xóa
+      delete_forever_button: 'Xóa vĩnh viễn'
+      edit_button: 'Biên tập'
+      restore_button: 'Khôi phục'
+    post_scrubber:
+      now_link: 'Bây giờ'
+      original_post_link: 'Bài gốc'
+    post_stream:
+      load_more_button: 'Tải thêm'
+      reply_placeholder: 'Viết thư trả lời...'
+    rename_discussion:
+      title: 'Đổi tên thảo luận'
+      submit_button: Rename
+    search:
+      discussions_heading: 'Thảo luận'
+      users_heading: 'Người dùng'
+    security:
+      cannot_terminate_current_session: 'Không thể chấm dứt phiên hoạt động hiện tại. Thay vào đó, hãy đăng xuất.'
+      created: Tạo
+      current_active_session: 'Phiên hoạt động hiện tại'
+      developer_tokens_heading: 'Mã thông báo dành cho nhà phát triển'
+      empty_text: 'Có vẻ như không có gì để xem ở đây.'
+      global_logout: { heading: 'Đăng xuất toàn cầu', help_text: 'Xóa phiên cookie hiện tại, chấm dứt tất cả các phiên, thu hồi mã thông báo nhà phát triển và vô hiệu hóa mọi email xác nhận email hoặc đặt lại mật khẩu.', log_out_button: 'Đăng xuất' }
+      hide_access_token: 'Ẩn Token'
+      last_activity: 'Hoạt động cuối cùng'
+      new_access_token_modal: { submit_button: 'Tạo Token', title_placeholder: 'Tiêu đề', title: 'Mã thông báo mới' }
+      revoke_access_token: 'Thu hồi'
+      sessions_heading: 'Phiên hoạt động'
+      session_termination_failed: 'Đã xảy ra lỗi khi chấm dứt phiên của bạn.'
+      show_access_token: 'Xem Token'
+      terminate_all_other_sessions: 'Chấm dứt tất cả các phiên khác'
+      terminate_session: 'Chấm dứt'
+      token_revoked: 'Token bị thu hồi.'
+      token_title_placeholder: /
+      never: 'Không bao giờ'
+      new_access_token_button: 'Mã thông báo mới'
+      revoke_access_token_confirmation: 'Bạn có chắc chắn muốn tiếp tục? Hành động này không thể hoàn tác.'
+      terminate_all_other_sessions_confirmation: 'Bạn có chắc chắn muốn tiếp tục? Hành động này không thể hoàn tác.'
+      title: 'An ninh'
+    settings:
+      account_heading: 'Tài khoản'
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Ai đó đổi tên một cuộc thảo luận mà tôi đã bắt đầu'
+      privacy_disclose_online_label: 'Cho phép người khác nhìn thấy khi tôi trực tuyến'
+      privacy_heading: 'Sự riêng tư'
+      change_email_button: 'Thay đổi email'
+      change_password_button: 'Thay đổi mật khẩu'
+      notifications_heading: 'Thông báo'
+      notify_by_email_heading: Email
+      title: 'Cài đặt'
+    sign_up:
+      log_in_text: 'Bạn đã có tài khoản? <a>Đăng nhập</a>'
+      dismiss_button: OK
+      email_placeholder: Email
+      password_placeholder: 'Mật khẩu'
+      submit_button: 'Đăng ký'
+      title: 'Đăng ký'
+      username_placeholder: 'Tên đăng nhập'
+    user:
+      avatar_upload_button: 'Tải lên'
+      avatar_upload_tooltip: 'Tải hình đại diện mới lên'
+      online_text: 'Trực tuyến'
+      posts_empty_text: 'Có vẻ như không có bài viết nào ở đây.'
+      avatar_remove_button: Triệt
+      discussions_link: 'Thảo luận'
+      posts_link: 'Bài viết'
+      posts_load_more_button: 'Tải thêm'
+      security_link: 'An ninh'
+      settings_link: 'Cài đặt'
+    user_controls:
+      button: 'Điều khiển'
+      delete_confirmation: 'Bạn có chắc chắn muốn xóa người dùng này không? Bài đăng của người dùng sẽ KHÔNG bị xóa.'
+      toggle_dropdown_accessible_label: 'Chuyển đổi menu thả xuống kiểm soát người dùng'
+      delete_button: Xóa
+      edit_button: 'Biên tập'
+    user_email_confirmation:
+      resend_button: 'Gửi lại email xác nhận'
+      sent_message: Gửi
+    welcome_hero:
+      hide: 'Ẩn tin nhắn chào mừng'
+    badge:
+      frontpage_tooltip: 'Được đánh dấu là FrontPage'
+  lib:
+    debug_button: 'Gỡ lỗi'
+    alert:
+      dismiss_a11y_label: 'Loại bỏ cảnh báo'
+    badge:
+      hidden_tooltip: Ẩn
+    dropdown:
+      toggle_dropdown_accessible_label: 'Chuyển đổi menu thả xuống'
+    edit_user:
+      activate_button: 'Kích hoạt người dùng'
+      groups_heading: Nhóm
+      set_password_label: 'Đặt mật khẩu mới'
+      nothing_available: 'Bạn không được phép chỉnh sửa người dùng này.'
+      email_heading: Email
+      email_label: Email
+      password_heading: 'Mật khẩu'
+      password_label: 'Mật khẩu'
+      submit_button: 'Lưu thay đổi'
+      title: 'Chỉnh sửa người dùng'
+      username_heading: 'Tên đăng nhập'
+      username_label: 'Tên đăng nhập'
+    error:
+      generic_message: 'Rất tiếc! Đã xảy ra sự cố. Vui lòng tải lại trang và thử lại.'
+      generic_cross_origin_message: 'Rất tiếc! Đã xảy ra sự cố trong quá trình yêu cầu nguồn gốc chéo. Vui lòng tải lại trang và thử lại.'
+      not_found_message: 'Không tìm thấy tài nguyên được yêu cầu.'
+      payload_too_large_message: 'Tải trọng yêu cầu quá lớn.'
+      permission_denied_message: 'Bạn không có quyền làm điều đó.'
+      rate_limit_exceeded_message: 'Bạn đang đi hơi quá nhanh. Vui lòng thử lại sau vài giây.'
+      render_failed_message: 'Rất tiếc, chúng tôi đã gặp lỗi khi hiển thị nội dung này. Nếu bạn là người dùng, vui lòng thử lại sau. Nếu bạn là quản trị viên, hãy xem các tệp nhật ký Flarum của bạn để biết thêm thông tin.'
+    modal:
+      close: Đóng
+    nav:
+      drawer_button: 'Mở ngăn điều hướng'
+    loading_indicator:
+      accessible_label: Tải...
+  views:
+    confirm_email:
+      text: 'Nhấp vào nút bên dưới để xác nhận email tài khoản của bạn.'
+      submit_button: 'Xác nhận email'
+      title: 'Xác nhận email'
+    content:
+      javascript_disabled_message: 'Trang web này được xem tốt nhất trong một trình duyệt hiện đại có bật JavaScript.'
+      load_error_message: 'Đã xảy ra sự cố khi cố gắng tải phiên bản đầy đủ của trang web này. Hãy thử làm mới mạnh trang này để khắc phục lỗi.'
+      loading_text: Tải...
+    error:
+      csrf_token_mismatch: 'Bạn đã không hoạt động quá lâu.'
+      csrf_token_mismatch_return_link: 'Quay lại, để thử lại'
+      invalid_confirmation_token: 'Liên kết xác nhận này đã được sử dụng hoặc không hợp lệ.'
+      not_authenticated: 'Bạn không có quyền truy cập trang này. Hãy thử lại sau khi đăng nhập.'
+      not_found: 'Không thể tìm thấy trang bạn yêu cầu.'
+      permission_denied: 'Bạn không có quyền truy cập trang này.'
+      unknown: 'Đã xảy ra lỗi khi cố gắng tải trang này.'
+    log_out:
+      log_out_button: 'Đăng xuất'
+      title: 'Đăng xuất'
+    reset_password:
+      confirm_password_label: 'Xác nhận mật khẩu mới'
+      new_password_label: 'Mật khẩu mới'
+      submit_button: 'Lưu thay đổi'
+      title: 'Đặt lại mật khẩu của bạn'
+    discussion:
+      next_page_button: 'Trang tiếp theo'
+      previous_page_button: 'Trang trước'
+    index:
+      all_discussions_heading: 'Tất cả các cuộc thảo luận'
+      next_page_button: 'Trang tiếp theo'
+      previous_page_button: 'Trang trước'
+  api:
+    invalid_username_message: 'Tên người dùng chỉ có thể chứa chữ cái, số và dấu gạch ngang.'
+  email:
+    activate_account:
+      subject: 'Kích hoạt tài khoản mới của bạn'
+    confirm_email:
+      subject: 'Xác nhận địa chỉ email mới của bạn'
+    reset_password:
+      subject: 'Đặt lại mật khẩu của bạn'
+    send_test:
+      subject: 'Kiểm tra email Flarum'
+  ref:
+    all_discussions: 'Tất cả các cuộc thảo luận'
+    change_email: 'Thay đổi email'
+    change_password: 'Thay đổi mật khẩu'
+    color: Màu
+    confirm_password: 'Xác nhận mật khẩu'
+    confirm_email: 'Xác nhận email'
+    custom_footer_text: 'Thêm HTML sẽ được hiển thị ở cuối trang.'
+    custom_footer_title: 'Chỉnh sửa chân trang tùy chỉnh'
+    custom_header_text: 'Thêm HTML sẽ được hiển thị ở đầu trang, phía trên tiêu đề riêng của Flarum.'
+    custom_header_title: 'Chỉnh sửa tiêu đề tùy chỉnh'
+    delete: Xóa
+    delete_forever: 'Xóa vĩnh viễn'
+    discussions: 'Thảo luận'
+    edit: 'Biên tập'
+    edit_user: 'Chỉnh sửa người dùng'
+    email: Email
+    extensions: 'Phần mở rộng'
+    generic_confirmation_message: 'Bạn có chắc chắn muốn tiếp tục? Hành động này không thể hoàn tác.'
+    icon: 'Biểu tượng'
+    load_more: 'Tải thêm'
+    loading: Tải...
+    log_in: 'Đăng nhập'
+    log_out: 'Đăng xuất'
+    mark_all_as_read: 'Đánh dấu tất cả là đã đọc'
+    never: 'Không bao giờ'
+    new_token: 'Mã thông báo mới'
+    next_page: 'Trang tiếp theo'
+    notifications: 'Thông báo'
+    okay: OK
+    password: 'Mật khẩu'
+    posts: 'Bài viết'
+    previous_page: 'Trang trước'
+    remove: Triệt
+    rename: Rename
+    reply: 'Trả lời'
+    reset_your_password: 'Đặt lại mật khẩu của bạn'
+    restore: 'Khôi phục'
+    save_changes: 'Lưu thay đổi'
+    search_users: 'Tìm kiếm người dùng'
+    security: 'An ninh'
+    settings: 'Cài đặt'
+    sign_up: 'Đăng ký'
+    start_a_discussion: 'Bắt đầu một cuộc thảo luận'
+    username: 'Tên đăng nhập'
+    users: 'Người dùng'
+    view: Cảnh
+    write_a_reply: 'Viết thư trả lời...'
+    you: Mày
+  group:
+    admin: Admin
+    admins: 'Quản trị viên'
+    guest: Khách
+    guests: Khách
+    member: 'Thành viên'
+    members: 'Thành viên'
+    mod: Cách
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Tất cả các thẻ'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Chọn thẻ cho cuộc thảo luận của bạn'
+    discussion_controls:
+      edit_tags_button: 'Chỉnh sửa thẻ'
+    header:
+      back_to_tags_tooltip: 'Quay lại danh sách thẻ'
+    index:
+      more_link: 'Nhiều hơn...'
+      untagged_link: 'Không được gắn thẻ'
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Chọn thẻ'
+  lib:
+    deleted_tag_text: Xóa
+    tag_selection_modal:
+      bypass_requirements: 'Yêu cầu về thẻ bỏ qua'
+      submit_button: OK
+      title: 'Chọn thẻ'
+  ref:
+    choose_tags: 'Chọn thẻ'
+    name: Tên
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Đề cập đến người dùng, nhóm hoặc bài đăng'
+    mentioned_by:
+      title: 'Trả lời bài đăng này'
+      load_more_button: 'Tải thêm'
+    post:
+      quote_button: 'Trích dẫn'
+      reply_link: 'Trả lời'
+      you_text: Mày
+    settings:
+      notify_post_mentioned_label: 'Ai đó trả lời một trong các bài đăng của tôi'
+      notify_user_mentioned_label: 'Ai đó đề cập đến tôi trong một bài đăng'
+      notify_group_mentioned_label: 'Ai đó đề cập đến nhóm mà tôi là thành viên trong bài đăng'
+    user:
+      mentions_link: Mentions
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Hủy theo dõi'
+      unignore_button: 'Thưa ông'
+      follow_button: Theo
+    settings:
+      follow_after_reply_label: 'Tự động theo dõi các cuộc thảo luận mà tôi trả lời'
+      notify_for_all_posts_label: 'Thông báo về mọi bài đăng mới thay vì chỉ bài đăng cuối cùng trong cuộc thảo luận'
+      notify_new_post_label: 'Ai đó đăng bài trong cuộc thảo luận mà tôi đang theo dõi'
+    sub_controls:
+      following_text: 'Được thông báo về tất cả các câu trả lời.'
+      ignoring_text: 'Không bao giờ được thông báo. Ẩn khỏi danh sách thảo luận.'
+      not_following_button: 'Không theo dõi'
+      not_following_text: 'Chỉ được thông báo khi @mentioned.'
+      notify_alert_tooltip: 'Nhận thông báo trên diễn đàn khi có bài đăng mới'
+      notify_email_tooltip: 'Nhận email khi có bài viết mới'
+      follow_button: Theo
+      following_button: Sau
+      ignoring_button: 'Bỏ qua'
+    badge:
+      following_tooltip: Sau
+      ignoring_tooltip: 'Bỏ qua'
+    following:
+      meta_title_text: Sau
+    index:
+      following_link: Sau
+  ref:
+    follow: Theo
+    following: Sau
+    ignoring: 'Bỏ qua'
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Cảm ơn bạn đã gắn cờ bài đăng này. Người kiểm duyệt của chúng tôi sẽ xem xét nó.'
+      reason_inappropriate_label: 'Không phù hợp'
+      reason_inappropriate_text: 'Bài đăng này xúc phạm, lạm dụng hoặc vi phạm <a>nguyên tắc cộng đồng</a> của chúng tôi.'
+      reason_missing_message: 'Vui lòng cung cấp một số chi tiết cho người điều hành của chúng tôi.'
+      reason_off_topic_label: 'Lạc đề'
+      reason_off_topic_text: 'Bài đăng này không liên quan đến cuộc thảo luận hiện tại và nên được chuyển đi nơi khác.'
+      reason_other_label: 'Khác (vui lòng ghi rõ)'
+      reason_spam_label: 'Thư rác'
+      reason_spam_text: 'Bài đăng này là một quảng cáo.'
+      dismiss_button: OK
+      submit_button: 'Cột cờ'
+      title: 'Cột cờ'
+    flagged_posts:
+      empty_text: 'Không có cờ'
+      title: 'Bài viết bị gắn cờ'
+      tooltip: 'Bài viết bị gắn cờ'
+    post:
+      dismiss_flag_button: 'Loại bỏ cờ'
+    post_controls:
+      flag_button: Cờ
+  ref:
+    flag_post: 'Cột cờ'
+    flagged_posts: 'Bài viết bị gắn cờ'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Bạn đã bị đình chỉ vô thời hạn'
+      user_unsuspended_text: 'Bạn đã không bị đình chỉ'
+    suspension_info:
+      dismiss_button: Bỏ
+      indefinite: 'Đây là đình chỉ vô thời hạn'
+      title: 'Tài khoản này bị tạm ngưng'
+    suspend_user:
+      display_message: 'Hiển thị thông báo cho người dùng'
+      indefinitely_label: 'Bị đình chỉ vô thời hạn'
+      limited_time_days_text: ' Ngày'
+      limited_time_label: 'Bị đình chỉ có thời hạn...'
+      not_suspended_label: 'Không bị đình chỉ'
+      placeholder_optional: 'Tùy chọn'
+      reason: 'Lý do đình chỉ'
+      status_heading: 'Tình trạng tạm ngưng'
+      submit_button: 'Lưu thay đổi'
+    user_badge:
+      suspended_tooltip: Treo
+    user_controls:
+      suspend_button: 'Đình chỉ'
+  email:
+    no_reason_given: 'Không có lý do nào được đưa ra cho việc đình chỉ này.'
+    suspended:
+      subject: 'Tài khoản của bạn đã bị tạm ngưng'
+    unsuspended:
+      subject: 'Tài khoản của bạn đã không bị tạm ngưng'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Tất cả các tệp do người dùng tải lên.', anonymize_description: 'Xóa tham chiếu người dùng khỏi các tệp đã tải lên. Bản thân các tệp vẫn có thể truy cập được đối với người dùng có thể xem chúng trước khi ẩn danh.', delete_description: 'Xóa tất cả các tệp do người dùng tải lên.' }
+      tagsubscription: { export_description: 'Xuất thông tin chi tiết về cấp độ đăng ký cho một thẻ, nếu có.', anonymize_description: 'Xóa đăng ký của người dùng vào thẻ.' }
+      followuser: { export_description: 'Xuất thông tin chi tiết về người dùng được theo dõi và người dùng theo dõi.', delete_description: 'Xóa tất cả dữ liệu liên quan đến người dùng đang theo dõi.', anonymize_description: 'Xóa tất cả dữ liệu liên quan đến người dùng đang theo dõi.' }
+      bannedipdata: { export_description: 'Nếu bản ghi cấm IP được liên kết với người dùng (tức là người dùng đã bị IP cấm), địa chỉ IP của người dùng sẽ được đưa vào xuất, cùng với lý do cấm và ngày tạo.', anonymize_description: 'Bất kỳ địa chỉ IP nào được liên kết với người dùng đều bị tách rời, nhưng bản thân IP sẽ vẫn bị cấm, cùng với lý do. Đảm bảo không có dữ liệu PII nào được lưu trữ trong trường ''lý do''.' }
+fof-upload:
+  forum:
+    media_manager: 'Quản lý phương tiện truyền thông'
+    buttons:
+      attach: Gắn
+      upload: 'Tải lên'
+      upload_shared: 'Chia sẻ'
+      user_uploads: 'Tải lên của người dùng'
+      cancel: Hủy
+      media: 'Phương tiện truyền thông của tôi'
+      shared_media: 'Phương tiện được chia sẻ'
+    states:
+      error: Lỗi
+      loading: 'Tải lên'
+      unauthorized: 'Bạn không được phép tải xuống tệp'
+    text_preview:
+      expand: 'Mở rộng bản xem trước'
+      collapse: 'Thu gọn bản xem trước'
+      error: "Lỗi xem trước tệp. Nó có thể đã bị xóa hoặc ID tệp được cung cấp không hợp lệ.\n"
+      no_snippet_preview: '<Xem trước sẽ xuất hiện ở đây sau khi đăng>'
+      no_snippet: '<Không có đoạn trích xem trước>'
+  api:
+    upload_errors:
+      forbidden_type: 'Không được phép tải lên các tệp thuộc loại này.'
+      could_not_detect_mime: 'Không thể phát hiện loại MIME của tệp này, vui lòng thử lại.'
+      max_upload_file_size_ini: 'Tải lên giới hạn kích thước tệp tối đa đạt được từ php.ini.'
+      max_upload_file_size_form: 'Tải lên giới hạn kích thước tệp tối đa đạt được từ biểu mẫu.'
+      partial_upload: 'Tải lên một phần.'
+      no_file_uploaded: 'Không có tệp nào được tải lên.'
+      no_upload_tmp_folder: 'Không có thư mục tmp để tải tệp lên.'
+      cannot_write_to_disk: 'Không thể ghi vào đĩa.'
+      upload_blocked_by_php_extension: 'Một tiện ích mở rộng php đã chặn tải lên.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Tệp được chia sẻ mới'
+      dropzone: 'Kéo và thả tệp vào đây hoặc nhấp để duyệt'
+      hide-from-media-gallery: 'Ẩn khỏi thư viện phương tiện của người dùng'
+      upload: 'Tải lên'
+    file_list:
+      loading: 'Đang tải tệp...'
+      empty: 'Không có tệp nào để hiển thị.'
+      release_to_upload: 'Phát hành để tải lên'
+      modal_empty_desktop: 'Danh sách tệp của bạn trống. Nhấp vào nút hoặc kéo tệp vào đây để tải lên.'
+      modal_empty_phone: 'Danh sách tệp của bạn trống. Nhấn vào nút ở trên để tải tệp lên.'
+      load_more_files_btn: 'Tải nhiều tệp hơn'
+      hide_file: { hide_success: 'Tệp ẩn', show_success: 'Tệp hiển thị', loading: 'Ẩn tập tin...' }
+      hide_shared_file: { hide_success: 'Tệp được đặt ở chế độ riêng tư', show_success: 'Tệp được công khai', loading: 'Đặt tệp ở chế độ riêng tư...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Viết
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Thêm văn bản in đậm'
+      code_tooltip: 'Chèn mã'
+      header_tooltip: 'Thêm văn bản đầu trang'
+      image_tooltip: 'Thêm hình ảnh'
+      italic_tooltip: 'Thêm văn bản in nghiêng'
+      link_tooltip: 'Thêm liên kết'
+      ordered_list_tooltip: 'Thêm danh sách đánh số'
+      quote_tooltip: 'Chèn dấu ngoặc kép'
+      spoiler_tooltip: 'Chèn spoiler'
+      strikethrough_tooltip: 'Thêm văn bản gạch ngang'
+      unordered_list_tooltip: 'Thêm danh sách dấu đầu dòng'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Ai đó tạo cuộc thảo luận trong thẻ tôi đang theo dõi'
+      notify_new_post_label: 'Ai đó đăng trong thẻ tôi đang theo dõi'
+      notify_new_discussion_tag_label: 'Ai đó gắn thẻ lại cuộc thảo luận thành thẻ tôi đang theo dõi'
+    index:
+      follow_tag_button: Theo
+      unfollow_tag_button: 'Ngừng theo dõi'
+      following: { following_none_label: 'Các cuộc thảo luận được theo dõi', following_tags_label: 'Thẻ được theo dõi' }
+    badge:
+      following_tag_tooltip: Sau
+      lurking_tag_tooltip: 'Bí mật'
+    sub_controls:
+      following_text: 'Được thông báo về tất cả các cuộc thảo luận mới.'
+      hiding_text: 'Ẩn thảo luận khỏi trang Tất cả Thảo luận.'
+      ignoring_text: 'Không bao giờ được thông báo.'
+      lurking_text: 'Được thông báo về tất cả các cuộc thảo luận và trả lời mới.'
+      not_following_button: 'Không theo dõi'
+      not_following_text: 'Chỉ được thông báo khi @mentioned.'
+      notify_alert_tooltip: 'Nhận thông báo trên diễn đàn khi có cuộc thảo luận hoặc bài đăng mới'
+      notify_email_tooltip: 'Nhận email khi có cuộc thảo luận hoặc bài đăng mới'
+      submit_button: 'Xác nhận đăng ký'
+      follow_button: Theo
+      following_button: Sau
+      hiding_button: Ẩn
+      ignoring_button: 'Bỏ qua'
+      lurking_button: 'Bí mật'
+    user:
+      settings: { heading: 'Theo Tags', filter_label: 'Nội dung hiển thị theo mặc định trong trang Theo dõi' }
+  ref:
+    follow: Theo
+    following: Sau
+    hiding: Ẩn
+    ignoring: 'Bỏ qua'
+    lurking: 'Bí mật'
+    filtering_options:
+      none: 'Các cuộc thảo luận được theo dõi'
+      tags: 'Thẻ được theo dõi'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Biệt danh này không hợp lệ. Vui lòng liên hệ với quản trị viên diễn đàn của bạn để biết thêm thông tin về quy tắc biệt danh.'
+  ref:
+    change_nickname: 'Thay đổi biệt hiệu'
+    nickname: 'Tên hiệu'
+  forum:
+    change_nickname:
+      submit_button: 'Lưu thay đổi'
+      title: 'Thay đổi biệt hiệu'
+    edit_user:
+      nicknames_heading: 'Thay đổi biệt hiệu'
+      nicknames_text: 'Tên hiệu'
+    settings:
+      change_nickname_button: 'Thay đổi biệt hiệu'
+    sign_up:
+      nickname_placeholder: 'Tên hiệu'
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Tài khoản được liên kết', last-used-label: 'Sử dụng lần cuối', link-created-label: 'Liên kết đã tạo', orphaned-account: 'Bạn đã đăng nhập thông qua nhà cung cấp này trước đây, nhưng diễn đàn này đã vô hiệu hóa đăng nhập bằng phương pháp này kể từ đó.', help: 'Các tài khoản được liên kết này cho phép bạn đăng nhập vào diễn đàn bằng các nhà cung cấp khác.' } }
+    signup:
+      username_help: 'Vui lòng chọn tên người dùng để được biết đến tại đây'
+    unlink: 'Xóa liên kết'
+    error:
+      bad_verification_code: 'Mã xác minh không hợp lệ hoặc đã hết hạn. Vui lòng thử lại.'
+      invalid_state: 'Trạng thái không hợp lệ. Vui lòng thử lại.'
+    providers:
+      discord: 'Bất hòa'
+      facebook: 'QUẢNG CÁO'
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: 'Liên kết'
+      twitter: Twitter
+  lib:
+    providers:
+      discord: 'Bất hòa'
+      facebook: 'QUẢNG CÁO'
+      github: GitHub
+      gitlab: GitLab
+      twitter: Twitter
+      google: Google
+      linkedin: 'Liên kết'
+  ref:
+    settings:
+      app_id: 'ID ứng dụng'
+      app_secret: 'Bí mật ứng dụng'
+      client_id: 'ID khách hàng'
+      client_secret: 'Bí mật khách hàng'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Đăng nhập với tư cách người dùng khác'
+      placeholder_optional: '(Không bắt buộc) Cung cấp lý do của bạn để chuyển sang người dùng này'
+      placeholder_required: 'Bạn phải cung cấp lý do chuyển sang người dùng này trước khi tiếp tục'
+    user_controls:
+      impersonate_button: 'Đăng nhập với tư cách người dùng'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Thảo luận riêng tư' }
+    buttons:
+      add_recipients: Nhận
+      submit: OK
+      edit_recipients: 'Chỉnh sửa người nhận'
+      cancel: Hủy
+      make_public: 'Đặt cuộc thảo luận này ở chế độ công khai'
+      remove_from_discussion: 'Để lại cuộc thảo luận riêng tư này'
+    composer_private_discussion:
+      submit_button: 'Đăng thảo luận riêng tư'
+      title_placeholder: 'Tiêu đề thảo luận riêng tư'
+    confirm:
+      make_public: 'Bạn có chắc chắn muốn loại bỏ người nhận và hiển thị cuộc thảo luận này cho bất kỳ ai có thể xem thẻ được gán không?'
+    nav:
+      start_button: 'Thảo luận riêng'
+      nav_item: 'Thảo luận riêng tư'
+    input:
+      search_recipients: 'Tìm kiếm người nhận bằng cách nhập ba ký tự đầu tiên...'
+    search:
+      headings: { groups: 'Nhóm Quyền' }
+    modal:
+      titles: { add_recipients: 'Thêm người nhận vào cuộc thảo luận của bạn' }
+      labels: { selected_users: 'Người dùng được chọn', search_field: 'Tìm kiếm người dùng' }
+      help: { add_recipients: 'Cuộc thảo luận này sẽ chỉ hiển thị với những người dùng bạn chọn ở đây. Cần có ít nhất 1 người nhận (ngoài chính bạn).', update_recipients: 'Cuộc thảo luận này sẽ chỉ hiển thị với những người dùng bạn chọn ở đây.', selected_users: 'Nhấp vào tên người dùng để xóa họ.', click_user_to_remove_tooltip: 'Nhấp để xóa' }
+    user:
+      settings: { block_pd: 'Chặn các cuộc thảo luận riêng tư' }
+      byobu_link: 'Thảo luận riêng tư'
+      dropdown_label: 'Thảo luận riêng tư'
+    notifications:
+      pd_label: 'Ai đó đưa tôi vào một cuộc thảo luận riêng tư mới'
+      pd_reply_label: 'Ai đó đăng bài trong cuộc thảo luận riêng tư mà tôi là người nhận'
+      pd_user_left_label: 'Người dùng người nhận để lại cuộc thảo luận riêng tư mà tôi tham gia'
+      pd_added_label: 'Ai đó thêm tôi vào một cuộc thảo luận riêng tư hiện có'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Thông tin huy hiệu'
+    all_badges: 'Xem tất cả huy hiệu'
+    all_users: 'Xem tất cả người dùng'
+    give_badge: 'Tặng huy hiệu'
+    update_badge: 'Cập nhật huy hiệu'
+    select_badge: 'Chọn huy hiệu'
+    user_has_badge: 'Người dùng đã có huy hiệu này.'
+    user_no_badges: 'Người dùng này chưa có bất kỳ huy hiệu nào.'
+    no_received: 'Không có người dùng nào đạt được huy hiệu này.'
+    save_changes: 'Lưu thay đổi'
+    badge:
+      badge: 'Huy hiệu'
+      badges: 'Huy hiệu'
+      name: 'Tên huy hiệu'
+      description: 'Mô tả huy hiệu'
+      earning_reason: 'Lý do kiếm huy hiệu'
+      update_earning_reason: 'Cập nhật lý do kiếm tiền'
+      no_earning_reason: 'Không có lý do kiếm tiền nào được đặt ra'
+      earned_on: 'Huy hiệu kiếm được trên'
+      category: 'Danh mục huy hiệu'
+      badge_details: 'Chi tiết huy hiệu'
+    badges_in_card:
+      title: 'Huy hiệu trong thẻ người dùng'
+      manage_badges: 'Quản lý huy hiệu'
+      description: 'Bạn có thể thay đổi huy hiệu hiển thị trong thẻ người dùng bằng một trong các huy hiệu khác. Nếu bạn không chọn bất kỳ, chúng sẽ được chọn tự động.'
+    moderation:
+      remove_badge: 'Xóa huy hiệu khỏi người dùng'
+      remove_badge_confirm: 'Bạn có chắc chắn muốn xóa huy hiệu này khỏi người dùng này không?'
+      give_badge: 'Tặng huy hiệu'
+    notification:
+      title: 'Bạn đã nhận được huy hiệu mới'
+      settings: 'Tôi đã nhận được huy hiệu'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Tình trạng khốn khổ'
+      not_miserable_label: 'Không khổ sở'
+      indefinitely_label: 'Khốn khổ vô thời hạn'
+      limited_time_label: 'Khốn khổ trong một thời gian giới hạn...'
+      limited_time_days_text: ' Ngày'
+      submit_button: 'Lưu thay đổi'
+    user_badge:
+      miserable_user_tooltip: 'Người dùng khốn khổ'
+    user_controls:
+      miserable_user_button: 'Người dùng khốn khổ'
+  ref:
+    miserable_user: 'Người dùng khốn khổ'
+sycho-profile-cover:
+  forum:
+    cover: Che
+    edit_cover: 'Chỉnh sửa bìa'
+    added:
+      success: 'Bìa hồ sơ được cập nhật.'
+      error: 'Không thể tải lên hình ảnh.'
+    removed:
+      success: 'Đã tháo nắp hồ sơ.'
+      error: 'Không thể tháo nắp, hãy thử lại sau.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Sao chép vào khay nhớ tạm'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Khách truy cập cuối cùng', guest: Khách }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Mã quốc gia'
+    saveButton: Cứu
+    clickToSelectCountry: 'Chọn quốc gia của bạn'
+    countrySaved: 'Đất nước được cứu thành công!'
+    field_placeholder: 'Xác nhận cờ quốc gia'
+    binding_country: 'Chúng tôi phát hiện ra rằng bạn đã không ràng buộc nơi ở của bạn. Vui lòng liên kết quốc gia của bạn trước. Bạn chỉ có thể đăng và để lại tin nhắn sau khi liên kết quốc gia của mình.'
+    binding_country_click: 'Nhấp vào ngay'
+username-blacklist:
+  forum:
+    modal-title: 'Cảnh báo!'
+    modal-body-first-line: 'Cảnh báo - Tên người dùng này <strong>bị quản trị viên chặn</strong>'
+    modal-body-second-line: 'Vui lòng chọn một tên người dùng khác không vi phạm nguyên tắc cộng đồng của chúng tôi và thử lại.'
+  admin:
+    blackList: 'Tên người dùng trong danh sách đen'
+    blackList-help: 'Viết ở đây tên người dùng mà bạn muốn chặn trong khi đăng ký (được phân tách bằng dấu phẩy)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: 'Tóm tắt', show-summaries: 'Hiển thị đoạn trích từ mỗi cuộc thảo luận trong danh sách thảo luận (Máy tính để bàn/Máy tính bảng)', show-summaries-mobile: 'Hiển thị đoạn trích từ mỗi cuộc thảo luận trong danh sách thảo luận (Di động)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Hoạt động diễn đàn'
+      forum_new_discussions: 'Các cuộc thảo luận mới của Diễn đàn'
+      discussion_last_posts: 'Cuộc thảo luận này'
+      user_last_posts: 'Bài đăng và nhận xét của người dùng này'
+    feeds:
+      titles: { main_subtitle: 'Bài viết cuối cùng trong diễn đàn', main_d_subtitle: 'Các cuộc thảo luận mới nhất trong diễn đàn', discussion_subtitle: 'Thông điệp cuối cùng trong cuộc thảo luận này', user_subtitle: 'Bài viết và bình luận mới nhất của người dùng này.' }
+    discussion:
+      feed_link: 'Cho ăn'
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Theo
+    profile_page:
+      no_following: 'Có vẻ như bạn không theo dõi bất cứ ai.'
+    settings:
+      notify_new_follower_label: 'Có người đi theo tôi'
+      notify_new_unfollower_label: 'Ai đó ngừng theo dõi tôi'
+      notify_new_discussion_label: 'Người mà tôi đang theo dõi bắt đầu một cuộc thảo luận'
+      notify_new_post_label: 'Ai đó tôi đang theo dõi bài đăng trong một cuộc thảo luận hiện có'
+      block_follow: 'Ngăn người dùng theo dõi tôi'
+    badge:
+      label: { follow: 'Theo dõi các cuộc thảo luận', lurk: 'Theo dõi tất cả' }
+    filter:
+      following: 'Người dùng được theo dõi'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Theo dõi các cấp độ', follow_select_label: 'Theo dõi loại', no_user_attr_provided_err: 'Uh oh, đã xảy ra sự cố khi mở phương thức này.', no_user_attr_provided_err_debug: 'Không có thuộc tính ''user'' nào được chuyển đến phương thức SelectFollowUserLevel khi được tạo. Phương thức không thể được hiển thị.', save_btn: Cứu, cancel_btn: Hủy }
+    profile_link: 'Người dùng được theo dõi'
+    user_controls:
+      follow_button: Theo
+      unfollow_button: 'Hủy theo dõi'
+      change_button: 'Thay đổi loại theo dõi'
+    index:
+      follow_tag_button: Theo
+      unfollow_tag_button: 'Thay đổi loại theo dõi'
+  email:
+    new_follower_subject: '[Theo dõi người dùng] Bạn có một người theo dõi mới!'
+  lib:
+    following_link: 'Người dùng được theo dõi'
+    follow: Theo
+    change_follow_type: 'Thay đổi loại theo dõi'
+    unfollow: 'Hủy theo dõi'
+    follow_levels:
+      unfollow: { name: 'Đừng làm theo' }
+      follow: { name: 'Theo dõi các cuộc thảo luận' }
+      lurk: { name: 'Theo dõi tất cả' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Vui lòng đảm bảo rằng việc thay đổi biệt hiệu được yêu cầu này tuân thủ nguyên tắc của diễn đàn.', decision_title: 'Quyết định', approval_label: 'Chấp nhận', rejected_label: 'Bác bỏ', submit_button: Trình, reason_title: 'Lý do từ chối', success: 'Quyết định đã gửi.', title: 'Yêu cầu đổi biệt danh' }
+      results: { title: 'Yêu cầu đổi biệt danh', approved: 'Yêu cầu đổi biệt hiệu của bạn đã được chấp thuận', rejected: 'Yêu cầu đổi biệt hiệu của bạn đã bị từ chối', resubmit: 'Tại thời điểm này, bạn có thể gửi lại yêu cầu thay đổi biệt hiệu mới từ cài đặt tài khoản của mình nếu bạn muốn.', dismiss_button: OK }
+      request: { title: 'Yêu cầu thay đổi biệt hiệu', submit_button: 'Gửi yêu cầu', delete_button: 'Xóa yêu cầu', confirmation_message: 'Yêu cầu đổi biệt hiệu của bạn đã được gửi và đang chờ phê duyệt.', deleted: 'Yêu cầu biệt danh đã bị xóa.', dismiss_button: OK }
+    username_modals:
+      action: { help_text: 'Vui lòng đảm bảo rằng yêu cầu thay đổi tên người dùng này tuân thủ nguyên tắc của diễn đàn.', decision_title: 'Quyết định', approval_label: 'Chấp nhận', rejected_label: 'Bác bỏ', submit_button: Trình, reason_title: 'Lý do từ chối', success: 'Quyết định đã gửi.', title: 'Yêu cầu thay đổi tên người dùng' }
+      results: { title: 'Yêu cầu thay đổi tên người dùng', approved: 'Yêu cầu thay đổi tên người dùng của bạn đã được chấp thuận', rejected: 'Yêu cầu thay đổi tên người dùng của bạn đã bị từ chối', resubmit: 'Tại thời điểm này, bạn có thể gửi lại yêu cầu thay đổi tên người dùng mới từ cài đặt tài khoản của mình nếu bạn chọn.', dismiss_button: OK }
+      request: { title: 'Yêu cầu thay đổi tên người dùng', submit_button: 'Gửi yêu cầu', delete_button: 'Xóa yêu cầu', confirmation_message: 'Yêu cầu thay đổi tên người dùng của bạn đã được gửi và đang chờ phê duyệt.', deleted: 'Yêu cầu tên người dùng đã bị xóa.', dismiss_button: OK }
+    pending_requests:
+      empty_text: 'Không tìm thấy yêu cầu đổi tên.'
+      tooltip: 'Yêu cầu đổi tên'
+      title: 'Yêu cầu đổi tên'
+    settings:
+      nickname_request_button: 'Thay đổi biệt hiệu'
+      username_request_button: 'Thay đổi tên người dùng'
+    user:
+      name_history_link: 'Lịch sử tên'
+  ref:
+    name_change_request: 'Yêu cầu đổi tên'
+    name_change_requests: 'Yêu cầu đổi tên'
+    nickname_change_request: 'Yêu cầu đổi biệt danh'
+    nickname_change_requests: 'Yêu cầu thay đổi biệt hiệu'
+    username_change_request: 'Yêu cầu thay đổi tên người dùng'
+    username_change_requests: 'Yêu cầu thay đổi tên người dùng'
+  email:
+    body:
+      noReasonProvided: 'Không có lý do nào được cung cấp.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Viết điều gì đó về bản thân bạn'
+    profile:
+      cancel_confirm: 'Bạn có chắc chắn muốn hủy chỉnh sửa tiểu sử của mình không? Bạn sẽ mất mọi thay đổi bạn đã thực hiện.'
+      cancel_button: Hủy
+      save_button: Cứu
+      edit_bio_label: 'Chỉnh sửa tiểu sử'
+fof-split:
+  forum:
+    split:
+      from: 'Tách ra từ đây'
+      to: 'Chia nhỏ đến đây'
+      cancel: 'Hủy tách'
+    modal:
+      title: 'Thảo luận tách'
+      new_discussion_label: 'Chỉ định tiêu đề cho cuộc thảo luận mới'
+      submit_button: Chẻ
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Chỉnh sửa các nút phương tiện truyền thông xã hội của bạn'
+      add: 'Thêm nút vào phương tiện truyền thông xã hội của bạn'
+      headtitle: 'Chỉnh sửa các nút'
+      title: 'Tiêu đề'
+      url: 'Địa chỉ'
+      submit: Cứu
+      delete: Xóa
+      deletetitle: 'Nút Xóa'
+      save_disabled_fetching_favicons: 'Một hoặc nhiều biểu tượng đang được tìm nạp. Hãy chờ.'
+      favicon: Favicon
+      grey_favicon: 'Favicon xám'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: 'Chia sẻ'
+      share_dropdown_accessible_label: 'Chuyển đổi menu thả xuống chia sẻ thảo luận'
+    modal:
+      title: 'Chia sẻ'
+      copy_button: 'Bản sao'
+  lib:
+    networks:
+      facebook: 'QUẢNG CÁO'
+      twitter: Twitter
+      linkedin: 'Liên kết'
+      reddit: Reddit
+      whatsapp: 'Cái gì'
+      telegram: Telegram
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Thế giới của tôi'
+      qq: QQ
+      qzone: QZone
+      native: 'Chia sẻ bản địa'
+fof-recaptcha:
+  forum:
+    error: 'Đã xảy ra lỗi khi gửi reCAPTCHA. Thử lại.'
+    unknown_error: 'Đã xảy ra lỗi không xác định. Kiểm tra captcha và thử lại.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Bạn không thể sử dụng phản ứng này ngay bây giờ, vui lòng làm mới trang'
+    warning: 'Phản ứng của bạn đã được chuyển đổi'
+    settings:
+      notify_post_reacted_label: 'Ai đó bày tỏ cảm xúc về một trong các bài viết của tôi'
+    reacting-own-post: 'Bạn không thể phản ứng với bài đăng của chính mình'
+    modal:
+      title: 'Phản ứng'
+      no_reactions: 'Chưa có phản ứng'
+    mod_item: 'Xem phản ứng'
+    react_button_label: 'Phản ứng'
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Không thể tải trình cắt ảnh.', generic_resize: 'Đã xảy ra sự cố trong khi cắt xén và thay đổi kích thước hình ảnh.', get_image_data: 'Không cắt được. Đảm bảo tính năng bảo vệ lấy dấu vân tay của trình duyệt đã tắt.' }
+      help_text: "Quá trình tải lên hình ảnh có thể không thành công nếu cài đặt quyền riêng tư của trình duyệt của bạn rất nghiêm ngặt. Nếu bạn gặp sự cố, hãy thử tắt tính năng bảo vệ lấy dấu vân tay. Nếu không, bạn có thể <disableResize>tắt nén hình ảnh đã cắt</disableResize> hoặc <disableCrop>tắt cắt xén hoàn toàn</disableCrop>.\n"
+      submit_button: 'Tải lên'
+      submit_crop_button: 'Cắt & Tải lên'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Rất có khả năng là nó không cần bất kỳ cuộc thảo luận nào thêm và do đó va chạm nó không phục vụ mục đích.', checkbox_label: 'Tôi biết rằng cuộc thảo luận này khá cũ nhưng vẫn muốn trả lời.', error: 'Cuộc thảo luận này quá cũ để trả lời.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Bạn không có quyền bỏ phiếu'
+    poll_ended: 'Cuộc thăm dò này đã kết thúc.'
+    public_poll: 'Xem cử tri'
+    composer_discussion:
+      add_poll: 'Thêm cuộc thăm dò ý kiến'
+      edit_poll: 'Chỉnh sửa cuộc thăm dò ý kiến'
+    modal:
+      add_title: 'Thêm cuộc thăm dò ý kiến'
+      add_option_label: 'Thêm tùy chọn'
+      edit_title: 'Chỉnh sửa cuộc thăm dò ý kiến'
+      include_question: 'Bạn phải bao gồm một câu hỏi'
+      max: 'Bạn có thể có tối đa 10 câu trả lời'
+      min: 'Bạn phải bao gồm tối thiểu 2 câu trả lời'
+      no_voters: 'Không có phiếu bầu'
+      option_placeholder: 'Trả lời'
+      image_option_placeholder: 'URL hình ảnh (tùy chọn)'
+      options_label: 'Câu trả lời'
+      public_poll_label: 'Cho phép mọi người xem ai đã bỏ phiếu'
+      allow_multiple_votes_label: 'Cho phép mọi người bỏ phiếu cho nhiều tùy chọn'
+      max_votes_label: 'Số phiếu bầu tối đa cho mỗi người dùng'
+      max_votes_help: 'Đặt thành 0 để cho phép người dùng bỏ phiếu cho tất cả các tùy chọn.'
+      question_placeholder: 'Câu hỏi'
+      submit: Trình
+    moderation:
+      delete: 'Xóa cuộc thăm dò ý kiến'
+      delete_confirm: 'Bạn có chắc chắn muốn xóa cuộc thăm dò ý kiến này không?'
+      edit: 'Chỉnh sửa cuộc thăm dò ý kiến'
+    tooltip:
+      badge: 'Thăm dò ý kiến'
+    votes_modal:
+      title: 'Cử tri'
+fof-nightmode:
+  ref:
+    auto: 'Tự động (dựa trên tùy chọn trình duyệt hoặc thiết bị)'
+    light: 'Chế độ ban ngày'
+    dark: 'Chế độ ban đêm'
+  forum:
+    header:
+      nightmode_button: 'Chế độ ban đêm'
+    user:
+      settings: { heading: 'Đề tài', description: 'Chọn chủ đề màu bạn muốn sử dụng trên diễn đàn.', description2: 'Chủ đề này sẽ được liên kết với tài khoản của bạn và áp dụng cho tất cả các thiết bị của bạn trừ khi bạn bật nút chuyển bên dưới cho mỗi cài đặt thiết bị.', device_specific_setting_checkbox: 'Sử dụng cho mỗi cài đặt thiết bị', device_specific_setting_checkbox_tooltip: 'Lựa chọn chủ đề của bạn sẽ được lưu riêng cho từng thiết bị của bạn.', auto_unsupported: 'Trình duyệt của bạn không hỗ trợ chế độ tối tự động.', option_descriptions: { auto: 'Chủ đề của bạn sẽ được chọn tự động dựa trên cài đặt trình duyệt hoặc thiết bị của bạn. Ví dụ: nếu bạn đã bật chế độ tối trong iOS, các diễn đàn cũng sẽ tối.', day: 'Trải nghiệm cổ điển mà bạn đã quen. Yêu thích và thử thách.', night: 'Bạn là một con cú đêm. Bạn trông coi diễn đàn vào ban đêm, trong khi những con chim đang ngủ và những con cáo đang săn mồi. Hoặc bạn chỉ thích màu tối hơn!' }, options: { auto: 'Tự động (dựa trên tùy chọn trình duyệt hoặc thiết bị)', day: 'Chế độ ban ngày', night: 'Chế độ ban đêm' } }
+    day: 'Chế độ ban ngày'
+    night: 'Chế độ ban đêm'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Một ghi chú trống không được phép.'
+    moderatorNotes:
+      add_button: 'Ghi chú mới'
+      create-heading: 'Tạo ghi chú của người kiểm duyệt mới'
+      dismiss_button: 'Thực hiện'
+      noNotes: 'Có vẻ như không có ghi chú nào ở đây.'
+      submit_button: 'Lưu ghi chú'
+      delete: Xóa
+      confirm: 'Bạn có chắc chắn muốn xóa ghi chú này không?'
+    user:
+      notes: 'Ghi chú của người điều hành'
+  api:
+    no_reason_provided: 'Không có lý do nào được cung cấp'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Phiếu
+    vote_title: 'Hiển thị những người đã bình chọn'
+    nav:
+      name: 'Bảng xếp hạng'
+    ranking:
+      rank: Nơi
+      name: 'Người dùng'
+      amount: Điểm
+    notification:
+      prefrences: { vote: 'Khi một trong các bài đăng của tôi được bình chọn lên / xuống' }
+    user:
+      votes_link: Phiếu
+    modal:
+      downvotes_label: 'Downvoters:'
+      title: 'Cử tri'
+      upvotes_label: 'Người ủng hộ:'
+    mod_item: 'Xem cử tri'
+    voters:
+      none: 'Chưa có cử tri'
+      label: 'Cử tri'
+      label_none: 'Không có cử tri'
+    post:
+      upvote_button: 'Upvote post'
+      downvote_button: 'Bài đăng downvote'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Bản nháp đã lên lịch hiện bị tắt trong cài đặt.'
+  ref:
+    schedule_draft: 'Lên lịch dự thảo'
+  forum:
+    composer:
+      title: 'Lưu bản nháp'
+      saving: 'Tiết kiệm...'
+      saved: Lưu!
+      exit_alert: 'Loại bỏ các thay đổi đối với bản nháp?'
+      discard_empty_draft_alert: 'Bỏ bản nháp trống?'
+    dropdown:
+      empty_text: 'Bạn chưa lưu bất kỳ bản nháp nào'
+      title: Nháp
+      delete_all_button: 'Xóa tất cả bản nháp'
+      delete_button: 'Xóa bản nháp'
+      scheduled_icon_tooltip_formatter: 'L [tại] LT'
+      alert: 'Bạn có chắc chắn muốn xóa bản nháp của mình không?'
+      delete_all_alert: 'Bạn có chắc chắn muốn xóa tất cả các bản nháp của mình không?'
+      schedule_button: 'Lên lịch dự thảo'
+      tooltip: Nháp
+    schedule_draft_modal:
+      text: 'Lên lịch cho bản nháp của bạn để tự động đăng sau!'
+      unschedule_button: 'Hủy lịch trình'
+      unschedule_warning: 'Bạn có chắc chắn muốn bỏ lịch dự thảo này không?'
+      reschedule_button: 'Đổi lịch'
+      schedule_button: Lịch
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Ngày và/hoặc giờ không hợp lệ'
+      title: 'Lên lịch dự thảo'
+    user:
+      settings: { drafts_heading: Nháp, draft_autosave_enable: 'Bật Tự động Lưu Bản nháp?', draft_autosave_interval_label: 'Khoảng thời gian tự động lưu (giây)', draft_autosave_interval_button: 'Khoảng thời gian cập nhật', draft_autosave_interval_invalid: 'Khoảng phải là một số nguyên lớn hơn 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: 'Trả lời'
+    this_best_answer: 'Chọn câu trả lời hay nhất'
+    remove_best_answer: 'Bỏ chọn câu trả lời hay nhất'
+    best_answer_button: 'Câu trả lời hay nhất'
+    errors:
+      mismatch: 'Bài viết được chọn không tồn tại trong cuộc thảo luận này.'
+    notification:
+      content: 'Vui lòng chọn Câu trả lời hay nhất nếu câu hỏi của bạn đã được trả lời'
+      preferences: { awarded_best_answer: 'Ai đó đặt bài đăng của tôi làm câu trả lời tốt nhất', best_answer_in_discussion: 'Một câu trả lời tốt nhất được đặt trong một cuộc thảo luận mà tôi đã tham gia', select_best_answer: 'Một lời nhắc tự động để chọn câu trả lời tốt nhất trong cuộc thảo luận mà tôi đã bắt đầu' }
+    index:
+      ask_question: 'Đặt câu hỏi'
+      cannot_ask_question: 'Không thể đặt câu hỏi'
+      solved_link: 'Thảo luận đã giải quyết'
+      unsolved_link: 'Các cuộc thảo luận chưa được giải quyết'
+    filter:
+      all_label: 'Tất cả câu hỏi'
+      solved_label: 'Câu hỏi đã được giải quyết'
+      unsolved_label: 'Câu hỏi chưa được giải quyết'
+      accessible_label: 'Lựa chọn đã giải quyết / Chưa giải quyết'
+    composer:
+      titlePlaceholder: 'Tiêu đề câu hỏi'
+    search:
+      discussions_solutions_heading: 'Thảo luận với các giải pháp'
+    discussion:
+      jump_to_best_answer_button: 'Xem câu trả lời tốt nhất'
+  email:
+    subject:
+      select: 'Anh đã tìm được câu trả lời chưa?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Câu trả lời hay nhất'
+      least_best_answers: 'Câu trả lời hay nhất'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Không ai khác sẽ bị cấm'
+    user_badge:
+      banned_tooltip: 'Bị cấm'
+    ban_ip_button: 'Cấm IP'
+    unban_ip_button: 'Bỏ cấm IP'
+    user_controls:
+      ban_button: Cấm
+      unban_button: 'Bỏ cấm'
+  error:
+    banned_ip_message: 'Ủy quyền không thành công.'
+    no_ips_found_message: 'Không tìm thấy (các) IP nào cho người dùng.'
+  lib:
+    modal:
+      check_button: Kiểm
+      save_button: Cứu
+      ban_ip_confirmation: 'Bạn có chắc chắn muốn chặn địa chỉ IP này sử dụng trên diễn đàn không? Điều này sẽ chặn người dùng có (các) địa chỉ IP này đăng nhập và đăng ký.'
+      unban_ip_confirmation: 'Bạn có chắc chắn muốn bỏ cấm người dùng này và tất cả những người dùng khác không bị cấm bởi các IP khác không?'
+      unban_ip_no_users: 'Không ai khác sẽ không bị cấm'
+      title: 'Cấm IP'
+      unban_title: 'Bỏ cấm (các) IP'
+      address_label: 'Địa chỉ IP'
+      reason_label: 'Lý do'
+      ban_button: Cấm
+      unban_button: 'Bỏ cấm'
+  ref:
+    ban_label: Cấm
+    ban_ip_addresses: 'Cấm IP'
+    ban_ip_button: 'Cấm IP'
+    unban_label: 'Bỏ cấm'
+    unban_ip_addresses: 'Bỏ cấm (các) IP'
+    unban_ip_button: 'Bỏ cấm IP'
+    address_label: 'Địa chỉ IP'
+    reason_label: 'Lý do'
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Chi tiết về đăng ký của bạn đã được tìm thấy trong cơ sở dữ liệu ngăn chặn thư rác, do đó đăng ký của bạn đã bị chặn.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Xóa thảo luận'
+      hard_delete_discussions_help: 'Thao tác này sẽ xóa vĩnh viễn tất cả các cuộc thảo luận do người dùng này bắt đầu. Khi bị vô hiệu hóa, các cuộc thảo luận sẽ bị ẩn thay thế.'
+      hard_delete_posts_label: 'Xóa bài đăng'
+      hard_delete_posts_help: 'Thao tác này sẽ xóa vĩnh viễn tất cả các bài đăng (nhận xét, trả lời, v.v.) do người dùng này thực hiện. Khi bị tắt, các bài đăng sẽ bị ẩn thay thế.'
+      hard_delete_user_label: 'Xóa người dùng'
+      hard_delete_user_help: 'Thao tác này sẽ xóa vĩnh viễn người dùng. Khi bị vô hiệu hóa, người dùng sẽ bị tạm ngưng thay thế.'
+      intro: 'Khi đánh dấu người dùng là người gửi spam, một số hành động sẽ được thực hiện, tùy thuộc vào các tiện ích mở rộng có sẵn trên diễn đàn của bạn.'
+      move_discussions_tag_label: 'Chuyển các cuộc thảo luận sang thẻ cách ly'
+      move_discussions_tag_help: 'Thao tác này sẽ di chuyển tất cả các cuộc thảo luận do người dùng này bắt đầu sang thẻ bạn đã chỉ định trong cài đặt diễn đàn. Khi bị vô hiệu hóa, các cuộc thảo luận sẽ được để lại trong các thẻ hiện tại của chúng.'
+      process_button: 'Quá trình'
+      report_to_sfs_label: 'Báo cáo cho StopForumSpam'
+      report_to_sfs_help: 'Điều này sẽ báo cáo các chi tiết cơ bản của người dùng (tên người dùng, email, địa chỉ IP) cho StopForumSpam. Điều này sẽ giúp ngăn người dùng đăng ký trên các diễn đàn khác sử dụng dịch vụ StopForumSpam.'
+    user_controls:
+      spammer_button: 'Người gửi thư rác'
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Đặt lại số lượt xem thảo luận'
+      submit: Trình
+      label: 'Đặt thành xem số lượng'
+    discussion_controls:
+      resetviews_button: 'Đặt số lượt xem'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: 'Không dính'
+      sticky_button: Dính
+    badge:
+      sticky_tooltip: Dính
+  ref:
+    sticky: Dính
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Khóa
+    discussion_controls:
+      lock_button: Khóa
+      unlock_button: 'Mở khóa'
+    settings:
+      notify_discussion_locked_label: 'Ai đó khóa một cuộc thảo luận mà tôi đã bắt đầu'
+flarum-likes:
+  forum:
+    post:
+      like_link: Như
+      unlike_link: 'Giống như'
+      you_text: Mày
+    post_likes:
+      title: 'Người dùng thích điều này'
+      load_more_button: 'Tải thêm'
+    settings:
+      notify_post_liked_label: 'Ai đó thích một trong các bài viết của tôi'
+    user:
+      likes_link: Thích
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Chèn biểu tượng cảm xúc'
+      type_to_search_text: 'Nhập để tìm kiếm biểu tượng cảm xúc'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Nội dung của bạn quá lớn, vui lòng đọc hướng dẫn đăng bài của chúng tôi' }
+dhtml-persona:
+  forum:
+    persona: Người
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Bảng xếp hạng'
+dhtml-gender:
+  forum:
+    male: Đực
+    female: Cái
+    other: 'Không muốn nói'
+    inputGender: Giống
+    saveButton: Cứu
+    clickToSelectGender: 'Chọn giới tính của bạn'
+    genderSaved: 'Giới tính được cứu thành công!'
+    field_placeholder: 'Xác nhận giới tính'
+    binding_gender: 'Chúng tôi phát hiện ra rằng bạn đã không đặt giới tính của mình. Vui lòng đặt giới tính của bạn lên hàng đầu. Bạn chỉ có thể đăng và để lại tin nhắn sau khi đặt giới tính của mình.'
+    binding_gender_click: 'Nhấp vào ngay'
+flarum-content-pages:
+  forum:
+    home: Nhà
+    about-us: 'Về chúng tôi'
+    guidelines: 'Hướng dẫn'
+    privacy-policy: 'Chính sách bảo mật'
+    terms-of-use: 'Điều khoản sử dụng'
+    contact-us: 'Liên hệ với chúng tôi'
+    download-app: 'Tải xuống ứng dụng'
+    discord-chat: 'Trò chuyện Discord'
+    tags-cloud: 'tags: Đám mây'
+    languages: 'Ngôn ngữ'
+    leaderboard: 'Bảng xếp hạng'
+    live: Sống
+    live-coding: 'Công cụ & xoá'
+    challenges: 'Thử thách'
+    dev-challenges: 'Những thử thách cam go'
+    jobs: 'Công việc'
+    community: 'Ghi chú'
+    dev-jobs: 'Công việc thiết lập'
+    job-posting: 'Gửi công việc'
+    job-postings: 'Gửi công việc'
+    workshops: 'Thợ mộc'
+    dev-workshops: 'Những xưởng làm việc cố định'
+    events: 'Sự kiện'
+    conferences: 'Các cuộc họp'
+    event-conferences: 'Sự kiện / Hội nghị'
+    showcase: Hiện
+    tags: Tags
+    more: 'Thêm nữa'
+    memberships: 'Thành viên'
+    members: 'Thành viên'
+    general-discussion: 'Cuộc thảo luận chung'
+    technology-articles: 'Các bài học kỹ thuật'
+    coding-challenges: 'Đối phó với thử thách'
+    q-a: 'Phần Q/A'
+    artificial-intelligence: 'Trí thông minh nhân tạo'
+    computer-science: 'Khoa học máy tính'
+    programming-languages: 'Ngôn ngữ lập trình'
+    development-tools: 'Công cụ phát triển'
+    software-development: 'Phát triển phần mềm'
+    frontend-development: 'Phát triển trước'
+    backend-development: 'Phát triển hậu phương'
+    software-engineering: 'Kỹ thuật phần mềm'
+    cybersecurity: 'Bộ an ninh mạng'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Bộ đếm ký tự'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Chỉnh sửa ngày sinh'
+      date_of_birth_text: 'Ngày sinh'
+      submit_button: 'Lưu thay đổi'
+    settings:
+      change_dob_label: 'Thay đổi ngày sinh'
+      show_dob_date_label: 'Hiển thị ngày và tháng sinh'
+      show_dob_year_label: 'Hiển thị năm sinh'
+      show_dob_year_help: 'Điều này sẽ cho phép mọi người nhìn thấy tuổi của bạn.'
+      dob_heading: 'Ngày sinh'
+    nav:
+      nav_item: 'Sinh nhật hôm nay'
+    edit_user:
+      dob_heading: 'Ngày sinh'
+    sign_up:
+      dob_placeholder: 'Ngày sinh'
+  api:
+    invalid_dob_message: 'Ngày sinh không hợp lệ'
+  ref:
+    date_of_birth: 'Ngày sinh'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Bộ chọn biểu tượng cảm xúc'
+    search_placeholder: 'Tìm kiếm...'
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Chỉnh sửa tác giả và ngày tháng'
+    modal:
+      title-post: 'Chỉnh sửa tác giả bài đăng và ngày tháng'
+      title-discussion: 'Chỉnh sửa tác giả và ngày thảo luận'
+      user: 'Tác giả'
+      created_at: 'Thời gian sáng tạo'
+      edited_at: 'Chỉnh sửa thời gian'
+      sync-with-discussion: 'Đồng bộ hóa với thảo luận'
+      sync-with-post: 'Đồng bộ hóa với bài đăng đầu tiên'
+      sync-impossible: 'Không thể tìm thấy bài viết đầu tiên. Hãy thử cuộn đến phần đầu của cuộc thảo luận.'
+      submit: Cứu
+      cancel: Hủy
+    search:
+      placeholder: 'Tìm kiếm người dùng'
+      type-more: 'Nhập 3 ký tự để tìm kiếm cơ sở dữ liệu'
+      no-results: 'Không có kết quả'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Chuyển đổi chế độ văn bản đa dạng thức'
+      insert_button: Chèn
+      insert_image: { src_placeholder: 'Liên kết', title_placeholder: 'Tiêu đề' }
+      insert_link: { text_placeholder: 'Nhắn tin', href_placeholder: 'Địa chỉ', title_placeholder: 'Tiêu đề (hiển thị khi di chuột)', remove_button: Triệt }
+      additional_items_tooltip: 'Kiểm soát bổ sung'
+      code_block_tooltip: 'Chèn khối mã'
+      horizontal_rule_tooltip: 'Chèn quy tắc ngang'
+      image_tooltip: 'Thêm hình ảnh'
+      link_tooltip: 'Thêm liên kết'
+      spoiler_block_tooltip: 'Chặn Spoiler / Thả xuống'
+      strike_tooltip: 'Gạch ngang <alt-shift-5>'
+      text_type_tooltip: 'Chọn loại văn bản'
+  forum:
+    settings:
+      composer_heading: 'Nhà soạn nhạc'
+      use_rich_text_editor_label: 'Bạn sử dụng trình soạn thảo văn bản đa dạng thức?'
+      rich_text_compact_paragraphs_label: 'Không tách đoạn văn bằng dòng mới.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Bạn đã bật thông báo đẩy, nhưng chưa định cấu hình thiết bị này.'
+      optin_button: 'Cấu hình'
+    discussion_controls:
+      share_button: 'Chia sẻ'
+    post_controls:
+      share_button: 'Chia sẻ'
+    user_controls:
+      share_button: 'Chia sẻ'
+    settings:
+      push_header: Đẩy
+      pwa_notifications: { access_default: 'Do các hạn chế của trình duyệt, bạn phải chọn nhận thông báo đẩy trên thiết bị này.', access_default_button: 'Chọn tham gia', access_denied: 'Bạn phải điều chỉnh cài đặt trình duyệt của mình để nhận thông báo đẩy trên thiết bị này.', access_denied_button: 'Tìm hiểu cách thực hiện', no_browser_support: 'Trình duyệt này không hỗ trợ thông báo đẩy cho các ứng dụng web tiến bộ.', no_browser_support_button: 'Tìm hiểu thêm' }
+  views:
+    offline:
+      header: 'Lỗi kết nối mạng'
+      text: 'Ứng dụng này yêu cầu kết nối mạng; Nó không thể được sử dụng ngoại tuyến. Vui lòng kiểm tra kết nối của bạn.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Cảnh báo người dùng'
+    user:
+      warnings: 'Cảnh báo của người điều hành'
+    settings:
+      warning_notification_label: 'Một người điều hành cảnh báo tôi'
+    validation:
+      public_comment_required: 'Bạn hầu hết cung cấp một bình luận công khai.'
+      invalid_strike_count: 'Số lần đình công phải là một số nguyên từ 0 đến 5.'
+    warning_controls:
+      delete_button: Triệt
+      restore_button: 'Khôi phục'
+      delete_forever_button: 'Xóa vĩnh viễn'
+    warning_list:
+      add_button: 'Cảnh báo mới'
+      no_warnings: 'Có vẻ như không có cảnh báo nào ở đây.'
+      warnings_no_strikes: 'Cảnh báo của người điều hành: Không nhận được cảnh cáo nào'
+    warning_list_item:
+      public_comment: 'Cảnh báo'
+      private_comment: 'Nhận xét hiển thị của người điều hành'
+      linked_post: 'Bài đăng được liên kết'
+    warning_modal:
+      confirmation_message: 'Cảnh báo của bạn đã được lưu. Bạn có thể cần phải làm mới trang để xem nó.'
+      strikes_heading: 'Nên áp dụng bao nhiêu cảnh cáo?'
+      submit_button: 'Lưu cảnh báo'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Chỉnh sửa mẫu trả lời'
+    reply_template:
+      title: 'Chỉnh sửa mẫu trả lời'
+      submit_button: 'Lưu mẫu trả lời'

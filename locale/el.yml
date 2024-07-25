@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Ο κωδικός πρόσβασης που πληκτρολογήσατε είναι λανθασμένος.'
+      confirm_password_placeholder: 'Επιβεβαίωση κωδικού πρόσβασης'
+      dismiss_button: OK
+      submit_button: 'Αποθήκευση αλλαγών'
+      title: 'Αλλαγή Email'
+    change_password:
+      send_button: 'Αποστολή email επαναφοράς κωδικού πρόσβασης'
+      text: 'Κάντε κλικ στο παρακάτω κουμπί και ελέγξτε το email σας για έναν σύνδεσμο για να αλλάξετε τον κωδικό πρόσβασής σας.'
+      title: 'Αλλαγή κωδικού πρόσβασης'
+    composer:
+      close_tooltip: Κλείνω
+      exit_full_screen_tooltip: 'Έξοδος από την πλήρη οθόνη'
+      full_screen_tooltip: 'Πλήρης οθόνη'
+      minimize_tooltip: Ελαχιστοποιώ
+      preview_tooltip: Προεπισκόπηση
+    composer_discussion:
+      body_placeholder: 'Γράψτε μια ανάρτηση...'
+      discard_confirmation: 'Δεν έχετε δημοσιεύσει τη συζήτησή σας. Θέλετε να το απορρίψετε;'
+      submit_button: 'Δημοσίευση συζήτησης'
+      title_placeholder: 'Τίτλος συζήτησης'
+      title: 'Ξεκινήστε μια συζήτηση'
+    composer_edit:
+      discard_confirmation: 'Δεν έχετε αποθηκεύσει τις αλλαγές σας. Θέλετε να τα απορρίψετε;'
+      edited_message: 'Η επεξεργασία σας έγινε.'
+      submit_button: 'Αποθήκευση αλλαγών'
+      view_button: Άποψη
+    composer_reply:
+      discard_confirmation: 'Δεν έχετε δημοσιεύσει την απάντησή σας. Θέλετε να το απορρίψετε;'
+      posted_message: 'Η απάντησή σας δημοσιεύτηκε.'
+      submit_button: 'Δημοσίευση απάντησης'
+      body_placeholder: 'Γράψτε μια απάντηση...'
+      view_button: Άποψη
+    discussion_controls:
+      cannot_reply_button: 'Δεν μπορώ να απαντήσω'
+      cannot_reply_text: 'Δεν έχετε δικαίωμα να απαντήσετε σε αυτήν τη συζήτηση.'
+      delete_confirmation: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη συζήτηση;'
+      log_in_to_reply_button: 'Συνδεθείτε για να απαντήσετε'
+      toggle_dropdown_accessible_label: 'Εναλλαγή αναπτυσσόμενου μενού ενεργειών συζήτησης'
+      delete_button: Διαγράφω
+      delete_forever_button: 'Διαγραφή για πάντα'
+      rename_button: Μετονομάζω
+      reply_button: Απάντηση
+      restore_button: Αποκαθιστώ
+    discussion_list:
+      empty_text: 'Φαίνεται ότι δεν υπάρχουν συζητήσεις εδώ.'
+      load_more_button: 'Φόρτωσε περισσότερα'
+    forgot_password:
+      email_sent_message: 'Εάν το email που εισαγάγατε είναι εγγεγραμμένο σε αυτόν τον ιστότοπο, θα σας στείλουμε ένα email που περιέχει ένα σύνδεσμο για να επαναφέρετε τον κωδικό σας. Ελέγξτε το φάκελο spam σας αν δεν το λάβετε μέσα στα επόμενα δύο λεπτά.'
+      not_found_message: 'Δεν υπάρχει χρήστης εγγεγραμμένος σε αυτή τη διεύθυνση ηλεκτρονικού ταχυδρομείου.'
+      submit_button: 'Ανάκτηση κωδικού πρόσβασης'
+      text: 'Εισάγετε τη διεύθυνση email σας και θα σας στείλουμε ένα σύνδεσμο για να επαναφέρετε τον κωδικό σας.'
+      title: 'Ξεχάσατε τον κωδικό πρόσβασης'
+      dismiss_button: OK
+      email_placeholder: 'Ηλ. ταχυδρομείο'
+    header:
+      admin_button: Διοίκηση
+      back_to_index_tooltip: 'Επιστροφή στη λίστα συζητήσεων'
+      locale_dropdown_accessible_label: 'Αλλαγή τοπικών ρυθμίσεων φόρουμ'
+      profile_button: Προφίλ
+      search_clear_button_accessible_label: 'Εκκαθάριση ερωτήματος αναζήτησης'
+      search_placeholder: 'Αναζήτηση φόρουμ'
+      search_role_label: 'Αναζήτηση φόρουμ'
+      session_dropdown_accessible_label: 'Εναλλαγή αναπτυσσόμενου μενού επιλογών περιόδου λειτουργίας'
+      log_in_link: Συνδέσου
+      log_out_button: Αποσύνδεση
+      settings_button: Ρυθμίσεις
+      sign_up_link: Εγγραφή
+    index:
+      cannot_start_discussion_button: 'Δεν είναι δυνατή η έναρξη της συζήτησης'
+      mark_all_as_read_confirmation: 'Είστε βέβαιοι ότι θέλετε να επισημάνετε όλες τις συζητήσεις ως αναγνωσμένες;'
+      refresh_tooltip: Δροσίζω
+      toggle_sidenav_dropdown_accessible_label: 'Εναλλαγή αναπτυσσόμενου μενού πλοήγησης'
+      all_discussions_link: 'Όλες οι συζητήσεις'
+      mark_all_as_read_tooltip: 'Επισήμανση όλων ως αναγνωσμένων'
+      meta_title_text: 'Όλες οι συζητήσεις'
+      start_discussion_button: 'Ξεκινήστε μια συζήτηση'
+    index_sort:
+      latest_button: Τελευταίος
+      newest_button: Νεότερο
+      oldest_button: Παλαιότερο
+      relevance_button: Συνάφεια
+      toggle_dropdown_accessible_label: 'Αλλαγή ταξινόμησης λίστας συζητήσεων'
+      top_button: Κορυφή
+      hot_button: Δημοφιλή
+      votes_button: 'Θετικές ψήφοι'
+      front_button: 'Αρχική σελίδα'
+      popular_button: Δημοφιλής
+      unpopular_button: Αντιδημοτικός
+    log_in:
+      forgot_password_link: 'Ξεχάσατε τον κωδικό πρόσβασης;'
+      invalid_login_message: 'Τα στοιχεία σύνδεσής σας ήταν λανθασμένα.'
+      remember_me_label: 'Να με θυμάσαι'
+      sign_up_text: 'Δεν έχετε λογαριασμό; <a>Εγγραφή</a>'
+      username_or_email_placeholder: 'Όνομα χρήστη ή email'
+      password_placeholder: 'Κωδικός πρόσβασης'
+      submit_button: Συνδέσου
+      title: Συνδέσου
+    notifications:
+      delete_all_confirm: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε όλες τις ειδοποιήσεις; Αυτή η ενέργεια δεν είναι αναστρέψιμη'
+      delete_all_tooltip: 'Διαγραφή όλων των ειδοποιήσεων'
+      empty_text: 'Χωρίς ειδοποιήσεις'
+      mark_as_read_tooltip: 'Σήμανση ως αναγνωσμένου'
+      toggle_dropdown_accessible_label: 'Προβολή ειδοποιήσεων'
+      mark_all_as_read_tooltip: 'Επισήμανση όλων ως αναγνωσμένων'
+      title: Ειδοποιήσεις
+      tooltip: Ειδοποιήσεις
+    post:
+      edited_text: Επεξεργασία
+    post_controls:
+      delete_confirmation: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την ανάρτηση για πάντα; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.'
+      hide_confirmation: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την ανάρτηση;'
+      toggle_dropdown_accessible_label: 'Εναλλαγή αναπτυσσόμενου μενού στοιχείων ελέγχου ανάρτησης'
+      push_to_front_button: 'Προώθηση στο FrontPage'
+      pull_from_front_button: 'Άντληση από το FrontPage'
+      delete_button: Διαγράφω
+      delete_forever_button: 'Διαγραφή για πάντα'
+      edit_button: Επεξεργασία
+      restore_button: Αποκαθιστώ
+    post_scrubber:
+      now_link: Τώρα
+      original_post_link: 'Αρχική δημοσίευση'
+    post_stream:
+      load_more_button: 'Φόρτωσε περισσότερα'
+      reply_placeholder: 'Γράψτε μια απάντηση...'
+    rename_discussion:
+      title: 'Μετονομασία συζήτησης'
+      submit_button: Μετονομάζω
+    search:
+      discussions_heading: Συζητήσεις
+      users_heading: Χρήστες
+    security:
+      cannot_terminate_current_session: 'Δεν είναι δυνατός ο τερματισμός της τρέχουσας ενεργής περιόδου λειτουργίας. Αποσυνδεθείτε.'
+      created: Δημιουργημένος
+      current_active_session: 'Τρέχουσα ενεργή περίοδος λειτουργίας'
+      developer_tokens_heading: 'Διακριτικά προγραμματιστή'
+      empty_text: 'Φαίνεται ότι δεν υπάρχει τίποτα να δείτε εδώ.'
+      global_logout: { heading: 'Καθολική αποσύνδεση', help_text: 'Διαγράφει την τρέχουσα περίοδο λειτουργίας cookie, τερματίζει όλες τις περιόδους σύνδεσης, ανακαλεί διακριτικά προγραμματιστή και ακυρώνει τυχόν μηνύματα ηλεκτρονικού ταχυδρομείου επιβεβαίωσης ή επαναφοράς κωδικού πρόσβασης.', log_out_button: Αποσύνδεση }
+      hide_access_token: 'Απόκρυψη διακριτικού'
+      last_activity: 'Τελευταία δραστηριότητα'
+      new_access_token_modal: { submit_button: 'Δημιουργία διακριτικού', title_placeholder: Τίτλος, title: 'Νέο διακριτικό' }
+      revoke_access_token: Ακυρώνω
+      sessions_heading: 'Ενεργές συνεδρίες'
+      session_termination_failed: 'Παρουσιάστηκε σφάλμα κατά τον τερματισμό των περιόδων σύνδεσης.'
+      show_access_token: 'Προβολή διακριτικού'
+      terminate_all_other_sessions: 'Τερματισμός όλων των άλλων περιόδων λειτουργίας'
+      terminate_session: Τερματίζω
+      token_revoked: 'Το διακριτικό ανακλήθηκε.'
+      token_title_placeholder: /
+      never: Ποτέ
+      new_access_token_button: 'Νέο διακριτικό'
+      revoke_access_token_confirmation: 'Είστε σίγουροι ότι θέλετε να προχωρήσετε; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.'
+      terminate_all_other_sessions_confirmation: 'Είστε σίγουροι ότι θέλετε να προχωρήσετε; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.'
+      title: Ασφάλεια
+    settings:
+      account_heading: Λογαριασμός
+      notify_by_web_heading: Ιστός
+      notify_discussion_renamed_label: 'Κάποιος μετονομάζει μια συζήτηση που ξεκίνησα'
+      privacy_disclose_online_label: 'Να επιτρέπεται σε άλλους να βλέπουν πότε είμαι συνδεδεμένος στο Internet'
+      privacy_heading: Μυστικότητα
+      change_email_button: 'Αλλαγή Email'
+      change_password_button: 'Αλλαγή κωδικού πρόσβασης'
+      notifications_heading: Ειδοποιήσεις
+      notify_by_email_heading: 'Ηλ. ταχυδρομείο'
+      title: Ρυθμίσεις
+    sign_up:
+      log_in_text: 'Έχετε ήδη λογαριασμό; <a>Συνδέσου</a>'
+      dismiss_button: OK
+      email_placeholder: 'Ηλ. ταχυδρομείο'
+      password_placeholder: 'Κωδικός πρόσβασης'
+      submit_button: Εγγραφή
+      title: Εγγραφή
+      username_placeholder: 'Όνομα χρήστη'
+    user:
+      avatar_upload_button: Ανέβασμα
+      avatar_upload_tooltip: 'Ανεβάστε ένα νέο avatar'
+      online_text: 'Σε απευθείας σύνδεση'
+      posts_empty_text: 'Φαίνεται ότι δεν υπάρχουν θέσεις εδώ.'
+      avatar_remove_button: Αφαιρώ
+      discussions_link: Συζητήσεις
+      posts_link: Θέσεις
+      posts_load_more_button: 'Φόρτωσε περισσότερα'
+      security_link: Ασφάλεια
+      settings_link: Ρυθμίσεις
+    user_controls:
+      button: Έλεγχοι
+      delete_confirmation: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον χρήστη; Οι αναρτήσεις του χρήστη ΔΕΝ θα διαγραφούν.'
+      toggle_dropdown_accessible_label: 'Εναλλαγή αναπτυσσόμενου μενού στοιχείων ελέγχου χρήστη'
+      delete_button: Διαγράφω
+      edit_button: Επεξεργασία
+    user_email_confirmation:
+      resend_button: 'Επανάληψη αποστολής email επιβεβαίωσης'
+      sent_message: Στάλθηκε
+    welcome_hero:
+      hide: 'Απόκρυψη μηνύματος καλωσορίσματος'
+    badge:
+      frontpage_tooltip: 'Σήμανση ως FrontPage'
+  lib:
+    debug_button: 'Εντοπισμού σφαλμάτων'
+    alert:
+      dismiss_a11y_label: 'Παράβλεψη ειδοποίησης'
+    badge:
+      hidden_tooltip: Κρυμμένος
+    dropdown:
+      toggle_dropdown_accessible_label: 'Εναλλαγή αναπτυσσόμενου μενού'
+    edit_user:
+      activate_button: 'Ενεργοποίηση χρήστη'
+      groups_heading: Ομαδεσ
+      set_password_label: 'Ορισμός νέου κωδικού πρόσβασης'
+      nothing_available: 'Δεν επιτρέπεται να επεξεργαστείτε αυτόν τον χρήστη.'
+      email_heading: 'Ηλ. ταχυδρομείο'
+      email_label: 'Ηλ. ταχυδρομείο'
+      password_heading: 'Κωδικός πρόσβασης'
+      password_label: 'Κωδικός πρόσβασης'
+      submit_button: 'Αποθήκευση αλλαγών'
+      title: 'Επεξεργασία χρήστη'
+      username_heading: 'Όνομα χρήστη'
+      username_label: 'Όνομα χρήστη'
+    error:
+      generic_message: 'Ουπς! Κάτι πήγε στραβά. Φορτώστε ξανά τη σελίδα και προσπαθήστε ξανά.'
+      generic_cross_origin_message: 'Ουπς! Κάτι πήγε στραβά κατά τη διάρκεια ενός αιτήματος διασταύρωσης προελεύσεων. Φορτώστε ξανά τη σελίδα και προσπαθήστε ξανά.'
+      not_found_message: 'Ο πόρος που ζητήθηκε δεν βρέθηκε.'
+      payload_too_large_message: 'Το ωφέλιμο φορτίο αιτήματος ήταν πολύ μεγάλο.'
+      permission_denied_message: 'Δεν έχετε άδεια να το κάνετε αυτό.'
+      rate_limit_exceeded_message: 'Πηγαίνετε λίγο πολύ γρήγορα. Δοκιμάστε ξανά σε λίγα δευτερόλεπτα.'
+      render_failed_message: 'Λυπούμαστε, παρουσιάστηκε σφάλμα κατά την εμφάνιση αυτού του περιεχομένου. Εάν είστε χρήστης, δοκιμάστε ξανά αργότερα. Εάν είστε διαχειριστής, ρίξτε μια ματιά στα αρχεία καταγραφής Flarum για περισσότερες πληροφορίες.'
+    modal:
+      close: Κλείνω
+    nav:
+      drawer_button: 'Άνοιγμα συρταριού πλοήγησης'
+    loading_indicator:
+      accessible_label: Φόρτωση...
+  views:
+    confirm_email:
+      text: 'Κάντε κλικ στο παρακάτω κουμπί για να επιβεβαιώσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου του λογαριασμού σας.'
+      submit_button: 'Επιβεβαίωση Email'
+      title: 'Επιβεβαίωση Email'
+    content:
+      javascript_disabled_message: 'Αυτός ο ιστότοπος προβάλλεται καλύτερα σε ένα σύγχρονο πρόγραμμα περιήγησης με ενεργοποιημένη τη JavaScript.'
+      load_error_message: 'Κάτι πήγε στραβά ενώ προσπαθούσα να φορτώσω την πλήρη έκδοση αυτού του ιστότοπου. Δοκιμάστε να ανανεώσετε προσεκτικά αυτήν τη σελίδα για να διορθώσετε το σφάλμα.'
+      loading_text: Φόρτωση...
+    error:
+      csrf_token_mismatch: 'Ήσασταν ανενεργός για πάρα πολύ καιρό.'
+      csrf_token_mismatch_return_link: 'Επιστρέψτε, για να προσπαθήσετε ξανά'
+      invalid_confirmation_token: 'Αυτός ο σύνδεσμος επιβεβαίωσης έχει ήδη χρησιμοποιηθεί ή δεν είναι έγκυρος.'
+      not_authenticated: 'Δεν έχετε δικαίωμα πρόσβασης σε αυτήν τη σελίδα. Δοκιμάστε ξανά αφού συνδεθείτε.'
+      not_found: 'Δεν ήταν δυνατή η εύρεση της σελίδας που ζητήσατε.'
+      permission_denied: 'Δεν έχετε δικαίωμα πρόσβασης σε αυτήν τη σελίδα.'
+      unknown: 'Παρουσιάστηκε σφάλμα κατά την προσπάθεια φόρτωσης αυτής της σελίδας.'
+    log_out:
+      log_out_button: Αποσύνδεση
+      title: Αποσύνδεση
+    reset_password:
+      confirm_password_label: 'Επιβεβαίωση νέου κωδικού πρόσβασης'
+      new_password_label: 'Νέος κωδικός πρόσβασης'
+      submit_button: 'Αποθήκευση αλλαγών'
+      title: 'Επαναφορά κωδικού πρόσβασης'
+    discussion:
+      next_page_button: 'Επόμενη Σελίδα'
+      previous_page_button: 'Προηγούμενη σελίδα'
+    index:
+      all_discussions_heading: 'Όλες οι συζητήσεις'
+      next_page_button: 'Επόμενη Σελίδα'
+      previous_page_button: 'Προηγούμενη σελίδα'
+  api:
+    invalid_username_message: 'Το όνομα χρήστη μπορεί να περιέχει μόνο γράμματα, αριθμούς και παύλες.'
+  email:
+    activate_account:
+      subject: 'Ενεργοποιήστε τον νέο σας λογαριασμό'
+    confirm_email:
+      subject: 'Επιβεβαιώστε τη νέα διεύθυνση email σας'
+    reset_password:
+      subject: 'Επαναφορά κωδικού πρόσβασης'
+    send_test:
+      subject: 'Δοκιμή ηλεκτρονικού ταχυδρομείου Flarum'
+  ref:
+    all_discussions: 'Όλες οι συζητήσεις'
+    change_email: 'Αλλαγή Email'
+    change_password: 'Αλλαγή κωδικού πρόσβασης'
+    color: Χρώμα
+    confirm_password: 'Επιβεβαίωση κωδικού πρόσβασης'
+    confirm_email: 'Επιβεβαίωση Email'
+    custom_footer_text: 'Προσθέστε HTML που θα εμφανίζεται στο κάτω μέρος της σελίδας.'
+    custom_footer_title: 'Επεξεργασία προσαρμοσμένου υποσέλιδου'
+    custom_header_text: 'Προσθέστε HTML που θα εμφανίζεται στο επάνω μέρος της σελίδας, πάνω από την κεφαλίδα του ίδιου του Flarum.'
+    custom_header_title: 'Επεξεργασία προσαρμοσμένης κεφαλίδας'
+    delete: Διαγράφω
+    delete_forever: 'Διαγραφή για πάντα'
+    discussions: Συζητήσεις
+    edit: Επεξεργασία
+    edit_user: 'Επεξεργασία χρήστη'
+    email: 'Ηλ. ταχυδρομείο'
+    extensions: Επεκτάσεις
+    generic_confirmation_message: 'Είστε σίγουροι ότι θέλετε να προχωρήσετε; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.'
+    icon: Εικόνα
+    load_more: 'Φόρτωσε περισσότερα'
+    loading: Φόρτωση...
+    log_in: Συνδέσου
+    log_out: Αποσύνδεση
+    mark_all_as_read: 'Επισήμανση όλων ως αναγνωσμένων'
+    never: Ποτέ
+    new_token: 'Νέο διακριτικό'
+    next_page: 'Επόμενη Σελίδα'
+    notifications: Ειδοποιήσεις
+    okay: OK
+    password: 'Κωδικός πρόσβασης'
+    posts: Θέσεις
+    previous_page: 'Προηγούμενη σελίδα'
+    remove: Αφαιρώ
+    rename: Μετονομάζω
+    reply: Απάντηση
+    reset_your_password: 'Επαναφορά κωδικού πρόσβασης'
+    restore: Αποκαθιστώ
+    save_changes: 'Αποθήκευση αλλαγών'
+    search_users: 'Αναζήτηση χρηστών'
+    security: Ασφάλεια
+    settings: Ρυθμίσεις
+    sign_up: Εγγραφή
+    start_a_discussion: 'Ξεκινήστε μια συζήτηση'
+    username: 'Όνομα χρήστη'
+    users: Χρήστες
+    view: Άποψη
+    write_a_reply: 'Γράψτε μια απάντηση...'
+    you: Εσύ
+  group:
+    admin: Διαχειριστής
+    admins: Διαχειριστές
+    guest: Φιλοξενούμενος
+    guests: Επισκέπτες
+    member: Μέλος
+    members: Μέλη
+    mod: Τρόπος
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Όλες οι ετικέτες'
+      meta_title_text: Ετικέτες
+    choose_tags:
+      title: 'Επιλέξτε ετικέτες για τη συζήτησή σας'
+    discussion_controls:
+      edit_tags_button: 'Επεξεργασία ετικετών'
+    header:
+      back_to_tags_tooltip: 'Επιστροφή στη λίστα ετικετών'
+    index:
+      more_link: Περισσότερο...
+      untagged_link: 'Χωρίς ετικέτα'
+      tags_link: Ετικέτες
+    composer_discussion:
+      choose_tags_link: 'Επιλέξτε ετικέτες'
+  lib:
+    deleted_tag_text: Διαγραφεί
+    tag_selection_modal:
+      bypass_requirements: 'Απαιτήσεις ετικέτας παράκαμψης'
+      submit_button: OK
+      title: 'Επιλέξτε ετικέτες'
+  ref:
+    choose_tags: 'Επιλέξτε ετικέτες'
+    name: Όνομα
+    tags: Ετικέτες
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Αναφορά χρήστη, ομάδας ή δημοσίευσης'
+    mentioned_by:
+      title: 'Απαντήσεις σε αυτήν την ανάρτηση'
+      load_more_button: 'Φόρτωσε περισσότερα'
+    post:
+      quote_button: Παραθέτω
+      reply_link: Απάντηση
+      you_text: Εσύ
+    settings:
+      notify_post_mentioned_label: 'Κάποιος απαντά σε μία από τις δημοσιεύσεις μου'
+      notify_user_mentioned_label: 'Κάποιος με αναφέρει σε μια ανάρτηση'
+      notify_group_mentioned_label: 'Κάποιος αναφέρει μια ομάδα στην οποία είμαι μέλος σε μια δημοσίευση'
+    user:
+      mentions_link: Αναφέρει
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Κατάργηση παρακολούθησης'
+      unignore_button: Unsir
+      follow_button: Ακολουθώ
+    settings:
+      follow_after_reply_label: 'Αυτόματη παρακολούθηση συζητήσεων στις οποίες απαντώ'
+      notify_for_all_posts_label: 'Ειδοποίηση για κάθε νέα δημοσίευση αντί μόνο για την τελευταία σε μια συζήτηση'
+      notify_new_post_label: 'Κάποιος δημοσιεύει σε μια συζήτηση που παρακολουθώ'
+    sub_controls:
+      following_text: 'Ενημερωθείτε για όλες τις απαντήσεις.'
+      ignoring_text: 'Μην ειδοποιείστε ποτέ. Απόκρυψη από τη λίστα συζητήσεων.'
+      not_following_button: 'Δεν ακολουθώ'
+      not_following_text: 'Να ειδοποιείστε μόνο όταν @mentioned.'
+      notify_alert_tooltip: 'Λάβετε μια ειδοποίηση φόρουμ όταν υπάρχουν νέες αναρτήσεις'
+      notify_email_tooltip: 'Λάβετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου όταν υπάρχουν νέες αναρτήσεις'
+      follow_button: Ακολουθώ
+      following_button: Ακόλουθος
+      ignoring_button: Αγνοώντας
+    badge:
+      following_tooltip: Ακόλουθος
+      ignoring_tooltip: Αγνοώντας
+    following:
+      meta_title_text: Ακόλουθος
+    index:
+      following_link: Ακόλουθος
+  ref:
+    follow: Ακολουθώ
+    following: Ακόλουθος
+    ignoring: Αγνοώντας
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Σας ευχαριστούμε που επισημάνατε αυτήν την ανάρτηση. Οι συντονιστές μας θα το εξετάσουν.'
+      reason_inappropriate_label: Ακατάλληλος
+      reason_inappropriate_text: 'Αυτή η ανάρτηση είναι προσβλητική, προσβλητική ή παραβιάζει <a>τις οδηγίες κοινότητας</a>.'
+      reason_missing_message: 'Δώστε μερικές λεπτομέρειες για τους συντονιστές μας.'
+      reason_off_topic_label: 'Εκτός θέματος'
+      reason_off_topic_text: 'Αυτή η ανάρτηση δεν σχετίζεται με την τρέχουσα συζήτηση και θα πρέπει να μετακινηθεί αλλού.'
+      reason_other_label: 'Άλλο (διευκρινίστε)'
+      reason_spam_label: 'Ανεπιθύμητη ηλεκτρονική αλληλογραφία'
+      reason_spam_text: 'Αυτή η ανάρτηση είναι μια διαφήμιση.'
+      dismiss_button: OK
+      submit_button: 'Δημοσίευση σημαίας'
+      title: 'Δημοσίευση σημαίας'
+    flagged_posts:
+      empty_text: 'Χωρίς σημαίες'
+      title: 'Δημοσιεύσεις με σημαία'
+      tooltip: 'Δημοσιεύσεις με σημαία'
+    post:
+      dismiss_flag_button: 'Απόρριψη σημαίας'
+    post_controls:
+      flag_button: Σημαία
+  ref:
+    flag_post: 'Δημοσίευση σημαίας'
+    flagged_posts: 'Δημοσιεύσεις με σημαία'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Έχετε ανασταλεί επ'' αόριστον'
+      user_unsuspended_text: 'Έχετε ανασταλεί'
+    suspension_info:
+      dismiss_button: Απολύω
+      indefinite: 'Πρόκειται για επ'' αόριστον αναστολή'
+      title: 'Αυτός ο λογαριασμός έχει ανασταλεί'
+    suspend_user:
+      display_message: 'Εμφάνιση μηνύματος για το χρήστη'
+      indefinitely_label: 'Ανεστάλη επ'' αόριστον'
+      limited_time_days_text: ' Ημέρες'
+      limited_time_label: 'Ανεστάλη για περιορισμένο χρονικό διάστημα...'
+      not_suspended_label: 'Δεν έχει ανασταλεί'
+      placeholder_optional: Προαιρετικός
+      reason: 'Λόγος αναστολής'
+      status_heading: 'Κατάσταση αναστολής'
+      submit_button: 'Αποθήκευση αλλαγών'
+    user_badge:
+      suspended_tooltip: Ανασταλεί
+    user_controls:
+      suspend_button: Αναστέλλω
+  email:
+    no_reason_given: 'Δεν δόθηκε κανένας λόγος για την αναστολή αυτή.'
+    suspended:
+      subject: 'Ο λογαριασμός σας έχει τεθεί σε αναστολή'
+    unsuspended:
+      subject: 'Ο λογαριασμός σας έχει ανασταλεί'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Όλα τα αρχεία που ανεβάζει ο χρήστης.', anonymize_description: 'Καταργεί την αναφορά χρήστη από τα απεσταλμένα αρχεία. Τα ίδια τα αρχεία παραμένουν προσβάσιμα σε χρήστες που θα μπορούσαν να τα δουν πριν από την ανωνυμοποίηση.', delete_description: 'Διαγράφει όλα τα αρχεία που έχει ανεβάσει ο χρήστης.' }
+      tagsubscription: { export_description: 'Εξάγει λεπτομέρειες σχετικά με το επίπεδο συνδρομής για μια ετικέτα, εάν υπάρχει.', anonymize_description: 'Καταργεί την εγγραφή του χρήστη στην ετικέτα.' }
+      followuser: { export_description: 'Εξάγει λεπτομέρειες των χρηστών που ακολουθούνται και των χρηστών που ακολουθούν.', delete_description: 'Διαγράφει όλα τα δεδομένα που σχετίζονται με τους ακόλουθους χρήστες.', anonymize_description: 'Διαγράφει όλα τα δεδομένα που σχετίζονται με τους ακόλουθους χρήστες.' }
+      bannedipdata: { export_description: 'Εάν μια εγγραφή αποκλεισμού IP σχετίζεται με έναν χρήστη (δηλ. ο χρήστης αποκλείστηκε από την IP), η διεύθυνση IP του χρήστη θα συμπεριληφθεί στην εξαγωγή, μαζί με τον λόγο αποκλεισμού και την ημερομηνία δημιουργίας.', anonymize_description: 'Οποιεσδήποτε διευθύνσεις IP συνδέονται με τον χρήστη αποσυνδέονται, αλλά η ίδια η IP θα παραμείνει απαγορευμένη, μαζί με τον λόγο. Βεβαιωθείτε ότι δεν αποθηκεύονται δεδομένα PII στο πεδίο "αιτία".' }
+fof-upload:
+  forum:
+    media_manager: 'Διαχειριστής μέσων'
+    buttons:
+      attach: Επισυνάπτω
+      upload: Ανέβασμα
+      upload_shared: Κοινόχρηστο
+      user_uploads: 'Μεταφορτώσεις χρηστών'
+      cancel: Ακυρώνω
+      media: 'Τα πολυμέσα μου'
+      shared_media: 'Κοινόχρηστα πολυμέσα'
+    states:
+      error: Λάθος
+      loading: Φόρτωμα
+      unauthorized: 'Δεν επιτρέπεται η λήψη αρχείων'
+    text_preview:
+      expand: 'Ανάπτυξη προεπισκόπησης'
+      collapse: 'Σύμπτυξη προεπισκόπησης'
+      error: "Σφάλμα προεπισκόπησης αρχείου. Μπορεί να έχει διαγραφεί ή το παρεχόμενο αναγνωριστικό αρχείου να μην είναι έγκυρο.\n"
+      no_snippet_preview: '<προεπισκόπηση θα εμφανιστεί εδώ μετά την ανάρτηση>'
+      no_snippet: '<Δεν υπάρχει διαθέσιμο απόσπασμα προεπισκόπησης>'
+  api:
+    upload_errors:
+      forbidden_type: 'Δεν επιτρέπεται η μεταφόρτωση αρχείων αυτού του τύπου.'
+      could_not_detect_mime: 'Δεν ήταν δυνατός ο εντοπισμός του τύπου MIME αυτού του αρχείου, προσπαθήστε ξανά.'
+      max_upload_file_size_ini: 'Το μέγιστο όριο μεγέθους αρχείου μεταφόρτωσης συμπληρώθηκε από το php.ini.'
+      max_upload_file_size_form: 'Ανεβάστε το μέγιστο όριο μεγέθους αρχείου που επιτεύχθηκε από τη φόρμα.'
+      partial_upload: 'Μερική μεταφόρτωση.'
+      no_file_uploaded: 'Δεν έχει μεταφορτωθεί αρχείο.'
+      no_upload_tmp_folder: 'Δεν υπάρχει φάκελος tmp για μεταφόρτωση αρχείων.'
+      cannot_write_to_disk: 'Δεν είναι δυνατή η εγγραφή στο δίσκο.'
+      upload_blocked_by_php_extension: 'Μια επέκταση php μπλόκαρε τη μεταφόρτωση.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Νέο κοινόχρηστο αρχείο'
+      dropzone: 'Σύρετε και αποθέστε αρχεία εδώ ή κάντε κλικ για περιήγηση'
+      hide-from-media-gallery: 'Απόκρυψη από τη συλλογή πολυμέσων του χρήστη'
+      upload: Ανέβασμα
+    file_list:
+      loading: 'Φόρτωση αρχείων...'
+      empty: 'Δεν υπάρχουν αρχεία για εμφάνιση.'
+      release_to_upload: 'Απελευθέρωση για μεταφόρτωση'
+      modal_empty_desktop: 'Η λίστα αρχείων σας είναι κενή. Κάντε κλικ στο κουμπί ή σύρετε ένα αρχείο εδώ για μεταφόρτωση.'
+      modal_empty_phone: 'Η λίστα αρχείων σας είναι κενή. Πατήστε το παραπάνω κουμπί για να ανεβάσετε ένα αρχείο.'
+      load_more_files_btn: 'Φόρτωση περισσότερων αρχείων'
+      hide_file: { hide_success: 'Κρυφό αρχείο', show_success: 'Εμφάνιση αρχείου', loading: 'Απόκρυψη αρχείου...' }
+      hide_shared_file: { hide_success: 'Το αρχείο έγινε ιδιωτικό', show_success: 'Το αρχείο δημοσιοποιήθηκε', loading: 'Κάνοντας το αρχείο ιδιωτικό...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Έγραψε
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Προσθήκη έντονου κειμένου'
+      code_tooltip: 'Εισαγωγή κώδικα'
+      header_tooltip: 'Προσθήκη κειμένου κεφαλίδας'
+      image_tooltip: 'Προσθήκη εικόνας'
+      italic_tooltip: 'Προσθήκη πλάγιου κειμένου'
+      link_tooltip: 'Προσθήκη συνδέσμου'
+      ordered_list_tooltip: 'Προσθήκη λίστας με αρίθμηση'
+      quote_tooltip: 'Εισαγωγή προσφοράς'
+      spoiler_tooltip: 'Εισαγωγή αεροτομής'
+      strikethrough_tooltip: 'Προσθήκη διακριτού κειμένου'
+      unordered_list_tooltip: 'Προσθήκη λίστας με κουκκίδες'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Κάποιος δημιουργεί μια συζήτηση σε μια ετικέτα που παρακολουθώ'
+      notify_new_post_label: 'Κάποιος δημοσιεύει σε μια ετικέτα που ακολουθώ'
+      notify_new_discussion_tag_label: 'Κάποιος προσθέτει εκ νέου ετικέτα σε μια συζήτηση σε μια ετικέτα που παρακολουθώ'
+    index:
+      follow_tag_button: Ακολουθώ
+      unfollow_tag_button: 'Διακοπή παρακολούθησης'
+      following: { following_none_label: 'Συζητήσεις που ακολουθήθηκαν', following_tags_label: 'Ετικέτες που ακολουθούνται' }
+    badge:
+      following_tag_tooltip: Ακόλουθος
+      lurking_tag_tooltip: Κρύβονται
+    sub_controls:
+      following_text: 'Ενημερωθείτε για όλες τις νέες συζητήσεις.'
+      hiding_text: 'Απόκρυψη συζητήσεων από τη σελίδα "Όλες οι συζητήσεις".'
+      ignoring_text: 'Μην ειδοποιείστε ποτέ.'
+      lurking_text: 'Ενημερωθείτε για όλες τις νέες συζητήσεις και απαντήσεις.'
+      not_following_button: 'Δεν ακολουθώ'
+      not_following_text: 'Να ειδοποιείστε μόνο όταν @mentioned.'
+      notify_alert_tooltip: 'Λάβετε μια ειδοποίηση φόρουμ όταν υπάρχουν νέες συζητήσεις ή δημοσιεύσεις'
+      notify_email_tooltip: 'Λήψη μηνύματος ηλεκτρονικού ταχυδρομείου όταν υπάρχουν νέες συζητήσεις ή δημοσιεύσεις'
+      submit_button: 'Επιβεβαίωση συνδρομής'
+      follow_button: Ακολουθώ
+      following_button: Ακόλουθος
+      hiding_button: Κρύψιμο
+      ignoring_button: Αγνοώντας
+      lurking_button: Κρύβονται
+    user:
+      settings: { heading: 'Ακολουθήστε τις ετικέτες', filter_label: 'Τι να εμφανίζεται από προεπιλογή στην επόμενη σελίδα' }
+  ref:
+    follow: Ακολουθώ
+    following: Ακόλουθος
+    hiding: Κρύψιμο
+    ignoring: Αγνοώντας
+    lurking: Κρύβονται
+    filtering_options:
+      none: 'Συζητήσεις που ακολουθήθηκαν'
+      tags: 'Ετικέτες που ακολουθούνται'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Αυτό το ψευδώνυμο δεν είναι έγκυρο. Επικοινωνήστε με το διαχειριστή του φόρουμ σας για περισσότερες πληροφορίες σχετικά με τους κανόνες ψευδωνύμων.'
+  ref:
+    change_nickname: 'Αλλαγή ψευδωνύμου'
+    nickname: Παρατσούκλι
+  forum:
+    change_nickname:
+      submit_button: 'Αποθήκευση αλλαγών'
+      title: 'Αλλαγή ψευδωνύμου'
+    edit_user:
+      nicknames_heading: 'Αλλαγή ψευδωνύμου'
+      nicknames_text: Παρατσούκλι
+    settings:
+      change_nickname_button: 'Αλλαγή ψευδωνύμου'
+    sign_up:
+      nickname_placeholder: Παρατσούκλι
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Συνδεδεμένοι λογαριασμοί', last-used-label: 'Τελευταία χρήση', link-created-label: 'Δημιουργία συνδέσμου', orphaned-account: 'Έχετε συνδεθεί μέσω αυτής της υπηρεσίας παροχής στο παρελθόν, αλλά αυτό το φόρουμ έχει απενεργοποιήσει τη σύνδεση με αυτήν τη μέθοδο από τότε.', help: 'Αυτοί οι συνδεδεμένοι λογαριασμοί σάς επιτρέπουν να συνδεθείτε στο φόρουμ χρησιμοποιώντας άλλους παρόχους.' } }
+    signup:
+      username_help: 'Επιλέξτε ένα όνομα χρήστη που θα είναι γνωστό εδώ'
+    unlink: 'Κατάργηση συνδέσμου'
+    error:
+      bad_verification_code: 'Μη έγκυρο ή ληγμένο διακριτικό επαλήθευσης. Παρακαλώ προσπαθήστε ξανά.'
+      invalid_state: 'Μη έγκυρη κατάσταση. Παρακαλώ προσπαθήστε ξανά.'
+    providers:
+      discord: Παραφωνία
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Κελάδημα
+  lib:
+    providers:
+      discord: Παραφωνία
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      twitter: Κελάδημα
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'Αναγνωριστικό εφαρμογής'
+      app_secret: 'Μυστικός φάκελος εφαρμογής'
+      client_id: 'Αναγνωριστικό πελάτη'
+      client_secret: 'Μυστικός κωδικός πελάτη'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Συνδεθείτε ως άλλος χρήστης'
+      placeholder_optional: '(Προαιρετικό) Δώστε τον λόγο για τη μετάβαση σε αυτόν τον χρήστη'
+      placeholder_required: 'Πρέπει να δώσετε τον λόγο για τη μετάβαση σε αυτόν τον χρήστη πριν προχωρήσετε'
+    user_controls:
+      impersonate_button: 'Σύνδεση ως χρήστης'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Ιδιωτική συζήτηση' }
+    buttons:
+      add_recipients: Παραλήπτες
+      submit: OK
+      edit_recipients: 'Επεξεργασία παραληπτών'
+      cancel: Ακυρώνω
+      make_public: 'Δημοσιοποιήστε αυτή τη συζήτηση'
+      remove_from_discussion: 'Αφήστε αυτή την ιδιωτική συζήτηση'
+    composer_private_discussion:
+      submit_button: 'Δημοσίευση ιδιωτικής συζήτησης'
+      title_placeholder: 'Τίτλος Ιδιωτικής Συζήτησης'
+    confirm:
+      make_public: 'Είστε βέβαιοι ότι θέλετε να καταργήσετε τους παραλήπτες και να κάνετε αυτή τη συζήτηση ορατή σε οποιονδήποτε μπορεί να προβάλει την εκχωρημένη ετικέτα;'
+    nav:
+      start_button: 'Συζητήστε ιδιωτικά'
+      nav_item: 'Ιδιωτικές συζητήσεις'
+    input:
+      search_recipients: 'Αναζητήστε παραλήπτη πληκτρολογώντας τους τρεις πρώτους χαρακτήρες...'
+    search:
+      headings: { groups: 'Ομάδες δικαιωμάτων' }
+    modal:
+      titles: { add_recipients: 'Προσθήκη παραληπτών στη συζήτησή σας' }
+      labels: { selected_users: 'Επιλεγμένοι χρήστες', search_field: 'Αναζήτηση χρήστη' }
+      help: { add_recipients: 'Αυτή η συζήτηση θα είναι ορατή μόνο στους χρήστες που επιλέγετε εδώ. Απαιτείται τουλάχιστον 1 παραλήπτης (εκτός από εσάς).', update_recipients: 'Αυτή η συζήτηση θα είναι ορατή μόνο στους χρήστες που επιλέγετε εδώ.', selected_users: 'Κάντε κλικ στο όνομα ενός χρήστη για να τον καταργήσετε.', click_user_to_remove_tooltip: 'Κάντε κλικ για κατάργηση' }
+    user:
+      settings: { block_pd: 'Αποκλεισμός ιδιωτικών συζητήσεων' }
+      byobu_link: 'Ιδιωτικές συζητήσεις'
+      dropdown_label: 'Ιδιωτικές συζητήσεις'
+    notifications:
+      pd_label: 'Κάποιος με περιλαμβάνει σε μια νέα ιδιωτική συζήτηση'
+      pd_reply_label: 'Κάποιος δημοσιεύει σε μια ιδιωτική συζήτηση της οποίας είμαι παραλήπτης'
+      pd_user_left_label: 'Ένας χρήστης παραλήπτης αποχωρεί από μια ιδιωτική συζήτηση στην οποία συμμετέχω'
+      pd_added_label: 'Κάποιος με προσθέτει σε μια υπάρχουσα ιδιωτική συζήτηση'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Πληροφορίες σήματος'
+    all_badges: 'Δείτε όλα τα σήματα'
+    all_users: 'Εμφάνιση όλων των χρηστών'
+    give_badge: 'Δώστε σήμα'
+    update_badge: 'Σήμα ενημέρωσης'
+    select_badge: 'Επιλέξτε σήμα'
+    user_has_badge: 'Ο χρήστης έχει ήδη αυτό το σήμα.'
+    user_no_badges: 'Αυτός ο χρήστης δεν έχει ακόμα σήματα.'
+    no_received: 'Κανένας χρήστης δεν έχει κερδίσει αυτό το σήμα.'
+    save_changes: 'Αποθήκευση αλλαγών'
+    badge:
+      badge: Σήμα
+      badges: Εμβλήματα
+      name: 'Όνομα σήματος'
+      description: 'Περιγραφή σήματος'
+      earning_reason: 'Λόγος απόκτησης σήματος'
+      update_earning_reason: 'Ενημέρωση λόγου κέρδους'
+      no_earning_reason: 'Δεν έχει οριστεί λόγος κέρδους'
+      earned_on: 'Σήμα που αποκτήθηκε στις'
+      category: 'Κατηγορία σήματος'
+      badge_details: 'Λεπτομέρειες σήματος'
+    badges_in_card:
+      title: 'Σήματα στην κάρτα χρήστη'
+      manage_badges: 'Διαχείριση σημάτων'
+      description: 'Μπορείτε να αλλάξετε τα ορατά σήματα στην κάρτα χρήστη σας με ένα από τα άλλα σήματα. Εάν δεν επιλέξετε κανένα, θα επιλεγούν αυτόματα.'
+    moderation:
+      remove_badge: 'Κατάργηση σήματος από χρήστη'
+      remove_badge_confirm: 'Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτό το σήμα από αυτόν τον χρήστη;'
+      give_badge: 'Δώστε σήμα'
+    notification:
+      title: 'Λάβατε νέο σήμα'
+      settings: 'Έχω λάβει σήμα'
+    uncategorized: Αταξινόμητες
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Άθλια κατάσταση'
+      not_miserable_label: 'Δεν είναι άθλια'
+      indefinitely_label: 'Άθλια επ ''αόριστον'
+      limited_time_label: 'Άθλια για περιορισμένο χρονικό διάστημα...'
+      limited_time_days_text: ' Ημέρες'
+      submit_button: 'Αποθήκευση αλλαγών'
+    user_badge:
+      miserable_user_tooltip: 'Δυστυχισμένος χρήστης'
+    user_controls:
+      miserable_user_button: 'Δυστυχισμένος χρήστης'
+  ref:
+    miserable_user: 'Δυστυχισμένος χρήστης'
+sycho-profile-cover:
+  forum:
+    cover: Καλύπτω
+    edit_cover: 'Επεξεργασία εξωφύλλου'
+    added:
+      success: 'Το εξώφυλλο προφίλ ενημερώθηκε.'
+      error: 'Δεν ήταν δυνατή η αποστολή της εικόνας.'
+    removed:
+      success: 'Το κάλυμμα προφίλ αφαιρέθηκε.'
+      error: 'Δεν ήταν δυνατή η αφαίρεση του καλύμματος, δοκιμάστε ξανά αργότερα.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Αντιγραφή στο πρόχειρο'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Τελευταίοι επισκέπτες', guest: Φιλοξενούμενος }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Κωδικός χώρας'
+    saveButton: Σώζω
+    clickToSelectCountry: 'Επιλέξτε τη χώρα σας'
+    countrySaved: 'Η χώρα σώθηκε με επιτυχία!'
+    field_placeholder: 'Επιβεβαίωση σημαιών χωρών'
+    binding_country: 'Ανακαλύψαμε ότι δεν έχετε δεσμεύσει το πού βρίσκεστε. Συνδέστε πρώτα τη χώρα σας. Μπορείτε να δημοσιεύσετε και να αφήσετε μηνύματα μόνο αφού συνδέσετε τη χώρα σας.'
+    binding_country_click: 'Κάντε κλικ τώρα'
+username-blacklist:
+  forum:
+    modal-title: Προειδοποίηση!
+    modal-body-first-line: 'Προειδοποίηση - Αυτό το όνομα χρήστη <strong>έχει αποκλειστεί από το διαχειριστή</strong>'
+    modal-body-second-line: 'Επιλέξτε ένα άλλο όνομα χρήστη που δεν παραβιάζει τις οδηγίες κοινότητας και προσπαθήστε ξανά.'
+  admin:
+    blackList: 'Στη μαύρη λίστα Όνομα χρήστη'
+    blackList-help: 'Γράψτε εδώ το όνομα χρήστη που θέλετε να αποκλείσετε κατά την εγγραφή (διαχωρισμένο με κόμμα)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Σύνοψη, show-summaries: 'Εμφάνιση αποσπάσματος από κάθε συζήτηση σε λίστες συζητήσεων (Desktop/Tablet)', show-summaries-mobile: 'Εμφάνιση αποσπάσματος από κάθε συζήτηση σε λίστες συζητήσεων (Κινητό)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Δραστηριότητα φόρουμ'
+      forum_new_discussions: 'Νέες συζητήσεις του Φόρουμ'
+      discussion_last_posts: 'Αυτή η συζήτηση'
+      user_last_posts: 'Αναρτήσεις & σχόλια από αυτόν τον χρήστη'
+    feeds:
+      titles: { main_subtitle: 'Τελευταίες δημοσιεύσεις στο φόρουμ', main_d_subtitle: 'Οι νεότερες συζητήσεις στο φόρουμ', discussion_subtitle: 'Τελευταία μηνύματα σε αυτήν τη συζήτηση', user_subtitle: 'Τελευταίες δημοσιεύσεις & σχόλια από αυτόν τον χρήστη.' }
+    discussion:
+      feed_link: Τρέφω
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Ακολουθείται
+    profile_page:
+      no_following: 'Φαίνεται ότι δεν ακολουθείτε κανέναν.'
+    settings:
+      notify_new_follower_label: 'Κάποιος με ακολουθεί'
+      notify_new_unfollower_label: 'Κάποιος σταματά να με ακολουθεί'
+      notify_new_discussion_label: 'Κάποιος που παρακολουθώ ξεκινά μια συζήτηση'
+      notify_new_post_label: 'Κάποιος που παρακολουθώ δημοσιεύει σε μια υπάρχουσα συζήτηση'
+      block_follow: 'Να μην επιτρέπεται στους χρήστες να με ακολουθούν'
+    badge:
+      label: { follow: 'Παρακολούθηση συζητήσεων', lurk: 'Μετά από όλα' }
+    filter:
+      following: 'Χρήστες που ακολουθούνται'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Παρακολούθηση επιπέδων', follow_select_label: 'Ακολουθήστε τον τύπο', no_user_attr_provided_err: 'Ωχ, κάτι πήγε στραβά κατά το άνοιγμα αυτού του τρόπου.', no_user_attr_provided_err_debug: 'Κανένα χαρακτηριστικό ''user'' δεν μεταβιβάστηκε στο modal SelectFollowUserLevel όταν δημιουργήθηκε. Το Modal δεν μπορεί να αποδοθεί.', save_btn: Σώζω, cancel_btn: Ακυρώνω }
+    profile_link: 'Χρήστες που ακολουθούνται'
+    user_controls:
+      follow_button: Ακολουθώ
+      unfollow_button: 'Κατάργηση παρακολούθησης'
+      change_button: 'Αλλαγή τύπου παρακολούθησης'
+    index:
+      follow_tag_button: Ακολουθώ
+      unfollow_tag_button: 'Αλλαγή τύπου παρακολούθησης'
+  email:
+    new_follower_subject: '[Ακολουθήστε τον χρήστη] Έχετε έναν νέο οπαδό!'
+  lib:
+    following_link: 'Χρήστες που ακολουθούνται'
+    follow: Ακολουθώ
+    change_follow_type: 'Αλλαγή τύπου παρακολούθησης'
+    unfollow: 'Κατάργηση παρακολούθησης'
+    follow_levels:
+      unfollow: { name: 'Μην ακολουθείτε' }
+      follow: { name: 'Παρακολούθηση συζητήσεων' }
+      lurk: { name: 'Ακολουθήστε τα όλα' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Βεβαιωθείτε ότι αυτή η ζητούμενη αλλαγή ψευδωνύμου ακολουθεί τις οδηγίες του φόρουμ.', decision_title: Απόφαση, approval_label: Εγκρίνω, rejected_label: Απορρίπτω, submit_button: Υποβάλλω, reason_title: 'Λόγος απόρριψης', success: 'Η απόφαση στάλθηκε.', title: 'Αίτημα αλλαγής ψευδωνύμου' }
+      results: { title: 'Αίτημα αλλαγής ψευδωνύμου', approved: 'Το αίτημα αλλαγής ψευδωνύμου έχει εγκριθεί', rejected: 'Το αίτημα αλλαγής ψευδωνύμου απορρίφθηκε', resubmit: 'Προς το παρόν, μπορείτε να υποβάλετε ξανά ένα νέο αίτημα αλλαγής ψευδωνύμου από τις ρυθμίσεις του λογαριασμού σας, εάν το επιλέξετε.', dismiss_button: OK }
+      request: { title: 'Αίτημα αλλαγής ψευδωνύμου', submit_button: 'Υποβολή αιτήματος', delete_button: 'Διαγραφή αιτήματος', confirmation_message: 'Το αίτημα αλλαγής ψευδωνύμου έχει υποβληθεί και εκκρεμεί έγκριση.', deleted: 'Το αίτημα ψευδωνύμου διαγράφηκε.', dismiss_button: OK }
+    username_modals:
+      action: { help_text: 'Βεβαιωθείτε ότι αυτή η ζητούμενη αλλαγή ονόματος χρήστη ακολουθεί τις οδηγίες του φόρουμ.', decision_title: Απόφαση, approval_label: Εγκρίνω, rejected_label: Απορρίπτω, submit_button: Υποβάλλω, reason_title: 'Λόγος απόρριψης', success: 'Η απόφαση στάλθηκε.', title: 'Αίτημα αλλαγής ονόματος χρήστη' }
+      results: { title: 'Αίτημα αλλαγής ονόματος χρήστη', approved: 'Το αίτημα αλλαγής ονόματος χρήστη έχει εγκριθεί', rejected: 'Το αίτημα αλλαγής ονόματος χρήστη απορρίφθηκε', resubmit: 'Προς το παρόν, μπορείτε να υποβάλετε ξανά ένα νέο αίτημα αλλαγής ονόματος χρήστη από τις ρυθμίσεις του λογαριασμού σας, εάν το επιλέξετε.', dismiss_button: OK }
+      request: { title: 'Αίτημα αλλαγής ονόματος χρήστη', submit_button: 'Υποβολή αιτήματος', delete_button: 'Διαγραφή αιτήματος', confirmation_message: 'Το αίτημα αλλαγής ονόματος χρήστη έχει υποβληθεί και εκκρεμεί έγκριση.', deleted: 'Το αίτημα ονόματος χρήστη διαγράφηκε.', dismiss_button: OK }
+    pending_requests:
+      empty_text: 'Δεν βρέθηκαν αιτήματα αλλαγής ονόματος.'
+      tooltip: 'Αιτήματα αλλαγής ονόματος'
+      title: 'Αιτήματα αλλαγής ονόματος'
+    settings:
+      nickname_request_button: 'Αλλαγή ψευδωνύμου'
+      username_request_button: 'Αλλαγή ονόματος χρήστη'
+    user:
+      name_history_link: 'Ιστορικό ονόματος'
+  ref:
+    name_change_request: 'Αίτημα αλλαγής ονόματος'
+    name_change_requests: 'Αιτήματα αλλαγής ονόματος'
+    nickname_change_request: 'Αίτημα αλλαγής ψευδωνύμου'
+    nickname_change_requests: 'Αιτήματα αλλαγής ψευδωνύμου'
+    username_change_request: 'Αίτημα αλλαγής ονόματος χρήστη'
+    username_change_requests: 'Αιτήματα αλλαγής ονόματος χρήστη'
+  email:
+    body:
+      noReasonProvided: 'Δεν παρέχεται λόγος.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Γράψτε κάτι για τον εαυτό σας'
+    profile:
+      cancel_confirm: 'Είστε βέβαιοι ότι θέλετε να ακυρώσετε την επεξεργασία του βιογραφικού σας; Θα χάσετε τυχόν αλλαγές που έχετε κάνει.'
+      cancel_button: Ακυρώνω
+      save_button: Σώζω
+      edit_bio_label: 'Επεξεργασία βιογραφικού'
+fof-split:
+  forum:
+    split:
+      from: 'Διαχωρίστε από εδώ'
+      to: 'Χωρίστε σε εδώ'
+      cancel: 'Ακύρωση διαχωρισμού'
+    modal:
+      title: 'Χωριστή συζήτηση'
+      new_discussion_label: 'Καθορισμός του τίτλου για τη νέα συζήτηση'
+      submit_button: Χωρίζω
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Επεξεργαστείτε τα κουμπιά κοινωνικών μέσων'
+      add: 'Προσθήκη κουμπιών στα μέσα κοινωνικής δικτύωσης'
+      headtitle: 'Επεξεργασία κουμπιών'
+      title: Τίτλος
+      url: URL
+      submit: Σώζω
+      delete: Διαγράφω
+      deletetitle: 'Κουμπί διαγραφής'
+      save_disabled_fetching_favicons: 'Γίνεται λήψη ενός ή περισσότερων εικονιδίων. Παρακαλώ περίμενε.'
+      favicon: Φαβιτσόν
+      grey_favicon: 'Γκρι Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Μετοχή
+      share_dropdown_accessible_label: 'Εναλλαγή αναπτυσσόμενου μενού κοινής χρήσης συζήτησης'
+    modal:
+      title: Μετοχή
+      copy_button: Αντίγραφο
+  lib:
+    networks:
+      facebook: Facebook
+      twitter: Κελάδημα
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Τηλεγράφημα
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Ο κόσμος μου'
+      qq: QQ
+      qzone: QZone
+      native: 'Εγγενές μερίδιο'
+fof-recaptcha:
+  forum:
+    error: 'Παρουσιάστηκε σφάλμα κατά την υποβολή του reCAPTCHA. Δοκίμασε ξανά.'
+    unknown_error: 'Παρουσιάστηκε άγνωστο σφάλμα. Ελέγξτε το captcha και προσπαθήστε ξανά.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Δεν μπορείτε να χρησιμοποιήσετε αυτήν την αντίδραση αυτήν τη στιγμή, ανανεώστε τη σελίδα'
+    warning: 'Η αντίδρασή σας μετατράπηκε'
+    settings:
+      notify_post_reacted_label: 'Κάποιος αντιδρά σε μία από τις δημοσιεύσεις μου'
+    reacting-own-post: 'Δεν μπορείτε να αντιδράσετε στη δική σας ανάρτηση'
+    modal:
+      title: Αντιδράσεις
+      no_reactions: 'Δεν υπάρχουν ακόμη αντιδράσεις'
+    mod_item: 'Προβολή αντιδράσεων'
+    react_button_label: Αντιδρώ
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Αποτυχία φόρτωσης του προγράμματος περικοπής εικόνας.', generic_resize: 'Παρουσιάστηκε κάποιο πρόβλημα κατά την περικοπή και την αλλαγή μεγέθους της εικόνας.', get_image_data: 'Αποτυχία περικοπής. Βεβαιωθείτε ότι η προστασία δακτυλικών αποτυπωμάτων του προγράμματος περιήγησής σας είναι απενεργοποιημένη.' }
+      help_text: "Η μεταφόρτωση εικόνας ενδέχεται να αποτύχει εάν οι ρυθμίσεις απορρήτου του προγράμματος περιήγησής σας είναι πολύ αυστηρές. Αν αντιμετωπίζετε προβλήματα, δοκιμάστε να απενεργοποιήσετε την προστασία δακτυλικών αποτυπωμάτων. Διαφορετικά, μπορείτε είτε να <disableResize>απενεργοποιήσετε τη συμπίεση της περικομμένης εικόνας</disableResize> είτε να <disableCrop>απενεργοποιήσετε εντελώς την περικοπή</disableCrop>.\n"
+      submit_button: Ανέβασμα
+      submit_crop_button: 'Περικοπή & Μεταφόρτωση'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Είναι πολύ πιθανό ότι δεν χρειάζεται περαιτέρω συζήτηση και, ως εκ τούτου, η πρόσκρουσή του δεν εξυπηρετεί κανένα σκοπό.', checkbox_label: 'Γνωρίζω ότι αυτή η συζήτηση είναι αρκετά παλιά, αλλά θα ήθελα να απαντήσω.', error: 'Αυτή η συζήτηση είναι πολύ παλιά για να απαντηθεί.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Δεν έχετε δικαίωμα ψήφου'
+    poll_ended: 'Αυτή η δημοσκόπηση έχει τελειώσει.'
+    public_poll: 'Προβολή ψηφοφόρων'
+    composer_discussion:
+      add_poll: 'Προσθήκη δημοσκόπησης'
+      edit_poll: 'Επεξεργασία δημοσκόπησης'
+    modal:
+      add_title: 'Προσθήκη δημοσκόπησης'
+      add_option_label: 'Προσθήκη επιλογής'
+      edit_title: 'Επεξεργασία δημοσκόπησης'
+      include_question: 'Πρέπει να συμπεριλάβετε μια ερώτηση'
+      max: 'Μπορείτε να έχετε έως και 10 απαντήσεις'
+      min: 'Πρέπει να συμπεριλάβετε τουλάχιστον 2 απαντήσεις'
+      no_voters: 'Καμία ψήφος'
+      option_placeholder: Απάντηση
+      image_option_placeholder: 'URL εικόνας (προαιρετικό)'
+      options_label: Απαντήσεις
+      public_poll_label: 'Επιτρέψτε στους πολίτες να δουν ποιος ψήφισε'
+      allow_multiple_votes_label: 'Επιτρέψτε στους χρήστες να ψηφίσουν για πολλές επιλογές'
+      max_votes_label: 'Μέγιστος αριθμός ψήφων ανά χρήστη'
+      max_votes_help: 'Ορίστε την τιμή 0 για να επιτρέψετε στους χρήστες να ψηφίσουν για όλες τις επιλογές.'
+      question_placeholder: Ερώτηση
+      submit: Υποβάλλω
+    moderation:
+      delete: 'Κατάργηση δημοσκόπησης'
+      delete_confirm: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη δημοσκόπηση;'
+      edit: 'Επεξεργασία δημοσκόπησης'
+    tooltip:
+      badge: Ψηφοφορία
+    votes_modal:
+      title: Ψηφοφόρων
+fof-nightmode:
+  ref:
+    auto: 'Αυτόματη (με βάση τις επιλογές του προγράμματος περιήγησης ή της συσκευής)'
+    light: 'Λειτουργία ημέρας'
+    dark: 'Νυχτερινή λειτουργία'
+  forum:
+    header:
+      nightmode_button: 'Νυχτερινή λειτουργία'
+    user:
+      settings: { heading: Θέμα, description: 'Επιλέξτε ποιο χρωματικό θέμα θέλετε να χρησιμοποιήσετε στο φόρουμ.', description2: 'Αυτό το θέμα θα συνδεθεί με τον λογαριασμό σας και θα ισχύει για όλες τις συσκευές σας, εκτός εάν ενεργοποιήσετε τον παρακάτω διακόπτη για τις ρυθμίσεις ανά συσκευή.', device_specific_setting_checkbox: 'Χρήση ρυθμίσεων ανά συσκευή', device_specific_setting_checkbox_tooltip: 'Η επιλογή θέματος θα αποθηκευτεί ξεχωριστά για κάθε συσκευή σας.', auto_unsupported: 'Το πρόγραμμα περιήγησής σας δεν υποστηρίζει αυτόματη σκοτεινή λειτουργία.', option_descriptions: { auto: 'Το θέμα σας θα επιλεγεί αυτόματα με βάση τις ρυθμίσεις του προγράμματος περιήγησης ή της συσκευής σας. Για παράδειγμα, εάν έχετε ενεργοποιήσει τη σκοτεινή λειτουργία στο iOS, τα φόρουμ θα είναι επίσης σκοτεινά.', day: 'Η κλασική εμπειρία που έχετε συνηθίσει. Αγαπήθηκε και δοκιμάστηκε.', night: 'Είσαι λίγο κουκουβάγια. Παρακολουθείτε το φόρουμ τη νύχτα, ενώ τα πουλιά κοιμούνται και οι αλεπούδες κυνηγούν. Ή απλά προτιμάτε τα πιο σκούρα χρώματα!' }, options: { auto: 'Αυτόματη (με βάση τις επιλογές του προγράμματος περιήγησης ή της συσκευής)', day: 'Λειτουργία ημέρας', night: 'Νυχτερινή λειτουργία' } }
+    day: 'Λειτουργία ημέρας'
+    night: 'Νυχτερινή λειτουργία'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Δεν επιτρέπεται κενό σημείωμα.'
+    moderatorNotes:
+      add_button: 'Νέα σημείωση'
+      create-heading: 'Δημιουργία νέας σημείωσης επόπτη'
+      dismiss_button: Έτοιμο
+      noNotes: 'Φαίνεται ότι δεν υπάρχουν σημειώσεις εδώ.'
+      submit_button: 'Αποθήκευση σημείωσης'
+      delete: Διαγράφω
+      confirm: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη σημείωση;'
+    user:
+      notes: 'Σημειώσεις συντονιστή'
+  api:
+    no_reason_provided: 'Δεν παρέχεται λόγος'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Ψήφοι
+    vote_title: 'Δείξτε ποιος ψήφισε'
+    nav:
+      name: Κατατάξεις
+    ranking:
+      rank: Τόπος
+      name: Χρήστης
+      amount: Σημεία
+    notification:
+      prefrences: { vote: 'Όταν μία από τις θέσεις μου είναι πάνω / κάτω ψηφίστηκε' }
+    user:
+      votes_link: Ψήφοι
+    modal:
+      downvotes_label: 'Αρνητικοί ψηφοφόροι:'
+      title: Ψηφοφόρων
+      upvotes_label: 'Ψηφοφόροι:'
+    mod_item: 'Προβολή ψηφοφόρων'
+    voters:
+      none: 'Δεν υπάρχουν ψηφοφόροι ακόμα'
+      label: Ψηφοφόρων
+      label_none: 'Δεν υπάρχουν ψηφοφόροι'
+    post:
+      upvote_button: 'Θετική θέση'
+      downvote_button: 'Αρνητική ανάρτηση'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Τα προγραμματισμένα πρόχειρα είναι προς το παρόν απενεργοποιημένα στις ρυθμίσεις.'
+  ref:
+    schedule_draft: 'Πρόχειρο χρονοδιαγράμματος'
+  forum:
+    composer:
+      title: 'Αποθήκευση πρόχειρου'
+      saving: Αποταμίευση...
+      saved: Αποθηκεύτηκε!
+      exit_alert: 'Απόρριψη αλλαγών στο πρόχειρο;'
+      discard_empty_draft_alert: 'Απορρίψτε το κενό σχέδιο;'
+    dropdown:
+      empty_text: 'Δεν έχετε αποθηκεύσει πρόχειρα'
+      title: Σχέδια
+      delete_all_button: 'Διαγραφή όλων των πρόχειρων'
+      delete_button: 'Διαγραφή προχείρου'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε το πρόχειρό σας;'
+      delete_all_alert: 'Είστε βέβαιοι ότι θέλετε να διαγράψετε όλα τα πρόχειρά σας;'
+      schedule_button: 'Πρόχειρο χρονοδιαγράμματος'
+      tooltip: Σχέδια
+    schedule_draft_modal:
+      text: 'Προγραμματίστε το προσχέδιό σας να δημοσιεύει αυτόματα αργότερα!'
+      unschedule_button: 'Κατάργηση προγράμματος'
+      unschedule_warning: 'Είστε βέβαιοι ότι θέλετε να καταργήσετε τον προγραμματισμό αυτού του προσχεδίου;'
+      reschedule_button: Επαναπρογραμματίσετε
+      schedule_button: Πρόγραμμα
+      schedule_time_preview_formatter: ΔΒΜ
+      schedule_time_preview_invalid: 'Μη έγκυρη ημερομηνία ή/και ώρα'
+      title: 'Πρόχειρο χρονοδιαγράμματος'
+    user:
+      settings: { drafts_heading: Σχέδια, draft_autosave_enable: 'Ενεργοποίηση πρόχειρης αυτόματης αποθήκευσης;', draft_autosave_interval_label: 'Διάστημα αυτόματης αποθήκευσης (δευτερόλεπτα)', draft_autosave_interval_button: 'Διάστημα ενημέρωσης', draft_autosave_interval_invalid: 'Το διάστημα πρέπει να είναι ακέραιος μεγαλύτερος από 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Απάντησε
+    this_best_answer: 'Επιλέξτε την καλύτερη απάντηση'
+    remove_best_answer: 'Καταργήστε την επιλογή της καλύτερης απάντησης'
+    best_answer_button: 'Καλύτερη απάντηση'
+    errors:
+      mismatch: 'Η επιλεγμένη ανάρτηση δεν υπάρχει σε αυτή τη συζήτηση.'
+    notification:
+      content: 'Επιλέξτε μια καλύτερη απάντηση εάν η ερώτησή σας έχει απαντηθεί'
+      preferences: { awarded_best_answer: 'Κάποιος ορίζει την ανάρτησή μου ως καλύτερη απάντηση', best_answer_in_discussion: 'Η καλύτερη απάντηση ορίζεται σε μια συζήτηση στην οποία συμμετείχα.', select_best_answer: 'Μια αυτοματοποιημένη υπενθύμιση για να επιλέξω μια καλύτερη απάντηση σε μια συζήτηση που ξεκίνησα' }
+    index:
+      ask_question: 'Κάντε μια ερώτηση'
+      cannot_ask_question: 'Δεν είναι δυνατή η υποβολή ερώτησης'
+      solved_link: 'Λυμένες συζητήσεις'
+      unsolved_link: 'Ανεπίλυτες συζητήσεις'
+    filter:
+      all_label: 'Όλες οι ερωτήσεις'
+      solved_label: 'Λυμένες ερωτήσεις'
+      unsolved_label: 'Αναπάντητα ερωτήματα'
+      accessible_label: 'Λυμένη/Άλυτη επιλογή'
+    composer:
+      titlePlaceholder: 'Τίτλος ερώτησης'
+    search:
+      discussions_solutions_heading: 'Συζητήσεις με λύσεις'
+    discussion:
+      jump_to_best_answer_button: 'Προβολή Καλύτερης Απάντησης'
+  email:
+    subject:
+      select: 'Κατάφερες να απαντήσεις στην ερώτησή σου;'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Οι καλύτερες απαντήσεις'
+      least_best_answers: 'Λιγότερες καλύτερες απαντήσεις'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Κανείς άλλος δεν θα απαγορευτεί'
+    user_badge:
+      banned_tooltip: Απαγορευτεί
+    ban_ip_button: 'Απαγόρευση IP'
+    unban_ip_button: 'Κατάργηση απαγόρευσης IP'
+    user_controls:
+      ban_button: Απαγόρευση
+      unban_button: 'Κατάργηση απαγόρευσης'
+  error:
+    banned_ip_message: 'Η εξουσιοδότηση απέτυχε.'
+    no_ips_found_message: 'Δεν βρέθηκαν IP για το χρήστη.'
+  lib:
+    modal:
+      check_button: Επιταγή
+      save_button: Σώζω
+      ban_ip_confirmation: 'Είστε βέβαιοι ότι θέλετε να αποκλείσετε τη χρήση αυτής της διεύθυνσης IP στο φόρουμ; Αυτό θα εμποδίσει τους χρήστες με αυτές τις διευθύνσεις IP να συνδεθούν και να εγγραφούν.'
+      unban_ip_confirmation: 'Είστε βέβαιοι ότι θέλετε να καταργήσετε τον αποκλεισμό αυτού του χρήστη και όλων των άλλων χρηστών που δεν έχουν απαγορευτεί από άλλες IP;'
+      unban_ip_no_users: 'Κανείς άλλος δεν θα είναι χωρίς απαγόρευση'
+      title: 'Απαγόρευση IP(-ών)'
+      unban_title: 'Κατάργηση απαγόρευσης IP'
+      address_label: 'Διεύθυνση IP'
+      reason_label: Λόγος
+      ban_button: Απαγόρευση
+      unban_button: 'Κατάργηση απαγόρευσης'
+  ref:
+    ban_label: Απαγόρευση
+    ban_ip_addresses: 'Απαγόρευση IP(-ών)'
+    ban_ip_button: 'Απαγόρευση IP'
+    unban_label: 'Κατάργηση απαγόρευσης'
+    unban_ip_addresses: 'Κατάργηση απαγόρευσης IP'
+    unban_ip_button: 'Κατάργηση απαγόρευσης IP'
+    address_label: 'Διεύθυνση IP'
+    reason_label: Λόγος
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Οι λεπτομέρειες της εγγραφής σας έχουν βρεθεί σε μια βάση δεδομένων πρόληψης ανεπιθύμητης αλληλογραφίας, επομένως η εγγραφή σας έχει αποκλειστεί.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Διαγραφή συζητήσεων'
+      hard_delete_discussions_help: 'Αυτό θα διαγράψει οριστικά όλες τις συζητήσεις που ξεκίνησαν από αυτόν τον χρήστη. Όταν είναι απενεργοποιημένη, οι συζητήσεις θα είναι κρυφές.'
+      hard_delete_posts_label: 'Διαγραφή αναρτήσεων'
+      hard_delete_posts_help: 'Αυτό θα διαγράψει οριστικά όλες τις αναρτήσεις (σχόλια, απαντήσεις κ.λπ.) που έγιναν από αυτόν τον χρήστη. Όταν είναι απενεργοποιημένες, οι αναρτήσεις θα αποκρύπτονται.'
+      hard_delete_user_label: 'Διαγραφή χρήστη'
+      hard_delete_user_help: 'Αυτό θα διαγράψει οριστικά τον χρήστη. Όταν είναι απενεργοποιημένος, ο χρήστης θα τεθεί σε αναστολή.'
+      intro: 'Κατά την επισήμανση ενός χρήστη ως αποστολέα ανεπιθύμητης αλληλογραφίας, θα πραγματοποιηθούν διάφορες ενέργειες, οι οποίες εξαρτώνται από τις επεκτάσεις που είναι διαθέσιμες στο φόρουμ σας.'
+      move_discussions_tag_label: 'Μετακίνηση συζητήσεων σε ετικέτα σε καραντίνα'
+      move_discussions_tag_help: 'Αυτό θα μετακινήσει όλες τις συζητήσεις που ξεκίνησαν από αυτόν τον χρήστη στην ετικέτα που καθορίσατε στις ρυθμίσεις του φόρουμ. Όταν είναι απενεργοποιημένες, οι συζητήσεις θα παραμείνουν στις τρέχουσες ετικέτες τους.'
+      process_button: Διεργασία
+      report_to_sfs_label: 'Αναφορά στο StopForumSpam'
+      report_to_sfs_help: 'Αυτό θα αναφέρει τα βασικά στοιχεία του χρήστη (όνομα χρήστη, email, διεύθυνση IP) στο StopForumSpam. Αυτό θα βοηθήσει στην αποτροπή της εγγραφής του χρήστη σε άλλα φόρουμ που χρησιμοποιούν την υπηρεσία StopForumSpam.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Επαναφορά πλήθους προβολών συζήτησης'
+      submit: Υποβάλλω
+      label: 'Ορισμός για προβολή πλήθους'
+    discussion_controls:
+      resetviews_button: 'Ορισμός πλήθους προβολών'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Ξεκολλάει
+      sticky_button: Κολλώδης
+    badge:
+      sticky_tooltip: Κολλώδης
+  ref:
+    sticky: Κολλώδης
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Κλειδωμένος
+    discussion_controls:
+      lock_button: Κλειδαριά
+      unlock_button: Ξεκλειδώνω
+    settings:
+      notify_discussion_locked_label: 'Κάποιος κλειδώνει μια συζήτηση που ξεκίνησα'
+flarum-likes:
+  forum:
+    post:
+      like_link: Αγαπώ
+      unlike_link: Διαφορετικός
+      you_text: Εσύ
+    post_likes:
+      title: 'Χρήστες που τους αρέσει αυτό'
+      load_more_button: 'Φόρτωσε περισσότερα'
+    settings:
+      notify_post_liked_label: 'Σε κάποιον αρέσει μία από τις αναρτήσεις μου'
+    user:
+      likes_link: Αρέσει
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Εισαγωγή emoji'
+      type_to_search_text: 'Πληκτρολογήστε για να αναζητήσετε ένα emoji'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Το περιεχόμενό σας είναι πολύ μεγάλο, διαβάστε τις οδηγίες μας σχετικά με την ανάρτηση' }
+dhtml-persona:
+  forum:
+    persona: Άτομο
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Πίνακας κορυφαίων'
+dhtml-gender:
+  forum:
+    male: Αρσενικός
+    female: Θηλυκός
+    other: 'Προτιμώ να μην πω'
+    inputGender: Γένος
+    saveButton: Σώζω
+    clickToSelectGender: 'Επιλέξτε το φύλο σας'
+    genderSaved: 'Το φύλο σώθηκε με επιτυχία!'
+    field_placeholder: 'Επιβεβαίωση φύλου'
+    binding_gender: 'Ανακαλύψαμε ότι δεν έχετε ορίσει το φύλο σας. Ορίστε πρώτα το φύλο σας. Μπορείτε να δημοσιεύετε και να αφήνετε μηνύματα μόνο αφού ορίσετε το φύλο σας.'
+    binding_gender_click: 'Κάντε κλικ τώρα'
+flarum-content-pages:
+  forum:
+    home: Σπίτι
+    about-us: 'Σχετικά με εμάς'
+    guidelines: 'Κατευθυντήριες γραμμές'
+    privacy-policy: 'Πολιτική Απορρήτου'
+    terms-of-use: 'Όροι Χρήσης'
+    contact-us: 'Επικοινωνήστε μαζί μας'
+    download-app: 'Λήψη εφαρμογής'
+    discord-chat: 'Συνομιλία Discord'
+    tags-cloud: 'Ετικέτες: Cloud'
+    languages: Γλώσσες
+    leaderboard: 'Πίνακας κορυφαίων'
+    live: Ζωντανά
+    live-coding: 'Ζωντανή κωδικοποίηση'
+    challenges: Προκλήσεις
+    dev-challenges: 'Προκλήσεις Dev'
+    jobs: Εργασίες
+    community: Κοινότητα
+    dev-jobs: 'Εργασία Dev'
+    job-posting: 'Απόθεση εργασίας'
+    job-postings: 'Θέσεις εργασίας'
+    workshops: Εργαστήρια
+    dev-workshops: 'Εργαστήρια Dev'
+    events: Γεγονότα
+    conferences: Συνέδρια
+    event-conferences: 'Εκδηλώσεις / Συνέδρια'
+    showcase: 'Εμφάνιση προχείρου'
+    tags: Ετικέτες
+    more: Περισσότερα
+    memberships: Σύνθεση
+    members: Μέλη
+    general-discussion: 'Γενική συζήτηση'
+    technology-articles: 'Άρθρα τεχνολογίας'
+    coding-challenges: 'Προκλήσεις Κωδικοποίησης'
+    q-a: 'Τμήμα Q/A'
+    artificial-intelligence: 'Τεχνητή Νοημοσύνη'
+    computer-science: 'Επιστήμη των υπολογιστών'
+    programming-languages: 'Γλώσσες προγραμματισμού'
+    development-tools: 'Εργαλεία ανάπτυξης'
+    software-development: 'Ανάπτυξη Λογισμικού'
+    frontend-development: 'Ανάπτυξη περιβάλλοντος'
+    backend-development: 'Ανάπτυξη συστήματος υποστήριξης'
+    software-engineering: 'Μηχανική λογισμικού'
+    cybersecurity: Κυβερνοασφάλεια
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Μετρητής χαρακτήρων'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Επεξεργασία ημερομηνίας γέννησης'
+      date_of_birth_text: 'Ημερομηνία γέννησης'
+      submit_button: 'Αποθήκευση αλλαγών'
+    settings:
+      change_dob_label: 'Αλλαγή ημερομηνίας γέννησης'
+      show_dob_date_label: 'Εμφάνιση ημέρας και μήνα γέννησης'
+      show_dob_year_label: 'Εμφάνιση έτους γέννησης'
+      show_dob_year_help: 'Αυτό θα επιτρέψει στους ανθρώπους να δουν την ηλικία σας.'
+      dob_heading: 'Ημερομηνία γέννησης'
+    nav:
+      nav_item: 'Γενέθλια σήμερα'
+    edit_user:
+      dob_heading: 'Ημερομηνία γέννησης'
+    sign_up:
+      dob_placeholder: 'Ημερομηνία γέννησης'
+  api:
+    invalid_dob_message: 'Μη έγκυρη ημερομηνία γέννησης'
+  ref:
+    date_of_birth: 'Ημερομηνία γέννησης'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Επιλογή emoji'
+    search_placeholder: Αναζήτηση...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Επεξεργασία συντάκτη και ημερομηνίας'
+    modal:
+      title-post: 'Επεξεργασία συντάκτη ανάρτησης και ημερομηνίας'
+      title-discussion: 'Επεξεργασία συντάκτη και ημερομηνίας συζήτησης'
+      user: Συγγραφέας
+      created_at: 'Χρόνος δημιουργίας'
+      edited_at: 'Επεξεργασία ώρας'
+      sync-with-discussion: 'Συγχρονισμός με συζήτηση'
+      sync-with-post: 'Συγχρονισμός με την πρώτη ανάρτηση'
+      sync-impossible: 'Αδύνατη η εύρεση της πρώτης θέσης. Δοκιμάστε να κάνετε κύλιση στην αρχή της συζήτησης.'
+      submit: Σώζω
+      cancel: Ακυρώνω
+    search:
+      placeholder: 'Αναζήτηση χρηστών'
+      type-more: 'Πληκτρολογήστε 3 χαρακτήρες για αναζήτηση στη βάση δεδομένων'
+      no-results: 'Κανένα αποτέλεσμα'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Εναλλαγή λειτουργίας εμπλουτισμένου κειμένου'
+      insert_button: Ενθέτω
+      insert_image: { src_placeholder: Σύνδεση, title_placeholder: Τίτλος }
+      insert_link: { text_placeholder: Κείμενο, href_placeholder: URL, title_placeholder: 'Τίτλος (εμφανίζεται με κατάδειξη)', remove_button: Αφαιρώ }
+      additional_items_tooltip: 'Πρόσθετοι έλεγχοι'
+      code_block_tooltip: 'Εισαγωγή μπλοκ κώδικα'
+      horizontal_rule_tooltip: 'Εισαγωγή οριζόντιου κανόνα'
+      image_tooltip: 'Προσθήκη εικόνας'
+      link_tooltip: 'Προσθήκη συνδέσμου'
+      spoiler_block_tooltip: 'Αποκλεισμός Spoiler/Dropdown'
+      strike_tooltip: 'Διακριτή διαγραφή <alt-shift-5>'
+      text_type_tooltip: 'Επιλέξτε τύπο κειμένου'
+  forum:
+    settings:
+      composer_heading: Συνθέτης
+      use_rich_text_editor_label: 'Χρησιμοποιείτε πρόγραμμα επεξεργασίας εμπλουτισμένου κειμένου;'
+      rich_text_compact_paragraphs_label: 'Μην διαχωρίζετε παραγράφους με νέα γραμμή.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Έχετε ενεργοποιήσει τις ειδοποιήσεις push, αλλά δεν έχετε ρυθμίσει τις παραμέτρους αυτής της συσκευής.'
+      optin_button: Ρυθμίσετε
+    discussion_controls:
+      share_button: Μετοχή
+    post_controls:
+      share_button: Μετοχή
+    user_controls:
+      share_button: Μετοχή
+    settings:
+      push_header: Σπρώχνω
+      pwa_notifications: { access_default: 'Λόγω περιορισμών του προγράμματος περιήγησης, πρέπει να επιλέξετε να λαμβάνετε ειδοποιήσεις push σε αυτήν τη συσκευή.', access_default_button: 'Δηλώστε συμμετοχή', access_denied: 'Πρέπει να προσαρμόσετε τις ρυθμίσεις του προγράμματος περιήγησής σας για να λαμβάνετε ειδοποιήσεις push σε αυτήν τη συσκευή.', access_denied_button: 'Μάθετε πώς', no_browser_support: 'Αυτό το πρόγραμμα περιήγησης δεν υποστηρίζει ειδοποιήσεις push για προοδευτικές εφαρμογές ιστού.', no_browser_support_button: 'Μάθε περισσότερα' }
+  views:
+    offline:
+      header: 'Σφάλμα σύνδεσης δικτύου'
+      text: 'Αυτή η εφαρμογή απαιτεί σύνδεση δικτύου. Δεν μπορεί να χρησιμοποιηθεί εκτός σύνδεσης. Ελέγξτε τη σύνδεσή σας.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Προειδοποίηση χρήστη'
+    user:
+      warnings: 'Προειδοποιήσεις συντονιστή'
+    settings:
+      warning_notification_label: 'Ένας συντονιστής με προειδοποιεί'
+    validation:
+      public_comment_required: 'Παρέχετε περισσότερο ένα δημόσιο σχόλιο.'
+      invalid_strike_count: 'Ο αριθμός των προειδοποιήσεων πρέπει να είναι ακέραιος μεταξύ 0 και 5.'
+    warning_controls:
+      delete_button: Αφαιρώ
+      restore_button: Αποκαθιστώ
+      delete_forever_button: 'Οριστική διαγραφή'
+    warning_list:
+      add_button: 'Νέα προειδοποίηση'
+      no_warnings: 'Φαίνεται ότι δεν υπάρχουν προειδοποιήσεις εδώ.'
+      warnings_no_strikes: 'Προειδοποιήσεις επόπτη: Δεν ελήφθησαν προειδοποιήσεις'
+    warning_list_item:
+      public_comment: Προειδοποίηση
+      private_comment: 'Ορατά σχόλια συντονιστή'
+      linked_post: 'Συνδεδεμένη ανάρτηση'
+    warning_modal:
+      confirmation_message: 'Η προειδοποίησή σας αποθηκεύτηκε. Ίσως χρειαστεί να ανανεώσετε τη σελίδα για να τη δείτε.'
+      strikes_heading: 'Πόσες απεργίες πρέπει να εφαρμοστούν;'
+      submit_button: 'Αποθήκευση προειδοποίησης'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Επεξεργασία προτύπου απάντησης'
+    reply_template:
+      title: 'Επεξεργασία προτύπου απάντησης'
+      submit_button: 'Αποθήκευση προτύπου απάντησης'

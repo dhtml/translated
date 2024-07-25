@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: รหัสผ่านที่คุณป้อนไม่ถูกต้อง
+      confirm_password_placeholder: ยืนยันรหัสผ่าน
+      dismiss_button: 'ตกลง, ได้'
+      submit_button: บันทึกการเปลี่ยนแปลง
+      title: เปลี่ยนอีเมล
+    change_password:
+      send_button: ส่งอีเมลรีเซ็ตรหัสผ่าน
+      text: คลิกปุ่มด้านล่างและตรวจสอบอีเมลของคุณเพื่อดูลิงก์สําหรับเปลี่ยนรหัสผ่านของคุณ
+      title: เปลี่ยนรหัสผ่าน
+    composer:
+      close_tooltip: ปิด
+      exit_full_screen_tooltip: ออกจากโหมดเต็มหน้าจอ
+      full_screen_tooltip: ดูภาพขนาดใหญ่
+      minimize_tooltip: ลด
+      preview_tooltip: ดูตัวอย่าง
+    composer_discussion:
+      body_placeholder: เขียนโพสต์...
+      discard_confirmation: 'คุณยังไม่ได้โพสต์การสนทนาของคุณ คุณต้องการที่จะทิ้งมันหรือไม่?'
+      submit_button: กระทู้สนทนา
+      title_placeholder: หัวข้อสนทนา
+      title: เริ่มการสนทนา
+    composer_edit:
+      discard_confirmation: 'คุณยังไม่ได้บันทึกการเปลี่ยนแปลงของคุณ คุณต้องการที่จะทิ้งพวกเขาหรือไม่?'
+      edited_message: การแก้ไขของคุณถูกสร้างขึ้น
+      submit_button: บันทึกการเปลี่ยนแปลง
+      view_button: ทิวทัศน์
+    composer_reply:
+      discard_confirmation: 'คุณยังไม่ได้โพสต์การตอบกลับของคุณ คุณต้องการที่จะทิ้งมันหรือไม่?'
+      posted_message: คําตอบของคุณถูกโพสต์
+      submit_button: โพสต์คําตอบ
+      body_placeholder: เขียนตอบกลับ...
+      view_button: ทิวทัศน์
+    discussion_controls:
+      cannot_reply_button: ตอบไม่ได้
+      cannot_reply_text: คุณไม่มีสิทธิ์ตอบกลับการสนทนานี้
+      delete_confirmation: คุณแน่ใจหรือไม่ว่าต้องการลบการสนทนานี้
+      log_in_to_reply_button: เข้าสู่ระบบเพื่อตอบ
+      toggle_dropdown_accessible_label: สลับเมนูดรอปดาวน์การดําเนินการอภิปราย
+      delete_button: ลบ
+      delete_forever_button: ลบตลอดไป
+      rename_button: ตั้งชื่อใหม่
+      reply_button: ตอบ
+      restore_button: ซ่อมแซม
+    discussion_list:
+      empty_text: ดูเหมือนว่าไม่มีการอภิปรายที่นี่
+      load_more_button: โหลดเพิ่ม
+    forgot_password:
+      email_sent_message: 'หากอีเมลที่คุณกรอกถูกลงทะเบียนด้วยเว็บไซต์นี้ เราจะส่งอีเมลที่มีลิงก์ที่จะรีเซ็ตรหัสผ่านของคุณ โปรดตรวจสอบโฟลเดอร์สแปมของคุณ หากคุณไม่ได้รับมันภายในหนึ่งหรือสองนาที'
+      not_found_message: ยังไม่มีการลงทะเบียนผู้ใช้ด้วยที่อยู่อีเมลดังกล่าว
+      submit_button: เรียกคืนรหัสผ่าน
+      text: 'ป้อนที่อยู่อีเมลของคุณ และเราจะส่งลิงก์ไปให้คุณเพื่อปรับค่ารหัสผ่านของคุณใหม่'
+      title: ลืมรหัสผ่าน
+      dismiss_button: 'ตกลง, ได้'
+      email_placeholder: อีเมล
+    header:
+      admin_button: หัวหน้า
+      back_to_index_tooltip: กลับไปที่รายการสนทนา
+      locale_dropdown_accessible_label: เปลี่ยนตําแหน่งที่ตั้งของฟอรั่ม
+      profile_button: โปรไฟล์
+      search_clear_button_accessible_label: ล้างคําค้นหา
+      search_placeholder: ค้นหาฟอรัม
+      search_role_label: ค้นหาฟอรัม
+      session_dropdown_accessible_label: สลับเมนูแบบเลื่อนลงตัวเลือกเซสชัน
+      log_in_link: เข้าสู่ระบบ
+      log_out_button: ออกจากระบบ
+      settings_button: การตั้งค่า
+      sign_up_link: ไซน์อัพ
+    index:
+      cannot_start_discussion_button: ไม่สามารถเริ่มการสนทนาได้
+      mark_all_as_read_confirmation: คุณแน่ใจหรือไม่ว่าต้องการทําเครื่องหมายการสนทนาทั้งหมดว่าอ่านแล้ว
+      refresh_tooltip: ฟื้นฟู
+      toggle_sidenav_dropdown_accessible_label: สลับเมนูแบบเลื่อนลงการนําทาง
+      all_discussions_link: กระทู้สนทนา
+      mark_all_as_read_tooltip: ทําเครื่องหมายทั้งหมดว่าอ่านแล้ว
+      meta_title_text: กระทู้สนทนา
+      start_discussion_button: เริ่มการสนทนา
+    index_sort:
+      latest_button: ล่าสุด
+      newest_button: ล่าสุด
+      oldest_button: เก่า
+      relevance_button: ความเกี่ยวข้อง
+      toggle_dropdown_accessible_label: เปลี่ยนการเรียงลําดับรายการอภิปราย
+      top_button: ด้านบน
+      hot_button: 'แนว โน้ม'
+      votes_button: โหวตขึ้น
+      front_button: ฟรอนต์เพจ
+      popular_button: เป็นที่นิยม
+      unpopular_button: ไม่เป็นที่นิยม
+    log_in:
+      forgot_password_link: 'ลืมรหัสผ่าน?'
+      invalid_login_message: รายละเอียดการเข้าสู่ระบบของคุณไม่ถูกต้อง
+      remember_me_label: จดจําฉัน
+      sign_up_text: 'ยังไม่มีบัญชี? <a>ไซน์อัพ</a>'
+      username_or_email_placeholder: ชื่อผู้ใช้หรืออีเมล
+      password_placeholder: รหัสผ่าน
+      submit_button: เข้าสู่ระบบ
+      title: เข้าสู่ระบบ
+    notifications:
+      delete_all_confirm: 'คุณแน่ใจหรือไม่ว่าต้องการลบการแจ้งเตือนทั้งหมด การดําเนินการนี้ไม่สามารถย้อนกลับได้'
+      delete_all_tooltip: ลบการแจ้งเตือนทั้งหมด
+      empty_text: ไม่มีการแจ้งเตือน
+      mark_as_read_tooltip: ทําเครื่องหมายว่าอ่านแล้ว
+      toggle_dropdown_accessible_label: ดูการแจ้งเตือน
+      mark_all_as_read_tooltip: ทําเครื่องหมายทั้งหมดว่าอ่านแล้ว
+      title: 'แจ้ง เตือน'
+      tooltip: 'แจ้ง เตือน'
+    post:
+      edited_text: แก้ไข
+    post_controls:
+      delete_confirmation: 'คุณแน่ใจหรือว่าต้องการลบโพสต์นี้ตลอดไป? การดําเนินการนี้ไม่สามารถยกเลิกได้'
+      hide_confirmation: คุณแน่ใจหรือว่าต้องการลบโพสต์นี้
+      toggle_dropdown_accessible_label: สลับเมนูแบบเลื่อนลงการควบคุมโพสต์
+      push_to_front_button: 'กดไปที่ FrontPage'
+      pull_from_front_button: 'ดึงจาก FrontPage'
+      delete_button: ลบ
+      delete_forever_button: ลบตลอดไป
+      edit_button: แก้ไข
+      restore_button: ซ่อมแซม
+    post_scrubber:
+      now_link: เดี๋ยวนี้
+      original_post_link: โพสต์ต้นฉบับ
+    post_stream:
+      load_more_button: โหลดเพิ่ม
+      reply_placeholder: เขียนตอบกลับ...
+    rename_discussion:
+      title: เปลี่ยนชื่อการสนทนา
+      submit_button: ตั้งชื่อใหม่
+    search:
+      discussions_heading: สนทนา
+      users_heading: คน
+    security:
+      cannot_terminate_current_session: 'ไม่สามารถยุติเซสชันที่ใช้งานอยู่ในปัจจุบัน ออกจากระบบแทน'
+      created: สร้าง
+      current_active_session: เซสชันที่ใช้งานอยู่ในปัจจุบัน
+      developer_tokens_heading: โทเค็นสําหรับนักพัฒนา
+      empty_text: ดูเหมือนว่าไม่มีอะไรให้ดูที่นี่
+      global_logout: { heading: การออกจากระบบทั่วโลก, help_text: ล้างเซสชันคุกกี้ปัจจุบันยุติเซสชันทั้งหมดเพิกถอนโทเค็นของนักพัฒนาและทําให้อีเมลยืนยันหรือรีเซ็ตรหัสผ่านเป็นโมฆะ, log_out_button: ออกจากระบบ }
+      hide_access_token: ซ่อนโทเค็น
+      last_activity: กิจกรรมล่าสุด
+      new_access_token_modal: { submit_button: สร้างโทเค็น, title_placeholder: ชื่อเรื่อง, title: โทเค็นใหม่ }
+      revoke_access_token: เพิกถอน
+      sessions_heading: เซสชันที่ใช้งานอยู่
+      session_termination_failed: เกิดข้อผิดพลาดขณะยกเลิกเซสชันของคุณ
+      show_access_token: ดูโทเค็น
+      terminate_all_other_sessions: 'ยุติเซสชันอื่นๆ ทั้งหมด'
+      terminate_session: ยุติ
+      token_revoked: โทเค็นถูกเพิกถอน
+      token_title_placeholder: /
+      never: ไม่เคย
+      new_access_token_button: โทเค็นใหม่
+      revoke_access_token_confirmation: 'คุณแน่ใจหรือว่าต้องการดําเนินการต่อ? การดําเนินการนี้ไม่สามารถยกเลิกได้'
+      terminate_all_other_sessions_confirmation: 'คุณแน่ใจหรือว่าต้องการดําเนินการต่อ? การดําเนินการนี้ไม่สามารถยกเลิกได้'
+      title: ความปลอดภัย
+    settings:
+      account_heading: บัญชี
+      notify_by_web_heading: เว็บ
+      notify_discussion_renamed_label: มีคนเปลี่ยนชื่อการสนทนาที่ฉันเริ่ม
+      privacy_disclose_online_label: อนุญาตให้ผู้อื่นเห็นเมื่อฉันออนไลน์
+      privacy_heading: ความเป็นส่วนตัว
+      change_email_button: เปลี่ยนอีเมล
+      change_password_button: เปลี่ยนรหัสผ่าน
+      notifications_heading: 'แจ้ง เตือน'
+      notify_by_email_heading: อีเมล
+      title: การตั้งค่า
+    sign_up:
+      log_in_text: 'มีบัญชีอยู่แล้ว? <a>เข้าสู่ระบบ</a>'
+      dismiss_button: 'ตกลง, ได้'
+      email_placeholder: อีเมล
+      password_placeholder: รหัสผ่าน
+      submit_button: ไซน์อัพ
+      title: ไซน์อัพ
+      username_placeholder: ชื่อผู้ใช้
+    user:
+      avatar_upload_button: อัปโหลด
+      avatar_upload_tooltip: อัปโหลดอวาตาร์ใหม่
+      online_text: ออนไลน์
+      posts_empty_text: ดูเหมือนว่าจะไม่มีการโพสต์ที่นี่
+      avatar_remove_button: ถอด
+      discussions_link: สนทนา
+      posts_link: โพสต์
+      posts_load_more_button: โหลดเพิ่ม
+      security_link: ความปลอดภัย
+      settings_link: การตั้งค่า
+    user_controls:
+      button: ควบคุม
+      delete_confirmation: 'คุณแน่ใจหรือไม่ว่าต้องการลบผู้ใช้รายนี้ โพสต์ของผู้ใช้จะไม่ถูกลบ'
+      toggle_dropdown_accessible_label: สลับเมนูแบบเลื่อนลงการควบคุมของผู้ใช้
+      delete_button: ลบ
+      edit_button: แก้ไข
+    user_email_confirmation:
+      resend_button: ส่งอีเมลยืนยันอีกครั้ง
+      sent_message: ส่ง
+    welcome_hero:
+      hide: ซ่อนข้อความต้อนรับ
+    badge:
+      frontpage_tooltip: 'ทําเครื่องหมายเป็น FrontPage'
+  lib:
+    debug_button: ดีบัก
+    alert:
+      dismiss_a11y_label: ปิดการแจ้งเตือน
+    badge:
+      hidden_tooltip: ซ่อน
+    dropdown:
+      toggle_dropdown_accessible_label: สลับเมนูแบบเลื่อนลง
+    edit_user:
+      activate_button: เปิดใช้งานผู้ใช้
+      groups_heading: กลุ่ม
+      set_password_label: ตั้งรหัสผ่านใหม่
+      nothing_available: คุณไม่ได้รับอนุญาตให้แก้ไขผู้ใช้รายนี้
+      email_heading: อีเมล
+      email_label: อีเมล
+      password_heading: รหัสผ่าน
+      password_label: รหัสผ่าน
+      submit_button: บันทึกการเปลี่ยนแปลง
+      title: แก้ไขผู้ใช้
+      username_heading: ชื่อผู้ใช้
+      username_label: ชื่อผู้ใช้
+    error:
+      generic_message: 'อ๊ะ! มีบางอย่างผิดพลาด โปรดโหลดหน้านี้ซ้ําแล้วลองอีกครั้ง'
+      generic_cross_origin_message: 'อ๊ะ! มีบางอย่างผิดพลาดระหว่างการร้องขอข้ามต้นทาง โปรดโหลดหน้านี้ซ้ําแล้วลองอีกครั้ง'
+      not_found_message: ไม่พบทรัพยากรที่ร้องขอ
+      payload_too_large_message: เพย์โหลดคําขอมีขนาดใหญ่เกินไป
+      permission_denied_message: คุณไม่ได้รับอนุญาตให้ทําเช่นนั้น
+      rate_limit_exceeded_message: 'คุณกําลังไปเร็วเกินไปเล็กน้อย โปรดลองอีกครั้งในไม่กี่วินาที'
+      render_failed_message: 'ขออภัย เราพบข้อผิดพลาดขณะแสดงเนื้อหานี้ หากคุณเป็นผู้ใช้ โปรดลองอีกครั้งในภายหลัง หากคุณเป็นผู้ดูแลระบบ โปรดดูข้อมูลเพิ่มเติมในไฟล์บันทึก Flarum ของคุณ'
+    modal:
+      close: ปิด
+    nav:
+      drawer_button: เปิดลิ้นชักการนําทาง
+    loading_indicator:
+      accessible_label: 'การโหลด   '
+  views:
+    confirm_email:
+      text: คลิกปุ่มด้านล่างเพื่อยืนยันอีเมลของบัญชีของคุณ
+      submit_button: ยืนยันอีเมล
+      title: ยืนยันอีเมล
+    content:
+      javascript_disabled_message: 'ไซต์นี้แสดงผลได้ดีที่สุดในเบราว์เซอร์สมัยใหม่ที่เปิดใช้งาน JavaScript'
+      load_error_message: 'มีบางอย่างผิดพลาดขณะพยายามโหลดเวอร์ชันเต็มของไซต์นี้ ลองรีเฟรชหน้านี้อย่างหนักเพื่อแก้ไขข้อผิดพลาด'
+      loading_text: 'การโหลด   '
+    error:
+      csrf_token_mismatch: คุณไม่ได้ใช้งานนานเกินไป
+      csrf_token_mismatch_return_link: ย้อนกลับไปเพื่อลองอีกครั้ง
+      invalid_confirmation_token: ลิงก์ยืนยันนี้ถูกใช้ไปแล้วหรือไม่ถูกต้อง
+      not_authenticated: 'คุณไม่ได้รับอนุญาตให้เข้าถึงหน้านี้ ลองอีกครั้งหลังจากเข้าสู่ระบบ'
+      not_found: ไม่พบหน้าที่คุณร้องขอ
+      permission_denied: คุณไม่ได้รับอนุญาตให้เข้าถึงหน้านี้
+      unknown: เกิดข้อผิดพลาดขณะพยายามโหลดหน้านี้
+    log_out:
+      log_out_button: ออกจากระบบ
+      title: ออกจากระบบ
+    reset_password:
+      confirm_password_label: ยืนยันรหัสผ่านใหม่
+      new_password_label: รหัสผ่านใหม่
+      submit_button: บันทึกการเปลี่ยนแปลง
+      title: รีเซ็ตรหัสผ่านของคุณ
+    discussion:
+      next_page_button: หน้าถัดไป
+      previous_page_button: หน้าก่อนหน้า
+    index:
+      all_discussions_heading: กระทู้สนทนา
+      next_page_button: หน้าถัดไป
+      previous_page_button: หน้าก่อนหน้า
+  api:
+    invalid_username_message: 'ชื่อผู้ใช้ต้องมีตัวอักษร ตัวเลข และขีดกลางเท่านั้น'
+  email:
+    activate_account:
+      subject: เปิดใช้งานบัญชีใหม่ของคุณ
+    confirm_email:
+      subject: ยืนยันที่อยู่อีเมลใหม่ของคุณ
+    reset_password:
+      subject: รีเซ็ตรหัสผ่านของคุณ
+    send_test:
+      subject: 'การทดสอบอีเมล Flarum'
+  ref:
+    all_discussions: กระทู้สนทนา
+    change_email: เปลี่ยนอีเมล
+    change_password: เปลี่ยนรหัสผ่าน
+    color: สี
+    confirm_password: ยืนยันรหัสผ่าน
+    confirm_email: ยืนยันอีเมล
+    custom_footer_text: 'เพิ่ม HTML ที่จะแสดงที่ด้านล่างสุดของหน้า'
+    custom_footer_title: แก้ไขส่วนท้ายที่กําหนดเอง
+    custom_header_text: 'เพิ่ม HTML ที่จะแสดงที่ด้านบนสุดของหน้าเหนือส่วนหัวของ Flarum'
+    custom_header_title: แก้ไขส่วนหัวที่กําหนดเอง
+    delete: ลบ
+    delete_forever: ลบตลอดไป
+    discussions: สนทนา
+    edit: แก้ไข
+    edit_user: แก้ไขผู้ใช้
+    email: อีเมล
+    extensions: 'นาม สกุล'
+    generic_confirmation_message: 'คุณแน่ใจหรือว่าต้องการดําเนินการต่อ? การดําเนินการนี้ไม่สามารถยกเลิกได้'
+    icon: ไอคอน
+    load_more: โหลดเพิ่ม
+    loading: 'การโหลด   '
+    log_in: เข้าสู่ระบบ
+    log_out: ออกจากระบบ
+    mark_all_as_read: ทําเครื่องหมายทั้งหมดว่าอ่านแล้ว
+    never: ไม่เคย
+    new_token: โทเค็นใหม่
+    next_page: หน้าถัดไป
+    notifications: 'แจ้ง เตือน'
+    okay: 'ตกลง, ได้'
+    password: รหัสผ่าน
+    posts: โพสต์
+    previous_page: หน้าก่อนหน้า
+    remove: ถอด
+    rename: ตั้งชื่อใหม่
+    reply: ตอบ
+    reset_your_password: รีเซ็ตรหัสผ่านของคุณ
+    restore: ซ่อมแซม
+    save_changes: บันทึกการเปลี่ยนแปลง
+    search_users: ค้นหาผู้ใช้
+    security: ความปลอดภัย
+    settings: การตั้งค่า
+    sign_up: ไซน์อัพ
+    start_a_discussion: เริ่มการสนทนา
+    username: ชื่อผู้ใช้
+    users: คน
+    view: ทิวทัศน์
+    write_a_reply: เขียนตอบกลับ...
+    you: ท่าน
+  group:
+    admin: ผู้ดูแลระบบ
+    admins: ผู้ดูแลระบบ
+    guest: แขก
+    guests: ท่าน
+    member: สมาชิก
+    members: สมาชิก
+    mod: ลักษณะ
+    mods: 'วัย รุ่น'
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: แท็กทั้งหมด
+      meta_title_text: แท็ก
+    choose_tags:
+      title: เลือกแท็กสําหรับการสนทนาของคุณ
+    discussion_controls:
+      edit_tags_button: แก้ไขแท็ก
+    header:
+      back_to_tags_tooltip: กลับไปที่รายการแท็ก
+    index:
+      more_link: 'อีก   '
+      untagged_link: ไม่ได้ติดแท็ก
+      tags_link: แท็ก
+    composer_discussion:
+      choose_tags_link: เลือกแท็ก
+  lib:
+    deleted_tag_text: ลบ
+    tag_selection_modal:
+      bypass_requirements: ข้อกําหนดแท็กบายพาส
+      submit_button: 'ตกลง, ได้'
+      title: เลือกแท็ก
+  ref:
+    choose_tags: เลือกแท็ก
+    name: ชื่อ
+    tags: แท็ก
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'กล่าวถึงผู้ใช้ กลุ่ม หรือโพสต์'
+    mentioned_by:
+      title: ตอบกลับโพสต์นี้
+      load_more_button: โหลดเพิ่ม
+    post:
+      quote_button: อ้าง
+      reply_link: ตอบ
+      you_text: ท่าน
+    settings:
+      notify_post_mentioned_label: มีคนตอบกลับหนึ่งในโพสต์ของฉัน
+      notify_user_mentioned_label: มีคนพูดถึงฉันในโพสต์
+      notify_group_mentioned_label: มีคนพูดถึงกลุ่มที่ฉันเป็นสมาชิกในโพสต์
+    user:
+      mentions_link: กล่าวถึง
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: เลิกติดตาม
+      unignore_button: อันเซอร์
+      follow_button: ตาม
+    settings:
+      follow_after_reply_label: ติดตามการสนทนาที่ฉันตอบกลับโดยอัตโนมัติ
+      notify_for_all_posts_label: แจ้งเตือนเกี่ยวกับโพสต์ใหม่ทุกโพสต์แทนที่จะเป็นโพสต์สุดท้ายในการสนทนา
+      notify_new_post_label: มีคนโพสต์ในการสนทนาที่ฉันกําลังติดตาม
+    sub_controls:
+      following_text: รับการแจ้งเตือนของการตอบกลับทั้งหมด
+      ignoring_text: 'ไม่เคยได้รับแจ้ง ซ่อนจากรายการการสนทนา'
+      not_following_button: ไม่ติดตาม
+      not_following_text: 'รับการแจ้งเตือนเมื่อ@mentioned เท่านั้น'
+      notify_alert_tooltip: รับการแจ้งเตือนฟอรัมเมื่อมีโพสต์ใหม่
+      notify_email_tooltip: รับอีเมลเมื่อมีโพสต์ใหม่
+      follow_button: ตาม
+      following_button: ถัดไป
+      ignoring_button: ละเว้น
+    badge:
+      following_tooltip: ถัดไป
+      ignoring_tooltip: ละเว้น
+    following:
+      meta_title_text: ถัดไป
+    index:
+      following_link: ถัดไป
+  ref:
+    follow: ตาม
+    following: ถัดไป
+    ignoring: ละเว้น
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'ขอบคุณสําหรับการปักธงโพสต์นี้ ผู้ดูแลของเราจะตรวจสอบ'
+      reason_inappropriate_label: ไม่เหมาะ
+      reason_inappropriate_text: 'โพสต์นี้เป็นที่น่ารังเกียจ ไม่เหมาะสม หรือละเมิด<a>หลักเกณฑ์ของชุมชน</a>ของเรา'
+      reason_missing_message: โปรดระบุรายละเอียดบางอย่างสําหรับผู้ดูแลของเรา
+      reason_off_topic_label: นอกเรื่อง
+      reason_off_topic_text: โพสต์นี้ไม่เกี่ยวข้องกับการสนทนาในปัจจุบันและควรย้ายไปที่อื่น
+      reason_other_label: 'อื่นๆ (โปรดระบุ)'
+      reason_spam_label: สแปม
+      reason_spam_text: โพสต์นี้เป็นโฆษณา
+      dismiss_button: 'ตกลง, ได้'
+      submit_button: 'ธง Post'
+      title: 'ธง Post'
+    flagged_posts:
+      empty_text: ไม่มีธง
+      title: โพสต์ที่ถูกตั้งค่าสถานะ
+      tooltip: โพสต์ที่ถูกตั้งค่าสถานะ
+    post:
+      dismiss_flag_button: ยกเลิกธง
+    post_controls:
+      flag_button: ธง
+  ref:
+    flag_post: 'ธง Post'
+    flagged_posts: โพสต์ที่ถูกตั้งค่าสถานะ
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: คุณถูกระงับอย่างไม่มีกําหนด
+      user_unsuspended_text: คุณถูกระงับ
+    suspension_info:
+      dismiss_button: ไล่ออก
+      indefinite: นี่คือการระงับอย่างไม่มีกําหนด
+      title: บัญชีนี้ถูกระงับ
+    suspend_user:
+      display_message: แสดงข้อความสําหรับผู้ใช้
+      indefinitely_label: ถูกระงับอย่างไม่มีกําหนด
+      limited_time_days_text: ' วัน'
+      limited_time_label: ถูกระงับในระยะเวลาจํากัด...
+      not_suspended_label: ไม่ถูกระงับ
+      placeholder_optional: เสริม
+      reason: เหตุผลในการระงับ
+      status_heading: สถานะการระงับ
+      submit_button: บันทึกการเปลี่ยนแปลง
+    user_badge:
+      suspended_tooltip: ระงับ
+    user_controls:
+      suspend_button: ห้อย
+  email:
+    no_reason_given: ไม่มีการระบุเหตุผลสําหรับการระงับนี้
+    suspended:
+      subject: บัญชีของคุณถูกระงับ
+    unsuspended:
+      subject: บัญชีของคุณถูกระงับ
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: ไฟล์ทั้งหมดที่อัปโหลดโดยผู้ใช้, anonymize_description: 'ลบการอ้างอิงผู้ใช้ออกจากไฟล์ที่อัปโหลด ไฟล์ยังคงสามารถเข้าถึงได้โดยผู้ใช้ที่สามารถดูได้ก่อนการปกปิดตัวตน', delete_description: ลบไฟล์ทั้งหมดที่อัปโหลดโดยผู้ใช้ }
+      tagsubscription: { export_description: 'ส่งออกรายละเอียดของระดับการสมัครใช้งานสําหรับแท็ก (ถ้ามี)', anonymize_description: ลบการสมัครใช้งานของผู้ใช้ไปยังแท็ก }
+      followuser: { export_description: ส่งออกรายละเอียดของผู้ใช้ที่ติดตามและผู้ใช้ที่ติดตาม, delete_description: ลบข้อมูลทั้งหมดที่เกี่ยวข้องกับผู้ใช้ต่อไปนี้, anonymize_description: ลบข้อมูลทั้งหมดที่เกี่ยวข้องกับผู้ใช้ต่อไปนี้ }
+      bannedipdata: { export_description: 'หากบันทึกการแบน IP เชื่อมโยงกับผู้ใช้ (เช่น ผู้ใช้ถูกแบนโดย IP) ที่อยู่ IP ของผู้ใช้จะรวมอยู่ในการส่งออก พร้อมกับเหตุผลในการแบนและวันที่สร้าง', anonymize_description: 'ที่อยู่ IP ใด ๆ ที่เชื่อมโยงกับผู้ใช้จะถูกแยกออกจากกัน แต่ IP นั้นจะยังคงถูกแบนพร้อมกับเหตุผล ตรวจสอบให้แน่ใจว่าไม่มีข้อมูล PII ถูกเก็บไว้ในฟิลด์ ''เหตุผล''' }
+fof-upload:
+  forum:
+    media_manager: ผู้จัดการสื่อ
+    buttons:
+      attach: ติด
+      upload: อัปโหลด
+      upload_shared: แชร์
+      user_uploads: ผู้ใช้อัปโหลด
+      cancel: ยกเลิก
+      media: สื่อของฉัน
+      shared_media: สื่อที่ใช้ร่วมกัน
+    states:
+      error: ความผิดพลาด
+      loading: 'อัป โหลด'
+      unauthorized: คุณไม่ได้รับอนุญาตให้ดาวน์โหลดไฟล์
+    text_preview:
+      expand: ขยายการแสดงตัวอย่าง
+      collapse: ยุบตัวอย่าง
+      error: "เกิดข้อผิดพลาดในการดูตัวอย่างไฟล์ อาจถูกลบไปแล้ว หรือ ID ไฟล์ที่ให้ไว้ไม่ถูกต้อง\n"
+      no_snippet_preview: '<ตัวอย่างจะปรากฏที่นี่หลังจากโพสต์>'
+      no_snippet: '<ไม่มีข้อมูลโค้ดตัวอย่าง>'
+  api:
+    upload_errors:
+      forbidden_type: ไม่อนุญาตให้อัปโหลดไฟล์ประเภทนี้
+      could_not_detect_mime: 'ตรวจไม่พบประเภท MIME ของไฟล์นี้ โปรดลองอีกครั้ง'
+      max_upload_file_size_ini: 'อัปโหลดถึงขีดจํากัดขนาดไฟล์สูงสุดตั้งแต่ php.ini'
+      max_upload_file_size_form: อัปโหลดขีดจํากัดขนาดไฟล์สูงสุดจากแบบฟอร์ม
+      partial_upload: อัปโหลดบางส่วน
+      no_file_uploaded: ไม่มีการอัปโหลดไฟล์
+      no_upload_tmp_folder: 'ไม่มีโฟลเดอร์ tmp สําหรับการอัปโหลดไฟล์'
+      cannot_write_to_disk: ไม่สามารถเขียนลงดิสก์
+      upload_blocked_by_php_extension: 'ส่วนขยาย php บล็อกการอัปโหลด'
+  lib:
+    upload-shared-file-modal:
+      title: ไฟล์ที่แชร์ใหม่
+      dropzone: ลากและวางไฟล์ที่นี่หรือคลิกเพื่อเรียกดู
+      hide-from-media-gallery: ซ่อนจากแกลเลอรีสื่อของผู้ใช้
+      upload: อัปโหลด
+    file_list:
+      loading: กําลังโหลดไฟล์...
+      empty: ไม่มีไฟล์ที่จะแสดง
+      release_to_upload: ปล่อยเพื่ออัปโหลด
+      modal_empty_desktop: 'รายการไฟล์ของคุณว่างเปล่า คลิกปุ่มหรือลากไฟล์ที่นี่เพื่ออัปโหลด'
+      modal_empty_phone: 'รายการไฟล์ของคุณว่างเปล่า แตะปุ่มด้านบนเพื่ออัปโหลดไฟล์'
+      load_more_files_btn: โหลดไฟล์เพิ่มเติม
+      hide_file: { hide_success: ไฟล์ที่ซ่อนอยู่, show_success: ไฟล์ที่แสดง, loading: กําลังซ่อนไฟล์... }
+      hide_shared_file: { hide_success: ไฟล์ทําเป็นส่วนตัว, show_success: ไฟล์เผยแพร่สู่สาธารณะ, loading: ทําให้ไฟล์เป็นส่วนตัว... }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: เขียน
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: เพิ่มข้อความตัวหนา
+      code_tooltip: ใส่โค้ด
+      header_tooltip: เพิ่มข้อความส่วนหัว
+      image_tooltip: เพิ่มรูปภาพ
+      italic_tooltip: เพิ่มข้อความตัวเอียง
+      link_tooltip: เพิ่มลิงก์
+      ordered_list_tooltip: เพิ่มรายการลําดับเลข
+      quote_tooltip: แทรกใบเสนอราคา
+      spoiler_tooltip: ใส่สปอยล์
+      strikethrough_tooltip: เพิ่มข้อความขีดทับ
+      unordered_list_tooltip: เพิ่มรายการสัญลักษณ์แสดงหัวข้อย่อย
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: มีคนสร้างการสนทนาในแท็กที่ฉันกําลังติดตาม
+      notify_new_post_label: มีคนโพสต์ในแท็กที่ฉันกําลังติดตาม
+      notify_new_discussion_tag_label: มีคนแท็กการสนทนาอีกครั้งไปยังแท็กที่ฉันกําลังติดตาม
+    index:
+      follow_tag_button: ตาม
+      unfollow_tag_button: หยุดติดตาม
+      following: { following_none_label: การสนทนาที่ติดตาม, following_tags_label: แท็กที่ติดตาม }
+    badge:
+      following_tag_tooltip: ถัดไป
+      lurking_tag_tooltip: ซุ่มซ่อน
+    sub_controls:
+      following_text: รับการแจ้งเตือนการอภิปรายใหม่ทั้งหมด
+      hiding_text: ซ่อนการสนทนาจากหน้าการสนทนาทั้งหมด
+      ignoring_text: ไม่เคยได้รับแจ้ง
+      lurking_text: รับการแจ้งเตือนการสนทนาและการตอบกลับใหม่ทั้งหมด
+      not_following_button: ไม่ติดตาม
+      not_following_text: 'รับการแจ้งเตือนเมื่อ@mentioned เท่านั้น'
+      notify_alert_tooltip: รับการแจ้งเตือนฟอรัมเมื่อมีการสนทนาหรือโพสต์ใหม่
+      notify_email_tooltip: รับอีเมลเมื่อมีการสนทนาหรือโพสต์ใหม่
+      submit_button: ยืนยันการสมัครสมาชิก
+      follow_button: ตาม
+      following_button: ถัดไป
+      hiding_button: การซ่อน
+      ignoring_button: ละเว้น
+      lurking_button: ซุ่มซ่อน
+    user:
+      settings: { heading: ติดตามแท็ก, filter_label: สิ่งที่จะแสดงตามค่าเริ่มต้นในหน้าต่อไปนี้ }
+  ref:
+    follow: ตาม
+    following: ถัดไป
+    hiding: การซ่อน
+    ignoring: ละเว้น
+    lurking: ซุ่มซ่อน
+    filtering_options:
+      none: การสนทนาที่ติดตาม
+      tags: แท็กที่ติดตาม
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'ชื่อเล่นนี้ไม่ถูกต้อง โปรดติดต่อผู้ดูแลฟอรัมของคุณสําหรับข้อมูลเพิ่มเติมเกี่ยวกับกฎชื่อเล่น'
+  ref:
+    change_nickname: เปลี่ยนชื่อเล่น
+    nickname: ชื่อเล่น
+  forum:
+    change_nickname:
+      submit_button: บันทึกการเปลี่ยนแปลง
+      title: เปลี่ยนชื่อเล่น
+    edit_user:
+      nicknames_heading: เปลี่ยนชื่อเล่น
+      nicknames_text: ชื่อเล่น
+    settings:
+      change_nickname_button: เปลี่ยนชื่อเล่น
+    sign_up:
+      nickname_placeholder: ชื่อเล่น
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: บัญชีที่เชื่อมโยง, last-used-label: ใช้ล่าสุด, link-created-label: สร้างลิงก์แล้ว, orphaned-account: 'คุณได้ลงชื่อเข้าใช้ผ่านผู้ให้บริการนี้ก่อนหน้านี้ แต่ฟอรั่มนี้ได้ปิดใช้งานการลงชื่อเข้าใช้ด้วยวิธีนี้ตั้งแต่นั้นเป็นต้นมา', help: บัญชีที่เชื่อมโยงเหล่านี้อนุญาตให้คุณลงชื่อเข้าใช้ฟอรัมโดยใช้ผู้ให้บริการรายอื่น } }
+    signup:
+      username_help: โปรดเลือกชื่อผู้ใช้ที่จะเป็นที่รู้จักที่นี่
+    unlink: ลบลิงก์
+    error:
+      bad_verification_code: 'โทเค็นการยืนยันไม่ถูกต้องหรือหมดอายุ โปรดลองอีกครั้ง'
+      invalid_state: 'สถานะไม่ถูกต้อง โปรดลองอีกครั้ง'
+    providers:
+      discord: ความบาดหมาง
+      facebook: เฟซบุ๊ก
+      github: จีทฮับ
+      gitlab: จีทแล็บ
+      google: กูเกิล
+      linkedin: LinkedIn
+      twitter: ทวิตเตอร์
+  lib:
+    providers:
+      discord: ความบาดหมาง
+      facebook: เฟซบุ๊ก
+      github: จีทฮับ
+      gitlab: จีทแล็บ
+      twitter: ทวิตเตอร์
+      google: กูเกิล
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: รหัสแอป
+      app_secret: ความลับของแอป
+      client_id: รหัสลูกค้า
+      client_secret: ความลับของลูกค้า
+fof-impersonate:
+  forum:
+    modal:
+      title: เข้าสู่ระบบในฐานะผู้ใช้รายอื่น
+      placeholder_optional: '(ไม่บังคับ) ระบุเหตุผลในการเปลี่ยนไปใช้ผู้ใช้รายนี้'
+      placeholder_required: คุณต้องระบุเหตุผลในการเปลี่ยนไปใช้ผู้ใช้รายนี้ก่อนดําเนินการต่อ
+    user_controls:
+      impersonate_button: เข้าสู่ระบบในฐานะผู้ใช้
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: การสนทนาส่วนตัว }
+    buttons:
+      add_recipients: รับ
+      submit: 'ตกลง, ได้'
+      edit_recipients: แก้ไขผู้รับ
+      cancel: ยกเลิก
+      make_public: ทําให้การสนทนานี้เป็นสาธารณะ
+      remove_from_discussion: ฝากการสนทนาส่วนตัวนี้
+    composer_private_discussion:
+      submit_button: โพสต์การสนทนาส่วนตัว
+      title_placeholder: หัวข้อสนทนาส่วนตัว
+    confirm:
+      make_public: คุณแน่ใจหรือไม่ว่าต้องการลบผู้รับและทําให้ทุกคนที่สามารถดูแท็กที่กําหนดเห็นการสนทนานี้ได้
+    nav:
+      start_button: พูดคุยเป็นการส่วนตัว
+      nav_item: การสนทนาส่วนตัว
+    input:
+      search_recipients: ค้นหาผู้รับโดยพิมพ์อักขระสามตัวแรก...
+    search:
+      headings: { groups: กลุ่มสิทธิ์ }
+    modal:
+      titles: { add_recipients: เพิ่มผู้รับในการสนทนาของคุณ }
+      labels: { selected_users: ผู้ใช้ที่เลือก, search_field: ค้นหาผู้ใช้ }
+      help: { add_recipients: 'การสนทนานี้จะปรากฏต่อผู้ใช้ที่คุณเลือกที่นี่เท่านั้น ต้องมีผู้รับอย่างน้อย 1 คน (นอกเหนือจากตัวคุณเอง)', update_recipients: การสนทนานี้จะปรากฏต่อผู้ใช้ที่คุณเลือกที่นี่เท่านั้น, selected_users: คลิกชื่อผู้ใช้เพื่อลบออก, click_user_to_remove_tooltip: คลิกเพื่อลบ }
+    user:
+      settings: { block_pd: บล็อกการสนทนาส่วนตัว }
+      byobu_link: การสนทนาส่วนตัว
+      dropdown_label: การสนทนาส่วนตัว
+    notifications:
+      pd_label: มีคนรวมฉันไว้ในการสนทนาส่วนตัวใหม่
+      pd_reply_label: มีคนโพสต์ในการสนทนาส่วนตัวที่ฉันเป็นผู้รับ
+      pd_user_left_label: ผู้ใช้ผู้รับออกจากการสนทนาส่วนตัวที่ฉันเป็นส่วนหนึ่งของ
+      pd_added_label: มีคนเพิ่มฉันในการสนทนาส่วนตัวที่มีอยู่
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: ข้อมูลป้าย
+    all_badges: ดูป้ายทั้งหมด
+    all_users: ดูผู้ใช้ทั้งหมด
+    give_badge: มอบป้าย
+    update_badge: ป้ายอัปเดต
+    select_badge: เลือกป้าย
+    user_has_badge: ผู้ใช้มีป้ายนี้อยู่แล้ว
+    user_no_badges: 'ผู้ใช้รายนี้ยังไม่มีป้ายใด ๆ'
+    no_received: ไม่มีผู้ใช้รายใดได้รับป้ายนี้
+    save_changes: บันทึกการเปลี่ยนแปลง
+    badge:
+      badge: สัญลักษณ์
+      badges: ป้าย
+      name: ชื่อป้าย
+      description: คําอธิบายป้าย
+      earning_reason: เหตุผลในการรับป้าย
+      update_earning_reason: อัปเดตเหตุผลด้านรายได้
+      no_earning_reason: ไม่มีการกําหนดเหตุผลด้านรายได้
+      earned_on: ป้ายที่ได้รับเมื่อ
+      category: หมวดหมู่ป้าย
+      badge_details: รายละเอียดป้าย
+    badges_in_card:
+      title: ป้ายในบัตรผู้ใช้
+      manage_badges: จัดการป้าย
+      description: 'คุณสามารถเปลี่ยนป้ายที่มองเห็นได้ในบัตรผู้ใช้ของคุณด้วยป้ายอื่นของคุณ หากคุณไม่เลือกรายการใด ๆ พวกเขาจะถูกเลือกโดยอัตโนมัติ'
+    moderation:
+      remove_badge: นําป้ายออกจากผู้ใช้
+      remove_badge_confirm: คุณแน่ใจหรือไม่ว่าต้องการลบป้ายนี้ออกจากผู้ใช้รายนี้
+      give_badge: มอบป้าย
+    notification:
+      title: คุณได้รับป้ายใหม่แล้ว
+      settings: ฉันได้รับป้ายแล้ว
+    uncategorized: ไม่มีหมวดหมู่
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: สถานะที่น่าสังเวช
+      not_miserable_label: ไม่ทุกข์
+      indefinitely_label: อนาถไปเรื่อยๆ
+      limited_time_label: อนาถใจในระยะเวลาจํากัด...
+      limited_time_days_text: ' วัน'
+      submit_button: บันทึกการเปลี่ยนแปลง
+    user_badge:
+      miserable_user_tooltip: ผู้ใช้ที่น่าสังเวช
+    user_controls:
+      miserable_user_button: ผู้ใช้ที่น่าสังเวช
+  ref:
+    miserable_user: ผู้ใช้ที่น่าสังเวช
+sycho-profile-cover:
+  forum:
+    cover: คลุม
+    edit_cover: แก้ไขหน้าปก
+    added:
+      success: อัปเดตหน้าปกโปรไฟล์แล้ว
+      error: ไม่สามารถอัปโหลดรูปภาพได้
+    removed:
+      success: ฝาครอบโปรไฟล์ถูกถอดออก
+      error: ไม่สามารถถอดฝาครอบออกได้ลองอีกครั้งในภายหลัง
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: คัดลอกลงคลิปบอร์ด
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: ผู้เข้าชมล่าสุด, guest: แขก }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: รหัสประเทศ
+    saveButton: ประหยัด
+    clickToSelectCountry: เลือกประเทศของคุณ
+    countrySaved: บันทึกประเทศสําเร็จ!
+    field_placeholder: ยืนยันธงประเทศ
+    binding_country: 'เราพบว่าคุณไม่ได้ผูกมัดที่อยู่ของคุณ โปรดเชื่อมโยงประเทศของคุณก่อน คุณสามารถโพสต์และฝากข้อความได้หลังจากเชื่อมโยงประเทศของคุณแล้วเท่านั้น'
+    binding_country_click: คลิกเลย
+username-blacklist:
+  forum:
+    modal-title: คำเตือน!
+    modal-body-first-line: 'คําเตือน - ชื่อผู้ใช้นี้<strong>ถูกบล็อกโดยผู้ดูแลระบบ</strong>'
+    modal-body-second-line: โปรดเลือกชื่อผู้ใช้อื่นที่ไม่ละเมิดหลักเกณฑ์ของชุมชนแล้วลองอีกครั้ง
+  admin:
+    blackList: ชื่อผู้ใช้ที่ขึ้นบัญชีดํา
+    blackList-help: 'เขียนชื่อผู้ใช้ที่คุณต้องการบล็อกระหว่างการลงทะเบียนที่นี่ (คั่นด้วยเครื่องหมายจุลภาค)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: เรื่องย่อ, show-summaries: 'แสดงข้อความที่ตัดตอนมาจากการสนทนาแต่ละรายการในรายการอภิปราย (เดสก์ท็อป/แท็บเล็ต)', show-summaries-mobile: 'แสดงข้อความที่ตัดตอนมาจากการสนทนาแต่ละรายการในรายการการสนทนา (มือถือ)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: กิจกรรมในฟอรัม
+      forum_new_discussions: การอภิปรายใหม่ของฟอรัม
+      discussion_last_posts: การอภิปรายครั้งนี้
+      user_last_posts: โพสต์และความคิดเห็นโดยผู้ใช้รายนี้
+    feeds:
+      titles: { main_subtitle: โพสต์ล่าสุดในฟอรั่ม, main_d_subtitle: การสนทนาใหม่ล่าสุดในฟอรั่ม, discussion_subtitle: ข้อความสุดท้ายในการสนทนานี้, user_subtitle: โพสต์ล่าสุดและความคิดเห็นโดยผู้ใช้รายนี้ }
+    discussion:
+      feed_link: เลี้ยง
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: ตาม
+    profile_page:
+      no_following: ดูเหมือนว่าคุณไม่ได้ติดตามใคร
+    settings:
+      notify_new_follower_label: มีคนติดตามฉัน
+      notify_new_unfollower_label: มีคนหยุดติดตามฉัน
+      notify_new_discussion_label: คนที่ฉันกําลังติดตามเริ่มการสนทนา
+      notify_new_post_label: คนที่ฉันกําลังติดตามโพสต์ในการสนทนาที่มีอยู่
+      block_follow: ป้องกันไม่ให้ผู้ใช้ติดตามฉัน
+    badge:
+      label: { follow: หลังจากการอภิปราย, lurk: ติดตามทั้งหมด }
+    filter:
+      following: ผู้ใช้ที่ติดตาม
+    modals:
+      select_follow_level: { follow_levels_heading: ติดตามระดับ, follow_select_label: ประเภทติดตาม, no_user_attr_provided_err: 'เอ่อ มีบางอย่างผิดพลาดขณะเปิดกิริยานี้', no_user_attr_provided_err_debug: 'ไม่มีการส่งผ่านแอตทริบิวต์ ''ผู้ใช้'' ไปยังโมดอล SelectFollowUserLevel เมื่อสร้าง ไม่สามารถแสดงผลโมดอลได้', save_btn: ประหยัด, cancel_btn: ยกเลิก }
+    profile_link: ผู้ใช้ที่ติดตาม
+    user_controls:
+      follow_button: ตาม
+      unfollow_button: เลิกติดตาม
+      change_button: เปลี่ยนประเภทการติดตาม
+    index:
+      follow_tag_button: ตาม
+      unfollow_tag_button: เปลี่ยนประเภทการติดตาม
+  email:
+    new_follower_subject: '[ติดตามผู้ใช้] คุณมีผู้ติดตามใหม่!'
+  lib:
+    following_link: ผู้ใช้ที่ติดตาม
+    follow: ตาม
+    change_follow_type: เปลี่ยนประเภทการติดตาม
+    unfollow: เลิกติดตาม
+    follow_levels:
+      unfollow: { name: อย่าติดตาม }
+      follow: { name: ติดตามการสนทนา }
+      lurk: { name: ติดตามทั้งหมด }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: โปรดตรวจสอบให้แน่ใจว่าการขอเปลี่ยนชื่อเล่นนี้เป็นไปตามหลักเกณฑ์ของฟอรัม, decision_title: การตัดสินใจ, approval_label: อนุมัติ, rejected_label: ปฏิเสธ, submit_button: ส่ง, reason_title: เหตุผลในการปฏิเสธ, success: ส่งคําตัดสินแล้ว, title: คําขอเปลี่ยนชื่อเล่น }
+      results: { title: คําขอเปลี่ยนชื่อเล่น, approved: คําขอเปลี่ยนชื่อเล่นของคุณได้รับการอนุมัติแล้ว, rejected: คําขอเปลี่ยนชื่อเล่นของคุณถูกปฏิเสธ, resubmit: 'ในขณะนี้ คุณสามารถส่งคําขอเปลี่ยนชื่อเล่นใหม่ได้จากการตั้งค่าบัญชีของคุณหากคุณเลือก', dismiss_button: 'ตกลง, ได้' }
+      request: { title: ขอเปลี่ยนชื่อเล่น, submit_button: ส่งคําร้องขอ, delete_button: ลบคําขอ, confirmation_message: ส่งคําขอเปลี่ยนชื่อเล่นของคุณแล้วและอยู่ระหว่างรอการอนุมัติ, deleted: ลบคําขอชื่อเล่นแล้ว, dismiss_button: 'ตกลง, ได้' }
+    username_modals:
+      action: { help_text: โปรดตรวจสอบให้แน่ใจว่าการเปลี่ยนแปลงชื่อผู้ใช้ที่ร้องขอนี้เป็นไปตามหลักเกณฑ์ของฟอรัม, decision_title: การตัดสินใจ, approval_label: อนุมัติ, rejected_label: ปฏิเสธ, submit_button: ส่ง, reason_title: เหตุผลในการปฏิเสธ, success: ส่งคําตัดสินแล้ว, title: คําขอเปลี่ยนชื่อผู้ใช้ }
+      results: { title: คําขอเปลี่ยนชื่อผู้ใช้, approved: คําขอเปลี่ยนชื่อผู้ใช้ของคุณได้รับการอนุมัติแล้ว, rejected: คําขอเปลี่ยนชื่อผู้ใช้ของคุณถูกปฏิเสธ, resubmit: 'ในขณะนี้ คุณสามารถส่งคําขอเปลี่ยนชื่อผู้ใช้ใหม่อีกครั้งจากการตั้งค่าบัญชีของคุณหากคุณเลือก', dismiss_button: 'ตกลง, ได้' }
+      request: { title: ขอเปลี่ยนชื่อผู้ใช้, submit_button: ส่งคําร้องขอ, delete_button: ลบคําขอ, confirmation_message: ส่งคําขอเปลี่ยนชื่อผู้ใช้ของคุณแล้วและอยู่ระหว่างรอการอนุมัติ, deleted: คําขอชื่อผู้ใช้ถูกลบ, dismiss_button: 'ตกลง, ได้' }
+    pending_requests:
+      empty_text: ไม่พบคําขอเปลี่ยนชื่อ
+      tooltip: คําขอเปลี่ยนชื่อ
+      title: คําขอเปลี่ยนชื่อ
+    settings:
+      nickname_request_button: เปลี่ยนชื่อเล่น
+      username_request_button: เปลี่ยนชื่อผู้ใช้
+    user:
+      name_history_link: ประวัติชื่อ
+  ref:
+    name_change_request: คําขอเปลี่ยนชื่อ
+    name_change_requests: คําขอเปลี่ยนชื่อ
+    nickname_change_request: คําขอเปลี่ยนชื่อเล่น
+    nickname_change_requests: คําขอเปลี่ยนชื่อเล่น
+    username_change_request: คําขอเปลี่ยนชื่อผู้ใช้
+    username_change_requests: คําขอเปลี่ยนชื่อผู้ใช้
+  email:
+    body:
+      noReasonProvided: ไม่มีเหตุผลให้
+fof-user-bio:
+  forum:
+    userbioPlaceholder: เขียนบางอย่างเกี่ยวกับตัวคุณ
+    profile:
+      cancel_confirm: 'คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการแก้ไขประวัติของคุณ? คุณจะสูญเสียการเปลี่ยนแปลงใดๆ ที่คุณทําไป'
+      cancel_button: ยกเลิก
+      save_button: ประหยัด
+      edit_bio_label: แก้ไขประวัติ
+fof-split:
+  forum:
+    split:
+      from: แยกจากที่นี่
+      to: แยกไปที่นี่
+      cancel: ยกเลิกการแยก
+    modal:
+      title: แยกการสนทนา
+      new_discussion_label: ระบุชื่อเรื่องสําหรับการอภิปรายใหม่
+      submit_button: ผ่า
+fof-socialprofile:
+  forum:
+    edit:
+      edit: แก้ไขปุ่มโซเชียลมีเดียของคุณ
+      add: เพิ่มปุ่มลงในโซเชียลมีเดียของคุณ
+      headtitle: ปุ่มแก้ไข
+      title: ชื่อเรื่อง
+      url: เว็ปไซต์
+      submit: ประหยัด
+      delete: ลบ
+      deletetitle: ปุ่มลบ
+      save_disabled_fetching_favicons: 'กําลังดึงไอคอนอย่างน้อยหนึ่งไอคอน กรุณารอสักครู่ '
+      favicon: ฟาวิคอน
+      grey_favicon: 'Favicon สีเทา'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: ใช้ร่วมกัน
+      share_dropdown_accessible_label: สลับเมนูดรอปดาวน์การแชร์การสนทนา
+    modal:
+      title: ใช้ร่วมกัน
+      copy_button: ลอก
+  lib:
+    networks:
+      facebook: เฟซบุ๊ก
+      twitter: ทวิตเตอร์
+      linkedin: LinkedIn
+      reddit: เรดดิท
+      whatsapp: วอทส์แอพพ์
+      telegram: โทรเลข
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: โลกของฉัน
+      qq: คิวคิว
+      qzone: คิวโซน
+      native: แชร์เนทีฟ
+fof-recaptcha:
+  forum:
+    error: 'เกิดข้อผิดพลาดในการส่ง reCAPTCHA ลองอีกครั้ง '
+    unknown_error: 'เกิดข้อผิดพลาดที่ไม่รู้จัก ตรวจสอบแคปต์ชาแล้วลองอีกครั้ง'
+fof-reactions:
+  forum:
+    disabled-reaction: 'คุณไม่สามารถใช้ปฏิกิริยานี้ได้ในขณะนี้ โปรดรีเฟรชหน้า'
+    warning: ปฏิกิริยาของคุณถูกแปลง
+    settings:
+      notify_post_reacted_label: มีคนตอบสนองต่อหนึ่งในโพสต์ของฉัน
+    reacting-own-post: คุณไม่สามารถแสดงความรู้สึกต่อโพสต์ของคุณเองได้
+    modal:
+      title: ปฏิกิริยา
+      no_reactions: ยังไม่มีปฏิกิริยาใดๆ
+    mod_item: ดูปฏิกิริยา
+    react_button_label: ตอบสนอง
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: โหลดตัวครอบตัดรูปภาพไม่สําเร็จ, generic_resize: มีบางอย่างผิดพลาดขณะครอบตัดและปรับขนาดรูปภาพ, get_image_data: 'ไม่สามารถครอบตัดได้ ตรวจสอบให้แน่ใจว่าการป้องกันลายนิ้วมือของเบราว์เซอร์ของคุณถูกปิดใช้งาน' }
+      help_text: "การอัปโหลดรูปภาพอาจล้มเหลวหากการตั้งค่าความเป็นส่วนตัวของเบราว์เซอร์ของคุณเข้มงวดมาก หากคุณประสบปัญหา ให้ลองปิดใช้งานการป้องกันลายนิ้วมือ มิฉะนั้น คุณสามารถ<disableResize>ปิดใช้งานการบีบอัดรูปภาพที่ครอบตัด</disableResize>หรือ<disableCrop>ปิดใช้งานการครอบตัดทั้งหมด</disableCrop>ได้\n"
+      submit_button: อัปโหลด
+      submit_crop_button: ครอบตัดและอัปโหลด
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: มีความเป็นไปได้สูงว่าไม่จําเป็นต้องมีการอภิปรายเพิ่มเติมและทําให้การกระแทกไม่มีจุดประสงค์, checkbox_label: 'ฉันทราบว่าการสนทนานี้ค่อนข้างเก่า แต่ก็ยังต้องการตอบกลับ', error: การสนทนานี้เก่าเกินไปที่จะตอบกลับ }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: คุณไม่ได้รับอนุญาตให้ลงคะแนน
+    poll_ended: โพลนี้สิ้นสุดลงแล้ว
+    public_poll: ดูผู้มีสิทธิเลือกตั้ง
+    composer_discussion:
+      add_poll: เพิ่มโพลล์
+      edit_poll: แก้ไขโพลล์
+    modal:
+      add_title: เพิ่มโพลล์
+      add_option_label: เพิ่มตัวเลือก
+      edit_title: แก้ไขโพลล์
+      include_question: คุณต้องใส่คําถาม
+      max: 'คุณสามารถมีคําตอบได้สูงสุด 10 คําตอบ'
+      min: 'คุณต้องใส่คําตอบอย่างน้อย 2 ข้อ'
+      no_voters: ไม่มีคะแนนโหวต
+      option_placeholder: ตอบ
+      image_option_placeholder: 'URL รูปภาพ (ไม่บังคับ)'
+      options_label: ตอบ
+      public_poll_label: อนุญาตให้ประชาชนเห็นว่าใครลงคะแนน
+      allow_multiple_votes_label: อนุญาตให้ผู้คนลงคะแนนได้หลายตัวเลือก
+      max_votes_label: คะแนนโหวตสูงสุดต่อผู้ใช้
+      max_votes_help: 'ตั้งค่าเป็น 0 เพื่อให้ผู้ใช้สามารถโหวตตัวเลือกทั้งหมดได้'
+      question_placeholder: ปัญหา
+      submit: ส่ง
+    moderation:
+      delete: ลบโพลล์
+      delete_confirm: คุณแน่ใจหรือไม่ว่าต้องการลบแบบสํารวจนี้
+      edit: แก้ไขโพลล์
+    tooltip:
+      badge: ออกเสียงลงคะแนน
+    votes_modal:
+      title: ผู้มีสิทธิเลือกตั้ง
+fof-nightmode:
+  ref:
+    auto: 'อัตโนมัติ (ขึ้นอยู่กับตัวเลือกเบราว์เซอร์หรืออุปกรณ์)'
+    light: โหมดกลางวัน
+    dark: โหมดกลางคืน
+  forum:
+    header:
+      nightmode_button: โหมดกลางคืน
+    user:
+      settings: { heading: หัวข้อ, description: เลือกธีมสีที่คุณต้องการใช้ในฟอรัม, description2: 'ชุดรูปแบบนี้จะเชื่อมโยงกับบัญชีของคุณและใช้กับอุปกรณ์ทั้งหมดของคุณ เว้นแต่คุณจะเปิดสวิตช์ด้านล่างสําหรับการตั้งค่าต่ออุปกรณ์', device_specific_setting_checkbox: ใช้การตั้งค่าต่ออุปกรณ์, device_specific_setting_checkbox_tooltip: ตัวเลือกธีมของคุณจะถูกบันทึกแยกกันสําหรับแต่ละอุปกรณ์ของคุณ, auto_unsupported: เบราว์เซอร์ของคุณไม่รองรับโหมดมืดอัตโนมัติ, option_descriptions: { auto: 'ธีมของคุณจะถูกเลือกโดยอัตโนมัติตามการตั้งค่าเบราว์เซอร์หรืออุปกรณ์ของคุณ ตัวอย่างเช่นหากคุณเปิดใช้งานโหมดมืดใน iOS ฟอรัมก็จะมืดเช่นกัน', day: 'ประสบการณ์คลาสสิกที่คุณคุ้นเคย รักและทดสอบ', night: 'คุณเป็นนกฮูกกลางคืนนิดหน่อย คุณเฝ้าดูฟอรัมในเวลากลางคืนในขณะที่นกกําลังนอนหลับและสุนัขจิ้งจอกกําลังล่าสัตว์ หรือคุณแค่ชอบสีเข้มกว่า!' }, options: { auto: 'อัตโนมัติ (ขึ้นอยู่กับตัวเลือกเบราว์เซอร์หรืออุปกรณ์)', day: โหมดกลางวัน, night: โหมดกลางคืน } }
+    day: โหมดกลางวัน
+    night: โหมดกลางคืน
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: ไม่อนุญาตให้ใช้โน้ตเปล่า
+    moderatorNotes:
+      add_button: บันทึกใหม่
+      create-heading: สร้างบันทึกผู้ดูแลใหม่
+      dismiss_button: เสร็จแล้ว
+      noNotes: ดูเหมือนว่าไม่มีบันทึกที่นี่
+      submit_button: บันทึกโน้ต
+      delete: ลบ
+      confirm: 'คุณแน่ใจหรือว่าต้องการลบบันทึกนี้?'
+    user:
+      notes: หมายเหตุของผู้ดูแล
+  api:
+    no_reason_provided: ไม่มีเหตุผลให้
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: โหวต
+    vote_title: แสดงว่าใครโหวต
+    nav:
+      name: การจัดอันดับ
+    ranking:
+      rank: ที่
+      name: ผู้ใช้
+      amount: แต้ม
+    notification:
+      prefrences: { vote: 'เมื่อหนึ่งในโพสต์ของฉันได้รับการโหวตขึ้น / ลง' }
+    user:
+      votes_link: โหวต
+    modal:
+      downvotes_label: 'ผู้ลงคะแนนเสียง:'
+      title: ผู้มีสิทธิเลือกตั้ง
+      upvotes_label: 'ผู้มีสิทธิเลือกตั้ง:'
+    mod_item: ดูผู้มีสิทธิเลือกตั้ง
+    voters:
+      none: ยังไม่มีผู้มีสิทธิเลือกตั้ง
+      label: ผู้มีสิทธิเลือกตั้ง
+      label_none: ไม่มีผู้มีสิทธิเลือกตั้ง
+    post:
+      upvote_button: โหวตโพสต์
+      downvote_button: โพสต์โหวตลง
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: ขณะนี้แบบร่างที่กําหนดเวลาไว้ถูกปิดใช้งานในการตั้งค่า
+  ref:
+    schedule_draft: ร่างกําหนดการ
+  forum:
+    composer:
+      title: บันทึกร่าง
+      saving: 'การประหยัด   '
+      saved: บันทึก!
+      exit_alert: 'ยกเลิกการเปลี่ยนแปลงร่าง?'
+      discard_empty_draft_alert: 'ทิ้งร่างเปล่า?'
+    dropdown:
+      empty_text: คุณยังไม่ได้บันทึกฉบับร่างใดๆ
+      title: ร่าง
+      delete_all_button: ลบฉบับร่างทั้งหมด
+      delete_button: ลบฉบับร่าง
+      scheduled_icon_tooltip_formatter: 'L [ที่] LT'
+      alert: คุณแน่ใจหรือไม่ว่าต้องการลบฉบับร่างของคุณ
+      delete_all_alert: คุณแน่ใจหรือไม่ว่าต้องการลบแบบร่างทั้งหมดของคุณ
+      schedule_button: ร่างกําหนดการ
+      tooltip: ร่าง
+    schedule_draft_modal:
+      text: กําหนดเวลาให้ฉบับร่างของคุณโพสต์โดยอัตโนมัติในภายหลัง!
+      unschedule_button: ยกเลิกกําหนดการ
+      unschedule_warning: คุณแน่ใจหรือไม่ว่าต้องการยกเลิกกําหนดการร่างนี้
+      reschedule_button: เปลี่ยนวันเดินทาง
+      schedule_button: ตาราง
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: วันที่และเวลาไม่ถูกต้อง
+      title: ร่างกําหนดการ
+    user:
+      settings: { drafts_heading: ร่าง, draft_autosave_enable: เปิดใช้งานการบันทึกอัตโนมัติแบบร่างหรือไม่, draft_autosave_interval_label: 'ช่วงเวลาบันทึกอัตโนมัติ (วินาที)', draft_autosave_interval_button: ช่วงเวลาการอัปเดต, draft_autosave_interval_invalid: 'ช่วงเวลาต้องเป็นจํานวนเต็มที่มากกว่า 4' }
+fof-best-answer:
+  forum:
+    answered_badge: ตอบ
+    this_best_answer: เลือกคําตอบที่ดีที่สุด
+    remove_best_answer: ยกเลิกการเลือกคําตอบที่ดีที่สุด
+    best_answer_button: คําตอบที่ดีที่สุด
+    errors:
+      mismatch: โพสต์ที่เลือกไม่มีอยู่ในการสนทนานี้
+    notification:
+      content: 'โปรดเลือก a Best Answer ถ้าคําถามของคุณได้รับคําตอบแล้ว'
+      preferences: { awarded_best_answer: มีคนตั้งโพสต์ของฉันเป็นคําตอบที่ดีที่สุด, best_answer_in_discussion: คําตอบที่ดีที่สุดกําหนดไว้ในการสนทนาที่ฉันเข้าร่วม, select_best_answer: การแจ้งเตือนอัตโนมัติเพื่อเลือกคําตอบที่ดีที่สุดในการสนทนาที่ฉันเริ่ม }
+    index:
+      ask_question: ถามคําถาม
+      cannot_ask_question: ไม่สามารถถามคําถามได้
+      solved_link: แก้ไขการสนทนา
+      unsolved_link: การอภิปรายที่ยังไม่คลี่คลาย
+    filter:
+      all_label: คําถามทั้งหมด
+      solved_label: คําถามที่แก้ไขแล้ว
+      unsolved_label: คําถามที่ยังไม่แก้
+      accessible_label: การเลือกที่แก้ไขแล้ว/ไม่ได้รับการแก้ไข
+    composer:
+      titlePlaceholder: กระทู้คําถาม
+    search:
+      discussions_solutions_heading: การสนทนาพร้อมวิธีแก้ปัญหา
+    discussion:
+      jump_to_best_answer_button: แสดงคําตอบที่ดีที่สุด
+  email:
+    subject:
+      select: คุณตอบคําถามมาหรือยัง
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: คําตอบที่ดีที่สุด
+      least_best_answers: คําตอบที่ดีที่สุดน้อยที่สุด
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: ไม่มีใครจะถูกแบน
+    user_badge:
+      banned_tooltip: ห้าม
+    ban_ip_button: 'แบน IP'
+    unban_ip_button: 'เลิกแบน IP'
+    user_controls:
+      ban_button: ห้าม
+      unban_button: เลิกแบน
+  error:
+    banned_ip_message: การอนุญาตล้มเหลว
+    no_ips_found_message: 'ไม่พบ IP สําหรับผู้ใช้'
+  lib:
+    modal:
+      check_button: ตรวจ
+      save_button: ประหยัด
+      ban_ip_confirmation: 'คุณแน่ใจหรือไม่ว่าต้องการบล็อกที่อยู่ IP นี้ไม่ให้ใช้งานในฟอรัม การดําเนินการนี้จะบล็อกผู้ใช้ที่มีที่อยู่ IP นี้ไม่ให้เข้าสู่ระบบและลงทะเบียน'
+      unban_ip_confirmation: 'คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการแบนผู้ใช้รายนี้และผู้ใช้รายอื่นทั้งหมดที่ไม่ได้ถูกแบนโดย IP อื่น'
+      unban_ip_no_users: ไม่มีใครจะถูกปลดแบน
+      title: 'แบน IP'
+      unban_title: 'เลิกแบน IP'
+      address_label: 'ที่อยู่ IP'
+      reason_label: เหตุผล
+      ban_button: ห้าม
+      unban_button: เลิกแบน
+  ref:
+    ban_label: ห้าม
+    ban_ip_addresses: 'แบน IP'
+    ban_ip_button: 'แบน IP'
+    unban_label: เลิกแบน
+    unban_ip_addresses: 'เลิกแบน IP'
+    unban_ip_button: 'เลิกแบน IP'
+    address_label: 'ที่อยู่ IP'
+    reason_label: เหตุผล
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'พบรายละเอียดการลงทะเบียนของคุณในฐานข้อมูลการป้องกันสแปม ดังนั้นการลงทะเบียนของคุณจึงถูกบล็อก' }
+    spammer_modal:
+      hard_delete_discussions_label: ลบการสนทนา
+      hard_delete_discussions_help: 'การดําเนินการนี้จะลบการสนทนาทั้งหมดที่เริ่มต้นโดยผู้ใช้รายนี้อย่างถาวร เมื่อปิดใช้งานการสนทนาจะถูกซ่อนไว้แทน'
+      hard_delete_posts_label: ลบโพสต์
+      hard_delete_posts_help: 'การดําเนินการนี้จะลบโพสต์ทั้งหมด (ความคิดเห็น การตอบกลับ ฯลฯ) ที่ทําโดยผู้ใช้รายนี้อย่างถาวร เมื่อปิดใช้งานโพสต์จะถูกซ่อนแทน'
+      hard_delete_user_label: ลบผู้ใช้
+      hard_delete_user_help: 'การดําเนินการนี้จะลบผู้ใช้อย่างถาวร เมื่อปิดใช้งานผู้ใช้จะถูกระงับแทน'
+      intro: 'เมื่อทําเครื่องหมายผู้ใช้ว่าเป็นผู้ส่งอีเมลขยะ จะมีการดําเนินการหลายอย่าง ซึ่งขึ้นอยู่กับส่วนขยายที่มีอยู่ในฟอรัมของคุณ'
+      move_discussions_tag_label: ย้ายการสนทนาไปยังแท็กกักกัน
+      move_discussions_tag_help: 'การดําเนินการนี้จะย้ายการสนทนาทั้งหมดที่เริ่มต้นโดยผู้ใช้รายนี้ไปยังแท็กที่คุณระบุไว้ในการตั้งค่าฟอรัม เมื่อปิดใช้งานการสนทนาจะถูกทิ้งไว้ในแท็กปัจจุบัน'
+      process_button: แปรรูป
+      report_to_sfs_label: 'รายงานไปยัง StopForumSpam'
+      report_to_sfs_help: 'การดําเนินการนี้จะรายงานรายละเอียดพื้นฐานของผู้ใช้ (ชื่อผู้ใช้ อีเมล ที่อยู่ IP) ไปยัง StopForumSpam วิธีนี้จะช่วยป้องกันไม่ให้ผู้ใช้ลงทะเบียนในฟอรัมอื่นที่ใช้บริการ StopForumSpam'
+    user_controls:
+      spammer_button: สแปมเมอร์
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: รีเซ็ตจํานวนการดูการสนทนา
+      submit: ส่ง
+      label: ตั้งค่าเป็นจํานวนการดู
+    discussion_controls:
+      resetviews_button: ตั้งค่าจํานวนการดู
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: ไม่เหนียวเหนอะหนะ
+      sticky_button: เหนียว
+    badge:
+      sticky_tooltip: เหนียว
+  ref:
+    sticky: เหนียว
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: ล็อค
+    discussion_controls:
+      lock_button: กุญแจ
+      unlock_button: ไขกุญแจ
+    settings:
+      notify_discussion_locked_label: มีคนล็อคการสนทนาที่ฉันเริ่ม
+flarum-likes:
+  forum:
+    post:
+      like_link: ชอบ
+      unlike_link: ไม่เหมือน
+      you_text: ท่าน
+    post_likes:
+      title: ผู้ใช้ที่ชอบสิ่งนี้
+      load_more_button: โหลดเพิ่ม
+    settings:
+      notify_post_liked_label: มีคนชอบหนึ่งในโพสต์ของฉัน
+    user:
+      likes_link: ชอบ
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: แทรกอิโมจิ
+      type_to_search_text: พิมพ์เพื่อค้นหาอีโมจิ
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'เนื้อหาของคุณมีขนาดใหญ่เกินไป โปรดอ่านหลักเกณฑ์ในการโพสต์ของเรา' }
+dhtml-persona:
+  forum:
+    persona: คน
+dhtml-leaderboard:
+  forum:
+    leaderboard: ลีดเดอร์บอร์ด
+dhtml-gender:
+  forum:
+    male: ชาย
+    female: หญิง
+    other: ไม่ต้องการพูด
+    inputGender: เพศ
+    saveButton: ประหยัด
+    clickToSelectGender: เลือกเพศของคุณ
+    genderSaved: บันทึกเพศสําเร็จ!
+    field_placeholder: ยืนยันเพศ
+    binding_gender: 'เราพบว่าคุณไม่ได้กําหนดเพศของคุณ โปรดระบุเพศของคุณก่อน คุณสามารถโพสต์และฝากข้อความได้หลังจากตั้งค่าเพศของคุณแล้วเท่านั้น'
+    binding_gender_click: คลิกเลย
+flarum-content-pages:
+  forum:
+    home: บ้าน
+    about-us: เกี่ยวกับเรา
+    guidelines: 'คำ แนะ นำ'
+    privacy-policy: นโยบายความเป็นส่วนตัว
+    terms-of-use: เงื่อนไขการใช้งาน
+    contact-us: ติดต่อเรา
+    download-app: ดาวน์โหลดแอป
+    discord-chat: แชทที่ไม่ลงรอยกัน
+    tags-cloud: 'แท็ก เมฆ'
+    languages: ภาษา
+    leaderboard: ลีดเดอร์บอร์ด
+    live: สด
+    live-coding: เรียงต่อเนื่อง
+    challenges: ปัญหา
+    dev-challenges: 'ข้อ ท้าทาย'
+    jobs: งาน
+    community: ชุมชน
+    dev-jobs: 'เด วีส์'
+    job-posting: 'งาน โพสต์'
+    job-postings: 'งาน โพสต์'
+    workshops: 'โรง งาน'
+    dev-workshops: 'เด วีส์ ช็อป'
+    events: เหตุการณ์
+    conferences: 'การ ประชุม'
+    event-conferences: 'เหตุการณ์ / วาระ การ ประชุม'
+    showcase: แสดงตัวพิมพ์เล็ก
+    tags: แท็ก
+    more: เพิ่มเติม
+    memberships: สมาชิก
+    members: สมาชิก
+    general-discussion: อภิปรายทั่วไป
+    technology-articles: บทความเกี่ยวกับเทคโนโลยี
+    coding-challenges: 'ข้อ ท้าทาย ใน การ จัด การ'
+    q-a: 'ช่อง Q/A'
+    artificial-intelligence: ปัญญาประดิษฐ์
+    computer-science: วิทยาศาสตร์คอมพิวเตอร์
+    programming-languages: 'โปรแกรมภาษาต่าง ๆ'
+    development-tools: เครื่องมือพัฒนา
+    software-development: การพัฒนาซอฟต์แวร์
+    frontend-development: การพัฒนากองหน้า
+    backend-development: การพัฒนาโปรแกรมเบื้องหลัง
+    software-engineering: วิศวกรรมซอฟต์แวร์
+    cybersecurity: ความปลอดภัยแบบไซเบอร์
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: ตัวนับอักขระ
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: แก้ไขวันเดือนปีเกิด
+      date_of_birth_text: วันเกิด
+      submit_button: บันทึกการเปลี่ยนแปลง
+    settings:
+      change_dob_label: เปลี่ยนวันเดือนปีเกิด
+      show_dob_date_label: แสดงวันและเดือนเกิด
+      show_dob_year_label: แสดงปีเกิด
+      show_dob_year_help: วิธีนี้จะช่วยให้ผู้คนเห็นอายุของคุณ
+      dob_heading: วันเกิด
+    nav:
+      nav_item: วันเกิดวันนี้
+    edit_user:
+      dob_heading: วันเกิด
+    sign_up:
+      dob_placeholder: วันเกิด
+  api:
+    invalid_dob_message: วันเกิดไม่ถูกต้อง
+  ref:
+    date_of_birth: วันเกิด
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: ตัวเลือกอิโมจิ
+    search_placeholder: 'ค้น   '
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: แก้ไขผู้เขียนและวันที่
+    modal:
+      title-post: แก้ไขผู้เขียนโพสต์และวันที่
+      title-discussion: แก้ไขผู้เขียนการสนทนาและวันที่
+      user: ผู้แต่ง
+      created_at: เวลาในการสร้าง
+      edited_at: แก้ไขเวลา
+      sync-with-discussion: ซิงค์กับการสนทนา
+      sync-with-post: ซิงค์กับโพสต์แรก
+      sync-impossible: 'ไม่พบโพสต์แรก ลองเลื่อนไปที่จุดเริ่มต้นของการสนทนา'
+      submit: ประหยัด
+      cancel: ยกเลิก
+    search:
+      placeholder: ค้นหาผู้ใช้
+      type-more: 'พิมพ์อักขระ 3 ตัวเพื่อค้นหาฐานข้อมูล'
+      no-results: ไม่มีผลลัพธ์
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'สลับโหมด Rich Text'
+      insert_button: สอด
+      insert_image: { src_placeholder: ลิงก์, title_placeholder: ชื่อเรื่อง }
+      insert_link: { text_placeholder: ข้อความ, href_placeholder: เว็ปไซต์, title_placeholder: 'ชื่อเรื่อง (แสดงเมื่อโฮเวอร์)', remove_button: ถอด }
+      additional_items_tooltip: การควบคุมเพิ่มเติม
+      code_block_tooltip: แทรกบล็อกโค้ด
+      horizontal_rule_tooltip: แทรกกฎแนวนอน
+      image_tooltip: เพิ่มรูปภาพ
+      link_tooltip: เพิ่มลิงก์
+      spoiler_block_tooltip: บล็อกสปอยเลอร์/ดรอปดาวน์
+      strike_tooltip: ขีดฆ่า<alt-shift-5>
+      text_type_tooltip: เลือกประเภทข้อความ
+  forum:
+    settings:
+      composer_heading: นักแต่งเพลง
+      use_rich_text_editor_label: 'ใช้โปรแกรมแก้ไข Rich Text หรือไม่'
+      rich_text_compact_paragraphs_label: อย่าแยกย่อหน้าด้วยบรรทัดใหม่
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'คุณเปิดใช้งานการแจ้งเตือนแบบพุช แต่ไม่ได้กําหนดค่าอุปกรณ์นี้'
+      optin_button: กําหนดค่า
+    discussion_controls:
+      share_button: ใช้ร่วมกัน
+    post_controls:
+      share_button: ใช้ร่วมกัน
+    user_controls:
+      share_button: ใช้ร่วมกัน
+    settings:
+      push_header: ผลัก
+      pwa_notifications: { access_default: 'เนื่องจากข้อจํากัดของเบราว์เซอร์ คุณต้องเลือกรับการแจ้งเตือนแบบพุชบนอุปกรณ์นี้', access_default_button: เลือกเข้าร่วม, access_denied: คุณต้องปรับการตั้งค่าเบราว์เซอร์ของคุณเพื่อรับการแจ้งเตือนแบบพุชบนอุปกรณ์นี้, access_denied_button: ดูวิธีการ, no_browser_support: เบราว์เซอร์นี้ไม่รองรับการแจ้งเตือนแบบพุชสําหรับเว็บแอปแบบโปรเกรสซีฟ, no_browser_support_button: ศึกษาเพิ่มเติม }
+  views:
+    offline:
+      header: ข้อผิดพลาดในการเชื่อมต่อเครือข่าย
+      text: 'แอพนี้ต้องการการเชื่อมต่อเครือข่าย ไม่สามารถใช้แบบออฟไลน์ได้ โปรดตรวจสอบการเชื่อมต่อของคุณ'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: เตือนผู้ใช้
+    user:
+      warnings: คําเตือนของผู้ดูแล
+    settings:
+      warning_notification_label: ผู้ดูแลเตือนฉัน
+    validation:
+      public_comment_required: คุณให้ความคิดเห็นสาธารณะมากที่สุด
+      invalid_strike_count: 'จํานวนการประท้วงต้องเป็นจํานวนเต็มระหว่าง 0 ถึง 5'
+    warning_controls:
+      delete_button: ถอด
+      restore_button: ซ่อมแซม
+      delete_forever_button: ลบอย่างถาวร
+    warning_list:
+      add_button: คําเตือนใหม่
+      no_warnings: ดูเหมือนว่าจะไม่มีคําเตือนที่นี่
+      warnings_no_strikes: 'คําเตือนของผู้ดูแล: ไม่ได้รับการประท้วง'
+    warning_list_item:
+      public_comment: คำเตือน
+      private_comment: ความคิดเห็นที่มองเห็นได้ของผู้ดูแล
+      linked_post: โพสต์ที่เชื่อมโยง
+    warning_modal:
+      confirmation_message: 'คําเตือนของคุณได้รับการบันทึกแล้ว คุณอาจต้องรีเฟรชหน้าเพื่อดู'
+      strikes_heading: 'ควรใช้การประท้วงกี่ครั้ง?'
+      submit_button: บันทึกคําเตือน
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: แก้ไขเทมเพลตการตอบกลับ
+    reply_template:
+      title: แก้ไขเทมเพลตการตอบกลับ
+      submit_button: บันทึกเทมเพลตการตอบกลับ

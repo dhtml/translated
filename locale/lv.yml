@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Ievadītā parole ir nepareiza.'
+      confirm_password_placeholder: 'Apstipriniet paroli'
+      dismiss_button: LABI
+      submit_button: 'Saglabāt izmaiņas'
+      title: 'Mainīt e-pastu'
+    change_password:
+      send_button: 'Nosūtīt paroles atiestatīšanas e-pastu'
+      text: 'Noklikšķiniet uz pogas zemāk un pārbaudiet, vai e-pastā ir saite, lai mainītu paroli.'
+      title: 'Mainīt paroli'
+    composer:
+      close_tooltip: Aizvērt
+      exit_full_screen_tooltip: 'Iziet no pilnekrāna režīma'
+      full_screen_tooltip: Pilnekrāna
+      minimize_tooltip: Minimizēt
+      preview_tooltip: Priekšskatījums
+    composer_discussion:
+      body_placeholder: 'Uzrakstiet ziņu...'
+      discard_confirmation: 'Jūs neesat publicējis savu diskusiju. Vai vēlaties to izmest?'
+      submit_button: 'Izlikt diskusiju'
+      title_placeholder: 'Diskusijas nosaukums'
+      title: 'Diskusijas sākšana'
+    composer_edit:
+      discard_confirmation: 'Jūs neesat saglabājis veiktās izmaiņas. Vai vēlaties tos izmest?'
+      edited_message: 'Jūsu labojums tika veikts.'
+      submit_button: 'Saglabāt izmaiņas'
+      view_button: Skats
+    composer_reply:
+      discard_confirmation: 'Jūs neesat publicējis savu atbildi. Vai vēlaties to izmest?'
+      posted_message: 'Jūsu atbilde tika publicēta.'
+      submit_button: 'Publicēt atbildi'
+      body_placeholder: 'Uzrakstiet atbildi...'
+      view_button: Skats
+    discussion_controls:
+      cannot_reply_button: 'Nevar atbildēt'
+      cannot_reply_text: 'Jums nav atļaujas atbildēt uz šo diskusiju.'
+      delete_confirmation: 'Vai tiešām vēlaties izdzēst šo diskusiju?'
+      log_in_to_reply_button: 'Piesakieties, lai atbildētu'
+      toggle_dropdown_accessible_label: 'Nolaižamā izvēlne Pārslēgt diskusiju darbības'
+      delete_button: Dzēst
+      delete_forever_button: 'Dzēst uz visiem laikiem'
+      rename_button: Pārdēvēt
+      reply_button: Atbildi
+      restore_button: Atjaunot
+    discussion_list:
+      empty_text: 'Izskatās, ka šeit nav diskusiju.'
+      load_more_button: 'Ielādēt vairāk'
+    forgot_password:
+      email_sent_message: 'Ja jūsu ievadītais e-pasts ir reģistrēts šajā vietnē, mēs nosūtīsim jums e-pastu, kurā ir saite, lai atjaunotu savu paroli. Pārbaudiet jūsu surogātpasta mapi, ja jūs nesaņemat to nākamajā vai otrajā minūtē.'
+      not_found_message: 'Šajā e-pasta adresē nav reģistrēts neviens lietotājs.'
+      submit_button: 'Atgūt paroli'
+      text: 'Ievadiet savu e-pasta adresi, un mēs jums nosūtīsim saiti, lai atiestatītu paroli.'
+      title: 'Aizmirsta parole'
+      dismiss_button: LABI
+      email_placeholder: 'E- pasts'
+    header:
+      admin_button: Lietošana
+      back_to_index_tooltip: 'Atpakaļ uz diskusiju sarakstu'
+      locale_dropdown_accessible_label: 'Mainīt foruma lokalizāciju'
+      profile_button: Profilu
+      search_clear_button_accessible_label: 'Notīrīt meklēšanas vaicājumu'
+      search_placeholder: 'Meklēšanas forums'
+      search_role_label: 'Meklēšanas forums'
+      session_dropdown_accessible_label: 'Nolaižamā izvēlne Pārslēgt sesijas opcijas'
+      log_in_link: Pieteikties
+      log_out_button: Atteikties
+      settings_button: Iestatījumus
+      sign_up_link: Piedalīties
+    index:
+      cannot_start_discussion_button: 'Nevar sākt diskusiju'
+      mark_all_as_read_confirmation: 'Vai tiešām vēlaties atzīmēt visas diskusijas kā lasītas?'
+      refresh_tooltip: Atsvaidzināt
+      toggle_sidenav_dropdown_accessible_label: 'Pārslēgt navigācijas nolaižamo izvēlni'
+      all_discussions_link: 'Visas diskusijas'
+      mark_all_as_read_tooltip: 'Atzīmēt visus kā lasītus'
+      meta_title_text: 'Visas diskusijas'
+      start_discussion_button: 'Diskusijas sākšana'
+    index_sort:
+      latest_button: Jaunāko
+      newest_button: Jaunākās
+      oldest_button: Vecākā
+      relevance_button: Atbilstību
+      toggle_dropdown_accessible_label: 'Diskusiju saraksta kārtošanas maiņa'
+      top_button: Augša
+      hot_button: Trending
+      votes_button: Upvotes
+      front_button: FrontPage
+      popular_button: Populārs
+      unpopular_button: Nepopulārs
+    log_in:
+      forgot_password_link: 'Aizmirsāt paroli?'
+      invalid_login_message: 'Jūsu pieteikšanās dati bija nepareizi.'
+      remember_me_label: 'Atceries mani'
+      sign_up_text: 'Vai jums nav konta? <a>piedalīties</a>'
+      username_or_email_placeholder: 'Lietotājvārds vai e-pasts'
+      password_placeholder: Parole
+      submit_button: Pieteikties
+      title: Pieteikties
+    notifications:
+      delete_all_confirm: 'Vai tiešām vēlaties izdzēst visus paziņojumus? Šī darbība nav atsaucama'
+      delete_all_tooltip: 'Dzēst visus paziņojumus'
+      empty_text: 'Nav paziņojumu'
+      mark_as_read_tooltip: 'Atzīmēt kā lasītu'
+      toggle_dropdown_accessible_label: 'Paziņojumu skatīšana'
+      mark_all_as_read_tooltip: 'Atzīmēt visus kā lasītus'
+      title: Paziņojumus
+      tooltip: Paziņojumus
+    post:
+      edited_text: Rediģēt
+    post_controls:
+      delete_confirmation: 'Vai tiešām vēlaties izdzēst šo ziņu uz visiem laikiem? Šo darbību nevar atsaukt.'
+      hide_confirmation: 'Vai tiešām vēlaties izdzēst šo ziņu?'
+      toggle_dropdown_accessible_label: 'Nolaižamā izvēlne Pārslēgt ziņu vadīklas'
+      push_to_front_button: 'Stumt uz FrontPage'
+      pull_from_front_button: 'Izvelciet no FrontPage'
+      delete_button: Dzēst
+      delete_forever_button: 'Dzēst uz visiem laikiem'
+      edit_button: Rediģēt
+      restore_button: Atjaunot
+    post_scrubber:
+      now_link: Tūlīt
+      original_post_link: 'Sākotnējā ziņa'
+    post_stream:
+      load_more_button: 'Ielādēt vairāk'
+      reply_placeholder: 'Uzrakstiet atbildi...'
+    rename_discussion:
+      title: 'Pārdēvēt diskusiju'
+      submit_button: Pārdēvēt
+    search:
+      discussions_heading: Diskusijas
+      users_heading: Lietotājiem
+    security:
+      cannot_terminate_current_session: 'Nevar pārtraukt pašreizējo aktīvo sesiju. Tā vietā izrakstieties.'
+      created: Izveidots
+      current_active_session: 'Pašreizējā aktīvā sesija'
+      developer_tokens_heading: 'Izstrādātāju žetoni'
+      empty_text: 'Izskatās, ka šeit nav ko redzēt.'
+      global_logout: { heading: 'Globālā atteikšanās', help_text: 'Notīra pašreizējo sīkfailu sesiju, pārtrauc visas sesijas, atsauc izstrādātāja pilnvaras un anulē visus e-pasta apstiprinājuma vai paroles atiestatīšanas e-pasta ziņojumus.', log_out_button: Atteikties }
+      hide_access_token: 'Slēpt marķieri'
+      last_activity: 'Pēdējā darbība'
+      new_access_token_modal: { submit_button: 'Izveidojiet marķieri', title_placeholder: Nosaukums, title: 'Jauns marķieris' }
+      revoke_access_token: Atsaukt
+      sessions_heading: 'Aktīvās sesijas'
+      session_termination_failed: 'Pārtraucot sesijas, radās kļūda.'
+      show_access_token: 'Skatīt marķieri'
+      terminate_all_other_sessions: 'Visu pārējo sesiju pārtraukšana'
+      terminate_session: Pārtraukt
+      token_revoked: 'Marķieris atsaukts.'
+      token_title_placeholder: /
+      never: Nekad
+      new_access_token_button: 'Jauns marķieris'
+      revoke_access_token_confirmation: 'Vai tiešām vēlaties turpināt? Šo darbību nevar atsaukt.'
+      terminate_all_other_sessions_confirmation: 'Vai tiešām vēlaties turpināt? Šo darbību nevar atsaukt.'
+      title: Drošība
+    settings:
+      account_heading: Konts
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Kāds pārdēvē manis sākto diskusiju'
+      privacy_disclose_online_label: 'Atļauja citiem redzēt, kad esmu tiešsaistē'
+      privacy_heading: Konfidencialitātes
+      change_email_button: 'Mainīt e-pastu'
+      change_password_button: 'Mainīt paroli'
+      notifications_heading: Paziņojumus
+      notify_by_email_heading: 'E- pasts'
+      title: Iestatījumus
+    sign_up:
+      log_in_text: 'Vai jums jau ir konts? <a>pieteikties</a>'
+      dismiss_button: LABI
+      email_placeholder: 'E- pasts'
+      password_placeholder: Parole
+      submit_button: Piedalīties
+      title: Piedalīties
+      username_placeholder: Lietotājvārds
+    user:
+      avatar_upload_button: Augšupielādēt
+      avatar_upload_tooltip: 'Jauna iemiesojuma augšupielāde'
+      online_text: Online
+      posts_empty_text: 'Izskatās, ka šeit nav ziņu.'
+      avatar_remove_button: Noņemt
+      discussions_link: Diskusijas
+      posts_link: Posts
+      posts_load_more_button: 'Ielādēt vairāk'
+      security_link: Drošība
+      settings_link: Iestatījumus
+    user_controls:
+      button: Vadīklas
+      delete_confirmation: 'Vai tiešām vēlaties izdzēst šo lietotāju? Lietotāja ziņas NETIKS dzēstas.'
+      toggle_dropdown_accessible_label: 'Nolaižamā izvēlne Pārslēgt lietotāja vadīklas'
+      delete_button: Dzēst
+      edit_button: Rediģēt
+    user_email_confirmation:
+      resend_button: 'Atkārtoti nosūtīt apstiprinājuma e-pastu'
+      sent_message: Nosūtīts
+    welcome_hero:
+      hide: 'Paslēpt sveiciena ziņojumu'
+    badge:
+      frontpage_tooltip: 'Atzīmēts kā FrontPage'
+  lib:
+    debug_button: Atkļūdošanas
+    alert:
+      dismiss_a11y_label: 'Noraidīt brīdinājumu'
+    badge:
+      hidden_tooltip: Slēpts
+    dropdown:
+      toggle_dropdown_accessible_label: 'Nolaižamā izvēlne Pārslēgt'
+    edit_user:
+      activate_button: 'Aktivizēt lietotāju'
+      groups_heading: Grupas
+      set_password_label: 'Jaunas paroles iestatīšana'
+      nothing_available: 'Jums nav atļauts rediģēt šo lietotāju.'
+      email_heading: 'E- pasts'
+      email_label: 'E- pasts'
+      password_heading: Parole
+      password_label: Parole
+      submit_button: 'Saglabāt izmaiņas'
+      title: 'Rediģēt lietotāju'
+      username_heading: Lietotājvārds
+      username_label: Lietotājvārds
+    error:
+      generic_message: 'Ups! Kaut kas nogāja greizi. Lūdzu, atkārtoti ielādējiet lapu un mēģiniet vēlreiz.'
+      generic_cross_origin_message: 'Ups! Kaut kas nogāja greizi krustveida izcelsmes pieprasījuma laikā. Lūdzu, atkārtoti ielādējiet lapu un mēģiniet vēlreiz.'
+      not_found_message: 'Pieprasītais resurss netika atrasts.'
+      payload_too_large_message: 'Pieprasījuma lietderīgā slodze bija pārāk liela.'
+      permission_denied_message: 'Jums nav atļaujas to darīt.'
+      rate_limit_exceeded_message: 'Jūs ejat nedaudz par ātru. Lūdzu, pēc dažām sekundēm mēģiniet vēlreiz.'
+      render_failed_message: 'Atvainojiet, parādot šo saturu, mēs saskārāmies ar kļūdu. Ja esat lietotājs, lūdzu, vēlāk mēģiniet vēlreiz. Ja esat administrators, papildinformāciju skatiet savos Flarum žurnālfailos.'
+    modal:
+      close: Aizvērt
+    nav:
+      drawer_button: 'Atvērt navigācijas atvilktni'
+    loading_indicator:
+      accessible_label: Iekraušanas...
+  views:
+    confirm_email:
+      text: 'Noklikšķiniet uz tālāk redzamās pogas, lai apstiprinātu sava konta e-pastu.'
+      submit_button: 'Apstipriniet e-pastu'
+      title: 'Apstipriniet e-pastu'
+    content:
+      javascript_disabled_message: 'Šo vietni vislabāk var apskatīt modernā pārlūkprogrammā ar iespējotu JavaScript.'
+      load_error_message: 'Kaut kas nogāja greizi, mēģinot ielādēt šīs vietnes pilno versiju. Mēģiniet rūpīgi atsvaidzināt šo lapu, lai novērstu kļūdu.'
+      loading_text: Iekraušanas...
+    error:
+      csrf_token_mismatch: 'Jūs pārāk ilgi esat bijis neaktīvs.'
+      csrf_token_mismatch_return_link: 'Atgriezieties, lai mēģinātu vēlreiz'
+      invalid_confirmation_token: 'Šī apstiprinājuma saite jau ir izmantota vai nav derīga.'
+      not_authenticated: 'Jums nav atļaujas piekļūt šai lapai. Pēc pieteikšanās mēģiniet vēlreiz.'
+      not_found: 'Jūsu pieprasīto lapu nevarēja atrast.'
+      permission_denied: 'Jums nav atļaujas piekļūt šai lapai.'
+      unknown: 'Mēģinot ielādēt šo lapu, radās kļūda.'
+    log_out:
+      log_out_button: Atteikties
+      title: Atteikties
+    reset_password:
+      confirm_password_label: 'Apstipriniet jaunu paroli'
+      new_password_label: 'Jauna parole'
+      submit_button: 'Saglabāt izmaiņas'
+      title: 'Paroles atiestatīšana'
+    discussion:
+      next_page_button: 'Nākamā lappuse'
+      previous_page_button: 'Iepriekšējā lappuse'
+    index:
+      all_discussions_heading: 'Visas diskusijas'
+      next_page_button: 'Nākamā lappuse'
+      previous_page_button: 'Iepriekšējā lappuse'
+  api:
+    invalid_username_message: 'Lietotājvārdā drīkst būt tikai burti, cipari un domuzīmes.'
+  email:
+    activate_account:
+      subject: 'Aktivizējiet savu jauno kontu'
+    confirm_email:
+      subject: 'Apstipriniet savu jauno e-pasta adresi'
+    reset_password:
+      subject: 'Paroles atiestatīšana'
+    send_test:
+      subject: 'Flarum e-pasta pārbaude'
+  ref:
+    all_discussions: 'Visas diskusijas'
+    change_email: 'Mainīt e-pastu'
+    change_password: 'Mainīt paroli'
+    color: Krāsa
+    confirm_password: 'Apstipriniet paroli'
+    confirm_email: 'Apstipriniet e-pastu'
+    custom_footer_text: 'Pievienojiet HTML, lai tas tiktu parādīts pašā lapas apakšā.'
+    custom_footer_title: 'Pielāgotas kājenes rediģēšana'
+    custom_header_text: 'Pievienojiet HTML, lai tas tiktu parādīts pašā lapas augšdaļā, virs paša Flarum galvenes.'
+    custom_header_title: 'Pielāgotas galvenes rediģēšana'
+    delete: Dzēst
+    delete_forever: 'Dzēst uz visiem laikiem'
+    discussions: Diskusijas
+    edit: Rediģēt
+    edit_user: 'Rediģēt lietotāju'
+    email: 'E- pasts'
+    extensions: Paplašinājumi
+    generic_confirmation_message: 'Vai tiešām vēlaties turpināt? Šo darbību nevar atsaukt.'
+    icon: Ikona
+    load_more: 'Ielādēt vairāk'
+    loading: Iekraušanas...
+    log_in: Pieteikties
+    log_out: Atteikties
+    mark_all_as_read: 'Atzīmēt visus kā lasītus'
+    never: Nekad
+    new_token: 'Jauns marķieris'
+    next_page: 'Nākamā lappuse'
+    notifications: Paziņojumus
+    okay: LABI
+    password: Parole
+    posts: Posts
+    previous_page: 'Iepriekšējā lappuse'
+    remove: Noņemt
+    rename: Pārdēvēt
+    reply: Atbildi
+    reset_your_password: 'Paroles atiestatīšana'
+    restore: Atjaunot
+    save_changes: 'Saglabāt izmaiņas'
+    search_users: 'Lietotāju meklēšana'
+    security: Drošība
+    settings: Iestatījumus
+    sign_up: Piedalīties
+    start_a_discussion: 'Diskusijas sākšana'
+    username: Lietotājvārds
+    users: Lietotājiem
+    view: Skats
+    write_a_reply: 'Uzrakstiet atbildi...'
+    you: Tu
+  group:
+    admin: Admin
+    admins: Administratori
+    guest: Viesis
+    guests: Viesiem
+    member: Biedrs
+    members: Dalībnieki
+    mod: Veidā
+    mods: Modi
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Visi tagi'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Atzīmju izvēle diskusijai'
+    discussion_controls:
+      edit_tags_button: 'Atzīmju rediģēšana'
+    header:
+      back_to_tags_tooltip: 'Atpakaļ uz tagu sarakstu'
+    index:
+      more_link: Vairāk...
+      untagged_link: 'Bez tagiem'
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Izvēlieties Atzīmes'
+  lib:
+    deleted_tag_text: Izdzēsts
+    tag_selection_modal:
+      bypass_requirements: 'Apvedceļa tagu prasības'
+      submit_button: LABI
+      title: 'Izvēlieties Atzīmes'
+  ref:
+    choose_tags: 'Izvēlieties Atzīmes'
+    name: Vārds
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Lietotāja, grupas vai ziņas pieminēšana'
+    mentioned_by:
+      title: 'Atbildes uz šo ziņu'
+      load_more_button: 'Ielādēt vairāk'
+    post:
+      quote_button: Citēt
+      reply_link: Atbildi
+      you_text: Tu
+    settings:
+      notify_post_mentioned_label: 'Kāds atbild uz kādu no manām ziņām'
+      notify_user_mentioned_label: 'Kāds mani piemin ierakstā'
+      notify_group_mentioned_label: 'Kāds ierakstā piemin grupu, kuras dalībnieks esmu'
+    user:
+      mentions_link: Minēts
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Sekošanas pārtraukšana'
+      unignore_button: Unsir
+      follow_button: Sekot
+    settings:
+      follow_after_reply_label: 'Automātiska sekošana diskusijām, uz kurām es atbildu'
+      notify_for_all_posts_label: 'Paziņojiet par katru jaunu ziņu, nevis tikai par pēdējo diskusiju'
+      notify_new_post_label: 'Kāds izliek ziņu diskusijā, kurai sekoju'
+    sub_controls:
+      following_text: 'Esiet informēts par visām atbildēm.'
+      ignoring_text: 'Nekad nepaziņojiet. Paslēpieties no diskusiju saraksta.'
+      not_following_button: Neievērojot
+      not_following_text: 'Saņemt paziņojumu tikai tad, ja @mentioned.'
+      notify_alert_tooltip: 'Saņemiet paziņojumu par forumu, ja ir jaunas ziņas'
+      notify_email_tooltip: 'E-pasta ziņojuma saņemšana, ja ir jaunas ziņas'
+      follow_button: Sekot
+      following_button: Šādi
+      ignoring_button: Ignorējot
+    badge:
+      following_tooltip: Šādi
+      ignoring_tooltip: Ignorējot
+    following:
+      meta_title_text: Šādi
+    index:
+      following_link: Šādi
+  ref:
+    follow: Sekot
+    following: Šādi
+    ignoring: Ignorējot
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Paldies, ka atzīmējāt šo ziņu. Mūsu moderatori to izskatīs.'
+      reason_inappropriate_label: Nepiemērots
+      reason_inappropriate_text: 'Šī ziņa ir aizvainojoša, aizskaroša vai pārkāpj mūsu <a>kopienas vadlīnijas</a>.'
+      reason_missing_message: 'Lūdzu, sniedziet sīkāku informāciju par mūsu moderatoriem.'
+      reason_off_topic_label: 'Ārpus tēmas'
+      reason_off_topic_text: 'Šis ieraksts neattiecas uz pašreizējo diskusiju, un tas būtu jāpārceļ citur.'
+      reason_other_label: 'Cits (lūdzu, precizējiet)'
+      reason_spam_label: Mēstule
+      reason_spam_text: 'Šis ieraksts ir reklāma.'
+      dismiss_button: LABI
+      submit_button: 'Karoga stabs'
+      title: 'Karoga stabs'
+    flagged_posts:
+      empty_text: 'Nav karogu'
+      title: 'Ziņas ar karodziņiem'
+      tooltip: 'Ziņas ar karodziņiem'
+    post:
+      dismiss_flag_button: 'Noraidīt karodziņu'
+    post_controls:
+      flag_button: Karogs
+  ref:
+    flag_post: 'Karoga stabs'
+    flagged_posts: 'Ziņas ar karodziņiem'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Jūs esat atstādināts no amata uz nenoteiktu laiku'
+      user_unsuspended_text: 'Jūs esat atstādināts no amata'
+    suspension_info:
+      dismiss_button: Noraidīt
+      indefinite: 'Tā ir apturēšana uz nenoteiktu laiku'
+      title: 'Šī konta darbība ir apturēta'
+    suspend_user:
+      display_message: 'Rādīt ziņojumu lietotājam'
+      indefinitely_label: 'Apturēts uz nenoteiktu laiku'
+      limited_time_days_text: ' Dienas'
+      limited_time_label: 'Apturēts uz ierobežotu laiku...'
+      not_suspended_label: 'Nav apturēta'
+      placeholder_optional: Neobligāti
+      reason: 'Apturēšanas iemesls'
+      status_heading: 'Apturēšanas statuss'
+      submit_button: 'Saglabāt izmaiņas'
+    user_badge:
+      suspended_tooltip: Apturēta
+    user_controls:
+      suspend_button: Apturēt
+  email:
+    no_reason_given: 'Šādai apturēšanai netika sniegts nekāds pamatojums.'
+    suspended:
+      subject: 'Jūsu konta darbība ir apturēta'
+    unsuspended:
+      subject: 'Jūsu konta darbība ir pārtraukta'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Visi lietotāja augšupielādētie faili.', anonymize_description: 'Noņem lietotāja atsauci no augšupielādētajiem failiem. Paši faili joprojām ir pieejami lietotājiem, kuri tos varētu skatīt pirms anonimizācijas.', delete_description: 'Dzēš visus lietotāja augšupielādētos failus.' }
+      tagsubscription: { export_description: 'Eksportē detalizētu informāciju par taga abonementa līmeni, ja tāds pastāv.', anonymize_description: 'Noņem lietotāja abonementu tagam.' }
+      followuser: { export_description: 'Seko detalizēta informācija par lietotāju eksportu un lietotājiem, kas seko.', delete_description: 'Dzēš visus datus, kas saistīti ar sekošanu lietotājiem.', anonymize_description: 'Dzēš visus datus, kas saistīti ar sekošanu lietotājiem.' }
+      bannedipdata: { export_description: 'Ja IP aizlieguma ieraksts ir saistīts ar lietotāju (t.i., lietotājs tika aizliegts ar IP), lietotāja IP adrese tiks iekļauta eksportēšanā, kā arī aizlieguma iemesls un izveides datums.', anonymize_description: 'Visas IP adreses, kas saistītas ar lietotāju, tiek atsaistītas, bet pats IP paliks aizliegts, kā arī iemesls. Pārliecinieties, ka laukā "iemesls" netiek saglabāti PII dati.' }
+fof-upload:
+  forum:
+    media_manager: 'Mediju menedžeris'
+    buttons:
+      attach: Pievienot
+      upload: Augšupielādēt
+      upload_shared: Koplietojamo
+      user_uploads: 'Lietotāju augšupielādes'
+      cancel: Atcelt
+      media: 'Mani mediji'
+      shared_media: 'Koplietojama multivide'
+    states:
+      error: Kļūda
+      loading: Augšupielādējot
+      unauthorized: 'Jums nav atļauts lejupielādēt failus'
+    text_preview:
+      expand: 'Izvērst priekšskatījumu'
+      collapse: 'Sakļaušanas priekšskatījums'
+      error: "Kļūda, priekšskatot failu. Iespējams, tas ir izdzēsts vai norādītais faila ID nav derīgs.\n"
+      no_snippet_preview: '<priekšskatījums tiks parādīts šeit pēc publicēšanas>'
+      no_snippet: '<priekšskatījuma fragments nav pieejams>'
+  api:
+    upload_errors:
+      forbidden_type: 'Šāda veida failu augšupielāde nav atļauta.'
+      could_not_detect_mime: 'Nevarēja noteikt šī faila MIME tipu, lūdzu, mēģiniet vēlreiz.'
+      max_upload_file_size_ini: 'Augšupielādes maksimālais failu izmēra ierobežojums sasniegts no php.ini.'
+      max_upload_file_size_form: 'Augšupielādējiet maksimālo faila lieluma ierobežojumu, kas sasniegts no veidlapas.'
+      partial_upload: 'Daļēja augšupielāde.'
+      no_file_uploaded: 'Neviens fails nav augšupielādēts.'
+      no_upload_tmp_folder: 'Nav tmp mapes failu augšupielādei.'
+      cannot_write_to_disk: 'Nevar rakstīt diskā.'
+      upload_blocked_by_php_extension: 'PHP paplašinājums bloķēja augšupielādi.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Jauns koplietots fails'
+      dropzone: 'Velciet un nometiet failus šeit vai noklikšķiniet, lai pārlūkotu'
+      hide-from-media-gallery: 'Paslēpšana no lietotāja multivides galerijas'
+      upload: Augšupielādēt
+    file_list:
+      loading: 'Failu ielāde...'
+      empty: 'Nav failu, ko rādīt.'
+      release_to_upload: 'Laidiens augšupielādei'
+      modal_empty_desktop: 'Failu saraksts ir tukšs. Noklikšķiniet uz pogas vai velciet failu šeit, lai augšupielādētu.'
+      modal_empty_phone: 'Failu saraksts ir tukšs. Pieskarieties iepriekš redzamajai pogai, lai augšupielādētu failu.'
+      load_more_files_btn: 'Ielādēt vairāk failu'
+      hide_file: { hide_success: 'Fails ir paslēpts', show_success: 'Parādītais fails', loading: 'Faila slēpšana...' }
+      hide_shared_file: { hide_success: 'Fails, kas padarīts privāts', show_success: 'Fails publiskots', loading: 'Padarot failu privātu...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Wrote
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Treknraksta pievienošana'
+      code_tooltip: 'Ievietot kodu'
+      header_tooltip: 'Galvenes teksta pievienošana'
+      image_tooltip: 'Attēla pievienošana'
+      italic_tooltip: 'Teksta slīpraksta pievienošana'
+      link_tooltip: 'Saites pievienošana'
+      ordered_list_tooltip: 'Numurēta saraksta pievienošana'
+      quote_tooltip: 'Citāta ievietošana'
+      spoiler_tooltip: 'Ievietojiet spoileri'
+      strikethrough_tooltip: 'Pārsvītrojuma teksta pievienošana'
+      unordered_list_tooltip: 'Saraksta ar aizzīmēm pievienošana'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Kāds izveido diskusiju ar atzīmi, kurai sekoju'
+      notify_new_post_label: 'Kāds izliek ziņas atzīmē, kurai sekoju'
+      notify_new_discussion_tag_label: 'Kāds atkārtoti atzīmē diskusiju ar atzīmi, kurai es sekoju'
+    index:
+      follow_tag_button: Sekot
+      unfollow_tag_button: 'Pārtraukt sekošanu'
+      following: { following_none_label: 'Sekoja diskusijas', following_tags_label: 'Sekotie tagi' }
+    badge:
+      following_tag_tooltip: Šādi
+      lurking_tag_tooltip: Lurking
+    sub_controls:
+      following_text: 'Esiet informēts par visām jaunajām diskusijām.'
+      hiding_text: 'Paslēpt diskusijas lapā Visas diskusijas.'
+      ignoring_text: 'Nekad nepaziņojiet.'
+      lurking_text: 'Esiet informēts par visām jaunajām diskusijām un atbildēm.'
+      not_following_button: Neievērojot
+      not_following_text: 'Saņemt paziņojumu tikai tad, ja @mentioned.'
+      notify_alert_tooltip: 'Saņemiet foruma paziņojumu, ja ir jaunas diskusijas vai ziņas'
+      notify_email_tooltip: 'E-pasta ziņojuma saņemšana, ja notiek jaunas diskusijas vai ziņas'
+      submit_button: 'Apstiprināt abonementu'
+      follow_button: Sekot
+      following_button: Šādi
+      hiding_button: Slēpjot
+      ignoring_button: Ignorējot
+      lurking_button: Lurking
+    user:
+      settings: { heading: 'Sekot tagiem', filter_label: 'Ko pēc noklusējuma rādīt nākamajā lapā' }
+  ref:
+    follow: Sekot
+    following: Šādi
+    hiding: Slēpjot
+    ignoring: Ignorējot
+    lurking: Lurking
+    filtering_options:
+      none: 'Sekoja diskusijas'
+      tags: 'Sekotie tagi'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Šis segvārds nav derīgs. Lūdzu, sazinieties ar foruma administratoru, lai iegūtu papildinformāciju par segvārdu noteikumiem.'
+  ref:
+    change_nickname: 'Mainīt segvārdu'
+    nickname: Iesauka
+  forum:
+    change_nickname:
+      submit_button: 'Saglabāt izmaiņas'
+      title: 'Mainīt segvārdu'
+    edit_user:
+      nicknames_heading: 'Mainīt segvārdu'
+      nicknames_text: Iesauka
+    settings:
+      change_nickname_button: 'Mainīt segvārdu'
+    sign_up:
+      nickname_placeholder: Iesauka
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Saistītie konti', last-used-label: 'Pēdējoreiz lietots', link-created-label: 'Saite izveidota', orphaned-account: 'Jūs iepriekš esat pierakstījies, izmantojot šo pakalpojumu sniedzēju, taču kopš tā laika šajā forumā ir atspējota pierakstīšanās ar šo metodi.', help: 'Šie saistītie konti ļauj pierakstīties forumā, izmantojot citus pakalpojumu sniedzējus.' } }
+    signup:
+      username_help: 'Lūdzu, izvēlieties lietotājvārdu, kas jāzina šeit'
+    unlink: 'Noņemt saiti'
+    error:
+      bad_verification_code: 'Nederīgs verifikācijas marķieris vai verifikācijas pilnvara, kurai beidzies derīguma termiņš. Lūdzu, mēģiniet vēlreiz.'
+      invalid_state: 'Nederīgs stāvoklis. Lūdzu, mēģiniet vēlreiz.'
+    providers:
+      discord: Nesaskaņas
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Čivināt
+  lib:
+    providers:
+      discord: Nesaskaņas
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      twitter: Čivināt
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'Lietotnes ID'
+      app_secret: 'Lietotnes noslēpums'
+      client_id: 'Klienta ID'
+      client_secret: 'Klienta noslēpums'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Piesakieties kā cits lietotājs'
+      placeholder_optional: '(Pēc izvēles) Norādiet iemeslu, kāpēc pārslēdzaties uz šo lietotāju'
+      placeholder_required: 'Pirms turpināt, jums ir jānorāda iemesls, kāpēc pārslēdzaties uz šo lietotāju'
+    user_controls:
+      impersonate_button: 'Piesakieties kā lietotājs'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Privāta diskusija' }
+    buttons:
+      add_recipients: Adresātiem
+      submit: LABI
+      edit_recipients: 'Adresātu rediģēšana'
+      cancel: Atcelt
+      make_public: 'Padariet šo diskusiju publisku'
+      remove_from_discussion: 'Atstājiet šo privāto diskusiju'
+    composer_private_discussion:
+      submit_button: 'Pēc privātas diskusijas'
+      title_placeholder: 'Privāts diskusijas nosaukums'
+    confirm:
+      make_public: 'Vai tiešām vēlaties noņemt adresātus un padarīt šo diskusiju redzamu ikvienam, kurš var skatīt piešķirto atzīmi?'
+    nav:
+      start_button: 'Apspriediet privāti'
+      nav_item: 'Privātas diskusijas'
+    input:
+      search_recipients: 'Meklēt adresātu, ierakstot pirmās trīs rakstzīmes...'
+    search:
+      headings: { groups: 'Atļauju grupas' }
+    modal:
+      titles: { add_recipients: 'Adresātu pievienošana diskusijai' }
+      labels: { selected_users: 'Atlasītie lietotāji', search_field: 'Meklēt lietotāju' }
+      help: { add_recipients: 'Šī diskusija būs redzama tikai šeit izvēlētajiem lietotājiem. Nepieciešams vismaz 1 saņēmējs (izņemot sevi).', update_recipients: 'Šī diskusija būs redzama tikai šeit izvēlētajiem lietotājiem.', selected_users: 'Noklikšķiniet uz lietotāja vārda, lai to noņemtu.', click_user_to_remove_tooltip: 'Noklikšķiniet, lai noņemtu' }
+    user:
+      settings: { block_pd: 'Privātu diskusiju bloķēšana' }
+      byobu_link: 'Privātas diskusijas'
+      dropdown_label: 'Privātas diskusijas'
+    notifications:
+      pd_label: 'Kāds mani iekļauj jaunā privātā diskusijā'
+      pd_reply_label: 'Kāds izliek ziņas privātā diskusijā, kuras saņēmējs esmu'
+      pd_user_left_label: 'Adresāta lietotājs atstāj privātu diskusiju, kurā es piedalos'
+      pd_added_label: 'Kāds mani pievieno esošai privātai diskusijai'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informācija par emblēmu'
+    all_badges: 'Skatīt visas nozīmītes'
+    all_users: 'Skatīt visus lietotājus'
+    give_badge: 'Piešķiriet žetonu'
+    update_badge: 'Emblēmas atjaunināšana'
+    select_badge: 'Emblēmas atlasīšana'
+    user_has_badge: 'Lietotājam jau ir šī emblēma.'
+    user_no_badges: 'Šim lietotājam vēl nav nozīmīšu.'
+    no_received: 'Neviens lietotājs nav nopelnījis šo emblēmu.'
+    save_changes: 'Saglabāt izmaiņas'
+    badge:
+      badge: Žetons
+      badges: Nozīmītes
+      name: 'Emblēmas nosaukums'
+      description: 'Emblēmas apraksts'
+      earning_reason: 'Emblēmas nopelnīšanas iemesls'
+      update_earning_reason: 'Atjauniniet nopelnīšanas iemeslu'
+      no_earning_reason: 'Nav noteikts nopelnīšanas iemesls'
+      earned_on: 'Emblēma, kas nopelnīta'
+      category: 'Emblēmas kategorija'
+      badge_details: 'Emblēmas informācija'
+    badges_in_card:
+      title: 'Emblēmas lietotāja kartē'
+      manage_badges: 'Emblēmu pārvaldība'
+      description: 'Lietotāja kartītē redzamās emblēmas varat mainīt ar kādu no citām emblēmām. Ja neatlasīsit nevienu no tām, tās tiks atlasītas automātiski.'
+    moderation:
+      remove_badge: 'Emblēmas noņemšana no lietotāja'
+      remove_badge_confirm: 'Vai tiešām vēlaties noņemt šo emblēmu no šī lietotāja?'
+      give_badge: 'Piešķiriet žetonu'
+    notification:
+      title: 'Jūs esat saņēmis jaunu emblēmu'
+      settings: 'Esmu saņēmis nozīmīti'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Nožēlojams statuss'
+      not_miserable_label: 'Nav nožēlojami'
+      indefinitely_label: 'Nožēlojami uz nenoteiktu laiku'
+      limited_time_label: 'Nožēlojami uz ierobežotu laiku...'
+      limited_time_days_text: ' Dienas'
+      submit_button: 'Saglabāt izmaiņas'
+    user_badge:
+      miserable_user_tooltip: 'Nožēlojams lietotājs'
+    user_controls:
+      miserable_user_button: 'Nožēlojams lietotājs'
+  ref:
+    miserable_user: 'Nožēlojams lietotājs'
+sycho-profile-cover:
+  forum:
+    cover: Vāks
+    edit_cover: 'Rediģēt vāku'
+    added:
+      success: 'Atjaunināts profila vāks.'
+      error: 'Attēlu nevarēja augšupielādēt.'
+    removed:
+      success: 'Profila vāks noņemts.'
+      error: 'Nevarēja noņemt vāku, vēlāk mēģiniet vēlreiz.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Kopēt starpliktuvē'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Pēdējie apmeklētāji', guest: Viesis }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Valsts kods'
+    saveButton: Glābt
+    clickToSelectCountry: 'Izvēlieties savu valsti'
+    countrySaved: 'Valsts veiksmīgi izglābta!'
+    field_placeholder: 'Apstipriniet valstu karodziņus'
+    binding_country: 'Mēs atklājām, ka jūs neesat saistījis savu atrašanās vietu. Lūdzu, vispirms norādiet savu valsti. Ziņojumus var publicēt un atstāt tikai pēc tam, kad esat saistījis savu valsti.'
+    binding_country_click: 'Noklikšķiniet uz Tagad'
+username-blacklist:
+  forum:
+    modal-title: Brīdinājums!
+    modal-body-first-line: 'Brīdinājums - šo lietotājvārdu bloķē <strong>administrators</strong>'
+    modal-body-second-line: 'Lūdzu, izvēlieties citu lietotājvārdu, kas nepārkāpj mūsu kopienas vadlīnijas, un mēģiniet vēlreiz.'
+  admin:
+    blackList: 'Melnajā sarakstā iekļautais lietotājvārds'
+    blackList-help: 'Uzrakstiet šeit lietotājvārdu, kuru vēlaties bloķēt reģistrācijas laikā (atdalīts ar komatu)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Anotācija, show-summaries: 'Parādīt fragmentu no katras diskusijas diskusiju sarakstos (datorā/planšetdatorā)', show-summaries-mobile: 'Fragmenta no katras diskusijas parādīšana diskusiju sarakstos (mobilais tālrunis)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Foruma aktivitātes'
+      forum_new_discussions: 'Foruma jaunās diskusijas'
+      discussion_last_posts: 'Šī diskusija'
+      user_last_posts: 'Šī lietotāja ziņas un komentāri'
+    feeds:
+      titles: { main_subtitle: 'Pēdējās ziņas forumā', main_d_subtitle: 'Jaunākās diskusijas forumā', discussion_subtitle: 'Pēdējie ziņojumi šajā diskusijā', user_subtitle: 'Jaunākās ziņas un šī lietotāja komentāri.' }
+    discussion:
+      feed_link: Barot
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Sekoja
+    profile_page:
+      no_following: 'Izskatās, ka tu nevienam neseko.'
+    settings:
+      notify_new_follower_label: 'Kāds man seko'
+      notify_new_unfollower_label: 'Kāds pārstāj man sekot'
+      notify_new_discussion_label: 'Kāds, kuram sekoju, sāk diskusiju'
+      notify_new_post_label: 'Kāds, kuram sekoju ziņām esošā diskusijā'
+      block_follow: 'Kā neļaut lietotājiem sekot man'
+    badge:
+      label: { follow: 'Pēc diskusijām', lurk: 'Sekojot visiem' }
+    filter:
+      following: 'Sekotie lietotāji'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Sekojiet līmeņiem', follow_select_label: 'Sekot tipam', no_user_attr_provided_err: 'Uh, ak, kaut kas nogāja greizi, atverot šo modālu.', no_user_attr_provided_err_debug: 'Neviens atribūts "lietotājs" netika nodots SelectFollowUserLevel modālajam, kad tas tika izveidots. Modālu nevar atveidot.', save_btn: Glābt, cancel_btn: Atcelt }
+    profile_link: 'Sekotie lietotāji'
+    user_controls:
+      follow_button: Sekot
+      unfollow_button: 'Sekošanas pārtraukšana'
+      change_button: 'Sekošanas tipa maiņa'
+    index:
+      follow_tag_button: Sekot
+      unfollow_tag_button: 'Sekošanas tipa maiņa'
+  email:
+    new_follower_subject: '[Sekot lietotājam] Jums ir jauns sekotājs!'
+  lib:
+    following_link: 'Sekotie lietotāji'
+    follow: Sekot
+    change_follow_type: 'Sekošanas tipa maiņa'
+    unfollow: 'Sekošanas pārtraukšana'
+    follow_levels:
+      unfollow: { name: Nesekojiet }
+      follow: { name: 'Sekošana diskusijām' }
+      lurk: { name: 'Sekojiet visiem' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Lūdzu, pārliecinieties, ka šī pieprasītā segvārda maiņa atbilst foruma vadlīnijām.', decision_title: Lēmums, approval_label: Apstiprināt, rejected_label: Noraidīt, submit_button: Iesniegt, reason_title: 'Noraidīšanas iemesls', success: 'Lēmums nosūtīts.', title: 'Segvārda maiņas pieprasījums' }
+      results: { title: 'Segvārda maiņas pieprasījums', approved: 'Jūsu segvārda maiņas pieprasījums ir apstiprināts', rejected: 'Jūsu segvārda maiņas pieprasījums tika noraidīts', resubmit: 'Šajā laikā jūs varat atkārtoti iesniegt jaunu segvārda maiņas pieprasījumu no sava konta iestatījumiem, ja to izvēlaties.', dismiss_button: LABI }
+      request: { title: 'Pieprasīt segvārda maiņu', submit_button: 'Iesniegt pieprasījumu', delete_button: 'Dzēst pieprasījumu', confirmation_message: 'Jūsu segvārda maiņas pieprasījums ir iesniegts un gaida apstiprinājumu.', deleted: 'Segvārda pieprasījums izdzēsts.', dismiss_button: LABI }
+    username_modals:
+      action: { help_text: 'Lūdzu, pārliecinieties, ka šī pieprasītā lietotājvārda maiņa atbilst foruma vadlīnijām.', decision_title: Lēmums, approval_label: Apstiprināt, rejected_label: Noraidīt, submit_button: Iesniegt, reason_title: 'Noraidīšanas iemesls', success: 'Lēmums nosūtīts.', title: 'Lietotājvārda maiņas pieprasījums' }
+      results: { title: 'Lietotājvārda maiņas pieprasījums', approved: 'Jūsu lietotājvārda maiņas pieprasījums ir apstiprināts', rejected: 'Jūsu lietotājvārda maiņas pieprasījums tika noraidīts', resubmit: 'Šajā laikā jūs varat atkārtoti iesniegt jaunu lietotājvārda maiņas pieprasījumu no sava konta iestatījumiem, ja vēlaties to darīt.', dismiss_button: LABI }
+      request: { title: 'Pieprasīt lietotājvārda maiņu', submit_button: 'Iesniegt pieprasījumu', delete_button: 'Dzēst pieprasījumu', confirmation_message: 'Jūsu lietotājvārda maiņas pieprasījums ir iesniegts un gaida apstiprinājumu.', deleted: 'Lietotājvārda pieprasījums ir dzēsts.', dismiss_button: LABI }
+    pending_requests:
+      empty_text: 'Nav atrasts neviens vārda maiņas pieprasījums.'
+      tooltip: 'Nosaukuma maiņas pieprasījumi'
+      title: 'Nosaukuma maiņas pieprasījumi'
+    settings:
+      nickname_request_button: 'Mainīt segvārdu'
+      username_request_button: 'Mainīt lietotājvārdu'
+    user:
+      name_history_link: 'Vārda vēsture'
+  ref:
+    name_change_request: 'Vārda maiņas pieprasījums'
+    name_change_requests: 'Nosaukuma maiņas pieprasījumi'
+    nickname_change_request: 'Segvārda maiņas pieprasījums'
+    nickname_change_requests: 'Segvārdu maiņas pieprasījumi'
+    username_change_request: 'Lietotājvārda maiņas pieprasījums'
+    username_change_requests: 'Lietotājvārda maiņas pieprasījumi'
+  email:
+    body:
+      noReasonProvided: 'Nav norādīts pamatojums.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Uzrakstiet kaut ko par sevi'
+    profile:
+      cancel_confirm: 'Vai tiešām vēlaties atcelt biogrāfijas rediģēšanu? Jūs zaudēsit visas veiktās izmaiņas.'
+      cancel_button: Atcelt
+      save_button: Glābt
+      edit_bio_label: 'Rediģēt biogrāfiju'
+fof-split:
+  forum:
+    split:
+      from: 'Sadalīt no šejienes'
+      to: 'Sadalīt uz šejieni'
+      cancel: 'Atcelt sadalīšanu'
+    modal:
+      title: 'Diskusijas sadalīšana'
+      new_discussion_label: 'Norādiet jaunās diskusijas virsrakstu'
+      submit_button: Sadalīt
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Sociālo mediju pogu rediģēšana'
+      add: 'Pogu pievienošana sociālajiem medijiem'
+      headtitle: 'Rediģēt pogas'
+      title: Nosaukums
+      url: URL
+      submit: Glābt
+      delete: Dzēst
+      deletetitle: 'Dzēšanas poga'
+      save_disabled_fetching_favicons: 'Tiek ienesta viena vai vairākas ikonas. Lūdzu, gaidi.'
+      favicon: Favicon
+      grey_favicon: 'Pelēkais Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Koplietot
+      share_dropdown_accessible_label: 'Pārslēgt diskusiju kopīgošanas nolaižamo izvēlni'
+    modal:
+      title: Koplietot
+      copy_button: Kopija
+  lib:
+    networks:
+      facebook: Facebook
+      twitter: Čivināt
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Telegramma
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Mana pasaule'
+      qq: QQ
+      qzone: QZone
+      native: 'Vietējā daļa'
+fof-recaptcha:
+  forum:
+    error: 'Iesniedzot reCAPTCHA, radās kļūda. Mēģini vēlreiz.'
+    unknown_error: 'Radās nezināma kļūda. Pārbaudiet captcha un mēģiniet vēlreiz.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Jūs nevarat izmantot šo reakciju tieši tagad, lūdzu, atsvaidziniet lapu'
+    warning: 'Jūsu reakcija tika pārvērsta'
+    settings:
+      notify_post_reacted_label: 'Kāds reaģē uz kādu no maniem ierakstiem'
+    reacting-own-post: 'Jūs nevarat reaģēt uz savu ziņu'
+    modal:
+      title: Reakcijas
+      no_reactions: 'Reakcijas vēl nav'
+    mod_item: 'Skatīt reakcijas'
+    react_button_label: Reaģēt
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Neizdevās ielādēt attēla apgrieztāju.', generic_resize: 'Kaut kas nogāja greizi, apgriežot un mainot attēla izmērus.', get_image_data: 'Neizdevās apgriezt. Pārliecinieties, vai pārlūkprogrammas pirkstu nospiedumu aizsardzība ir atspējota.' }
+      help_text: "Attēlu augšupielāde var neizdoties, ja pārlūkprogrammas konfidencialitātes iestatījumi ir ļoti stingri. Ja rodas problēmas, mēģiniet atspējot pirkstu nospiedumu aizsardzību. Pretējā gadījumā varat <disableResize>atspējot apgrieztā attēla saspiešanu</disableResize> vai <disableCrop>pilnībā atspējot apgriešanu</disableCrop>.\n"
+      submit_button: Augšupielādēt
+      submit_crop_button: 'Apgriešana un augšupielāde'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Ļoti iespējams, ka par to vairs nav jādiskutē, un līdz ar to tā sišanai nav jēgas.', checkbox_label: 'Es apzinos, ka šī diskusija ir diezgan sena, bet tomēr gribētu atbildēt.', error: 'Šī diskusija ir pārāk sena, lai uz to atbildētu.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Jums nav atļaujas balsot'
+    poll_ended: 'Šī aptauja ir beigusies.'
+    public_poll: 'Apskatīt vēlētājus'
+    composer_discussion:
+      add_poll: 'Pievienot aptauju'
+      edit_poll: 'Rediģēt aptauju'
+    modal:
+      add_title: 'Aptaujas pievienošana'
+      add_option_label: 'Opcijas pievienošana'
+      edit_title: 'Rediģēt aptauju'
+      include_question: 'Jums ir jāiekļauj jautājums'
+      max: 'Jūs varat saņemt ne vairāk kā 10 atbildes'
+      min: 'Jums jāiekļauj vismaz 2 atbildes'
+      no_voters: 'Nav balsu'
+      option_placeholder: Atbildēt
+      image_option_placeholder: 'Attēla URL (neobligāti)'
+      options_label: Atbildes
+      public_poll_label: 'Atļauja lietotājiem redzēt, kas balsoja'
+      allow_multiple_votes_label: 'Atļauja cilvēkiem balsot par vairākām iespējām'
+      max_votes_label: 'Maksimālais balsu skaits vienam lietotājam'
+      max_votes_help: 'Iestatiet vērtību 0, lai lietotāji varētu balsot par visām opcijām.'
+      question_placeholder: Jautājums
+      submit: Iesniegt
+    moderation:
+      delete: 'Noņemt aptauju'
+      delete_confirm: 'Vai tiešām vēlaties izdzēst šo aptauju?'
+      edit: 'Rediģēt aptauju'
+    tooltip:
+      badge: Aptauja
+    votes_modal:
+      title: Vēlētāji
+fof-nightmode:
+  ref:
+    auto: 'Automātiski (pamatojoties uz pārlūkprogrammas vai ierīces opcijām)'
+    light: 'Dienas režīms'
+    dark: 'Nakts režīms'
+  forum:
+    header:
+      nightmode_button: 'Nakts režīms'
+    user:
+      settings: { heading: Dizains, description: 'Izvēlieties, kuru krāsu motīvu vēlaties izmantot forumā.', description2: 'Šis dizains tiks saistīts ar jūsu kontu un attieksies uz visām jūsu ierīcēm, ja vien nepārslēdzat tālāk norādīto slēdzi katras ierīces iestatījumiem.', device_specific_setting_checkbox: 'Izmantojiet katras ierīces iestatījumus', device_specific_setting_checkbox_tooltip: 'Jūsu dizaina izvēle tiks saglabāta atsevišķi katrai jūsu ierīcei.', auto_unsupported: 'Jūsu pārlūkprogramma neatbalsta automātisko tumšo režīmu.', option_descriptions: { auto: 'Jūsu dizains tiks automātiski atlasīts, pamatojoties uz jūsu pārlūkprogrammas vai ierīces iestatījumiem. Piemēram, ja iOS ir iespējots tumšais režīms, arī forumi būs tumši.', day: 'Klasiskā pieredze, pie kuras esi pieradis. Mīlēja un pārbaudīja.', night: 'Tu esi mazliet nakts pūce. Jūs naktī vērojat forumu, kamēr putni guļ un lapsas medī. Vai arī jūs vienkārši dodat priekšroku tumšākām krāsām!' }, options: { auto: 'Automātiski (pamatojoties uz pārlūkprogrammas vai ierīces opcijām)', day: 'Dienas režīms', night: 'Nakts režīms' } }
+    day: 'Dienas režīms'
+    night: 'Nakts režīms'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Tukša piezīme nav atļauta.'
+    moderatorNotes:
+      add_button: 'Jauna piezīme'
+      create-heading: 'Jaunas moderatora piezīmes izveide'
+      dismiss_button: Darīts
+      noNotes: 'Izskatās, ka šeit nav piezīmju.'
+      submit_button: 'Saglabāt piezīmi'
+      delete: Dzēst
+      confirm: 'Vai tiešām vēlaties izdzēst šo piezīmi?'
+    user:
+      notes: 'Moderatora piezīmes'
+  api:
+    no_reason_provided: 'Nav norādīts pamatojums'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Balsis
+    vote_title: 'Parādiet, kurš balsoja'
+    nav:
+      name: Klasifikāciju
+    ranking:
+      rank: Vieta
+      name: Lietotājs
+      amount: Punktus
+    notification:
+      prefrences: { vote: 'Kad kāds no maniem ierakstiem ir nobalsots uz augšu/uz leju' }
+    user:
+      votes_link: Balsis
+    modal:
+      downvotes_label: 'Downvoters:'
+      title: Vēlētāji
+      upvotes_label: 'Upvoters:'
+    mod_item: 'Skatīt vēlētājus'
+    voters:
+      none: 'Vēl nav vēlētāju'
+      label: Vēlētāji
+      label_none: 'Nav vēlētāju'
+    post:
+      upvote_button: 'Upvote ziņa'
+      downvote_button: 'Lejupejoša ziņa'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Plānotie melnraksti pašlaik ir atspējoti iestatījumos.'
+  ref:
+    schedule_draft: 'Grafika melnraksts'
+  forum:
+    composer:
+      title: 'Saglabāt melnrakstu'
+      saving: Glābjot...
+      saved: Glābts!
+      exit_alert: 'Izmest izmaiņas melnrakstā?'
+      discard_empty_draft_alert: 'Izmest tukšu melnrakstu?'
+    dropdown:
+      empty_text: 'Jūs neesat saglabājis nevienu melnrakstu'
+      title: Melnraksti
+      delete_all_button: 'Dzēst visus melnrakstus'
+      delete_button: 'Dzēst melnrakstu'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Vai tiešām vēlaties dzēst savu melnrakstu?'
+      delete_all_alert: 'Vai tiešām vēlaties izdzēst visus savus melnrakstus?'
+      schedule_button: 'Grafika melnraksts'
+      tooltip: Melnraksti
+    schedule_draft_modal:
+      text: 'Ieplānojiet savu melnrakstu, lai tas automātiski tiktu publicēts vēlāk!'
+      unschedule_button: Neplānots
+      unschedule_warning: 'Vai tiešām vēlaties atplānot šo melnrakstu?'
+      reschedule_button: Pārplānot
+      schedule_button: Grafiku
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Nederīgs datums un/vai laiks'
+      title: 'Grafika melnraksts'
+    user:
+      settings: { drafts_heading: Melnraksti, draft_autosave_enable: 'Vai iespējot melnraksta automātisko saglabāšanu?', draft_autosave_interval_label: 'Automātiskās saglabāšanas intervāls (sekundēs)', draft_autosave_interval_button: 'Atjaunināšanas intervāls', draft_autosave_interval_invalid: 'Intervālam jābūt veselam skaitlim, kas lielāks par 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Atbildēts
+    this_best_answer: 'Izvēlieties labāko atbildi'
+    remove_best_answer: 'Noņemiet atlasi labākajai atbildei'
+    best_answer_button: 'Labākā atbilde'
+    errors:
+      mismatch: 'Atlasītā ziņa šajā diskusijā neeksistē.'
+    notification:
+      content: 'Lūdzu, izvēlieties labāko atbildi, ja uz jūsu jautājumu ir atbildēts'
+      preferences: { awarded_best_answer: 'Kāds nosaka manu ziņu kā labāko atbildi', best_answer_in_discussion: 'Labākā atbilde ir ielikta diskusijā, kurā piedalījos', select_best_answer: 'Automātisks atgādinājums, lai izvēlētos labāko atbildi diskusijā, kuru es sāku' }
+    index:
+      ask_question: 'Uzdot jautājumu'
+      cannot_ask_question: 'Nevar uzdot jautājumu'
+      solved_link: 'Atrisinātas diskusijas'
+      unsolved_link: 'Neatrisinātas diskusijas'
+    filter:
+      all_label: 'Visi jautājumi'
+      solved_label: 'Atrisinātie jautājumi'
+      unsolved_label: 'Neatrisināti jautājumi'
+      accessible_label: 'Atrisināta/neatrisināta izvēle'
+    composer:
+      titlePlaceholder: 'Jautājuma virsraksts'
+    search:
+      discussions_solutions_heading: 'Diskusijas ar risinājumiem'
+    discussion:
+      jump_to_best_answer_button: 'Skatīt labāko atbildi'
+  email:
+    subject:
+      select: 'Vai jums izdevās saņemt atbildi uz savu jautājumu?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Labākās atbildes'
+      least_best_answers: 'Vismazāk labākās atbildes'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Neviens cits netiks aizliegts'
+    user_badge:
+      banned_tooltip: Aizliegta
+    ban_ip_button: 'IP aizliegums'
+    unban_ip_button: 'IP satura atcelšana'
+    user_controls:
+      ban_button: Aizliegums
+      unban_button: 'Atcelt aizliegumu'
+  error:
+    banned_ip_message: 'Autorizācija neizdevās.'
+    no_ips_found_message: 'Lietotājam nav atrasts(-i) IP.'
+  lib:
+    modal:
+      check_button: Pārbaudīt
+      save_button: Glābt
+      ban_ip_confirmation: 'Vai tiešām vēlaties bloķēt šīs IP adreses izmantošanu forumā? Tas bloķēs lietotājus ar šo(-ajām) IP adresi(-ēm) pieteikties un reģistrēties.'
+      unban_ip_confirmation: 'Vai tiešām vēlaties atcelt šo lietotāju un visus pārējos lietotājus, kurus nav aizlieguši citi IP?'
+      unban_ip_no_users: 'Neviens cits netiks atmaskots'
+      title: 'Aizliegt IP(s)'
+      unban_title: 'IP(-u) atcelšana'
+      address_label: 'IP adrese'
+      reason_label: Iemesls
+      ban_button: Aizliegums
+      unban_button: 'Atcelt aizliegumu'
+  ref:
+    ban_label: Aizliegums
+    ban_ip_addresses: 'Aizliegt IP(s)'
+    ban_ip_button: 'IP aizliegums'
+    unban_label: 'Atcelt aizliegumu'
+    unban_ip_addresses: 'IP(-u) atcelšana'
+    unban_ip_button: 'IP satura atcelšana'
+    address_label: 'IP adrese'
+    reason_label: Iemesls
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Sīkāka informācija par jūsu reģistrāciju ir atrodama surogātpasta novēršanas datu bāzē, tāpēc jūsu reģistrācija ir bloķēta.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Diskusiju dzēšana'
+      hard_delete_discussions_help: 'Tādējādi tiks neatgriezeniski izdzēstas visas šī lietotāja sāktās diskusijas. Ja šī opcija ir atspējota, diskusijas tiks paslēptas.'
+      hard_delete_posts_label: 'Dzēst ziņas'
+      hard_delete_posts_help: 'Tas neatgriezeniski izdzēsīs visas šī lietotāja veiktās ziņas (komentārus, atbildes utt.). Ja tas ir atspējots, ziņas tiks paslēptas.'
+      hard_delete_user_label: 'Dzēst lietotāju'
+      hard_delete_user_help: 'Tas neatgriezeniski izdzēsīs lietotāju. Ja lietotājs ir atspējots, tā vietā tiks apturēta darbība.'
+      intro: 'Atzīmējot lietotāju kā surogātpasta izplatītāju, tiks veiktas vairākas darbības, kas ir atkarīgas no jūsu forumā pieejamajiem paplašinājumiem.'
+      move_discussions_tag_label: 'Diskusiju pārvietošana uz karantīnā ievietotu tagu'
+      move_discussions_tag_help: 'Tādējādi visas šī lietotāja sāktās diskusijas tiks pārvietotas uz tagu, kuru norādījāt foruma iestatījumos. Ja šī opcija ir atspējota, diskusijas tiks atstātas to pašreizējos tagos.'
+      process_button: Process
+      report_to_sfs_label: 'Ziņojums StopForumSpam'
+      report_to_sfs_help: 'Tas ziņos par lietotāja pamatinformāciju (lietotājvārdu, e-pastu, IP adresi) StopForumSpam. Tas palīdzēs novērst lietotāja reģistrāciju citos forumos, kas izmanto pakalpojumu StopForumSpam.'
+    user_controls:
+      spammer_button: 'Surogātpasta izplatītājs'
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Diskusiju skatu skaita atiestatīšana'
+      submit: Iesniegt
+      label: 'Skatījumu skaita iestatīšana'
+    discussion_controls:
+      resetviews_button: 'Skatu skaita iestatīšana'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Nelipīgs
+      sticky_button: Lipīgi
+    badge:
+      sticky_tooltip: Lipīgi
+  ref:
+    sticky: Lipīgi
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Bloķēta
+    discussion_controls:
+      lock_button: Slēdzene
+      unlock_button: Atbloķēt
+    settings:
+      notify_discussion_locked_label: 'Kāds bloķē manis sākto diskusiju'
+flarum-likes:
+  forum:
+    post:
+      like_link: Kā
+      unlike_link: 'Atšķirībā no'
+      you_text: Tu
+    post_likes:
+      title: 'Lietotāji, kuriem tas patīk'
+      load_more_button: 'Ielādēt vairāk'
+    settings:
+      notify_post_liked_label: 'Kādam patīk viena no manām ziņām'
+    user:
+      likes_link: Patīk
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Ievietojiet emocijzīmes'
+      type_to_search_text: 'Ierakstiet, lai meklētu emocijzīmi'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Jūsu saturs ir pārāk liels, lūdzu, izlasiet mūsu vadlīnijas par publicēšanu' }
+dhtml-persona:
+  forum:
+    persona: Persona
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Līderu saraksts'
+dhtml-gender:
+  forum:
+    male: Vīriešu
+    female: Mātīte
+    other: 'Negribu teikt'
+    inputGender: Dzimumu
+    saveButton: Glābt
+    clickToSelectGender: 'Izvēlieties savu dzimumu'
+    genderSaved: 'Dzimums veiksmīgi saglabāts!'
+    field_placeholder: 'Apstipriniet dzimumu'
+    binding_gender: 'Mēs atklājām, ka jūs neesat noteicis savu dzimumu. Lūdzu, vispirms iestatiet savu dzimumu. Jūs varat publicēt un atstāt ziņojumus tikai pēc dzimuma iestatīšanas.'
+    binding_gender_click: 'Noklikšķiniet uz Tagad'
+flarum-content-pages:
+  forum:
+    home: Mājas
+    about-us: 'Par mums'
+    guidelines: Pamatnostādnes
+    privacy-policy: 'Privātuma politika'
+    terms-of-use: 'Lietošanas termiņš'
+    contact-us: 'Sazinieties ar mums'
+    download-app: 'Lejupielādēt lietotni'
+    discord-chat: 'Nesaskaņu tērzēšana'
+    tags-cloud: 'Atzīmju (Tags) mākonis'
+    languages: Valodas
+    leaderboard: 'Līderu saraksts'
+    live: Dzīvi
+    live-coding: 'Dzīvā kodēšana'
+    challenges: Problēmas
+    dev-challenges: 'Dev problēmas'
+    jobs: Darbi
+    community: Kopiena
+    dev-jobs: 'Dev darbi'
+    job-posting: 'Darba norīkošana'
+    job-postings: 'Darba norīkojumi'
+    workshops: Darbnīcas
+    dev-workshops: 'Dev semināri'
+    events: Notikumi
+    conferences: Konferences
+    event-conferences: 'Pasākumi / Konferences'
+    showcase: 'Rādīt parametru'
+    tags: Tags
+    more: Vairāk
+    memberships: Dalība
+    members: Dalībnieki
+    general-discussion: 'Vispārēja diskusija'
+    technology-articles: 'Tehnoloģiskie izstrādājumi'
+    coding-challenges: 'Kodēšanas problēmas'
+    q-a: 'Q/A sadaļa'
+    artificial-intelligence: 'Mākslīgais intelekts'
+    computer-science: Datorzinātnes
+    programming-languages: 'Plānošanas valodas'
+    development-tools: 'Izstrādes rīki'
+    software-development: 'Programmatūras izstrāde'
+    frontend-development: 'Priekšpuses izstrāde'
+    backend-development: 'Aizmugures izstrāde'
+    software-engineering: 'Programmatūras inženierija'
+    cybersecurity: Kiberdrošība
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Rakstzīmju skaitītājs'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Rediģēt dzimšanas datumu'
+      date_of_birth_text: 'Dzimšanas datums'
+      submit_button: 'Saglabāt izmaiņas'
+    settings:
+      change_dob_label: 'Mainīt dzimšanas datumu'
+      show_dob_date_label: 'Rādīt dzimšanas dienu un mēnesi'
+      show_dob_year_label: 'Rādīt dzimšanas gadu'
+      show_dob_year_help: 'Tas ļaus cilvēkiem redzēt jūsu vecumu.'
+      dob_heading: 'Dzimšanas datums'
+    nav:
+      nav_item: 'Šodienas dzimšanas dienas'
+    edit_user:
+      dob_heading: 'Dzimšanas datums'
+    sign_up:
+      dob_placeholder: 'Dzimšanas datums'
+  api:
+    invalid_dob_message: 'Nederīgs dzimšanas datums'
+  ref:
+    date_of_birth: 'Dzimšanas datums'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Emociju atlasītājs'
+    search_placeholder: Meklēt...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Rediģēt autoru un datumu'
+    modal:
+      title-post: 'Rediģēt ziņas autoru un datumu'
+      title-discussion: 'Diskusijas autora un datuma rediģēšana'
+      user: Autors
+      created_at: 'Radīšanas laiks'
+      edited_at: 'Rediģēšanas laiks'
+      sync-with-discussion: 'Sinhronizēšana ar diskusiju'
+      sync-with-post: 'Sinhronizācija ar pirmo ziņu'
+      sync-impossible: 'Nevar atrast pirmo ziņu. Mēģiniet ritināt līdz diskusijas sākumam.'
+      submit: Glābt
+      cancel: Atcelt
+    search:
+      placeholder: 'Lietotāju meklēšana'
+      type-more: 'Ierakstiet 3 rakstzīmes, lai meklētu datu bāzē'
+      no-results: 'Nav rezultātu'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Bagātinātā teksta režīma pārslēgšana'
+      insert_button: Ievietot
+      insert_image: { src_placeholder: Saikne, title_placeholder: Nosaukums }
+      insert_link: { text_placeholder: Teksts, href_placeholder: URL, title_placeholder: 'Nosaukums (rāda kursoru)', remove_button: Noņemt }
+      additional_items_tooltip: 'Papildu vadīklas'
+      code_block_tooltip: 'Kodu bloka ievietošana'
+      horizontal_rule_tooltip: 'Horizontālās kārtulas ievietošana'
+      image_tooltip: 'Attēla pievienošana'
+      link_tooltip: 'Saites pievienošana'
+      spoiler_block_tooltip: 'Bloķēt spoileri / nolaižamo izvēlni'
+      strike_tooltip: 'Pārsvītrojums <alt-shift-5>'
+      text_type_tooltip: 'Atlasiet Teksta tips'
+  forum:
+    settings:
+      composer_heading: Komponists
+      use_rich_text_editor_label: 'Vai izmantojat bagātinātā teksta redaktoru?'
+      rich_text_compact_paragraphs_label: 'Nedaliet rindkopas ar jaunu rindiņu.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Jums ir iespējoti pašpiegādes paziņojumi, bet neesat konfigurējis šo ierīci.'
+      optin_button: Konfigurēt
+    discussion_controls:
+      share_button: Koplietot
+    post_controls:
+      share_button: Koplietot
+    user_controls:
+      share_button: Koplietot
+    settings:
+      push_header: Stumt
+      pwa_notifications: { access_default: 'Pārlūkprogrammas ierobežojumu dēļ jums ir jāpiesakās, lai saņemtu pašpiegādes paziņojumus šajā ierīcē.', access_default_button: Pieteikties, access_denied: 'Jums ir jāpielāgo pārlūkprogrammas iestatījumi, lai šajā ierīcē saņemtu pašpiegādes paziņojumus.', access_denied_button: 'Uzziniet, kā to izdarīt', no_browser_support: 'Šī pārlūkprogramma neatbalsta pašpiegādes paziņojumus progresīvām tīmekļa lietotnēm.', no_browser_support_button: 'Apgūt vairāk' }
+  views:
+    offline:
+      header: 'Tīkla savienojuma kļūda'
+      text: 'Šai lietotnei ir nepieciešams tīkla savienojums; to nevar izmantot bezsaistē. Lūdzu, pārbaudiet savienojumu.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Brīdināt lietotāju'
+    user:
+      warnings: 'Moderatora brīdinājumi'
+    settings:
+      warning_notification_label: 'Moderators mani brīdina'
+    validation:
+      public_comment_required: 'Jūs lielākā daļa sniedzat publisku komentāru.'
+      invalid_strike_count: 'Trāpījumu skaitam jābūt veselam skaitlim no 0 līdz 5.'
+    warning_controls:
+      delete_button: Noņemt
+      restore_button: Atjaunot
+      delete_forever_button: 'Neatgriezeniska dzēšana'
+    warning_list:
+      add_button: 'Jauns brīdinājums'
+      no_warnings: 'Izskatās, ka šeit nav brīdinājumu.'
+      warnings_no_strikes: 'Moderatora brīdinājumi: nav saņemti brīdinājumi'
+    warning_list_item:
+      public_comment: Brīdinājums
+      private_comment: 'Moderatora redzamie komentāri'
+      linked_post: 'Saistītā ziņa'
+    warning_modal:
+      confirmation_message: 'Jūsu brīdinājums ir saglabāts. Iespējams, jums būs jāatsvaidzina lapa, lai to redzētu.'
+      strikes_heading: 'Cik streiku būtu jāpiemēro?'
+      submit_button: 'Saglabāt brīdinājumu'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Atbildes veidnes rediģēšana'
+    reply_template:
+      title: 'Atbildes veidnes rediģēšana'
+      submit_button: 'Saglabāt atbildes veidni'

@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'आपके द्वारा दर्ज किया गया पासवर्ड ग़लत है.'
+      confirm_password_placeholder: 'पासवर्ड की पुष्टि करें'
+      dismiss_button: 'ठीक है'
+      submit_button: 'परिवर्तन सहेजें'
+      title: 'ईमेल बदलें'
+    change_password:
+      send_button: 'पासवर्ड रीसेट ईमेल भेजें'
+      text: 'नीचे दिए गए बटन पर क्लिक करें और अपना पासवर्ड बदलने के लिए लिंक के लिए अपना ईमेल देखें।'
+      title: 'पासवर्ड बदलें'
+    composer:
+      close_tooltip: 'बंद करना'
+      exit_full_screen_tooltip: 'पूर्ण स्क्रीन से बाहर निकलें'
+      full_screen_tooltip: 'पूर्ण स्क्रीन'
+      minimize_tooltip: 'कम करके बताना'
+      preview_tooltip: पूर्वसमीक्षा
+    composer_discussion:
+      body_placeholder: 'एक पोस्ट लिखें ...'
+      discard_confirmation: 'आपने अपनी चर्चा पोस्ट नहीं की है। क्या आप इसे त्यागना चाहते हैं?'
+      submit_button: 'चर्चा के बाद'
+      title_placeholder: 'चर्चा का शीर्षक'
+      title: 'चर्चा प्रारंभ करें'
+    composer_edit:
+      discard_confirmation: 'आपने अपने परिवर्तन सहेजे नहीं हैं. क्या आप उन्हें त्यागना चाहते हैं?'
+      edited_message: 'आपका संपादन किया गया था।'
+      submit_button: 'परिवर्तन सहेजें'
+      view_button: देखना
+    composer_reply:
+      discard_confirmation: 'आपने अपना उत्तर पोस्ट नहीं किया है। क्या आप इसे त्यागना चाहते हैं?'
+      posted_message: 'आपका जवाब पोस्ट किया गया था।'
+      submit_button: 'जवाब भेजें'
+      body_placeholder: 'एक उत्तर लिखें ...'
+      view_button: देखना
+    discussion_controls:
+      cannot_reply_button: 'जवाब नहीं दे सकता'
+      cannot_reply_text: 'आपको इस चर्चा का उत्तर देने की अनुमति नहीं है।'
+      delete_confirmation: 'क्या आप वाकई इस चर्चा को हटाना चाहते हैं?'
+      log_in_to_reply_button: 'उत्तर देने के लिए लॉग इन करें'
+      toggle_dropdown_accessible_label: 'टॉगल चर्चा क्रियाएँ ड्रॉपडाउन मेनू'
+      delete_button: मिटाना
+      delete_forever_button: 'हमेशा के लिए हटाएं'
+      rename_button: पुनर्नामित
+      reply_button: उत्तर
+      restore_button: 'पुनर्स्थापित करना'
+    discussion_list:
+      empty_text: 'ऐसा लगता है कि यहां कोई चर्चा नहीं है।'
+      load_more_button: 'और लोड करें'
+    forgot_password:
+      email_sent_message: 'यदि आपके द्वारा प्रवेश किया गया ईमेल इस साइट के साथ पंजीकृत है, तो हम आपको एक ईमेल भेज देंगे जिसमें आपका पासवर्ड रीसेट करने के लिए एक लिंक है। यदि आप इसे अगले मिनट या दो के भीतर प्राप्त नहीं करते हैं तो अपने स्पैम फ़ोल्डर को चेक करें।'
+      not_found_message: 'उस ईमेल पते के साथ पंजीकृत कोई उपयोगकर्ता नहीं है।'
+      submit_button: 'पासवर्ड पुनर्प्राप्त करें'
+      text: 'अपना ईमेल पता दर्ज करें और हम आपको पासवर्ड रीसेट करने के लिए एक लिंक भेज देंगे।'
+      title: 'पासवर्ड भूल गए'
+      dismiss_button: 'ठीक है'
+      email_placeholder: ईमेल
+    header:
+      admin_button: प्रशासन
+      back_to_index_tooltip: 'चर्चा सूची पर वापस जाएँ'
+      locale_dropdown_accessible_label: 'फ़ोरम का स्थान बदलें'
+      profile_button: ख़ाका
+      search_clear_button_accessible_label: 'खोज क्वेरी साफ़ करें'
+      search_placeholder: 'खोज फ़ोरम'
+      search_role_label: 'खोज फ़ोरम'
+      session_dropdown_accessible_label: 'टॉगल सत्र विकल्प ड्रॉपडाउन मेनू'
+      log_in_link: 'लॉग इन करो'
+      log_out_button: 'लॉग आउट'
+      settings_button: सेटिंग्स
+      sign_up_link: 'नाम लिखो'
+    index:
+      cannot_start_discussion_button: 'चर्चा शुरू नहीं कर सकते'
+      mark_all_as_read_confirmation: 'क्या आप वाकई सभी चर्चाओं को पढ़ा गया के रूप में चिह्नित करना चाहते हैं?'
+      refresh_tooltip: 'आराम देना'
+      toggle_sidenav_dropdown_accessible_label: 'टॉगल नेविगेशन ड्रॉपडाउन मेनू'
+      all_discussions_link: 'सभी चर्चाएँ'
+      mark_all_as_read_tooltip: 'सभी को पढ़े गए के रूप में चिह्नित करें'
+      meta_title_text: 'सभी चर्चाएँ'
+      start_discussion_button: 'चर्चा प्रारंभ करें'
+    index_sort:
+      latest_button: 'बिलकुल नया'
+      newest_button: नवीनतम
+      oldest_button: 'सबसे पुराना'
+      relevance_button: प्रासंगिकता
+      toggle_dropdown_accessible_label: 'चर्चा सूची सॉर्ट करना परिवर्तित करना'
+      top_button: लट्टू
+      hot_button: 'मुख्य समाचार'
+      votes_button: अपवोट
+      front_button: फ्रंटपेज
+      popular_button: लोकप्रिय
+      unpopular_button: अलोकप्रिय
+    log_in:
+      forgot_password_link: 'पासवर्ड भूल गए?'
+      invalid_login_message: 'आपका लॉगिन विवरण गलत था।'
+      remember_me_label: 'मुझे याद रखें'
+      sign_up_text: 'क्या आपके पास खाता नहीं है? <a>नाम लिखो</a>'
+      username_or_email_placeholder: 'उपयोगकर्ता नाम या ईमेल'
+      password_placeholder: पासवर्ड
+      submit_button: 'लॉग इन करो'
+      title: 'लॉग इन करो'
+    notifications:
+      delete_all_confirm: 'क्या आप वाकई सभी सूचनाएँ हटाना चाहते हैं? यह क्रिया प्रतिवर्ती नहीं है'
+      delete_all_tooltip: 'सभी सूचनाएं हटाएं'
+      empty_text: 'कोई सूचना नहीं'
+      mark_as_read_tooltip: 'पढ़ा गया के रूप में चिह्नित करें'
+      toggle_dropdown_accessible_label: 'सूचनाएं देखें'
+      mark_all_as_read_tooltip: 'सभी को पढ़े गए के रूप में चिह्नित करें'
+      title: सूचनाएँ
+      tooltip: सूचनाएँ
+    post:
+      edited_text: संपादित
+    post_controls:
+      delete_confirmation: 'क्या आप वाकई इस पोस्ट को हमेशा के लिए हटाना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता.'
+      hide_confirmation: 'क्या आप वाकई इस पोस्ट को हटाना चाहते हैं?'
+      toggle_dropdown_accessible_label: 'टॉगल पोस्ट नियंत्रण ड्रॉपडाउन मेनू'
+      push_to_front_button: 'FrontPage पर पुश करें'
+      pull_from_front_button: 'FrontPage से खींचो'
+      delete_button: मिटाना
+      delete_forever_button: 'हमेशा के लिए हटाएं'
+      edit_button: 'संपादन करना'
+      restore_button: 'पुनर्स्थापित करना'
+    post_scrubber:
+      now_link: अब
+      original_post_link: 'मूल पोस्ट'
+    post_stream:
+      load_more_button: 'और लोड करें'
+      reply_placeholder: 'एक उत्तर लिखें ...'
+    rename_discussion:
+      title: 'चर्चा का नाम बदलें'
+      submit_button: पुनर्नामित
+    search:
+      discussions_heading: चर्चा
+      users_heading: उपयोगकर्ताओं
+    security:
+      cannot_terminate_current_session: 'वर्तमान सक्रिय सत्र समाप्त नहीं कर सकता. इसके बजाय लॉग आउट करें।'
+      created: बनाया
+      current_active_session: 'वर्तमान सक्रिय सत्र'
+      developer_tokens_heading: 'डेवलपर टोकन'
+      empty_text: 'ऐसा लगता है कि यहां देखने के लिए कुछ भी नहीं है।'
+      global_logout: { heading: 'वैश्विक लॉगआउट', help_text: 'वर्तमान कुकी सत्र साफ़ करता है, सभी सत्रों को समाप्त करता है, डेवलपर टोकन रद्द करता है, और किसी भी ईमेल पुष्टिकरण या पासवर्ड रीसेट ईमेल को अमान्य करता है।', log_out_button: 'लॉग आउट' }
+      hide_access_token: 'टोकन छुपाएं'
+      last_activity: 'अंतिम गतिविधि'
+      new_access_token_modal: { submit_button: 'टोकन बनाएं', title_placeholder: उपाधि, title: 'नया टोकन' }
+      revoke_access_token: 'रद्द करना'
+      sessions_heading: 'सक्रिय सत्र'
+      session_termination_failed: 'आपके सत्र समाप्त करते समय कोई त्रुटि उत्पन्न हुई.'
+      show_access_token: 'टोकन देखें'
+      terminate_all_other_sessions: 'अन्य सभी सत्र समाप्त करें'
+      terminate_session: समाप्त
+      token_revoked: 'टोकन निरस्त कर दिया गया.'
+      token_title_placeholder: /
+      never: 'कभी नहीं'
+      new_access_token_button: 'नया टोकन'
+      revoke_access_token_confirmation: 'क्या आप वाकई आगे बढ़ना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता.'
+      terminate_all_other_sessions_confirmation: 'क्या आप वाकई आगे बढ़ना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता.'
+      title: प्रतिभूति
+    settings:
+      account_heading: खाता
+      notify_by_web_heading: वेब
+      notify_discussion_renamed_label: 'कोई मेरे द्वारा शुरू की गई चर्चा का नाम बदलता है'
+      privacy_disclose_online_label: 'अन्य लोगों को यह देखने की अनुमति दें कि मैं कब ऑनलाइन हूँ'
+      privacy_heading: गोपनीयता
+      change_email_button: 'ईमेल बदलें'
+      change_password_button: 'पासवर्ड बदलें'
+      notifications_heading: सूचनाएँ
+      notify_by_email_heading: ईमेल
+      title: सेटिंग्स
+    sign_up:
+      log_in_text: 'पहले से ही एक खाता है? <a>लॉग इन करो</a>'
+      dismiss_button: 'ठीक है'
+      email_placeholder: ईमेल
+      password_placeholder: पासवर्ड
+      submit_button: 'नाम लिखो'
+      title: 'नाम लिखो'
+      username_placeholder: 'उपयोगकर्ता नाम'
+    user:
+      avatar_upload_button: अपलोड
+      avatar_upload_tooltip: 'एक नया अवतार अपलोड करें'
+      online_text: ऑनलाइन
+      posts_empty_text: 'ऐसा लगता है कि यहां कोई पोस्ट नहीं है।'
+      avatar_remove_button: हटाना
+      discussions_link: चर्चा
+      posts_link: पोस्ट
+      posts_load_more_button: 'और लोड करें'
+      security_link: प्रतिभूति
+      settings_link: सेटिंग्स
+    user_controls:
+      button: नियंत्रण
+      delete_confirmation: 'क्या आप वाकई इस उपयोगकर्ता को हटाना चाहते हैं? उपयोगकर्ता के पोस्ट हटाए नहीं जाएंगे।'
+      toggle_dropdown_accessible_label: 'टॉगल उपयोगकर्ता नियंत्रण ड्रॉपडाउन मेनू'
+      delete_button: मिटाना
+      edit_button: 'संपादन करना'
+    user_email_confirmation:
+      resend_button: 'पुष्टिकरण ईमेल पुनः भेजें'
+      sent_message: रूप
+    welcome_hero:
+      hide: 'स्वागत संदेश छुपाएं'
+    badge:
+      frontpage_tooltip: 'FrontPage के रूप में चिह्नित किया गया'
+  lib:
+    debug_button: डीबग
+    alert:
+      dismiss_a11y_label: 'चेतावनी खारिज करें'
+    badge:
+      hidden_tooltip: 'छिपा हुआ'
+    dropdown:
+      toggle_dropdown_accessible_label: 'टॉगल ड्रॉपडाउन मेनू'
+    edit_user:
+      activate_button: 'उपयोगकर्ता सक्रिय करें'
+      groups_heading: समूहों
+      set_password_label: 'नया पासवर्ड सेट करें'
+      nothing_available: 'आपको इस उपयोगकर्ता को संपादित करने की अनुमति नहीं है.'
+      email_heading: ईमेल
+      email_label: ईमेल
+      password_heading: पासवर्ड
+      password_label: पासवर्ड
+      submit_button: 'परिवर्तन सहेजें'
+      title: 'उपयोगकर्ता संपादित करें'
+      username_heading: 'उपयोगकर्ता नाम'
+      username_label: 'उपयोगकर्ता नाम'
+    error:
+      generic_message: 'उफ़! कुछ गलत हो गया। कृपया पृष्ठ को पुनः लोड करें और पुनः प्रयास करें।'
+      generic_cross_origin_message: 'उफ़! क्रॉस-ओरिजिन अनुरोध के दौरान कुछ गलत हो गया। कृपया पृष्ठ को पुनः लोड करें और पुनः प्रयास करें।'
+      not_found_message: 'अनुरोधित संसाधन नहीं मिला.'
+      payload_too_large_message: 'अनुरोध पेलोड बहुत बड़ा था।'
+      permission_denied_message: 'आपको ऐसा करने की अनुमति नहीं है।'
+      rate_limit_exceeded_message: 'आप थोड़ा बहुत जल्दी जा रहे हैं। कृपया कुछ सेकंड में पुन: प्रयास करें.'
+      render_failed_message: 'क्षमा करें, हमें यह सामग्री प्रदर्शित करते समय एक त्रुटि का सामना करना पड़ा. यदि आप एक उपयोगकर्ता हैं, तो कृपया बाद में पुनः प्रयास करें। यदि आप एक व्यवस्थापक हैं, तो अधिक जानकारी के लिए अपनी Flarum लॉग फ़ाइलों पर एक नज़र डालें।'
+    modal:
+      close: 'बंद करना'
+    nav:
+      drawer_button: 'नेविगेशन दराज खोलें'
+    loading_indicator:
+      accessible_label: लोड।।।
+  views:
+    confirm_email:
+      text: 'अपने खाते के ईमेल की पुष्टि करने के लिए नीचे दिए गए बटन पर क्लिक करें.'
+      submit_button: 'ईमेल की पुष्टि करें'
+      title: 'ईमेल की पुष्टि करें'
+    content:
+      javascript_disabled_message: 'यह साइट जावास्क्रिप्ट सक्षम के साथ एक आधुनिक ब्राउज़र में सबसे अच्छी तरह से देखी जाती है।'
+      load_error_message: 'इस साइट के पूर्ण संस्करण को लोड करने का प्रयास करते समय कुछ गलत हो गया. त्रुटि को ठीक करने के लिए इस पृष्ठ को हार्ड-रीफ़्रेश करने का प्रयास करें।'
+      loading_text: लोड।।।
+    error:
+      csrf_token_mismatch: 'आप बहुत लंबे समय से निष्क्रिय हैं।'
+      csrf_token_mismatch_return_link: 'पुनः प्रयास करने के लिए वापस जाएँ'
+      invalid_confirmation_token: 'यह पुष्टिकरण लिंक पहले ही उपयोग किया जा चुका है या अमान्य है.'
+      not_authenticated: 'आपको इस पृष्ठ तक पहुँचने की अनुमति नहीं है. लॉग इन करने के बाद पुनः प्रयास करें।'
+      not_found: 'आपके द्वारा अनुरोधित पृष्ठ नहीं मिल सका.'
+      permission_denied: 'आपको इस पृष्ठ तक पहुँचने की अनुमति नहीं है.'
+      unknown: 'इस पृष्ठ को लोड करने का प्रयास करते समय कोई त्रुटि उत्पन्न हुई.'
+    log_out:
+      log_out_button: 'लॉग आउट'
+      title: 'लॉग आउट'
+    reset_password:
+      confirm_password_label: 'नए पासवर्ड की पुष्टि करें'
+      new_password_label: 'नया पासवर्ड'
+      submit_button: 'परिवर्तन सहेजें'
+      title: 'अपना पासवर्ड रीसेट करें'
+    discussion:
+      next_page_button: 'अगला पृष्ठ'
+      previous_page_button: 'पिछला पृष्ठ'
+    index:
+      all_discussions_heading: 'सभी चर्चाएँ'
+      next_page_button: 'अगला पृष्ठ'
+      previous_page_button: 'पिछला पृष्ठ'
+  api:
+    invalid_username_message: 'उपयोगकर्ता नाम में केवल अक्षर, संख्याएं और डैश हो सकते हैं।'
+  email:
+    activate_account:
+      subject: 'अपना नया खाता सक्रिय करें'
+    confirm_email:
+      subject: 'अपने नए ईमेल पते की पुष्टि करें'
+    reset_password:
+      subject: 'अपना पासवर्ड रीसेट करें'
+    send_test:
+      subject: 'फ्लेरम ईमेल टेस्ट'
+  ref:
+    all_discussions: 'सभी चर्चाएँ'
+    change_email: 'ईमेल बदलें'
+    change_password: 'पासवर्ड बदलें'
+    color: रंग
+    confirm_password: 'पासवर्ड की पुष्टि करें'
+    confirm_email: 'ईमेल की पुष्टि करें'
+    custom_footer_text: 'पृष्ठ के बहुत नीचे प्रदर्शित होने के लिए HTML जोड़ें।'
+    custom_footer_title: 'कस्टम पाद लेख संपादित करें'
+    custom_header_text: 'Flarum के अपने हेडर के ऊपर, पृष्ठ के शीर्ष पर प्रदर्शित होने के लिए HTML जोड़ें।'
+    custom_header_title: 'कस्टम शीर्ष लेख संपादित करें'
+    delete: मिटाना
+    delete_forever: 'हमेशा के लिए हटाएं'
+    discussions: चर्चा
+    edit: 'संपादन करना'
+    edit_user: 'उपयोगकर्ता संपादित करें'
+    email: ईमेल
+    extensions: एक्सटेंशन
+    generic_confirmation_message: 'क्या आप वाकई आगे बढ़ना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता.'
+    icon: मूर्ति
+    load_more: 'और लोड करें'
+    loading: लोड।।।
+    log_in: 'लॉग इन करो'
+    log_out: 'लॉग आउट'
+    mark_all_as_read: 'सभी को पढ़े गए के रूप में चिह्नित करें'
+    never: 'कभी नहीं'
+    new_token: 'नया टोकन'
+    next_page: 'अगला पृष्ठ'
+    notifications: सूचनाएँ
+    okay: 'ठीक है'
+    password: पासवर्ड
+    posts: पोस्ट
+    previous_page: 'पिछला पृष्ठ'
+    remove: हटाना
+    rename: पुनर्नामित
+    reply: उत्तर
+    reset_your_password: 'अपना पासवर्ड रीसेट करें'
+    restore: 'पुनर्स्थापित करना'
+    save_changes: 'परिवर्तन सहेजें'
+    search_users: 'उपयोगकर्ताओं को खोजें'
+    security: प्रतिभूति
+    settings: सेटिंग्स
+    sign_up: 'नाम लिखो'
+    start_a_discussion: 'चर्चा प्रारंभ करें'
+    username: 'उपयोगकर्ता नाम'
+    users: उपयोगकर्ताओं
+    view: देखना
+    write_a_reply: 'एक उत्तर लिखें ...'
+    you: तुम
+  group:
+    admin: शासन
+    admins: व्यवस्थापक
+    guest: अतिथि
+    guests: मेहमानों
+    member: सदस्य
+    members: सदस्यों
+    mod: रीति
+    mods: मोड
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'सभी टैग'
+      meta_title_text: टैग
+    choose_tags:
+      title: 'अपनी चर्चा के लिए टैग चुनें'
+    discussion_controls:
+      edit_tags_button: 'टैग संपादित करें'
+    header:
+      back_to_tags_tooltip: 'टैग सूची पर वापस जाएं'
+    index:
+      more_link: अधिक।।।
+      untagged_link: 'अनटैग किया गया'
+      tags_link: टैग
+    composer_discussion:
+      choose_tags_link: 'टैग चुनें'
+  lib:
+    deleted_tag_text: 'हटाए गए'
+    tag_selection_modal:
+      bypass_requirements: 'बायपास टैग आवश्यकताएँ'
+      submit_button: 'ठीक है'
+      title: 'टैग चुनें'
+  ref:
+    choose_tags: 'टैग चुनें'
+    name: नाम
+    tags: टैग
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'उपयोगकर्ता, समूह या पोस्ट का उल्लेख करें'
+    mentioned_by:
+      title: 'इस पोस्ट के जवाब'
+      load_more_button: 'और लोड करें'
+    post:
+      quote_button: उद्धरण
+      reply_link: उत्तर
+      you_text: तुम
+    settings:
+      notify_post_mentioned_label: 'कोई मेरी किसी पोस्ट का जवाब देता है'
+      notify_user_mentioned_label: 'किसी ने मुझे एक पोस्ट में उल्लेख किया'
+      notify_group_mentioned_label: 'कोई व्यक्ति किसी पोस्ट में उस समूह का उल्लेख करता है जिसका मैं सदस्य हूँ'
+    user:
+      mentions_link: उल्लेख
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'अनफ़ॉलो करना'
+      unignore_button: अनसिर
+      follow_button: 'पीछा करना'
+    settings:
+      follow_after_reply_label: 'स्वचालित रूप से उन चर्चाओं का अनुसरण करें जिनका मैं उत्तर देता हूं'
+      notify_for_all_posts_label: 'चर्चा में केवल अंतिम पोस्ट के बजाय हर नई पोस्ट के बारे में सूचित करें'
+      notify_new_post_label: 'कोई व्यक्ति मेरे द्वारा अनुसरण की जा रही चर्चा में पोस्ट करता है'
+    sub_controls:
+      following_text: 'सभी उत्तरों के बारे में सूचित रहें।'
+      ignoring_text: 'कभी सूचित नहीं किया जाएगा। चर्चा सूची से छिपाएँ.'
+      not_following_button: 'अनुसरण नहीं कर रहा है'
+      not_following_text: 'केवल तभी सूचित किया जाए जब @mentioned।'
+      notify_alert_tooltip: 'नई पोस्ट होने पर फ़ोरम सूचना प्राप्त करें'
+      notify_email_tooltip: 'नई पोस्ट होने पर ईमेल प्राप्त करें'
+      follow_button: 'पीछा करना'
+      following_button: 'के परिणामस्‍वरूप'
+      ignoring_button: अनदेखी
+    badge:
+      following_tooltip: 'के परिणामस्‍वरूप'
+      ignoring_tooltip: अनदेखी
+    following:
+      meta_title_text: 'के परिणामस्‍वरूप'
+    index:
+      following_link: 'के परिणामस्‍वरूप'
+  ref:
+    follow: 'पीछा करना'
+    following: 'के परिणामस्‍वरूप'
+    ignoring: अनदेखी
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'आप इस पोस्ट ध्वजांकित करने के लिए धन्यवाद. हमारे मॉडरेटर इस पर गौर करेंगे।'
+      reason_inappropriate_label: अनुपयुक्त
+      reason_inappropriate_text: 'यह पोस्ट आपत्तिजनक, अपमानजनक या हमारे <a>समुदाय दिशानिर्देशों</a> का उल्लंघन करती है.'
+      reason_missing_message: 'कृपया हमारे मध्यस्थों के लिए कुछ विवरण प्रदान करें।'
+      reason_off_topic_label: 'विषय से हटकर'
+      reason_off_topic_text: 'यह पोस्ट वर्तमान चर्चा के लिए प्रासंगिक नहीं है और इसे कहीं और स्थानांतरित किया जाना चाहिए।'
+      reason_other_label: 'अन्य (कृपया बताएँ)'
+      reason_spam_label: स्पैम
+      reason_spam_text: 'यह पोस्ट एक विज्ञापन है।'
+      dismiss_button: 'ठीक है'
+      submit_button: 'फ्लैग पोस्ट'
+      title: 'फ्लैग पोस्ट'
+    flagged_posts:
+      empty_text: 'कोई झंडा नहीं'
+      title: 'ध्वजांकित पोस्ट'
+      tooltip: 'ध्वजांकित पोस्ट'
+    post:
+      dismiss_flag_button: 'झंडा खारिज करें'
+    post_controls:
+      flag_button: झंडा
+  ref:
+    flag_post: 'फ्लैग पोस्ट'
+    flagged_posts: 'ध्वजांकित पोस्ट'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'आपको अनिश्चित काल के लिए निलंबित कर दिया गया है'
+      user_unsuspended_text: 'आपको निलंबित नहीं किया गया है'
+    suspension_info:
+      dismiss_button: हटा
+      indefinite: 'यह एक अनिश्चितकालीन निलंबन है'
+      title: 'यह खाता निलंबित कर दिया गया है'
+    suspend_user:
+      display_message: 'उपयोगकर्ता के लिए संदेश प्रदर्शित करें'
+      indefinitely_label: 'अनिश्चित काल के लिए निलंबित'
+      limited_time_days_text: ' दिन'
+      limited_time_label: 'सीमित समय के लिए निलंबित...'
+      not_suspended_label: 'निलंबित नहीं'
+      placeholder_optional: वैकल्पिक
+      reason: 'निलंबन का कारण'
+      status_heading: 'निलंबन की स्थिति'
+      submit_button: 'परिवर्तन सहेजें'
+    user_badge:
+      suspended_tooltip: निलंबित
+    user_controls:
+      suspend_button: लटकाना
+  email:
+    no_reason_given: 'इस निलंबन का कोई कारण नहीं बताया गया है।'
+    suspended:
+      subject: 'आपका खाता निलंबित कर दिया गया है'
+    unsuspended:
+      subject: 'आपका खाता निलंबित नहीं किया गया है'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'उपयोगकर्ता द्वारा अपलोड की गई सभी फाइलें।', anonymize_description: 'अपलोड की गई फ़ाइलों से उपयोगकर्ता संदर्भ निकालता है। फ़ाइलें स्वयं उन उपयोगकर्ताओं के लिए सुलभ रहती हैं जो उन्हें पूर्व-गुमनामी देख सकते हैं।', delete_description: 'उपयोगकर्ता द्वारा अपलोड की गई सभी फ़ाइलों को हटाता है।' }
+      tagsubscription: { export_description: 'किसी टैग के लिए सदस्यता स्तर का विवरण निर्यात करता है, यदि कोई मौजूद है.', anonymize_description: 'टैग के लिए उपयोगकर्ता की सदस्यता निकालता है।' }
+      followuser: { export_description: 'अनुसरण किए गए उपयोगकर्ताओं और अनुसरण करने वाले उपयोगकर्ताओं के निर्यात विवरण।', delete_description: 'अनुसरण करने वाले उपयोगकर्ताओं से संबंधित सभी डेटा हटाता है।', anonymize_description: 'अनुसरण करने वाले उपयोगकर्ताओं से संबंधित सभी डेटा हटाता है।' }
+      bannedipdata: { export_description: 'यदि कोई IP प्रतिबंध रिकॉर्ड किसी उपयोगकर्ता के साथ संबद्ध है (अर्थात उपयोगकर्ता को IP द्वारा प्रतिबंधित किया गया था), तो उपयोगकर्ता का IP पता प्रतिबंध के कारण और निर्माण तिथि के साथ निर्यात में शामिल किया जाएगा.', anonymize_description: 'उपयोगकर्ता से जुड़े किसी भी आईपी पते को अलग कर दिया जाता है, लेकिन आईपी स्वयं कारण के साथ प्रतिबंधित रहेगा। सुनिश्चित करें कि कोई पीआईआई डेटा ''कारण'' फ़ील्ड में संग्रहीत नहीं है।' }
+fof-upload:
+  forum:
+    media_manager: 'मीडिया प्रबंधक'
+    buttons:
+      attach: चिपका
+      upload: अपलोड
+      upload_shared: साझा
+      user_uploads: 'उपयोगकर्ता अपलोड'
+      cancel: 'रद्द करना'
+      media: 'मेरा मीडिया'
+      shared_media: 'साझा मीडिया'
+    states:
+      error: चूक
+      loading: अपलोड
+      unauthorized: 'आपको फ़ाइलें डाउनलोड करने की अनुमति नहीं है'
+    text_preview:
+      expand: 'पूर्वावलोकन विस्तृत करें'
+      collapse: 'पूर्वावलोकन संक्षिप्त करें'
+      error: "फ़ाइल का पूर्वावलोकन करने में त्रुटि. हो सकता है इसे हटा दिया गया हो, या प्रदान की गई फ़ाइल ID अमान्य हो.\n"
+      no_snippet_preview: '<पूर्वावलोकन पोस्ट करने के बाद यहां दिखाई देगा>'
+      no_snippet: '<कोई पूर्वावलोकन स्निपेट उपलब्ध नहीं है>'
+  api:
+    upload_errors:
+      forbidden_type: 'इस प्रकार की फ़ाइलें अपलोड करने की अनुमति नहीं है.'
+      could_not_detect_mime: 'इस फ़ाइल के MIME प्रकार का पता नहीं लगा सका, कृपया पुन: प्रयास करें.'
+      max_upload_file_size_ini: 'अपलोड अधिकतम फ़ाइल आकार सीमा php.ini से पहुंच गई।'
+      max_upload_file_size_form: 'अपलोड अधिकतम फ़ाइल आकार सीमा प्रपत्र से पहुँच गया.'
+      partial_upload: 'आंशिक अपलोड।'
+      no_file_uploaded: 'कोई फ़ाइल अपलोड नहीं की गई.'
+      no_upload_tmp_folder: 'फ़ाइलें अपलोड करने के लिए कोई tmp फ़ोल्डर नहीं।'
+      cannot_write_to_disk: 'डिस्क पर नहीं लिख सकता.'
+      upload_blocked_by_php_extension: 'एक php एक्सटेंशन ने अपलोड को ब्लॉक कर दिया।'
+  lib:
+    upload-shared-file-modal:
+      title: 'नई साझा की गई फ़ाइल'
+      dropzone: 'फ़ाइलों को यहां खींचें और छोड़ें या ब्राउज़ करने के लिए क्लिक करें'
+      hide-from-media-gallery: 'उपयोगकर्ता की मीडिया गैलरी से छिपाएँ'
+      upload: अपलोड
+    file_list:
+      loading: 'फ़ाइलें लोड हो रही हैं...'
+      empty: 'दिखाने के लिए कोई फाइल नहीं है।'
+      release_to_upload: 'अपलोड करने के लिए रिलीज'
+      modal_empty_desktop: 'आपकी फ़ाइल सूची रिक्त है. अपलोड करने के लिए बटन पर क्लिक करें या फ़ाइल को यहाँ खींचें.'
+      modal_empty_phone: 'आपकी फ़ाइल सूची रिक्त है. फ़ाइल अपलोड करने के लिए ऊपर दिए गए बटन पर टैप करें.'
+      load_more_files_btn: 'अधिक फ़ाइलें लोड करें'
+      hide_file: { hide_success: 'फ़ाइल छिपाई गई', show_success: 'फ़ाइल दिखाई गई है', loading: 'फ़ाइल छुपा रहा है...' }
+      hide_shared_file: { hide_success: 'फ़ाइल को निजी बनाया गया', show_success: 'फाइल सार्वजनिक की गई', loading: 'फ़ाइल को निजी बनाना...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: रूप
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'बोल्ड पाठ जोड़ें'
+      code_tooltip: 'कोड डालें'
+      header_tooltip: 'शीर्ष लेख पाठ जोड़ना'
+      image_tooltip: 'एक छवि जोड़ें'
+      italic_tooltip: 'इटैलिक पाठ जोड़ें'
+      link_tooltip: 'कोई लिंक जोड़ना'
+      ordered_list_tooltip: 'क्रमांकित सूची जोड़ना'
+      quote_tooltip: 'एक कोट सम्मिलित करें'
+      spoiler_tooltip: 'स्पॉइलर डालें'
+      strikethrough_tooltip: 'स्ट्राइकथ्रू पाठ जोड़ें'
+      unordered_list_tooltip: 'कोई बुलेटेड सूची जोड़ना'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'कोई व्यक्ति मेरे द्वारा अनुसरण किए जा रहे टैग में चर्चा बनाता है'
+      notify_new_post_label: 'कोई व्यक्ति मेरे द्वारा अनुसरण किए जा रहे टैग में पोस्ट करता है'
+      notify_new_discussion_tag_label: 'कोई व्यक्ति चर्चा को उस टैग में पुनः टैग करता है जिसका मैं अनुसरण कर रहा हूँ'
+    index:
+      follow_tag_button: 'पीछा करना'
+      unfollow_tag_button: 'फ़ॉलो करना बंद करें'
+      following: { following_none_label: 'इसके बाद की चर्चाएं', following_tags_label: 'फ़ॉलो किए गए टैग' }
+    badge:
+      following_tag_tooltip: 'के परिणामस्‍वरूप'
+      lurking_tag_tooltip: गुप्त
+    sub_controls:
+      following_text: 'सभी नई चर्चाओं के बारे में सूचित रहें।'
+      hiding_text: 'सभी चर्चाएँ पृष्ठ से चर्चाएँ छुपाएँ.'
+      ignoring_text: 'कभी सूचित नहीं किया जाएगा।'
+      lurking_text: 'सभी नई चर्चाओं और उत्तरों के बारे में सूचित रहें।'
+      not_following_button: 'अनुसरण नहीं कर रहा है'
+      not_following_text: 'केवल तभी सूचित किया जाए जब @mentioned।'
+      notify_alert_tooltip: 'नई चर्चाएँ या पोस्ट होने पर फ़ोरम सूचना प्राप्त करें'
+      notify_email_tooltip: 'नई चर्चाएँ या पोस्ट होने पर ईमेल प्राप्त करें'
+      submit_button: 'सदस्यता की पुष्टि करें'
+      follow_button: 'पीछा करना'
+      following_button: 'के परिणामस्‍वरूप'
+      hiding_button: ठुकाई
+      ignoring_button: अनदेखी
+      lurking_button: गुप्त
+    user:
+      settings: { heading: 'टैग का पालन करें', filter_label: 'निम्न पृष्ठ में डिफ़ॉल्ट रूप से क्या दिखाना है' }
+  ref:
+    follow: 'पीछा करना'
+    following: 'के परिणामस्‍वरूप'
+    hiding: ठुकाई
+    ignoring: अनदेखी
+    lurking: गुप्त
+    filtering_options:
+      none: 'इसके बाद की चर्चाएं'
+      tags: 'फ़ॉलो किए गए टैग'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'यह उपनाम अमान्य है. प्रचलित नाम नियमों के बारे में अधिक जानकारी के लिए कृपया अपने फ़ोरम व्यवस्थापक से संपर्क करें.'
+  ref:
+    change_nickname: 'उपनाम बदलें'
+    nickname: उपनाम
+  forum:
+    change_nickname:
+      submit_button: 'परिवर्तन सहेजें'
+      title: 'उपनाम बदलें'
+    edit_user:
+      nicknames_heading: 'उपनाम बदलें'
+      nicknames_text: उपनाम
+    settings:
+      change_nickname_button: 'उपनाम बदलें'
+    sign_up:
+      nickname_placeholder: उपनाम
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'लिंक किए गए खाते', last-used-label: 'अंतिम बार उपयोग किया गया', link-created-label: 'लिंक बनाया गया', orphaned-account: 'आपने पहले इस प्रदाता के माध्यम से साइन इन किया है, लेकिन इस फ़ोरम ने तब से इस विधि के साथ साइन-इन अक्षम कर दिया है।', help: 'ये लिंक किए गए खाते आपको अन्य प्रदाताओं का उपयोग करके फ़ोरम में साइन इन करने की अनुमति देते हैं।' } }
+    signup:
+      username_help: 'कृपया यहां से ज्ञात होने के लिए एक उपयोगकर्ता नाम चुनें'
+    unlink: 'लिंक हटाएं'
+    error:
+      bad_verification_code: 'अमान्य या समय-सीमा समाप्त सत्यापन टोकन। कृपया पुनः प्रयास करें.'
+      invalid_state: 'अमान्य स्थिति। कृपया पुनः प्रयास करें.'
+    providers:
+      discord: झगड़ा
+      facebook: फेसबुक
+      github: गिटहब
+      gitlab: गिटलैब
+      google: गूगल
+      linkedin: लिंक्चर्ड
+      twitter: चहचहाहट
+  lib:
+    providers:
+      discord: झगड़ा
+      facebook: फेसबुक
+      github: गिटहब
+      gitlab: गिटलैब
+      twitter: चहचहाहट
+      google: गूगल
+      linkedin: लिंक्चर्ड
+  ref:
+    settings:
+      app_id: 'ऐप आईडी'
+      app_secret: 'ऐप सीक्रेट'
+      client_id: 'क्लाइंट ID'
+      client_secret: 'क्लाइंट सीक्रेट'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'किसी अन्य उपयोगकर्ता के रूप में लॉगिन करें'
+      placeholder_optional: '(वैकल्पिक) इस उपयोगकर्ता पर स्विच करने का अपना कारण प्रदान करें'
+      placeholder_required: 'आगे बढ़ने से पहले आपको इस उपयोगकर्ता पर स्विच करने का अपना कारण बताना होगा'
+    user_controls:
+      impersonate_button: 'उपयोगकर्ता के रूप में लॉगिन करें'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'निजी चर्चा' }
+    buttons:
+      add_recipients: प्राप्तकर्ताओं
+      submit: 'ठीक है'
+      edit_recipients: 'प्राप्तकर्ताओं को संपादित करें'
+      cancel: 'रद्द करना'
+      make_public: 'इस चर्चा को सार्वजनिक करें'
+      remove_from_discussion: 'इस निजी चर्चा को छोड़ दें'
+    composer_private_discussion:
+      submit_button: 'पोस्ट निजी चर्चा'
+      title_placeholder: 'निजी चर्चा शीर्षक'
+    confirm:
+      make_public: 'क्या आप वाकई प्राप्तकर्ताओं को निकालना चाहते हैं और इस चर्चा को उन सभी के लिए दृश्यमान बनाना चाहते हैं जो असाइन किए गए टैग को देख सकते हैं?'
+    nav:
+      start_button: 'निजी तौर पर चर्चा करें'
+      nav_item: 'निजी चर्चाएं'
+    input:
+      search_recipients: 'पहले तीन अक्षर लिखकर प्राप्तकर्ता खोजें...'
+    search:
+      headings: { groups: 'अनुमति समूह' }
+    modal:
+      titles: { add_recipients: 'अपनी चर्चा में प्राप्तकर्ता जोड़ें' }
+      labels: { selected_users: 'चयनित उपयोगकर्ता', search_field: 'उपयोगकर्ता के लिए खोजें' }
+      help: { add_recipients: 'यह चर्चा केवल आपके द्वारा यहां चुने गए उपयोगकर्ताओं को दिखाई देगी। कम से कम 1 प्राप्तकर्ता (आपके अलावा) आवश्यक है।', update_recipients: 'यह चर्चा केवल आपके द्वारा यहां चुने गए उपयोगकर्ताओं को दिखाई देगी।', selected_users: 'किसी उपयोगकर्ता को निकालने के लिए उसके नाम पर क्लिक करें.', click_user_to_remove_tooltip: 'हटाने के लिए क्लिक करें' }
+    user:
+      settings: { block_pd: 'निजी चर्चाओं को ब्लॉक करें' }
+      byobu_link: 'निजी चर्चाएं'
+      dropdown_label: 'निजी चर्चाएं'
+    notifications:
+      pd_label: 'कोई मुझे एक नई निजी चर्चा में शामिल करता है'
+      pd_reply_label: 'कोई व्यक्ति किसी निजी चर्चा में पोस्ट करता है जिसका मैं प्राप्तकर्ता हूं'
+      pd_user_left_label: 'एक प्राप्तकर्ता उपयोगकर्ता एक निजी चर्चा छोड़ देता है जिसका मैं एक हिस्सा हूं'
+      pd_added_label: 'कोई मुझे मौजूदा निजी चर्चा में जोड़ता है'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'बैज की जानकारी'
+    all_badges: 'सभी बैज देखें'
+    all_users: 'सभी उपयोगकर्ता देखें'
+    give_badge: 'बैज दें'
+    update_badge: 'बैज अपडेट करें'
+    select_badge: 'बैज का चयन करें'
+    user_has_badge: 'उपयोगकर्ता के पास पहले से ही यह बैज है।'
+    user_no_badges: 'इस उपयोगकर्ता के पास अभी तक कोई बैज नहीं है।'
+    no_received: 'किसी भी उपयोगकर्ता ने यह बैज अर्जित नहीं किया है.'
+    save_changes: 'परिवर्तन सहेजें'
+    badge:
+      badge: बैज
+      badges: बैज
+      name: 'बैज का नाम'
+      description: 'बैज विवरण'
+      earning_reason: 'बैज कमाई का कारण'
+      update_earning_reason: 'कमाई का कारण अपडेट करें'
+      no_earning_reason: 'कोई कमाई का कारण निर्धारित नहीं है'
+      earned_on: 'बैज अर्जित किया गया'
+      category: 'बैज श्रेणी'
+      badge_details: 'बैज विवरण'
+    badges_in_card:
+      title: 'उपयोगकर्ता कार्ड में बैज'
+      manage_badges: 'बैज प्रबंधित करें'
+      description: 'आप अपने उपयोगकर्ता कार्ड में दृश्यमान बैज को अपने किसी अन्य बैज से बदल सकते हैं। यदि आप कोई भी चयन नहीं करते हैं, तो वे स्वचालित रूप से चयनित हो जाएंगे.'
+    moderation:
+      remove_badge: 'उपयोगकर्ता से बैज निकालें'
+      remove_badge_confirm: 'क्या आप वाकई इस उपयोगकर्ता से यह बैज निकालना चाहते हैं?'
+      give_badge: 'बैज दें'
+    notification:
+      title: 'आपको एक नया बैज मिला है'
+      settings: 'मुझे एक बैज मिला है'
+    uncategorized: 'संयुक्त राष्ट्र वर्गीकृत'
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'दयनीय स्थिति'
+      not_miserable_label: 'दुखी नहीं'
+      indefinitely_label: 'अनिश्चित काल के लिए दुखी'
+      limited_time_label: 'सीमित समय के लिए दुखी...'
+      limited_time_days_text: ' दिन'
+      submit_button: 'परिवर्तन सहेजें'
+    user_badge:
+      miserable_user_tooltip: 'दुखी उपयोगकर्ता'
+    user_controls:
+      miserable_user_button: 'दुखी उपयोगकर्ता'
+  ref:
+    miserable_user: 'दुखी उपयोगकर्ता'
+sycho-profile-cover:
+  forum:
+    cover: आवरण
+    edit_cover: 'कवर संपादित करें'
+    added:
+      success: 'प्रोफाइल कवर अपडेट किया गया।'
+      error: 'छवि अपलोड नहीं की जा सकी.'
+    removed:
+      success: 'प्रोफ़ाइल कवर हटा दिया गया।'
+      error: 'कवर नहीं निकाल सका, बाद में पुन: प्रयास करें.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'क्लिपबोर्ड पर कॉपी करें'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'अंतिम आगंतुक', guest: अतिथि }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'देश कोड'
+    saveButton: 'रक्षा कर'
+    clickToSelectCountry: 'अपना देश चुनें'
+    countrySaved: 'देश को सफलतापूर्वक बचाया गया!'
+    field_placeholder: 'देश के झंडे की पुष्टि करें'
+    binding_country: 'हमने पाया कि आपने अपने ठिकाने को बाध्य नहीं किया है। कृपया पहले अपने देश को लिंक करें। आप अपने देश को लिंक करने के बाद ही संदेश पोस्ट कर सकते हैं और छोड़ सकते हैं।'
+    binding_country_click: 'अभी क्लिक करें'
+username-blacklist:
+  forum:
+    modal-title: चेतावनी!
+    modal-body-first-line: 'चेतावनी - यह उपयोगकर्ता नाम <strong>व्यवस्थापक द्वारा अवरुद्ध</strong> है'
+    modal-body-second-line: 'कृपया कोई ऐसा उपयोगकर्ता नाम चुनें जो हमारे समुदाय दिशानिर्देशों का उल्लंघन न करता हो और पुनः प्रयास करें.'
+  admin:
+    blackList: 'ब्लैक लिस्टेड उपयोगकर्ता नाम'
+    blackList-help: 'यहां उपयोगकर्ता नाम लिखें जिसे आप पंजीकरण के दौरान ब्लॉक करना चाहते हैं (अल्पविराम द्वारा अलग)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: रूपरेखा, show-summaries: 'चर्चा सूचियों में प्रत्येक चर्चा का एक अंश प्रदर्शित करें (डेस्कटॉप/टैबलेट)', show-summaries-mobile: 'चर्चा सूचियों में प्रत्येक चर्चा का एक अंश प्रदर्शित करें (मोबाइल)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'फोरम गतिविधि'
+      forum_new_discussions: 'फोरम की नई चर्चाएं'
+      discussion_last_posts: 'यह चर्चा'
+      user_last_posts: 'इस उपयोगकर्ता द्वारा पोस्ट & टिप्पणियाँ'
+    feeds:
+      titles: { main_subtitle: 'फोरम में अंतिम पोस्ट', main_d_subtitle: 'मंच में नवीनतम चर्चाएं', discussion_subtitle: 'इस चर्चा में अंतिम संदेश', user_subtitle: 'इस उपयोगकर्ता द्वारा नवीनतम पोस्ट और टिप्पणियां।' }
+    discussion:
+      feed_link: खिलाना
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: बाद
+    profile_page:
+      no_following: 'ऐसा लगता है कि आप किसी का अनुसरण नहीं कर रहे हैं।'
+    settings:
+      notify_new_follower_label: 'कोई मेरा पीछा करता है'
+      notify_new_unfollower_label: 'कोई मेरा पीछा करना बंद कर देता है'
+      notify_new_discussion_label: 'मैं जिस व्यक्ति का अनुसरण कर रहा हूँ वह चर्चा शुरू करता है'
+      notify_new_post_label: 'कोई ऐसा व्यक्ति जिसका मैं किसी मौजूदा चर्चा में पोस्ट का अनुसरण कर रहा हूँ'
+      block_follow: 'उपयोगकर्ताओं को मेरा अनुसरण करने से रोकें'
+    badge:
+      label: { follow: 'चर्चाओं के बाद', lurk: 'सभी का पालन करना' }
+    filter:
+      following: 'फ़ॉलो किए गए उपयोगकर्ता'
+    modals:
+      select_follow_level: { follow_levels_heading: 'स्तरों का पालन करें', follow_select_label: 'फ़ॉलो प्रकार', no_user_attr_provided_err: 'उह ओह, इस मोडल को खोलते समय कुछ गलत हो गया।', no_user_attr_provided_err_debug: 'बनाते समय SelectFollowUserLevel मोडल में कोई ''उपयोगकर्ता'' विशेषता पास नहीं की गई थी। मॉडल का प्रतिपादन नहीं किया जा सकता।', save_btn: 'रक्षा कर', cancel_btn: 'रद्द करना' }
+    profile_link: 'फ़ॉलो किए गए उपयोगकर्ता'
+    user_controls:
+      follow_button: 'पीछा करना'
+      unfollow_button: 'अनफ़ॉलो करना'
+      change_button: 'फ़ॉलो करने का प्रकार बदलना'
+    index:
+      follow_tag_button: 'पीछा करना'
+      unfollow_tag_button: 'फ़ॉलो करने का प्रकार बदलना'
+  email:
+    new_follower_subject: '[उपयोगकर्ता का अनुसरण करें] आपके पास एक नया अनुयायी है!'
+  lib:
+    following_link: 'फ़ॉलो किए गए उपयोगकर्ता'
+    follow: 'पीछा करना'
+    change_follow_type: 'फ़ॉलो करने का प्रकार बदलना'
+    unfollow: 'अनफ़ॉलो करना'
+    follow_levels:
+      unfollow: { name: 'का पालन न करें' }
+      follow: { name: 'चर्चाओं का पालन करें' }
+      lurk: { name: 'सभी का पालन करें' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'कृपया सुनिश्चित करें कि यह अनुरोधित उपनाम परिवर्तन फ़ोरम दिशानिर्देशों का पालन करता है.', decision_title: निर्णय, approval_label: 'समर्थन कर', rejected_label: 'अस्वीकार करना', submit_button: 'जमा करें', reason_title: 'अस्वीकृति का कारण', success: 'निर्णय भेज दिया गया है।', title: 'उपनाम परिवर्तन अनुरोध' }
+      results: { title: 'उपनाम परिवर्तन अनुरोध', approved: 'आपका उपनाम परिवर्तन अनुरोध स्वीकार कर लिया गया है', rejected: 'आपका उपनाम परिवर्तन अनुरोध अस्वीकार कर दिया गया था', resubmit: 'इस समय, यदि आप ऐसा चुनते हैं, तो आप अपनी खाता सेटिंग से एक नया उपनाम परिवर्तन अनुरोध पुनः सबमिट कर सकते हैं।', dismiss_button: 'ठीक है' }
+      request: { title: 'उपनाम परिवर्तन का अनुरोध करें', submit_button: 'अनुरोध सबमिट करें', delete_button: 'अनुरोध हटाएं', confirmation_message: 'आपका उपनाम परिवर्तन अनुरोध सबमिट कर दिया गया है और अनुमोदन लंबित है।', deleted: 'उपनाम अनुरोध हटा दिया गया.', dismiss_button: 'ठीक है' }
+    username_modals:
+      action: { help_text: 'कृपया सुनिश्चित करें कि यह अनुरोधित उपयोगकर्ता नाम परिवर्तन फ़ोरम दिशानिर्देशों का पालन करता है.', decision_title: निर्णय, approval_label: 'समर्थन कर', rejected_label: 'अस्वीकार करना', submit_button: 'जमा करें', reason_title: 'अस्वीकृति का कारण', success: 'निर्णय भेज दिया गया है।', title: 'उपयोगकर्ता नाम बदलने का अनुरोध' }
+      results: { title: 'उपयोगकर्ता नाम बदलने का अनुरोध', approved: 'आपका उपयोगकर्ता नाम बदलने का अनुरोध स्वीकार कर लिया गया है', rejected: 'आपका उपयोगकर्ता नाम बदलने का अनुरोध अस्वीकार कर दिया गया था', resubmit: 'इस समय, यदि आप ऐसा करना चुनते हैं, तो आप अपनी खाता सेटिंग से एक नया उपयोगकर्ता नाम परिवर्तन अनुरोध पुनः सबमिट कर सकते हैं.', dismiss_button: 'ठीक है' }
+      request: { title: 'उपयोगकर्ता नाम बदलने का अनुरोध करें', submit_button: 'अनुरोध सबमिट करें', delete_button: 'अनुरोध हटाएं', confirmation_message: 'आपका उपयोगकर्ता नाम बदलने का अनुरोध सबमिट कर दिया गया है और अनुमोदन लंबित है.', deleted: 'उपयोगकर्ता नाम अनुरोध हटा दिया गया.', dismiss_button: 'ठीक है' }
+    pending_requests:
+      empty_text: 'कोई नाम परिवर्तन अनुरोध नहीं मिला.'
+      tooltip: 'नाम परिवर्तन अनुरोध'
+      title: 'नाम परिवर्तन अनुरोध'
+    settings:
+      nickname_request_button: 'उपनाम बदलें'
+      username_request_button: 'उपयोगकर्ता नाम बदलें'
+    user:
+      name_history_link: 'नाम इतिहास'
+  ref:
+    name_change_request: 'नाम बदलने का अनुरोध'
+    name_change_requests: 'नाम परिवर्तन अनुरोध'
+    nickname_change_request: 'उपनाम परिवर्तन अनुरोध'
+    nickname_change_requests: 'उपनाम परिवर्तन अनुरोध'
+    username_change_request: 'उपयोगकर्ता नाम बदलने का अनुरोध'
+    username_change_requests: 'उपयोगकर्ता नाम बदलने के अनुरोध'
+  email:
+    body:
+      noReasonProvided: 'कोई कारण नहीं बताया गया।'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'अपने बारे में कुछ लिखें'
+    profile:
+      cancel_confirm: 'क्या आप वाकई अपने परिचय का संपादन रद्द करना चाहते हैं? आप अपने द्वारा किए गए किसी भी परिवर्तन को खो देंगे।'
+      cancel_button: 'रद्द करना'
+      save_button: 'रक्षा कर'
+      edit_bio_label: 'बायो संपादित करें'
+fof-split:
+  forum:
+    split:
+      from: 'यहाँ से अलग हो जाओ'
+      to: 'यहाँ करने के लिए विभाजित'
+      cancel: 'विभाजन रद्द करें'
+    modal:
+      title: 'विभाजित चर्चा'
+      new_discussion_label: 'नई चर्चा के लिए शीर्षक निर्दिष्ट करें'
+      submit_button: चीरना
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'अपने सोशल मीडिया बटन संपादित करें'
+      add: 'अपने सोशल मीडिया में बटन जोड़ें'
+      headtitle: 'बटन संपादित करें'
+      title: उपाधि
+      url: यूआरएल
+      submit: 'रक्षा कर'
+      delete: मिटाना
+      deletetitle: 'बटन हटाएँ'
+      save_disabled_fetching_favicons: 'एक या अधिक चिह्न फ़ेच किए जा रहे हैं. कृपया प्रतीक्षा करो।'
+      favicon: फ़ेविकॉन
+      grey_favicon: 'ग्रे फ़ेविकॉन'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: पत्ती
+      share_dropdown_accessible_label: 'टॉगल चर्चा शेयर ड्रॉपडाउन मेनू'
+    modal:
+      title: पत्ती
+      copy_button: प्रतिलिपि
+  lib:
+    networks:
+      facebook: फेसबुक
+      twitter: चहचहाहट
+      linkedin: लिंक्चर्ड
+      reddit: रेडिट
+      whatsapp: व्हॉट्सअप�
+      telegram: टेलीग्राम
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'मेरी दुनिया'
+      qq: 'क्यू क्यू'
+      qzone: क्यूज़ोन
+      native: 'नेटिव शेयर'
+fof-recaptcha:
+  forum:
+    error: 'reCAPTCHA सबमिट करने में कोई त्रुटि आई। फिर कोशिश करो।'
+    unknown_error: 'कोई अज्ञात त्रुटि उत्पन्न हुई. कैप्चा की जाँच करें और पुनः प्रयास करें।'
+fof-reactions:
+  forum:
+    disabled-reaction: 'आप अभी इस प्रतिक्रिया का उपयोग नहीं कर सकते, कृपया पृष्ठ को ताज़ा करें'
+    warning: 'आपकी प्रतिक्रिया परिवर्तित हो गई थी'
+    settings:
+      notify_post_reacted_label: 'कोई मेरी पोस्ट पर प्रतिक्रिया देता है'
+    reacting-own-post: 'आप अपनी ही पोस्ट पर प्रतिक्रिया नहीं दे सकते'
+    modal:
+      title: प्रतिक्रियाओं
+      no_reactions: 'अभी तक कोई प्रतिक्रिया नहीं'
+    mod_item: 'रिएक्शन देखें'
+    react_button_label: 'प्रतिक्रिया करना'
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'छवि क्रॉपर लोड करने में विफल।', generic_resize: 'छवि को काटते और आकार बदलते समय कुछ गलत हो गया।', get_image_data: 'फसल करने में विफल। सुनिश्चित करें कि आपके ब्राउज़र की फ़िंगरप्रिंटिंग सुरक्षा अक्षम है.' }
+      help_text: "यदि आपके ब्राउज़र की गोपनीयता सेटिंग्स बहुत सख्त हैं, तो छवि अपलोड विफल हो सकता है। अगर आपको समस्या आ रही है, तो फ़िंगरप्रिंटिंग सुरक्षा अक्षम करके देखें. अन्यथा, आप या तो <disableResize>क्रॉप की गई छवि को संपीड़ित करना अक्षम</disableResize> कर सकते हैं या <disableCrop>क्रॉपिंग को पूरी तरह से अक्षम कर सकते हैं</disableCrop>।\n"
+      submit_button: अपलोड
+      submit_crop_button: 'फसल & अपलोड'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'यह बहुत संभावना है कि इसे किसी और चर्चा की आवश्यकता नहीं है और इस प्रकार इसे टक्कर देने से कोई उद्देश्य नहीं है।', checkbox_label: 'मुझे पता है कि यह चर्चा काफी पुरानी है लेकिन फिर भी मैं इसका उत्तर देना चाहूंगा।', error: 'यह चर्चा उत्तर देने के लिए बहुत पुरानी है।' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'आपको वोट देने की अनुमति नहीं है'
+    poll_ended: 'यह पोल खत्म हो चुका है।'
+    public_poll: 'मतदाताओं को देखें'
+    composer_discussion:
+      add_poll: 'पोल जोड़ें'
+      edit_poll: 'पोल संपादित करें'
+    modal:
+      add_title: 'पोल जोड़ें'
+      add_option_label: 'एक विकल्प जोड़ें'
+      edit_title: 'पोल संपादित करें'
+      include_question: 'आपको एक प्रश्न शामिल करना होगा'
+      max: 'आपके पास अधिकतम 10 उत्तर हो सकते हैं'
+      min: 'आपको कम से कम 2 उत्तर शामिल करने होंगे'
+      no_voters: 'कोई वोट नहीं'
+      option_placeholder: हल
+      image_option_placeholder: 'छवि URL (वैकल्पिक)'
+      options_label: जवाब
+      public_poll_label: 'लोगों को यह देखने दें कि किसने मतदान किया'
+      allow_multiple_votes_label: 'लोगों को कई विकल्पों के लिए वोट करने दें'
+      max_votes_label: 'प्रति उपयोगकर्ता अधिकतम वोट'
+      max_votes_help: 'उपयोगकर्ताओं को सभी विकल्पों के लिए वोट करने की अनुमति देने के लिए 0 पर सेट करें।'
+      question_placeholder: प्रश्न
+      submit: 'जमा करें'
+    moderation:
+      delete: 'पोल निकालें'
+      delete_confirm: 'क्या आप वाकई इस पोल को हटाना चाहते हैं?'
+      edit: 'पोल संपादित करें'
+    tooltip:
+      badge: मतदान
+    votes_modal:
+      title: मतदाताओं
+fof-nightmode:
+  ref:
+    auto: 'स्वचालित (ब्राउज़र या डिवाइस विकल्पों के आधार पर)'
+    light: 'दिन मोड'
+    dark: 'नाइट मोड'
+  forum:
+    header:
+      nightmode_button: 'नाइट मोड'
+    user:
+      settings: { heading: विषय, description: 'चुनें कि आप फ़ोरम पर किस रंग थीम का उपयोग करना चाहते हैं।', description2: 'यह थीम आपके खाते से लिंक हो जाएगी और आपके सभी उपकरणों पर लागू होगी जब तक कि आप प्रति डिवाइस सेटिंग के लिए नीचे दिए गए स्विच पर टॉगल नहीं करते।', device_specific_setting_checkbox: 'प्रति डिवाइस सेटिंग का उपयोग करें', device_specific_setting_checkbox_tooltip: 'आपकी थीम पसंद आपके प्रत्येक डिवाइस के लिए अलग-अलग सहेजी जाएगी।', auto_unsupported: 'आपका ब्राउज़र ऑटो डार्क मोड का समर्थन नहीं करता है।', option_descriptions: { auto: 'आपकी थीम आपके ब्राउज़र या डिवाइस सेटिंग के आधार पर स्वचालित रूप से चयनित हो जाएगी. उदाहरण के लिए, यदि आपके पास आईओएस में डार्क मोड सक्षम है, तो फ़ोरम भी अंधेरे होंगे।', day: 'क्लासिक अनुभव जिसके आप अभ्यस्त हैं। प्यार किया और परीक्षण किया।', night: 'तुम एक रात उल्लू का एक सा कर रहे हैं. आप रात में मंच पर देखते हैं, जबकि पक्षी सो रहे हैं और लोमड़ियां शिकार कर रही हैं। या आप सिर्फ गहरे रंग पसंद करते हैं!' }, options: { auto: 'स्वचालित (ब्राउज़र या डिवाइस विकल्पों के आधार पर)', day: 'दिन मोड', night: 'नाइट मोड' } }
+    day: 'दिन मोड'
+    night: 'नाइट मोड'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'एक खाली नोट की अनुमति नहीं है।'
+    moderatorNotes:
+      add_button: 'नया नोट'
+      create-heading: 'एक नया मॉडरेटर नोट बनाएँ'
+      dismiss_button: समाज-सम्मत
+      noNotes: 'ऐसा लगता है कि यहां कोई नोट नहीं हैं।'
+      submit_button: 'नोट सहेजें'
+      delete: मिटाना
+      confirm: 'क्या आप वाकई इस नोट को हटाना चाहते हैं?'
+    user:
+      notes: 'मॉडरेटर नोट्स'
+  api:
+    no_reason_provided: 'कोई कारण नहीं बताया गया'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: वोट
+    vote_title: 'दिखाएं कि किसने मतदान किया'
+    nav:
+      name: रैंकिंग
+    ranking:
+      rank: स्थान
+      name: उपभोक्ता
+      amount: अंक
+    notification:
+      prefrences: { vote: 'जब मेरी एक पोस्ट ऊपर/नीचे मतदान की जाती है' }
+    user:
+      votes_link: वोट
+    modal:
+      downvotes_label: 'डाउनवोटर:'
+      title: मतदाताओं
+      upvotes_label: 'अपवोटर्स:'
+    mod_item: 'मतदाता देखें'
+    voters:
+      none: 'अभी तक कोई मतदाता नहीं'
+      label: मतदाताओं
+      label_none: 'मतदाता नहीं'
+    post:
+      upvote_button: 'अपवोट पोस्ट'
+      downvote_button: 'डाउनवोट पोस्ट'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'शेड्यूल किए गए प्रारूप वर्तमान में सेटिंग्स में अक्षम हैं.'
+  ref:
+    schedule_draft: 'अनुसूची मसौदा'
+  forum:
+    composer:
+      title: 'ड्राफ्ट सहेजें'
+      saving: बचत।।।
+      saved: सहेजा!
+      exit_alert: 'ड्राफ़्ट में परिवर्तन छोड़ें?'
+      discard_empty_draft_alert: 'खाली ड्राफ्ट त्यागें?'
+    dropdown:
+      empty_text: 'आपने कोई ड्राफ़्ट नहीं सहेजा है'
+      title: ड्राफ्ट
+      delete_all_button: 'सभी ड्राफ़्ट हटाएँ'
+      delete_button: 'ड्राफ़्ट हटाएं'
+      scheduled_icon_tooltip_formatter: 'एल [पर] एलटी'
+      alert: 'क्या आप वाकई अपना ड्राफ़्ट हटाना चाहते हैं?'
+      delete_all_alert: 'क्या आप वाकई अपने सभी प्रारूप हटाना चाहते हैं?'
+      schedule_button: 'अनुसूची मसौदा'
+      tooltip: ड्राफ्ट
+    schedule_draft_modal:
+      text: 'अपने ड्राफ़्ट को बाद में स्वचालित रूप से पोस्ट करने के लिए शेड्यूल करें!'
+      unschedule_button: 'शेड्यूल नहीं'
+      unschedule_warning: 'क्या आप वाकई इस प्रारूप को शेड्यूल रद्द करना चाहते हैं?'
+      reschedule_button: पुनर्निर्धारित
+      schedule_button: अनुसूची
+      schedule_time_preview_formatter: एलएलएलएल
+      schedule_time_preview_invalid: 'अमान्य दिनांक और/या समय'
+      title: 'अनुसूची मसौदा'
+    user:
+      settings: { drafts_heading: ड्राफ्ट, draft_autosave_enable: 'ड्राफ्ट स्वतः सहेजना सक्षम करें?', draft_autosave_interval_label: 'स्वतः सहेजना अंतराल (सेकंड)', draft_autosave_interval_button: 'अंतराल अद्यतन करें', draft_autosave_interval_invalid: 'अंतराल 4 से बड़ा पूर्णांक होना चाहिए.' }
+fof-best-answer:
+  forum:
+    answered_badge: उत्तर
+    this_best_answer: 'सर्वश्रेष्ठ उत्तर का चयन करें'
+    remove_best_answer: 'सर्वश्रेष्ठ उत्तर का चयन रद्द करें'
+    best_answer_button: 'सर्वश्रेष्ठ उत्तर'
+    errors:
+      mismatch: 'चयनित पोस्ट इस चर्चा में मौजूद नहीं है.'
+    notification:
+      content: 'यदि आपके प्रश्न का उत्तर दिया गया है तो कृपया सर्वश्रेष्ठ उत्तर चुनें'
+      preferences: { awarded_best_answer: 'कोई मेरी पोस्ट को सर्वश्रेष्ठ उत्तर के रूप में सेट करता है', best_answer_in_discussion: 'एक सबसे अच्छा जवाब उस चर्चा में सेट किया गया है जिसमें मैंने भाग लिया था', select_best_answer: 'मेरे द्वारा शुरू की गई चर्चा में सर्वश्रेष्ठ उत्तर का चयन करने के लिए एक स्वचालित अनुस्मारक' }
+    index:
+      ask_question: 'एक प्रश्न पूछें'
+      cannot_ask_question: 'प्रश्न नहीं पूछ सकते'
+      solved_link: 'हल की गई चर्चाएँ'
+      unsolved_link: 'अनसुलझी चर्चा'
+    filter:
+      all_label: 'सभी सवाल'
+      solved_label: 'हल किए गए प्रश्न'
+      unsolved_label: 'अनसुलझे प्रश्न'
+      accessible_label: 'हल/अनसुलझा चयन'
+    composer:
+      titlePlaceholder: 'प्रश्न का शीर्षक'
+    search:
+      discussions_solutions_heading: 'समाधान के साथ चर्चा'
+    discussion:
+      jump_to_best_answer_button: 'सर्वश्रेष्ठ उत्तर देखें'
+  email:
+    subject:
+      select: 'क्या आप अपने प्रश्न का उत्तर देने का प्रबंधन करते हैं?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'सबसे बेहतरीन जवाब'
+      least_best_answers: 'कम से कम सबसे अच्छे जवाब'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'किसी और पर प्रतिबंध नहीं लगाया जाएगा'
+    user_badge:
+      banned_tooltip: प्रतिबंधित
+    ban_ip_button: 'आईपी पर प्रतिबंध लगाएं'
+    unban_ip_button: 'अनबैन आईपी'
+    user_controls:
+      ban_button: आधिकारिक
+      unban_button: अनबैन
+  error:
+    banned_ip_message: 'प्राधिकरण विफल रहा।'
+    no_ips_found_message: 'उपयोगकर्ता के लिए कोई आईपी नहीं मिला।'
+  lib:
+    modal:
+      check_button: जाँच
+      save_button: 'रक्षा कर'
+      ban_ip_confirmation: 'क्या आप वाकई इस IP पते को फ़ोरम पर उपयोग से अवरोधित करना चाहते हैं? यह इस आईपी पते (तों) वाले उपयोगकर्ताओं को लॉग इन करने और पंजीकरण करने से रोक देगा।'
+      unban_ip_confirmation: 'क्या आप वाकई इस उपयोगकर्ता और अन्य सभी उपयोगकर्ताओं को अन्य IP द्वारा प्रतिबंधित नहीं करना चाहते हैं?'
+      unban_ip_no_users: 'किसी और पर से प्रतिबंध नहीं हटाया जाएगा'
+      title: 'आईपी पर प्रतिबंध लगाएं'
+      unban_title: 'अनबैन आईपी'
+      address_label: 'IP पता'
+      reason_label: कारण
+      ban_button: आधिकारिक
+      unban_button: अनबैन
+  ref:
+    ban_label: आधिकारिक
+    ban_ip_addresses: 'आईपी पर प्रतिबंध लगाएं'
+    ban_ip_button: 'आईपी पर प्रतिबंध लगाएं'
+    unban_label: अनबैन
+    unban_ip_addresses: 'अनबैन आईपी'
+    unban_ip_button: 'अनबैन आईपी'
+    address_label: 'IP पता'
+    reason_label: कारण
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'आपके रजिस्ट्रेशन की डिटेल स्पैम प्रिवेंशन डेटाबेस में मिली है, इसलिए आपका रजिस्ट्रेशन ब्लॉक कर दिया गया है।' }
+    spammer_modal:
+      hard_delete_discussions_label: 'चर्चाएँ हटाएँ'
+      hard_delete_discussions_help: 'यह इस उपयोगकर्ता द्वारा प्रारंभ की गई सभी चर्चाओं को स्थायी रूप से हटा देगा. अक्षम होने पर, इसके बजाय चर्चाएँ छुप जाएँगी.'
+      hard_delete_posts_label: 'पोस्ट हटाएं'
+      hard_delete_posts_help: 'यह इस उपयोगकर्ता द्वारा किए गए सभी पोस्ट (टिप्पणियां, उत्तर, आदि) को स्थायी रूप से हटा देगा। अक्षम होने पर, इसके बजाय पोस्ट छिपा दी जाएंगी।'
+      hard_delete_user_label: 'उपयोगकर्ता हटाएं'
+      hard_delete_user_help: 'यह उपयोगकर्ता को स्थायी रूप से हटा देगा। अक्षम होने पर, उपयोगकर्ता को इसके बजाय निलंबित कर दिया जाएगा।'
+      intro: 'किसी उपयोगकर्ता को स्पैमर के रूप में चिह्नित करते समय, कई कार्रवाइयां की जाएंगी, जो आपके फ़ोरम पर उपलब्ध एक्सटेंशन पर निर्भर करती हैं.'
+      move_discussions_tag_label: 'चर्चाओं को क्वारंटाइन टैग पर ले जाएं'
+      move_discussions_tag_help: 'यह इस उपयोगकर्ता द्वारा शुरू की गई सभी चर्चाओं को आपके द्वारा फ़ोरम सेटिंग्स में निर्दिष्ट टैग पर ले जाएगा। अक्षम होने पर, चर्चाएँ उनके वर्तमान टैग में छोड़ दी जाएँगी.'
+      process_button: प्रक्रिया
+      report_to_sfs_label: 'StopForumSpam को रिपोर्ट करें'
+      report_to_sfs_help: 'यह उपयोगकर्ता के मूल विवरण (उपयोगकर्ता नाम, ईमेल, आईपी पता) को StopForumSpam को रिपोर्ट करेगा। यह उपयोगकर्ता को StopForumSpam सेवा का उपयोग करने वाले अन्य मंचों पर पंजीकरण करने से रोकने में मदद करेगा।'
+    user_controls:
+      spammer_button: स्पैमर
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'चर्चा दृश्य गणना रीसेट करें'
+      submit: 'जमा करें'
+      label: 'देखने की संख्या पर सेट करें'
+    discussion_controls:
+      resetviews_button: 'दृश्य गणना सेट करें'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: 'चिपचिपा नहीं'
+      sticky_button: चिपचिपा
+    badge:
+      sticky_tooltip: चिपचिपा
+  ref:
+    sticky: चिपचिपा
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: अवरोधित
+    discussion_controls:
+      lock_button: ताला
+      unlock_button: 'ताला खोलना'
+    settings:
+      notify_discussion_locked_label: 'कोई मेरे द्वारा शुरू की गई चर्चा को लॉक करता है'
+flarum-likes:
+  forum:
+    post:
+      like_link: पसंद
+      unlike_link: 'के विपरीत'
+      you_text: तुम
+    post_likes:
+      title: 'यूजर्स को जो इसे पसंद करते हैं'
+      load_more_button: 'और लोड करें'
+    settings:
+      notify_post_liked_label: 'किसी को मेरी एक पोस्ट पसंद है'
+    user:
+      likes_link: पसंद
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'इमोजी डालें'
+      type_to_search_text: 'इमोजी खोजने के लिए टाइप करें'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'आपकी सामग्री बहुत बड़ी है, कृपया पोस्ट करने से संबंधित हमारे दिशानिर्देश पढ़ें' }
+dhtml-persona:
+  forum:
+    persona: व्यक्ति
+dhtml-leaderboard:
+  forum:
+    leaderboard: लीडरबोर्ड
+dhtml-gender:
+  forum:
+    male: पुरुष
+    female: मादा
+    other: 'कहना पसंद नहीं करते'
+    inputGender: लिंग
+    saveButton: 'रक्षा कर'
+    clickToSelectGender: 'अपना लिंग चुनें'
+    genderSaved: 'लिंग सफलतापूर्वक बचाया गया!'
+    field_placeholder: 'लिंग की पुष्टि करें'
+    binding_gender: 'हमने पाया कि आपने अपना लिंग निर्धारित नहीं किया है। कृपया पहले अपना लिंग निर्धारित करें। आप अपना लिंग सेट करने के बाद ही संदेश पोस्ट कर सकते हैं और छोड़ सकते हैं।'
+    binding_gender_click: 'अभी क्लिक करें'
+flarum-content-pages:
+  forum:
+    home: को
+    about-us: 'हमारे बारे में'
+    guidelines: दिशानिर्देश
+    privacy-policy: 'गोपनीयता नीति'
+    terms-of-use: 'उपयोग की अवधि'
+    contact-us: 'संपर्क करें'
+    download-app: 'ऐप डाउनलोड करें'
+    discord-chat: 'कलह चैट'
+    tags-cloud: 'टैग: बादल'
+    languages: भाषाओं
+    leaderboard: लीडरबोर्ड
+    live: लाइव
+    live-coding: 'लाइव कोडिंग'
+    challenges: चुनौतियां
+    dev-challenges: 'देव चैलेंज'
+    jobs: नौकरियां
+    community: समुदाय
+    dev-jobs: 'देव नौकरियां'
+    job-posting: 'नौकरी पोस्टिंग'
+    job-postings: 'नौकरी पोस्टिंग'
+    workshops: कार्यशालाएं
+    dev-workshops: 'देव कार्यशालाएं'
+    events: आयोजन
+    conferences: सम्मेलन
+    event-conferences: 'आयोजन / सम्मेलन'
+    showcase: शोकेस
+    tags: टैग
+    more: अधिक
+    memberships: सदस्यता
+    members: सदस्यों
+    general-discussion: 'सामान्य चर्चा'
+    technology-articles: 'प्रौद्योगिकी लेख'
+    coding-challenges: 'कोडिंग चैलेंज'
+    q-a: Q/A
+    artificial-intelligence: 'कृत्रिम बुद्धिमत्ता'
+    computer-science: 'कंप्यूटर विज्ञान'
+    programming-languages: 'प्रोग्रामिंग भाषा'
+    development-tools: 'विकास उपकरण'
+    software-development: 'सॉफ्टवेयर विकास'
+    frontend-development: 'फ्रंटएंड डेवलपमेंट'
+    backend-development: 'बैकएंड डेवलपमेंट'
+    software-engineering: 'सॉफ्टवेयर इंजीनियरिंग'
+    cybersecurity: 'साइबर सुरक्षा'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'चरित्र काउंटर'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'जन्म तिथि संपादित करें'
+      date_of_birth_text: 'जन्म तिथि'
+      submit_button: 'परिवर्तन सहेजें'
+    settings:
+      change_dob_label: 'जन्म तिथि बदलें'
+      show_dob_date_label: 'जन्म का दिन और महीना दिखाएं'
+      show_dob_year_label: 'जन्म का वर्ष दिखाएं'
+      show_dob_year_help: 'इससे लोग आपकी उम्र देख सकेंगे।'
+      dob_heading: 'जन्म तिथि'
+    nav:
+      nav_item: 'आज के जन्मदिन'
+    edit_user:
+      dob_heading: 'जन्म तिथि'
+    sign_up:
+      dob_placeholder: 'जन्म तिथि'
+  api:
+    invalid_dob_message: 'जन्म की अमान्य तिथि'
+  ref:
+    date_of_birth: 'जन्म तिथि'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'इमोजी पिकर'
+    search_placeholder: ढूँढ।।।
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'लेखक और दिनांक संपादित करें'
+    modal:
+      title-post: 'पोस्ट लेखक और दिनांक संपादित करें'
+      title-discussion: 'चर्चा लेखक और दिनांक संपादित करें'
+      user: रचयिता
+      created_at: 'निर्माण का समय'
+      edited_at: 'समय संपादित करें'
+      sync-with-discussion: 'चर्चा के साथ सिंक करें'
+      sync-with-post: 'पहली पोस्ट के साथ सिंक करें'
+      sync-impossible: 'पहली पोस्ट नहीं मिली। चर्चा की शुरुआत तक स्क्रॉल करने का प्रयास करें।'
+      submit: 'रक्षा कर'
+      cancel: 'रद्द करना'
+    search:
+      placeholder: 'उपयोगकर्ताओं को खोजें'
+      type-more: 'डेटाबेस खोजने के लिए 3 वर्ण लिखें'
+      no-results: 'कोई परिणाम नहीं'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'रिच टेक्स्ट मोड टॉगल करें'
+      insert_button: 'अंतःस्‍थापित करना'
+      insert_image: { src_placeholder: जोड, title_placeholder: उपाधि }
+      insert_link: { text_placeholder: टेक्स्ट, href_placeholder: यूआरएल, title_placeholder: 'शीर्षक (होवर पर दिखाता है)', remove_button: हटाना }
+      additional_items_tooltip: 'अतिरिक्त नियंत्रण'
+      code_block_tooltip: 'कोड ब्लॉक सम्मिलित करें'
+      horizontal_rule_tooltip: 'क्षैतिज नियम सम्मिलित करें'
+      image_tooltip: 'एक छवि जोड़ें'
+      link_tooltip: 'कोई लिंक जोड़ना'
+      spoiler_block_tooltip: 'ब्लॉक स्पॉइलर/ड्रॉपडाउन'
+      strike_tooltip: 'स्ट्राइकथ्रू <alt-shift-5>'
+      text_type_tooltip: 'पाठ प्रकार का चयन करें'
+  forum:
+    settings:
+      composer_heading: संगीतकार
+      use_rich_text_editor_label: 'रिच टेक्स्ट एडिटर का उपयोग करें?'
+      rich_text_compact_paragraphs_label: 'पैराग्राफ को न्यूलाइन से अलग न करें।'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'आपने पुश सूचनाएँ सक्षम की हैं, लेकिन इस डिवाइस को कॉन्फ़िगर नहीं किया है.'
+      optin_button: कॉन्फ़िगर
+    discussion_controls:
+      share_button: पत्ती
+    post_controls:
+      share_button: पत्ती
+    user_controls:
+      share_button: पत्ती
+    settings:
+      push_header: 'धक्का देना'
+      pwa_notifications: { access_default: 'ब्राउज़र प्रतिबंधों के कारण, आपको इस डिवाइस पर पुश सूचनाएं प्राप्त करने के लिए ऑप्ट इन करना होगा।', access_default_button: 'ऑप्ट इन', access_denied: 'इस डिवाइस पर पुश सूचनाएँ प्राप्त करने के लिए आपको अपनी ब्राउज़र सेटिंग्स समायोजित करनी होंगी.', access_denied_button: 'इसका तरीका जानें', no_browser_support: 'यह ब्राउज़र प्रगतिशील वेब ऐप्स के लिए पुश सूचनाओं का समर्थन नहीं करता है।', no_browser_support_button: 'और जानो' }
+  views:
+    offline:
+      header: 'नेटवर्क कनेक्शन त्रुटि'
+      text: 'इस एप्लिकेशन को एक नेटवर्क कनेक्शन की आवश्यकता है; इसे ऑफ़लाइन उपयोग नहीं किया जा सकता है। कृपया अपना कनेक्शन जांचें।'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'उपयोगकर्ता को चेतावनी दें'
+    user:
+      warnings: 'मॉडरेटर चेतावनी'
+    settings:
+      warning_notification_label: 'एक मॉडरेटर मुझे चेतावनी देता है'
+    validation:
+      public_comment_required: 'आप सबसे अधिक सार्वजनिक टिप्पणी प्रदान करते हैं।'
+      invalid_strike_count: 'स्ट्राइक की संख्या 0 और 5 के बीच पूर्णांक होनी चाहिए.'
+    warning_controls:
+      delete_button: हटाना
+      restore_button: 'पुनर्स्थापित करना'
+      delete_forever_button: 'स्थायी रूप से हटाएं'
+    warning_list:
+      add_button: 'नई चेतावनी'
+      no_warnings: 'ऐसा लगता है कि यहां कोई चेतावनी नहीं है।'
+      warnings_no_strikes: 'मॉडरेटर चेतावनी: कोई स्ट्राइक प्राप्त नहीं हुई'
+    warning_list_item:
+      public_comment: चेतावनी
+      private_comment: 'मॉडरेटर-दृश्यमान टिप्पणियाँ'
+      linked_post: 'लिंक की गई पोस्ट'
+    warning_modal:
+      confirmation_message: 'आपकी चेतावनी सहेज ली गई है. पृष्ठ को देखने के लिए आपको उसे रीफ़्रेश करने की आवश्यकता हो सकती है.'
+      strikes_heading: 'कितनी स्ट्राइक लागू की जानी चाहिए?'
+      submit_button: 'चेतावनी सहेजें'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'उत्तर टेम्पलेट संपादित करें'
+    reply_template:
+      title: 'उत्तर टेम्पलेट संपादित करें'
+      submit_button: 'उत्तर टेम्पलेट सहेजें'

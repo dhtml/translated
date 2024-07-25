@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Parola introdusă este incorectă.'
+      confirm_password_placeholder: 'Confirmare parolă'
+      dismiss_button: OK
+      submit_button: 'Salvați modificările'
+      title: 'Schimbați adresa de e-mail'
+    change_password:
+      send_button: 'Trimiteți un e-mail de resetare a parolei'
+      text: 'Faceți clic pe butonul de mai jos și verificați-vă e-mailul pentru un link pentru a vă schimba parola.'
+      title: 'Schimbați parola'
+    composer:
+      close_tooltip: Închide
+      exit_full_screen_tooltip: 'Ieșiți din ecran complet'
+      full_screen_tooltip: 'Ecran complet'
+      minimize_tooltip: Minimiza
+      preview_tooltip: Previzualizare
+    composer_discussion:
+      body_placeholder: 'Scrie o postare...'
+      discard_confirmation: 'Nu ați postat discuția. Doriți să vă debarasați de ea?'
+      submit_button: 'Postează discuția'
+      title_placeholder: 'Titlul discuției'
+      title: 'Începeți o discuție'
+    composer_edit:
+      discard_confirmation: 'Nu ați salvat modificările. Doriți să le aruncați?'
+      edited_message: 'Editarea a fost făcută.'
+      submit_button: 'Salvați modificările'
+      view_button: Vedere
+    composer_reply:
+      discard_confirmation: 'Nu ați postat răspunsul. Doriți să vă debarasați de ea?'
+      posted_message: 'Răspunsul dumneavoastră a fost postat.'
+      submit_button: 'Postează răspunsul'
+      body_placeholder: 'Scrie un răspuns...'
+      view_button: Vedere
+    discussion_controls:
+      cannot_reply_button: 'Nu pot răspunde'
+      cannot_reply_text: 'Nu aveți permisiunea de a răspunde la această discuție.'
+      delete_confirmation: 'Sunteți sigur că doriți să ștergeți această discuție?'
+      log_in_to_reply_button: 'Conectați-vă pentru a răspunde'
+      toggle_dropdown_accessible_label: 'Comutați meniul vertical Acțiuni de discuție'
+      delete_button: Șterge
+      delete_forever_button: 'Ștergeți definitiv'
+      rename_button: Redenumire
+      reply_button: Răspunde
+      restore_button: Restaura
+    discussion_list:
+      empty_text: 'Se pare că nu există discuții aici.'
+      load_more_button: 'Încarcă mai mult'
+    forgot_password:
+      email_sent_message: 'Dacă e-mail-ul pe care l-aţi introdus este înregistrat pe acest site, vă vom trimite un e-mail conţinând un link pentru resetarea parolei. Verificați dosarul spam dacă nu-l primiți în următorul minut sau două.'
+      not_found_message: 'Nu există niciun utilizator înregistrat pe adresa de e-mail.'
+      submit_button: 'Recuperează parola'
+      text: 'Introduceți adresa de e-mail și vă vom trimite un link pentru a reseta parola.'
+      title: 'Ai uitat parola'
+      dismiss_button: OK
+      email_placeholder: Email
+    header:
+      admin_button: Administrare
+      back_to_index_tooltip: 'Înapoi la lista de discuții'
+      locale_dropdown_accessible_label: 'Schimbați setările regionale ale forumului'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Ștergeți interogarea de căutare'
+      search_placeholder: 'Căutare Forum'
+      search_role_label: 'Căutare Forum'
+      session_dropdown_accessible_label: 'Comutați meniul vertical Opțiuni sesiune'
+      log_in_link: Conectează-te
+      log_out_button: Deconectează-te
+      settings_button: Setări
+      sign_up_link: Înscrie-te
+    index:
+      cannot_start_discussion_button: 'Nu pot începe discuția'
+      mark_all_as_read_confirmation: 'Sunteți sigur că doriți să marcați toate discuțiile ca citite?'
+      refresh_tooltip: Împrospăta
+      toggle_sidenav_dropdown_accessible_label: 'Comută meniul vertical de navigare'
+      all_discussions_link: 'Toate discuțiile'
+      mark_all_as_read_tooltip: 'Marcați totul ca citit'
+      meta_title_text: 'Toate discuțiile'
+      start_discussion_button: 'Începeți o discuție'
+    index_sort:
+      latest_button: Ultima
+      newest_button: 'Cele mai recente'
+      oldest_button: 'Cea mai veche'
+      relevance_button: Relevanță
+      toggle_dropdown_accessible_label: 'Modificarea sortării listelor de discuții'
+      top_button: Culme
+      hot_button: Trend
+      votes_button: 'Voturi pozitive'
+      front_button: 'Prima pagină'
+      popular_button: Popular
+      unpopular_button: Nepopular
+    log_in:
+      forgot_password_link: 'Ai uitat parola?'
+      invalid_login_message: 'Datele tale de conectare au fost incorecte.'
+      remember_me_label: 'Ține-mă minte'
+      sign_up_text: 'Nu aveți un cont? <a>înscrie-te</a>'
+      username_or_email_placeholder: 'Nume de utilizator sau e-mail'
+      password_placeholder: Parolă
+      submit_button: Conectează-te
+      title: Conectează-te
+    notifications:
+      delete_all_confirm: 'Sigur doriți să ștergeți toate notificările? Această acțiune nu este reversibilă'
+      delete_all_tooltip: 'Ștergeți toate notificările'
+      empty_text: 'Fără notificări'
+      mark_as_read_tooltip: 'Marcați ca citit'
+      toggle_dropdown_accessible_label: 'Vizualizarea notificărilor'
+      mark_all_as_read_tooltip: 'Marcați totul ca citit'
+      title: Notificări
+      tooltip: Notificări
+    post:
+      edited_text: Editate
+    post_controls:
+      delete_confirmation: 'Sunteți sigur că doriți să ștergeți această postare pentru totdeauna? Această acțiune nu poate fi anulată.'
+      hide_confirmation: 'Sunteți sigur că doriți să ștergeți această postare?'
+      toggle_dropdown_accessible_label: 'Meniul vertical Comutare comenzi postare'
+      push_to_front_button: 'Apăsați pe FrontPage'
+      pull_from_front_button: 'Trageți de pe prima pagină'
+      delete_button: Șterge
+      delete_forever_button: 'Ștergeți definitiv'
+      edit_button: Editare
+      restore_button: Restaura
+    post_scrubber:
+      now_link: Acum
+      original_post_link: 'Postarea originală'
+    post_stream:
+      load_more_button: 'Încarcă mai mult'
+      reply_placeholder: 'Scrie un răspuns...'
+    rename_discussion:
+      title: 'Redenumirea discuției'
+      submit_button: Redenumire
+    search:
+      discussions_heading: Discuţii
+      users_heading: Utilizatorii
+    security:
+      cannot_terminate_current_session: 'Nu se poate încheia sesiunea activă curentă. Deconectați-vă în schimb.'
+      created: Creat
+      current_active_session: 'Sesiunea activă curentă'
+      developer_tokens_heading: 'Jetoane pentru dezvoltatori'
+      empty_text: 'Se pare că nu este nimic de văzut aici.'
+      global_logout: { heading: 'Deconectare globală', help_text: 'Șterge sesiunea curentă a modulelor cookie, încheie toate sesiunile, revocă tokenurile pentru dezvoltatori și invalidează orice e-mailuri de confirmare prin e-mail sau de resetare a parolei.', log_out_button: Deconectează-te }
+      hide_access_token: 'Ascunde tokenul'
+      last_activity: 'Ultima activitate'
+      new_access_token_modal: { submit_button: 'Creați token', title_placeholder: Titlu, title: 'Token nou' }
+      revoke_access_token: Revoca
+      sessions_heading: 'Sesiuni active'
+      session_termination_failed: 'A apărut o eroare la terminarea sesiunilor.'
+      show_access_token: 'Vezi tokenul'
+      terminate_all_other_sessions: 'Încheiați toate celelalte sesiuni'
+      terminate_session: Termina
+      token_revoked: 'Token revocat.'
+      token_title_placeholder: /
+      never: Niciodată
+      new_access_token_button: 'Token nou'
+      revoke_access_token_confirmation: 'Sunteți sigur că doriți să continuați? Această acțiune nu poate fi anulată.'
+      terminate_all_other_sessions_confirmation: 'Sunteți sigur că doriți să continuați? Această acțiune nu poate fi anulată.'
+      title: Securitate
+    settings:
+      account_heading: Cont
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Cineva redenumește o discuție pe care am început-o'
+      privacy_disclose_online_label: 'Permiteți altora să vadă când sunt online'
+      privacy_heading: Intimitate
+      change_email_button: 'Schimbați adresa de e-mail'
+      change_password_button: 'Schimbați parola'
+      notifications_heading: Notificări
+      notify_by_email_heading: Email
+      title: Setări
+    sign_up:
+      log_in_text: 'Aveți deja un cont? <a>conectează-te</a>'
+      dismiss_button: OK
+      email_placeholder: Email
+      password_placeholder: Parolă
+      submit_button: Înscrie-te
+      title: Înscrie-te
+      username_placeholder: 'Nume utilizator'
+    user:
+      avatar_upload_button: Încărca
+      avatar_upload_tooltip: 'Încărcați un avatar nou'
+      online_text: Online
+      posts_empty_text: 'Se pare că nu există postări aici.'
+      avatar_remove_button: Depărta
+      discussions_link: Discuţii
+      posts_link: Mesaje
+      posts_load_more_button: 'Încarcă mai mult'
+      security_link: Securitate
+      settings_link: Setări
+    user_controls:
+      button: Controale
+      delete_confirmation: 'Sigur doriți să ștergeți acest utilizator? Postările utilizatorului NU vor fi șterse.'
+      toggle_dropdown_accessible_label: 'Comutați meniul vertical Comenzi utilizator'
+      delete_button: Șterge
+      edit_button: Editare
+    user_email_confirmation:
+      resend_button: 'Retrimiteți e-mailul de confirmare'
+      sent_message: Trimis
+    welcome_hero:
+      hide: 'Ascundeți mesajul de întâmpinare'
+    badge:
+      frontpage_tooltip: 'Marcat ca FrontPage'
+  lib:
+    debug_button: Depanare
+    alert:
+      dismiss_a11y_label: 'Ignoră alerta'
+    badge:
+      hidden_tooltip: Ascuns
+    dropdown:
+      toggle_dropdown_accessible_label: 'Comutați meniul derulant'
+    edit_user:
+      activate_button: 'Activare utilizator'
+      groups_heading: Grupuri
+      set_password_label: 'Setați o parolă nouă'
+      nothing_available: 'Nu aveți voie să editați acest utilizator.'
+      email_heading: Email
+      email_label: Email
+      password_heading: Parolă
+      password_label: Parolă
+      submit_button: 'Salvați modificările'
+      title: 'Editare utilizator'
+      username_heading: 'Nume utilizator'
+      username_label: 'Nume utilizator'
+    error:
+      generic_message: 'Oops! Ceva nu a mers bine. Reîncărcați pagina și încercați din nou.'
+      generic_cross_origin_message: 'Oops! Ceva nu a mers bine în timpul unei solicitări de origine încrucișată. Reîncărcați pagina și încercați din nou.'
+      not_found_message: 'Resursa solicitată nu a fost găsită.'
+      payload_too_large_message: 'Sarcina utilă solicitată a fost prea mare.'
+      permission_denied_message: 'Nu aveți permisiunea de a face acest lucru.'
+      rate_limit_exceeded_message: 'Mergi un pic prea repede. Vă rugăm să încercați din nou în câteva secunde.'
+      render_failed_message: 'Ne pare rău, am întâmpinat o eroare la afișarea acestui conținut. Dacă sunteți utilizator, încercați din nou mai târziu. Dacă sunteți administrator, aruncați o privire în fișierele jurnal Flarum pentru mai multe informații.'
+    modal:
+      close: Închide
+    nav:
+      drawer_button: 'Deschideți sertarul de navigare'
+    loading_indicator:
+      accessible_label: Încărcare...
+  views:
+    confirm_email:
+      text: 'Faceți clic pe butonul de mai jos pentru a confirma adresa de e-mail a contului dvs.'
+      submit_button: 'Confirmați e-mailul'
+      title: 'Confirmați e-mailul'
+    content:
+      javascript_disabled_message: 'Acest site este cel mai bine vizualizat într-un browser modern cu JavaScript activat.'
+      load_error_message: 'Ceva nu a mers bine în timp ce încercați să încărcați versiunea completă a acestui site. Încercați să reîmprospătați din greu această pagină pentru a remedia eroarea.'
+      loading_text: Încărcare...
+    error:
+      csrf_token_mismatch: 'Ați fost inactiv prea mult timp.'
+      csrf_token_mismatch_return_link: 'Întoarceți-vă, încercați din nou'
+      invalid_confirmation_token: 'Acest link de confirmare a fost deja utilizat sau este nevalid.'
+      not_authenticated: 'Nu aveți permisiunea de a accesa această pagină. Încercați din nou după conectare.'
+      not_found: 'Pagina pe care ați solicitat-o nu a putut fi găsită.'
+      permission_denied: 'Nu aveți permisiunea de a accesa această pagină.'
+      unknown: 'A apărut o eroare în timp ce încercați să încărcați această pagină.'
+    log_out:
+      log_out_button: Deconectează-te
+      title: Deconectează-te
+    reset_password:
+      confirm_password_label: 'Confirmați noua parolă'
+      new_password_label: 'Parolă nouă'
+      submit_button: 'Salvați modificările'
+      title: 'Resetarea parolei'
+    discussion:
+      next_page_button: 'Pagina următoare'
+      previous_page_button: 'Pagina anterioară'
+    index:
+      all_discussions_heading: 'Toate discuțiile'
+      next_page_button: 'Pagina următoare'
+      previous_page_button: 'Pagina anterioară'
+  api:
+    invalid_username_message: 'Numele de utilizator poate conține numai litere, cifre și cratime.'
+  email:
+    activate_account:
+      subject: 'Activați-vă noul cont'
+    confirm_email:
+      subject: 'Confirmați noua adresă de e-mail'
+    reset_password:
+      subject: 'Resetarea parolei'
+    send_test:
+      subject: 'Test de e-mail Flarum'
+  ref:
+    all_discussions: 'Toate discuțiile'
+    change_email: 'Schimbați adresa de e-mail'
+    change_password: 'Schimbați parola'
+    color: Culoare
+    confirm_password: 'Confirmare parolă'
+    confirm_email: 'Confirmați e-mailul'
+    custom_footer_text: 'Adăugați HTML pentru a fi afișat chiar în partea de jos a paginii.'
+    custom_footer_title: 'Editarea subsolului personalizat'
+    custom_header_text: 'Adăugați HTML pentru a fi afișat chiar în partea de sus a paginii, deasupra antetului Flarum.'
+    custom_header_title: 'Editarea antetului particularizat'
+    delete: Șterge
+    delete_forever: 'Ștergeți definitiv'
+    discussions: Discuţii
+    edit: Editare
+    edit_user: 'Editare utilizator'
+    email: Email
+    extensions: Extensii
+    generic_confirmation_message: 'Sunteți sigur că doriți să continuați? Această acțiune nu poate fi anulată.'
+    icon: Icoană
+    load_more: 'Încarcă mai mult'
+    loading: Încărcare...
+    log_in: Conectează-te
+    log_out: Deconectează-te
+    mark_all_as_read: 'Marcați totul ca citit'
+    never: Niciodată
+    new_token: 'Token nou'
+    next_page: 'Pagina următoare'
+    notifications: Notificări
+    okay: OK
+    password: Parolă
+    posts: Mesaje
+    previous_page: 'Pagina anterioară'
+    remove: Depărta
+    rename: Redenumire
+    reply: Răspunde
+    reset_your_password: 'Resetarea parolei'
+    restore: Restaura
+    save_changes: 'Salvați modificările'
+    search_users: 'Căutați utilizatori'
+    security: Securitate
+    settings: Setări
+    sign_up: Înscrie-te
+    start_a_discussion: 'Începeți o discuție'
+    username: 'Nume utilizator'
+    users: Utilizatorii
+    view: Vedere
+    write_a_reply: 'Scrie un răspuns...'
+    you: Tu
+  group:
+    admin: Admin
+    admins: Administratori
+    guest: Musafir
+    guests: Oaspeţii
+    member: Membru
+    members: Membri
+    mod: Mod
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Toate etichetele'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Alegeți etichete pentru discuție'
+    discussion_controls:
+      edit_tags_button: 'Editarea etichetelor'
+    header:
+      back_to_tags_tooltip: 'Înapoi la lista de etichete'
+    index:
+      more_link: 'Mai mult...'
+      untagged_link: 'Fără taguri'
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Alegeți etichete'
+  lib:
+    deleted_tag_text: Şterse
+    tag_selection_modal:
+      bypass_requirements: 'Cerințe privind eticheta de ocolire'
+      submit_button: OK
+      title: 'Alegeți etichete'
+  ref:
+    choose_tags: 'Alegeți etichete'
+    name: Nume
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Menționează un utilizator, un grup sau o postare'
+    mentioned_by:
+      title: 'Răspunsuri la această postare'
+      load_more_button: 'Încarcă mai mult'
+    post:
+      quote_button: Citat
+      reply_link: Răspunde
+      you_text: Tu
+    settings:
+      notify_post_mentioned_label: 'Cineva răspunde la una dintre postările mele'
+      notify_user_mentioned_label: 'Cineva mă menționează într-o postare'
+      notify_group_mentioned_label: 'Cineva menționează un grup din care fac parte într-o postare'
+    user:
+      mentions_link: Menţionează
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Anulează urmărirea'
+      unignore_button: Unsir
+      follow_button: Urma
+    settings:
+      follow_after_reply_label: 'Urmăriți automat discuțiile la care răspund'
+      notify_for_all_posts_label: 'Notificați despre fiecare postare nouă în loc de ultima dintr-o discuție'
+      notify_new_post_label: 'Cineva postează într-o discuție pe care o urmăresc'
+    sub_controls:
+      following_text: 'Fiți notificat cu privire la toate răspunsurile.'
+      ignoring_text: 'Nu fiți niciodată anunțat. Ascundeți-vă din lista de discuții.'
+      not_following_button: 'Nu urmează'
+      not_following_text: 'Fiți notificat numai atunci când @mentioned.'
+      notify_alert_tooltip: 'Primiți o notificare pe forum atunci când există postări noi'
+      notify_email_tooltip: 'Primiți un e-mail atunci când există postări noi'
+      follow_button: Urma
+      following_button: Următor
+      ignoring_button: Ignorând
+    badge:
+      following_tooltip: Următor
+      ignoring_tooltip: Ignorând
+    following:
+      meta_title_text: Următor
+    index:
+      following_link: Următor
+  ref:
+    follow: Urma
+    following: Următor
+    ignoring: Ignorând
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Vă mulțumim că ați semnalat această postare. Moderatorii noștri o vor analiza.'
+      reason_inappropriate_label: Inoportun
+      reason_inappropriate_text: 'Această postare este jignitoare, abuzivă sau încalcă <a>regulile comunității</a>.'
+      reason_missing_message: 'Vă rugăm să furnizați câteva detalii moderatorilor noștri.'
+      reason_off_topic_label: 'În afara subiectului'
+      reason_off_topic_text: 'Această postare nu este relevantă pentru discuția actuală și ar trebui mutată în altă parte.'
+      reason_other_label: 'Altele (vă rugăm să precizați)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Această postare este o reclamă.'
+      dismiss_button: OK
+      submit_button: 'Stâlp de semnalizare'
+      title: 'Stâlp de semnalizare'
+    flagged_posts:
+      empty_text: 'Fără steaguri'
+      title: 'Postări semnalizate'
+      tooltip: 'Postări semnalizate'
+    post:
+      dismiss_flag_button: 'Respingeți steagul'
+    post_controls:
+      flag_button: Drapel
+  ref:
+    flag_post: 'Stâlp de semnalizare'
+    flagged_posts: 'Postări semnalizate'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Ați fost suspendat pe termen nelimitat'
+      user_unsuspended_text: 'Ați fost nesuspendat'
+    suspension_info:
+      dismiss_button: 'A concedia'
+      indefinite: 'Aceasta este o suspendare nedeterminată'
+      title: 'Acest cont este suspendat'
+    suspend_user:
+      display_message: 'Afișare mesaj pentru utilizator'
+      indefinitely_label: 'Suspendat pe termen nelimitat'
+      limited_time_days_text: ' Zile'
+      limited_time_label: 'Suspendat pentru o perioadă limitată de timp...'
+      not_suspended_label: 'Nu este suspendat'
+      placeholder_optional: Facultativ
+      reason: 'Motivul suspendării'
+      status_heading: 'Starea suspendării'
+      submit_button: 'Salvați modificările'
+    user_badge:
+      suspended_tooltip: Suspendat
+    user_controls:
+      suspend_button: Suspenda
+  email:
+    no_reason_given: 'Nu a fost oferit niciun motiv pentru această suspendare.'
+    suspended:
+      subject: 'Contul tău a fost suspendat'
+    unsuspended:
+      subject: 'Contul dvs. a fost nesuspendat'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Toate fișierele încărcate de utilizator.', anonymize_description: 'Elimină referința utilizatorului din fișierele încărcate. Fișierele în sine rămân accesibile utilizatorilor care le-ar putea vizualiza înainte de anonimizare.', delete_description: 'Șterge toate fișierele încărcate de utilizator.' }
+      tagsubscription: { export_description: 'Exportă detalii despre nivelul abonamentului pentru o etichetă, dacă există.', anonymize_description: 'Elimină abonamentul utilizatorului la etichetă.' }
+      followuser: { export_description: 'Exportă detaliile utilizatorilor urmăriți și ale utilizatorilor care urmăresc.', delete_description: 'Șterge toate datele legate de următorii utilizatori.', anonymize_description: 'Șterge toate datele legate de următorii utilizatori.' }
+      bannedipdata: { export_description: 'Dacă o înregistrare IP ban este asociată cu un utilizator (adică utilizatorul a fost banat de IP), adresa IP a utilizatorului va fi inclusă în export, împreună cu motivul interdicției și data creării.', anonymize_description: 'Orice adrese IP legate de utilizator sunt decuplate, dar IP-ul în sine va rămâne interzis, împreună cu motivul. Asigurați-vă că nu sunt stocate date PII în câmpul "motiv".' }
+fof-upload:
+  forum:
+    media_manager: 'Manager media'
+    buttons:
+      attach: Atașa
+      upload: Încărca
+      upload_shared: Partajate
+      user_uploads: 'Încărcările utilizatorilor'
+      cancel: Anula
+      media: 'Mass-media mea'
+      shared_media: 'Conținut media partajat'
+    states:
+      error: Eroare
+      loading: Încărcarea
+      unauthorized: 'Nu aveți voie să descărcați fișiere'
+    text_preview:
+      expand: 'Extindeți previzualizarea'
+      collapse: 'Restrângere previzualizare'
+      error: "Eroare la previzualizarea fișierului. Este posibil să fi fost șters sau ID-ul de fișier furnizat nu este valid.\n"
+      no_snippet_preview: '<Previzualizarea va apărea aici după postare>'
+      no_snippet: '<nu este disponibil niciun fragment de previzualizare>'
+  api:
+    upload_errors:
+      forbidden_type: 'Încărcarea fișierelor de acest tip nu este permisă.'
+      could_not_detect_mime: 'Nu s-a putut detecta tipul MIME al acestui fișier, încercați din nou.'
+      max_upload_file_size_ini: 'Limita maximă de dimensiune a fișierului de încărcare a fost atinsă de la php.ini.'
+      max_upload_file_size_form: 'Încărcați limita maximă a dimensiunii fișierului atinsă din formular.'
+      partial_upload: 'Încărcare parțială.'
+      no_file_uploaded: 'Nu s-a încărcat niciun fișier.'
+      no_upload_tmp_folder: 'Nu există folder tmp pentru încărcarea fișierelor.'
+      cannot_write_to_disk: 'Nu se poate scrie pe disc.'
+      upload_blocked_by_php_extension: 'O extensie php a blocat încărcarea.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Fișier partajat nou'
+      dropzone: 'Glisați și fixați fișierele aici sau faceți clic pentru a naviga'
+      hide-from-media-gallery: 'Ascunderea din galeria media a utilizatorului'
+      upload: Încărca
+    file_list:
+      loading: 'Se încarcă fișierele...'
+      empty: 'Nu există fișiere de afișat.'
+      release_to_upload: 'Versiune pentru încărcare'
+      modal_empty_desktop: 'Lista de fișiere este goală. Faceți clic pe buton sau trageți un fișier aici pentru a-l încărca.'
+      modal_empty_phone: 'Lista de fișiere este goală. Atingeți butonul de mai sus pentru a încărca un fișier.'
+      load_more_files_btn: 'Încărcați mai multe fișiere'
+      hide_file: { hide_success: 'Fișier ascuns', show_success: 'Fișier afișat', loading: 'Ascunderea fișierului...' }
+      hide_shared_file: { hide_success: 'Fișier făcut privat', show_success: 'Dosar făcut public', loading: 'Făcând fișierul privat ...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Wrote
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Adăugarea textului aldin'
+      code_tooltip: 'Introduceți codul'
+      header_tooltip: 'Adăugarea textului antetului'
+      image_tooltip: 'Adăugați o imagine'
+      italic_tooltip: 'Adăugarea textului cursiv'
+      link_tooltip: 'Adăugați un link'
+      ordered_list_tooltip: 'Adăugarea unei liste numerotate'
+      quote_tooltip: 'Inserarea unei oferte'
+      spoiler_tooltip: 'Introduceți un spoiler'
+      strikethrough_tooltip: 'Adăugarea textului tăiat cu o linie'
+      unordered_list_tooltip: 'Adăugarea unei liste cu marcatori'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Cineva creează o discuție într-o etichetă pe care o urmăresc'
+      notify_new_post_label: 'Cineva postează într-o etichetă pe care o urmăresc'
+      notify_new_discussion_tag_label: 'Cineva reetichetează o discuție cu o etichetă pe care o urmăresc'
+    index:
+      follow_tag_button: Urma
+      unfollow_tag_button: 'Nu mai urmăriți'
+      following: { following_none_label: 'Discuții urmărite', following_tags_label: 'Etichete urmărite' }
+    badge:
+      following_tag_tooltip: Următor
+      lurking_tag_tooltip: Spectatori
+    sub_controls:
+      following_text: 'Fiți informat cu privire la toate discuțiile noi.'
+      hiding_text: 'Ascundeți discuțiile din pagina Toate discuțiile.'
+      ignoring_text: 'Nu fiți niciodată anunțat.'
+      lurking_text: 'Fiți notificat cu privire la toate discuțiile și răspunsurile noi.'
+      not_following_button: 'Nu urmează'
+      not_following_text: 'Fiți notificat numai atunci când @mentioned.'
+      notify_alert_tooltip: 'Primiți o notificare pe forum atunci când există discuții sau postări noi'
+      notify_email_tooltip: 'Primiți un e-mail atunci când există discuții sau postări noi'
+      submit_button: 'Confirmați abonamentul'
+      follow_button: Urma
+      following_button: Următor
+      hiding_button: Ascunde
+      ignoring_button: Ignorând
+      lurking_button: Spectatori
+    user:
+      settings: { heading: 'Urmăriți etichetele', filter_label: 'Ce se afișează în mod implicit în pagina următoare' }
+  ref:
+    follow: Urma
+    following: Următor
+    hiding: Ascunde
+    ignoring: Ignorând
+    lurking: Spectatori
+    filtering_options:
+      none: 'Discuții urmărite'
+      tags: 'Etichete urmărite'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Această poreclă nu este validă. Vă rugăm să contactați administratorul forumului pentru mai multe informații despre regulile de poreclă.'
+  ref:
+    change_nickname: 'Schimbați pseudonimul'
+    nickname: Poreclă
+  forum:
+    change_nickname:
+      submit_button: 'Salvați modificările'
+      title: 'Schimbați pseudonimul'
+    edit_user:
+      nicknames_heading: 'Schimbați pseudonimul'
+      nicknames_text: Poreclă
+    settings:
+      change_nickname_button: 'Schimbați pseudonimul'
+    sign_up:
+      nickname_placeholder: Poreclă
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Conturi conectate', last-used-label: 'Ultima utilizare', link-created-label: 'Link creat', orphaned-account: 'V-ați conectat anterior prin intermediul acestui furnizor, dar acest forum a dezactivat conectarea cu această metodă de atunci.', help: 'Aceste conturi conectate vă permit să vă conectați la forum folosind alți furnizori.' } }
+    signup:
+      username_help: 'Vă rugăm să alegeți un nume de utilizator care să fie cunoscut aici'
+    unlink: 'Eliminați linkul'
+    error:
+      bad_verification_code: 'Token de verificare nevalid sau expirat. Vă rugăm să încercați din nou.'
+      invalid_state: 'Stare nevalidă. Vă rugăm să încercați din nou.'
+    providers:
+      discord: Discordie
+      facebook: Anonim
+      github: GitHub
+      gitlab: GitLab
+      google: Anonim
+      linkedin: LinkedIn
+      twitter: Twitter
+  lib:
+    providers:
+      discord: Discordie
+      facebook: Anonim
+      github: GitHub
+      gitlab: GitLab
+      twitter: Twitter
+      google: Anonim
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'ID-ul aplicației'
+      app_secret: 'Secretul aplicației'
+      client_id: 'Client ID'
+      client_secret: 'Secretul clientului'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Conectați-vă ca alt utilizator'
+      placeholder_optional: '(Opțional) Furnizați motivul pentru care treceți la acest utilizator'
+      placeholder_required: 'Trebuie să furnizați motivul trecerii la acest utilizator înainte de a continua'
+    user_controls:
+      impersonate_button: 'Loghează-te ca utilizator'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Discuție privată' }
+    buttons:
+      add_recipients: Destinatari
+      submit: OK
+      edit_recipients: 'Editarea destinatarilor'
+      cancel: Anula
+      make_public: 'Faceți publică această discuție'
+      remove_from_discussion: 'Părăsiți această discuție privată'
+    composer_private_discussion:
+      submit_button: 'Postează discuția privată'
+      title_placeholder: 'Titlul discuției private'
+    confirm:
+      make_public: 'Sigur doriți să eliminați destinatarii și să faceți această discuție vizibilă pentru oricine poate vizualiza eticheta atribuită?'
+    nav:
+      start_button: 'Discutați în privat'
+      nav_item: 'Discuții private'
+    input:
+      search_recipients: 'Căutați destinatarul tastând primele trei caractere...'
+    search:
+      headings: { groups: 'Grupuri de permisiuni' }
+    modal:
+      titles: { add_recipients: 'Adăugarea destinatarilor la discuție' }
+      labels: { selected_users: 'Utilizatori selectați', search_field: 'Căutare utilizator' }
+      help: { add_recipients: 'Această discuție va fi vizibilă numai pentru utilizatorii pe care îi alegeți aici. Este necesar cel puțin 1 destinatar (altul decât dvs.).', update_recipients: 'Această discuție va fi vizibilă numai pentru utilizatorii pe care îi alegeți aici.', selected_users: 'Faceți clic pe numele unui utilizator pentru a-l elimina.', click_user_to_remove_tooltip: 'Faceți clic pentru a elimina' }
+    user:
+      settings: { block_pd: 'Blocați discuțiile private' }
+      byobu_link: 'Discuții private'
+      dropdown_label: 'Discuții private'
+    notifications:
+      pd_label: 'Cineva mă include într-o nouă discuție privată'
+      pd_reply_label: 'Cineva postează într-o discuție privată pe care o primesc'
+      pd_user_left_label: 'Un utilizator destinatar părăsește o discuție privată din care fac parte'
+      pd_added_label: 'Cineva mă adaugă la o discuție privată existentă'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informații despre insignă'
+    all_badges: 'Vezi toate ecusoanele'
+    all_users: 'Vedeți toți utilizatorii'
+    give_badge: 'Oferă insignă'
+    update_badge: 'Actualizați ecusonul'
+    select_badge: 'Selectați insigna'
+    user_has_badge: 'Utilizatorul are deja această insignă.'
+    user_no_badges: 'Acest utilizator nu are încă ecusoane.'
+    no_received: 'Niciun utilizator nu a câștigat această insignă.'
+    save_changes: 'Salvați modificările'
+    badge:
+      badge: Insignă
+      badges: Insigne
+      name: 'Numele insignei'
+      description: 'Descrierea insignei'
+      earning_reason: 'Motivul câștigării insignei'
+      update_earning_reason: 'Actualizați motivul câștigului'
+      no_earning_reason: 'Nu este stabilit niciun motiv de câștig'
+      earned_on: 'Insigna câștigată la'
+      category: 'Categoria insignei'
+      badge_details: 'Detalii insignă'
+    badges_in_card:
+      title: 'Ecusoane în cardul de utilizator'
+      manage_badges: 'Gestionarea ecusoanelor'
+      description: 'Puteți schimba ecusoanele vizibile din cardul de utilizator cu una dintre celelalte ecusoane. Dacă nu selectați niciunul, acestea vor fi selectate automat.'
+    moderation:
+      remove_badge: 'Eliminați insigna de la utilizator'
+      remove_badge_confirm: 'Sigur doriți să eliminați această insignă de la acest utilizator?'
+      give_badge: 'Oferă insignă'
+    notification:
+      title: 'Ați primit o nouă insignă'
+      settings: 'Am primit o insignă'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Stare mizerabilă'
+      not_miserable_label: 'Nu mizerabil'
+      indefinitely_label: 'Mizerabil pe termen nelimitat'
+      limited_time_label: 'Mizerabil pentru o perioadă limitată de timp...'
+      limited_time_days_text: ' Zile'
+      submit_button: 'Salvați modificările'
+    user_badge:
+      miserable_user_tooltip: 'Utilizator mizerabil'
+    user_controls:
+      miserable_user_button: 'Utilizator mizerabil'
+  ref:
+    miserable_user: 'Utilizator mizerabil'
+sycho-profile-cover:
+  forum:
+    cover: Acoperi
+    edit_cover: 'Editează coperta'
+    added:
+      success: 'Coperta profilului actualizată.'
+      error: 'Imaginea nu a putut fi încărcată.'
+    removed:
+      success: 'Capacul profilului a fost eliminat.'
+      error: 'Nu s-a putut scoate capacul, încercați din nou mai târziu.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Copierea în clipboard'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Ultimii vizitatori', guest: Musafir }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Codul țării'
+    saveButton: Salva
+    clickToSelectCountry: 'Selectați țara dvs.'
+    countrySaved: 'Țară salvată cu succes!'
+    field_placeholder: 'Confirmați steagurile țărilor'
+    binding_country: 'Am descoperit că nu v-ați legat locația. Vă rugăm să conectați mai întâi țara dvs. Puteți să postați și să lăsați mesaje numai după ce vă conectați țara.'
+    binding_country_click: 'Faceți clic acum'
+username-blacklist:
+  forum:
+    modal-title: Avertisment!
+    modal-body-first-line: 'Avertisment - Acest nume de utilizator este <strong>blocat de administrator</strong>'
+    modal-body-second-line: 'Alege un alt nume de utilizator care nu încalcă regulile comunității și încearcă din nou.'
+  admin:
+    blackList: 'Nume de utilizator pe lista neagră'
+    blackList-help: 'Scrieți aici numele de utilizator pe care doriți să îl blocați în timpul înregistrării (separat prin virgulă)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Sinopsis, show-summaries: 'Afișarea unui extras din fiecare discuție în listele de discuții (desktop/tabletă)', show-summaries-mobile: 'Afișarea unui extras din fiecare discuție în listele de discuții (Mobil)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Activitatea forumului'
+      forum_new_discussions: 'Noile discuții ale forumului'
+      discussion_last_posts: 'Această discuție'
+      user_last_posts: 'Postări și comentarii ale acestui utilizator'
+    feeds:
+      titles: { main_subtitle: 'Ultimele mesaje pe forum', main_d_subtitle: 'Cele mai noi discuții din forum', discussion_subtitle: 'Ultimele mesaje din această discuție', user_subtitle: 'Ultimele postări și comentarii ale acestui utilizator.' }
+    discussion:
+      feed_link: Hrăni
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Urmat
+    profile_page:
+      no_following: 'Se pare că nu urmărești pe nimeni.'
+    settings:
+      notify_new_follower_label: 'Cineva mă urmărește'
+      notify_new_unfollower_label: 'Cineva nu mă mai urmărește'
+      notify_new_discussion_label: 'Cineva pe care îl urmăresc începe o discuție'
+      notify_new_post_label: 'Cineva pe care îl urmăresc postează într-o discuție existentă'
+      block_follow: 'Împiedicați utilizatorii să mă urmărească'
+    badge:
+      label: { follow: 'În urma discuțiilor', lurk: 'În urma tuturor' }
+    filter:
+      following: 'Utilizatori urmăriți'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Niveluri de urmărire', follow_select_label: 'Tipul de urmărire', no_user_attr_provided_err: 'Uh oh, ceva nu a mers bine în timp ce deschideam acest modal.', no_user_attr_provided_err_debug: 'Niciun atribut "user" nu a fost transmis modalului SelectFollowUserLevel atunci când a fost creat. Modul nu poate fi redat.', save_btn: Salva, cancel_btn: Anula }
+    profile_link: 'Utilizatori urmăriți'
+    user_controls:
+      follow_button: Urma
+      unfollow_button: 'Anulează urmărirea'
+      change_button: 'Schimbați tipul de urmărire'
+    index:
+      follow_tag_button: Urma
+      unfollow_tag_button: 'Schimbați tipul de urmărire'
+  email:
+    new_follower_subject: '[Urmăriți utilizatorul] Ai un nou adept!'
+  lib:
+    following_link: 'Utilizatori urmăriți'
+    follow: Urma
+    change_follow_type: 'Schimbați tipul de urmărire'
+    unfollow: 'Anulează urmărirea'
+    follow_levels:
+      unfollow: { name: 'Nu urmați' }
+      follow: { name: 'Urmăriți discuțiile' }
+      lurk: { name: 'Urmărește tot' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Vă rugăm să vă asigurați că această schimbare de poreclă solicitată respectă regulile forumului.', decision_title: Decizie, approval_label: Aproba, rejected_label: Respinge, submit_button: Prezinte, reason_title: 'Motivul respingerii', success: 'Decizia trimisă.', title: 'Cerere de schimbare a poreclei' }
+      results: { title: 'Cerere de schimbare a poreclei', approved: 'Solicitarea ta de schimbare a pseudonimului a fost aprobată', rejected: 'Solicitarea de schimbare a poreclei a fost respinsă', resubmit: 'În acest moment, puteți retrimite o nouă solicitare de modificare a poreclei din setările contului, dacă doriți acest lucru.', dismiss_button: OK }
+      request: { title: 'Solicitați schimbarea pseudonimului', submit_button: 'Trimite cerere', delete_button: 'Ștergere solicitare', confirmation_message: 'Solicitarea ta de schimbare a pseudonimului a fost trimisă și așteaptă aprobarea.', deleted: 'Solicitarea de pseudonim a fost ștearsă.', dismiss_button: OK }
+    username_modals:
+      action: { help_text: 'Vă rugăm să vă asigurați că această modificare solicitată a numelui de utilizator respectă regulile forumului.', decision_title: Decizie, approval_label: Aproba, rejected_label: Respinge, submit_button: Prezinte, reason_title: 'Motivul respingerii', success: 'Decizia trimisă.', title: 'Cerere de schimbare a numelui de utilizator' }
+      results: { title: 'Cerere de schimbare a numelui de utilizator', approved: 'Solicitarea ta de schimbare a numelui de utilizator a fost aprobată', rejected: 'Solicitarea de modificare a numelui de utilizator a fost respinsă', resubmit: 'În acest moment, puteți retrimite o nouă solicitare de modificare a numelui de utilizator din setările contului, dacă alegeți acest lucru.', dismiss_button: OK }
+      request: { title: 'Solicitați schimbarea numelui de utilizator', submit_button: 'Trimite cerere', delete_button: 'Ștergere solicitare', confirmation_message: 'Solicitarea dvs. de modificare a numelui de utilizator a fost trimisă și așteaptă aprobarea.', deleted: 'Solicitarea numelui de utilizator a fost ștearsă.', dismiss_button: OK }
+    pending_requests:
+      empty_text: 'Nu s-au găsit solicitări de schimbare a numelui.'
+      tooltip: 'Cereri de schimbare a numelui'
+      title: 'Cereri de schimbare a numelui'
+    settings:
+      nickname_request_button: 'Schimbați pseudonimul'
+      username_request_button: 'Schimbați numele de utilizator'
+    user:
+      name_history_link: 'Istoria numelui'
+  ref:
+    name_change_request: 'Cerere de schimbare a numelui'
+    name_change_requests: 'Cereri de schimbare a numelui'
+    nickname_change_request: 'Cerere de schimbare a poreclei'
+    nickname_change_requests: 'Solicitări de modificare a poreclei'
+    username_change_request: 'Cerere de schimbare a numelui de utilizator'
+    username_change_requests: 'Cereri de schimbare a numelui de utilizator'
+  email:
+    body:
+      noReasonProvided: 'Nu a fost furnizat niciun motiv.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Scrie ceva despre tine'
+    profile:
+      cancel_confirm: 'Sigur doriți să anulați editarea biografiei? Veți pierde toate modificările pe care le-ați făcut.'
+      cancel_button: Anula
+      save_button: Salva
+      edit_bio_label: 'Editează biografia'
+fof-split:
+  forum:
+    split:
+      from: 'Despărțiți-vă de aici'
+      to: 'Împărțiți aici'
+      cancel: 'Anulează divizarea'
+    modal:
+      title: 'Împărțiți discuția'
+      new_discussion_label: 'Specificați titlul noii discuții'
+      submit_button: Despica
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Editați butoanele de socializare'
+      add: 'Adăugați butoane la rețelele sociale'
+      headtitle: 'Butoane de editare'
+      title: Titlu
+      url: 'Adresa URL'
+      submit: Salva
+      delete: Șterge
+      deletetitle: 'Butonul Ștergere'
+      save_disabled_fetching_favicons: 'Una sau mai multe icoane sunt preluate. Te rog să aştepţi.'
+      favicon: Favicon
+      grey_favicon: 'Favicon gri'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Acțiune
+      share_dropdown_accessible_label: 'Comutați meniul vertical de partajare a discuțiilor'
+    modal:
+      title: Acțiune
+      copy_button: Copie
+  lib:
+    networks:
+      facebook: Anonim
+      twitter: Twitter
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Telegramă
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Lumea mea'
+      qq: QQ
+      qzone: QZone
+      native: 'Partajare nativă'
+fof-recaptcha:
+  forum:
+    error: 'A apărut o eroare la trimiterea reCAPTCHA. Încearcă din nou.'
+    unknown_error: 'A apărut o eroare necunoscută. Verificați captcha și încercați din nou.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Nu puteți folosi această reacție chiar acum, vă rugăm să reîmprospătați pagina'
+    warning: 'Reacția ta a fost convertită'
+    settings:
+      notify_post_reacted_label: 'Cineva reacționează la una dintre postările mele'
+    reacting-own-post: 'Nu puteți reacționa la propria postare'
+    modal:
+      title: Reacţii
+      no_reactions: 'Nu există reacții încă'
+    mod_item: 'Vezi reacțiile'
+    react_button_label: Reacţiona
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Nu s-a reușit încărcarea decupajului de imagine.', generic_resize: 'Ceva nu a mers bine în timpul decupării și redimensionării imaginii.', get_image_data: 'Nu s-a reușit decuparea. Asigurați-vă că protecția împotriva amprentării digitale a browserului este dezactivată.' }
+      help_text: "Încărcarea imaginii poate eșua dacă setările de confidențialitate ale browserului sunt foarte stricte. Dacă întâmpinați probleme, încercați să dezactivați protecția împotriva amprentării digitale. În caz contrar, puteți fie <disableResize>să dezactivați comprimarea imaginii trunchiate</disableResize>, fie să <disableCrop>dezactivați complet decuparea</disableCrop>.\n"
+      submit_button: Încărca
+      submit_crop_button: 'Decupați și încărcați'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Este foarte probabil ca aceasta să nu mai aibă nevoie de alte discuții și, prin urmare, lovirea ei nu servește la nimic.', checkbox_label: 'Sunt conștient că această discuție este destul de veche, dar aș dori totuși să răspund.', error: 'Această discuție este prea veche pentru a răspunde.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Nu aveți permisiunea de a vota'
+    poll_ended: 'Acest sondaj s-a încheiat.'
+    public_poll: 'Vizualizați alegătorii'
+    composer_discussion:
+      add_poll: 'Adaugă sondaj'
+      edit_poll: 'Editează sondajul'
+    modal:
+      add_title: 'Adăugați un sondaj'
+      add_option_label: 'Adăugați o opțiune'
+      edit_title: 'Editează sondajul'
+      include_question: 'Trebuie să includeți o întrebare'
+      max: 'Puteți avea maximum 10 răspunsuri'
+      min: 'Trebuie să includeți minimum 2 răspunsuri'
+      no_voters: 'Fără voturi'
+      option_placeholder: Răspunde
+      image_option_placeholder: 'Adresa URL a imaginii (opțional)'
+      options_label: Răspunsuri
+      public_poll_label: 'Permiteți oamenilor să vadă cine a votat'
+      allow_multiple_votes_label: 'Permiteți oamenilor să voteze pentru mai multe opțiuni'
+      max_votes_label: 'Număr maxim de voturi per utilizator'
+      max_votes_help: 'Setați la 0 pentru a permite utilizatorilor să voteze pentru toate opțiunile.'
+      question_placeholder: Întrebare
+      submit: Prezinte
+    moderation:
+      delete: 'Eliminați sondajul'
+      delete_confirm: 'Sunteți sigur că doriți să ștergeți acest sondaj?'
+      edit: 'Editează sondajul'
+    tooltip:
+      badge: Sondaj
+    votes_modal:
+      title: Alegătorii
+fof-nightmode:
+  ref:
+    auto: 'Automat (bazat pe opțiunile browserului sau dispozitivului)'
+    light: 'Modul Zi'
+    dark: 'Modul de noapte'
+  forum:
+    header:
+      nightmode_button: 'Modul de noapte'
+    user:
+      settings: { heading: Temă, description: 'Alegeți tema de culoare pe care doriți să o utilizați pe forum.', description2: 'Această temă va fi conectată la contul dvs. și se va aplica tuturor dispozitivelor dvs., cu excepția cazului în care comutați comutatorul de mai jos pentru setările pentru fiecare dispozitiv.', device_specific_setting_checkbox: 'Utilizare în funcție de setările dispozitivului', device_specific_setting_checkbox_tooltip: 'Alegerea temei va fi salvată individual pentru fiecare dintre dispozitivele dvs.', auto_unsupported: 'Browserul dvs. nu acceptă modul de întunecare automată.', option_descriptions: { auto: 'Tema va fi selectată automat în funcție de setările browserului sau ale dispozitivului. De exemplu, dacă aveți modul întunecat activat în iOS, forumurile vor fi și întunecate.', day: 'Experiența clasică cu care ești obișnuit. Iubit și testat.', night: 'Ești un pic ca o bufniță de noapte. Veghezi asupra forumului noaptea, în timp ce păsările dorm și vulpile vânează. Sau pur și simplu preferi culorile mai închise!' }, options: { auto: 'Automat (bazat pe opțiunile browserului sau dispozitivului)', day: 'Modul Zi', night: 'Modul de noapte' } }
+    day: 'Modul Zi'
+    night: 'Modul de noapte'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'O notă goală nu este permisă.'
+    moderatorNotes:
+      add_button: 'Notă nouă'
+      create-heading: 'Crearea unei noi note de moderator'
+      dismiss_button: Făcut
+      noNotes: 'Se pare că nu există note aici.'
+      submit_button: 'Salvați nota'
+      delete: Șterge
+      confirm: 'Sigur doriți să ștergeți această notă?'
+    user:
+      notes: 'Notele moderatorului'
+  api:
+    no_reason_provided: 'Nu a fost furnizat niciun motiv'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Voturi
+    vote_title: 'Arată cine a votat'
+    nav:
+      name: Clasamentul
+    ranking:
+      rank: Loc
+      name: Utilizator
+      amount: Puncte
+    notification:
+      prefrences: { vote: 'Când una dintre postările mele este votată în sus / în jos' }
+    user:
+      votes_link: Voturi
+    modal:
+      downvotes_label: 'Alegători negativi:'
+      title: Alegătorii
+      upvotes_label: 'Alegători superiori:'
+    mod_item: 'Vezi alegătorii'
+    voters:
+      none: 'Încă nu există alegători'
+      label: Alegătorii
+      label_none: 'Fără alegători'
+    post:
+      upvote_button: 'Postare cu voturi pozitive'
+      downvote_button: 'Postare cu vot negativ'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Schițele programate sunt dezactivate momentan în setări.'
+  ref:
+    schedule_draft: 'Proiect de program'
+  forum:
+    composer:
+      title: 'Salvați schița'
+      saving: Economisire...
+      saved: Salvat!
+      exit_alert: 'Renunțați la modificările aduse schiței?'
+      discard_empty_draft_alert: 'Renunțați la schița goală?'
+    dropdown:
+      empty_text: 'Nu ați salvat nicio schiță'
+      title: Proiectele
+      delete_all_button: 'Ștergerea tuturor schițelor'
+      delete_button: 'Ștergeți schița'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Sigur doriți să ștergeți schița?'
+      delete_all_alert: 'Sigur doriți să ștergeți toate schițele?'
+      schedule_button: 'Proiect de program'
+      tooltip: Proiectele
+    schedule_draft_modal:
+      text: 'Programează-ți schița pentru a fi postată automat ulterior!'
+      unschedule_button: Neprogramare
+      unschedule_warning: 'Sunteți sigur că doriți să deprogramați acest proiect?'
+      reschedule_button: Reprogramarea
+      schedule_button: Orar
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Data și/sau ora nevalide'
+      title: 'Proiect de program'
+    user:
+      settings: { drafts_heading: Proiectele, draft_autosave_enable: 'Activați salvarea automată a schițelor?', draft_autosave_interval_label: 'Interval de salvare automată (secunde)', draft_autosave_interval_button: 'Interval de actualizare', draft_autosave_interval_invalid: 'Intervalul trebuie să fie un număr întreg mai mare decât 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Răspuns
+    this_best_answer: 'Selectați cel mai bun răspuns'
+    remove_best_answer: 'Deselectați cel mai bun răspuns'
+    best_answer_button: 'Cel mai bun răspuns'
+    errors:
+      mismatch: 'Postarea selectată nu există în această discuție.'
+    notification:
+      content: 'Vă rugăm să selectați cel mai bun răspuns dacă întrebarea dvs. a primit răspuns'
+      preferences: { awarded_best_answer: 'Cineva stabilește postarea mea ca cel mai bun răspuns', best_answer_in_discussion: 'Cel mai bun răspuns este stabilit într-o discuție la care am participat', select_best_answer: 'Un memento automat pentru a selecta cel mai bun răspuns într-o discuție pe care am început-o' }
+    index:
+      ask_question: 'Pune o întrebare'
+      cannot_ask_question: 'Nu pot pune o întrebare'
+      solved_link: 'Discuții rezolvate'
+      unsolved_link: 'Discuții nerezolvate'
+    filter:
+      all_label: 'Toate întrebările'
+      solved_label: 'Întrebări rezolvate'
+      unsolved_label: 'Întrebări nerezolvate'
+      accessible_label: 'Selecție rezolvată/nerezolvată'
+    composer:
+      titlePlaceholder: 'Titlul întrebării'
+    search:
+      discussions_solutions_heading: 'Discuții cu soluții'
+    discussion:
+      jump_to_best_answer_button: 'Vizualizare cel mai bun răspuns'
+  email:
+    subject:
+      select: 'Ai reuşit să-ţi răspunzi la întrebare?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Cele mai bune răspunsuri'
+      least_best_answers: 'Cele mai bune răspunsuri'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Nimeni altcineva nu va fi interzis'
+    user_badge:
+      banned_tooltip: Interzis
+    ban_ip_button: 'Interzicerea IP-ului'
+    unban_ip_button: 'Anulați interzicerea IP-ului'
+    user_controls:
+      ban_button: Ban
+      unban_button: 'Anulează interdicția'
+  error:
+    banned_ip_message: 'Autorizarea nu a reușit.'
+    no_ips_found_message: 'Nu s-au găsit IP-uri pentru utilizator.'
+  lib:
+    modal:
+      check_button: Verificare
+      save_button: Salva
+      ban_ip_confirmation: 'Sunteți sigur că doriți să blocați utilizarea acestei adrese IP pe forum? Acest lucru va bloca utilizatorii cu aceste adrese IP să se conecteze și să se înregistreze.'
+      unban_ip_confirmation: 'Sunteți sigur că doriți să anulați banarea acestui utilizator și a tuturor celorlalți utilizatori care nu sunt interziși de alte IP-uri?'
+      unban_ip_no_users: 'Nimeni altcineva nu va fi debanat'
+      title: 'Interzicerea IP-urilor'
+      unban_title: 'Anularea interzicerii IP-urilor'
+      address_label: 'Adresă IP'
+      reason_label: Rațiune
+      ban_button: Ban
+      unban_button: 'Anulează interdicția'
+  ref:
+    ban_label: Ban
+    ban_ip_addresses: 'Interzicerea IP-urilor'
+    ban_ip_button: 'Interzicerea IP-ului'
+    unban_label: 'Anulează interdicția'
+    unban_ip_addresses: 'Anularea interzicerii IP-urilor'
+    unban_ip_button: 'Anulați interzicerea IP-ului'
+    address_label: 'Adresă IP'
+    reason_label: Rațiune
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Detaliile înregistrării dvs. au fost găsite într-o bază de date de prevenire a spamului, prin urmare înregistrarea dvs. a fost blocată.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Ștergerea discuțiilor'
+      hard_delete_discussions_help: 'Acest lucru va șterge definitiv toate discuțiile inițiate de acest utilizator. Când sunt dezactivate, discuțiile vor fi ascunse.'
+      hard_delete_posts_label: 'Șterge postări'
+      hard_delete_posts_help: 'Acest lucru va șterge definitiv toate postările (comentarii, răspunsuri etc.) făcute de acest utilizator. Când sunt dezactivate, postările vor fi ascunse.'
+      hard_delete_user_label: 'Ștergeți utilizatorul'
+      hard_delete_user_help: 'Acest lucru va șterge definitiv utilizatorul. Când este dezactivat, utilizatorul va fi suspendat.'
+      intro: 'Când marcați un utilizator ca spammer, vor fi luate mai multe acțiuni, care depind de extensiile disponibile pe forumul dvs.'
+      move_discussions_tag_label: 'Mutarea discuțiilor în eticheta de carantină'
+      move_discussions_tag_help: 'Acest lucru va muta toate discuțiile inițiate de acest utilizator în eticheta pe care ați specificat-o în setările forumului. Când sunt dezactivate, discuțiile vor fi lăsate în etichetele curente.'
+      process_button: Proces
+      report_to_sfs_label: 'Raportați la StopForumSpam'
+      report_to_sfs_help: 'Aceasta va raporta detaliile de bază ale utilizatorului (nume de utilizator, e-mail, adresă IP) către StopForumSpam. Acest lucru va ajuta la împiedicarea utilizatorului să se înregistreze pe alte forumuri care utilizează serviciul StopForumSpam.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Resetarea numărului de vizualizări ale discuțiilor'
+      submit: Prezinte
+      label: 'Setați la numărul de vizualizări'
+    discussion_controls:
+      resetviews_button: 'Setarea numărului de vizualizări'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Nelipicios
+      sticky_button: Lipicios
+    badge:
+      sticky_tooltip: Lipicios
+  ref:
+    sticky: Lipicios
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Încuiat
+    discussion_controls:
+      lock_button: Lacăt
+      unlock_button: Debloca
+    settings:
+      notify_discussion_locked_label: 'Cineva blochează o discuție pe care am început-o'
+flarum-likes:
+  forum:
+    post:
+      like_link: Plăcea
+      unlike_link: 'Spre deosebire'
+      you_text: Tu
+    post_likes:
+      title: 'Utilizatorii cărora le place acest lucru'
+      load_more_button: 'Încarcă mai mult'
+    settings:
+      notify_post_liked_label: 'Cineva îi place una dintre postările mele'
+    user:
+      likes_link: 'Îi place'
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Inserarea emoji-urilor'
+      type_to_search_text: 'Tastați pentru a căuta un emoji'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Conținutul dvs. este prea mare, vă rugăm să citiți instrucțiunile noastre privind postarea' }
+dhtml-persona:
+  forum:
+    persona: Persoană
+dhtml-leaderboard:
+  forum:
+    leaderboard: Clasament
+dhtml-gender:
+  forum:
+    male: Mascul
+    female: Feminin
+    other: 'Prefer să nu spun'
+    inputGender: Gen
+    saveButton: Salva
+    clickToSelectGender: 'Selectați sexul'
+    genderSaved: 'Genul a fost salvat cu succes!'
+    field_placeholder: 'Confirmați sexul'
+    binding_gender: 'Am descoperit că nu v-ați stabilit sexul. Vă rugăm să vă setați mai întâi sexul. Poți să postezi și să lași mesaje numai după ce ți-ai setat sexul.'
+    binding_gender_click: 'Faceți clic acum'
+flarum-content-pages:
+  forum:
+    home: Domiciliu
+    about-us: 'Despre noi'
+    guidelines: Orientări
+    privacy-policy: 'Politica de confidențialitate'
+    terms-of-use: 'Termeni de utilizare'
+    contact-us: Contactează-ne
+    download-app: 'Descărcați aplicația'
+    discord-chat: 'Discord Chat'
+    tags-cloud: 'Tag-uri: Cloud'
+    languages: Limbi
+    leaderboard: Clasament
+    live: Live
+    live-coding: 'Codificare live'
+    challenges: Provocări
+    dev-challenges: 'Dev Challenges'
+    jobs: 'Locuri de muncă'
+    community: Comunitate
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Postare job'
+    job-postings: Postări
+    workshops: Ateliere
+    dev-workshops: 'Ateliere Dev'
+    events: Evenimente
+    conferences: Conferințe
+    event-conferences: 'Evenimente / Conferinţe'
+    showcase: Spectacol
+    tags: Tags
+    more: 'Mai mult'
+    memberships: Membri
+    members: Membri
+    general-discussion: 'Discuţii generale'
+    technology-articles: 'Articole tehnologice'
+    coding-challenges: 'Provocări de codificare'
+    q-a: 'Secțiunea Q/A'
+    artificial-intelligence: 'Inteligență artificială'
+    computer-science: Informatica
+    programming-languages: 'Limbi de programare'
+    development-tools: 'Instrumente de dezvoltare'
+    software-development: 'Dezvoltarea de software'
+    frontend-development: 'Dezvoltare Frontend'
+    backend-development: 'Dezvoltarea platformei'
+    software-engineering: 'Inginerie software'
+    cybersecurity: 'Securitatea cibernetică'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Contorul de caractere'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Editați data nașterii'
+      date_of_birth_text: 'Data naşterii'
+      submit_button: 'Salvați modificările'
+    settings:
+      change_dob_label: 'Schimbați data nașterii'
+      show_dob_date_label: 'Arată ziua și luna nașterii'
+      show_dob_year_label: 'Arată anul nașterii'
+      show_dob_year_help: 'Acest lucru va permite oamenilor să vă vadă vârsta.'
+      dob_heading: 'Data naşterii'
+    nav:
+      nav_item: 'Zilele de naștere de astăzi'
+    edit_user:
+      dob_heading: 'Data naşterii'
+    sign_up:
+      dob_placeholder: 'Data naşterii'
+  api:
+    invalid_dob_message: 'Data nașterii nevalidă'
+  ref:
+    date_of_birth: 'Data naşterii'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Selector Emoji'
+    search_placeholder: Căutare...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Editați autorul și data'
+    modal:
+      title-post: 'Editează autorul și data postării'
+      title-discussion: 'Editați autorul discuției și data'
+      user: Autor
+      created_at: 'Timpul creării'
+      edited_at: 'Editați ora'
+      sync-with-discussion: 'Sincronizarea cu discuția'
+      sync-with-post: 'Sincronizează cu prima postare'
+      sync-impossible: 'Nu se poate găsi prima postare. Încercați să derulați până la începutul discuției.'
+      submit: Salva
+      cancel: Anula
+    search:
+      placeholder: 'Căutați utilizatori'
+      type-more: 'Tastați 3 caractere pentru a căuta în baza de date'
+      no-results: 'Niciun rezultat'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Comutați modul Text îmbogățit'
+      insert_button: Insera
+      insert_image: { src_placeholder: Legătură, title_placeholder: Titlu }
+      insert_link: { text_placeholder: Text, href_placeholder: 'Adresa URL', title_placeholder: 'Titlu (arată la trecere)', remove_button: Depărta }
+      additional_items_tooltip: 'Controale suplimentare'
+      code_block_tooltip: 'Inserarea unui bloc de cod'
+      horizontal_rule_tooltip: 'Inserarea regulii orizontale'
+      image_tooltip: 'Adăugați o imagine'
+      link_tooltip: 'Adăugați un link'
+      spoiler_block_tooltip: 'Blocați spoilerul / meniul derulant'
+      strike_tooltip: 'tăiat cu <alt-shift-5>o linie'
+      text_type_tooltip: 'Selectați tipul de text'
+  forum:
+    settings:
+      composer_heading: Compozitor
+      use_rich_text_editor_label: 'Utilizați editorul de text îmbogățit?'
+      rich_text_compact_paragraphs_label: 'Nu separați paragrafele cu linie nouă.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Aveți notificările push activate, dar nu ați configurat acest dispozitiv.'
+      optin_button: Configura
+    discussion_controls:
+      share_button: Acțiune
+    post_controls:
+      share_button: Acțiune
+    user_controls:
+      share_button: Acțiune
+    settings:
+      push_header: Împinge
+      pwa_notifications: { access_default: 'Din cauza restricțiilor browserului, trebuie să optați pentru a primi notificări push pe acest dispozitiv.', access_default_button: Înscrieți-vă, access_denied: 'Trebuie să ajustați setările browserului pentru a primi notificări push pe acest dispozitiv.', access_denied_button: 'Aflați cum', no_browser_support: 'Acest browser nu acceptă notificări push pentru aplicații web progresive.', no_browser_support_button: 'Află mai multe' }
+  views:
+    offline:
+      header: 'Eroare de conexiune la rețea'
+      text: 'Această aplicație necesită o conexiune la rețea; Nu poate fi folosit offline. Vă rugăm să verificați conexiunea.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Avertizare utilizator'
+    user:
+      warnings: 'Avertismente moderator'
+    settings:
+      warning_notification_label: 'Un moderator mă avertizează'
+    validation:
+      public_comment_required: 'Cel mai mult oferiți un comentariu public.'
+      invalid_strike_count: 'Numărul de avertismente trebuie să fie un număr întreg între 0 și 5.'
+    warning_controls:
+      delete_button: Depărta
+      restore_button: Restaura
+      delete_forever_button: 'Ștergere definitivă'
+    warning_list:
+      add_button: 'Avertisment nou'
+      no_warnings: 'Se pare că nu există avertismente aici.'
+      warnings_no_strikes: 'Avertismente moderator: Nu s-au primit avertismente'
+    warning_list_item:
+      public_comment: Avertisment
+      private_comment: 'Comentarii vizibile ale moderatorului'
+      linked_post: 'Postare legată'
+    warning_modal:
+      confirmation_message: 'Avertismentul tău a fost salvat. Poate fi necesar să reîmprospătați pagina pentru a o vedea.'
+      strikes_heading: 'Câte avertismente ar trebui aplicate?'
+      submit_button: 'Salvați avertismentul'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Editare șablon de răspuns'
+    reply_template:
+      title: 'Editare șablon de răspuns'
+      submit_button: 'Salvați șablonul de răspuns'

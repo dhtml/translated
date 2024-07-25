@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Sisestatud parool on vale.'
+      confirm_password_placeholder: 'Kinnitage parool'
+      dismiss_button: OK
+      submit_button: 'Salvesta muudatused'
+      title: 'E-posti aadressi muutmine'
+    change_password:
+      send_button: 'Saada parooli lähtestamise e-kiri'
+      text: 'Klõpsake alloleval nupul ja kontrollige, kas teie e-posti aadressil on link parooli muutmiseks.'
+      title: 'Muuda parooli'
+    composer:
+      close_tooltip: Sulgema
+      exit_full_screen_tooltip: 'Täisekraanilt väljumine'
+      full_screen_tooltip: Täisekraanil
+      minimize_tooltip: Minimeerida
+      preview_tooltip: Eelvaade
+    composer_discussion:
+      body_placeholder: 'Kirjutage postitus...'
+      discard_confirmation: 'Te pole oma arutelu postitanud. Kas soovite selle ära visata?'
+      submit_button: 'Pärast arutelu'
+      title_placeholder: 'Arutelu pealkiri'
+      title: 'Arutelu alustamine'
+    composer_edit:
+      discard_confirmation: 'Te pole muudatusi salvestanud. Kas soovite need ära visata?'
+      edited_message: 'Teie muudatus on tehtud.'
+      submit_button: 'Salvesta muudatused'
+      view_button: Vaade
+    composer_reply:
+      discard_confirmation: 'Te ei ole oma vastust postitanud. Kas soovite selle ära visata?'
+      posted_message: 'Teie vastus postitati.'
+      submit_button: 'postituse vastus'
+      body_placeholder: 'Kirjutage vastus...'
+      view_button: Vaade
+    discussion_controls:
+      cannot_reply_button: 'Ei saa vastata'
+      cannot_reply_text: 'Teil pole sellele arutelule vastamiseks luba.'
+      delete_confirmation: 'Kas olete kindel, et soovite selle arutelu kustutada?'
+      log_in_to_reply_button: 'Vastamiseks logi sisse'
+      toggle_dropdown_accessible_label: 'Arutelutoimingute rippmenüü sisselülitamine'
+      delete_button: Kustutama
+      delete_forever_button: 'Kustuta igavesti'
+      rename_button: 'Ümber nimetada'
+      reply_button: Vastuse
+      restore_button: Taastada
+    discussion_list:
+      empty_text: 'Tundub, et siin ei ole arutelusid.'
+      load_more_button: 'Laadi rohkem'
+    forgot_password:
+      email_sent_message: 'Kui sisestatud e-kiri on registreeritud sellel saidil, saadame teile e-kirja, mis sisaldab linki teie parooli lähtestamiseks. Kontrolli oma rämpsposti kausta, kui sa ei saa seda järgmise minuti või kahe jooksul.'
+      not_found_message: 'Selle e-posti aadressiga kasutajat pole registreeritud.'
+      submit_button: 'Parooli taastamine'
+      text: 'Sisestage oma e-posti aadress ja me saadame lingi lähtestada oma parool.'
+      title: 'Unustasin parooli'
+      dismiss_button: OK
+      email_placeholder: 'E- post'
+    header:
+      admin_button: Manustamine
+      back_to_index_tooltip: 'Tagasi aruteluloendisse'
+      locale_dropdown_accessible_label: 'Foorumi lokaadi muutmine'
+      profile_button: Profiili
+      search_clear_button_accessible_label: 'Otsingupäringu tühjendamine'
+      search_placeholder: 'Otsi foorumit'
+      search_role_label: 'Otsi foorumit'
+      session_dropdown_accessible_label: 'Lülitage seansi suvandite rippmenüü'
+      log_in_link: 'Logi sisse'
+      log_out_button: 'Logi välja'
+      settings_button: Seaded
+      sign_up_link: 'Pane nimi kirja'
+    index:
+      cannot_start_discussion_button: 'Arutelu ei saa alustada'
+      mark_all_as_read_confirmation: 'Kas olete kindel, et soovite märkida kõik arutelud loetuks?'
+      refresh_tooltip: Värskenda
+      toggle_sidenav_dropdown_accessible_label: 'Lülitage navigeerimise rippmenüü sisse'
+      all_discussions_link: 'Kõik arutelud'
+      mark_all_as_read_tooltip: 'Kõigi loetuks märkimine'
+      meta_title_text: 'Kõik arutelud'
+      start_discussion_button: 'Arutelu alustamine'
+    index_sort:
+      latest_button: Viimane
+      newest_button: Uusim
+      oldest_button: Vanim
+      relevance_button: Asjakohasust
+      toggle_dropdown_accessible_label: 'Aruteluloendi sortimise muutmine'
+      top_button: Top
+      hot_button: Trendid
+      votes_button: Poolthääled
+      front_button: Esileht
+      popular_button: Populaarsed
+      unpopular_button: Ebapopulaarne
+    log_in:
+      forgot_password_link: 'Unustasid parooli?'
+      invalid_login_message: 'Teie sisselogimisandmed olid valed.'
+      remember_me_label: 'Mäleta mind'
+      sign_up_text: 'Kas teil pole kontot? <a>Pane nimi kirja</a>'
+      username_or_email_placeholder: 'Kasutajanimi või e-posti aadress'
+      password_placeholder: Salasõna
+      submit_button: 'Logi sisse'
+      title: 'Logi sisse'
+    notifications:
+      delete_all_confirm: 'Kas olete kindel, et soovite kõik teatised kustutada? Seda toimingut ei saa tagasi pöörata'
+      delete_all_tooltip: 'Kõigi teatiste kustutamine'
+      empty_text: 'Teateid pole'
+      mark_as_read_tooltip: 'Loetuks märkimine'
+      toggle_dropdown_accessible_label: 'Märguannete vaatamine'
+      mark_all_as_read_tooltip: 'Kõigi loetuks märkimine'
+      title: Teatised
+      tooltip: Teatised
+    post:
+      edited_text: Redigeerida
+    post_controls:
+      delete_confirmation: 'Kas olete kindel, et soovite selle postituse igaveseks kustutada? Seda toimingut ei saa tagasi võtta.'
+      hide_confirmation: 'Kas olete kindel, et soovite selle postituse kustutada?'
+      toggle_dropdown_accessible_label: 'Lülitage postituse juhtelementide rippmenüü sisse'
+      push_to_front_button: 'Lükka esilehele'
+      pull_from_front_button: 'Tõmmake FrontPage''ist'
+      delete_button: Kustutama
+      delete_forever_button: 'Kustuta igavesti'
+      edit_button: Toimetama
+      restore_button: Taastada
+    post_scrubber:
+      now_link: Nüüd
+      original_post_link: 'Algne postitus'
+    post_stream:
+      load_more_button: 'Laadi rohkem'
+      reply_placeholder: 'Kirjutage vastus...'
+    rename_discussion:
+      title: 'Arutelu ümbernimetamine'
+      submit_button: 'Ümber nimetada'
+    search:
+      discussions_heading: Arutelu
+      users_heading: Kasutajad
+    security:
+      cannot_terminate_current_session: 'Praegust aktiivset seanssi ei saa lõpetada. Logige selle asemel välja.'
+      created: Loodud
+      current_active_session: 'Praegune aktiivne seanss'
+      developer_tokens_heading: 'Arendaja märgid'
+      empty_text: 'Tundub, et siin pole midagi näha.'
+      global_logout: { heading: 'Globaalne väljalogimine', help_text: 'Kustutab praeguse küpsiseseansi, lõpetab kõik seansid, tühistab arendaja tokenid ja muudab kehtetuks kõik e-posti kinnitused või parooli lähtestamise meilid.', log_out_button: 'Logi välja' }
+      hide_access_token: 'Peida märk'
+      last_activity: 'Viimane tegevus'
+      new_access_token_modal: { submit_button: 'Loo märk', title_placeholder: Pealkiri, title: 'Uus märk' }
+      revoke_access_token: Tühistada
+      sessions_heading: 'Aktiivsed seansid'
+      session_termination_failed: 'Seansside lõpetamisel ilmnes tõrge.'
+      show_access_token: 'Vaata märki'
+      terminate_all_other_sessions: 'Kõigi teiste seansside lõpetamine'
+      terminate_session: Lõpetada
+      token_revoked: 'Märk tühistatud.'
+      token_title_placeholder: /
+      never: Iial
+      new_access_token_button: 'Uus märk'
+      revoke_access_token_confirmation: 'Kas olete kindel, et soovite jätkata? Seda toimingut ei saa tagasi võtta.'
+      terminate_all_other_sessions_confirmation: 'Kas olete kindel, et soovite jätkata? Seda toimingut ei saa tagasi võtta.'
+      title: Turvalisus
+    settings:
+      account_heading: Konto
+      notify_by_web_heading: Veeb
+      notify_discussion_renamed_label: 'Keegi nimetab minu alustatud arutelu ümber'
+      privacy_disclose_online_label: 'Lubage teistel näha, millal ma võrgus olen'
+      privacy_heading: Privaatsus
+      change_email_button: 'E-posti aadressi muutmine'
+      change_password_button: 'Muuda parooli'
+      notifications_heading: Teatised
+      notify_by_email_heading: 'E- post'
+      title: Seaded
+    sign_up:
+      log_in_text: 'Kas teil on juba konto? <a>Logi sisse</a>'
+      dismiss_button: OK
+      email_placeholder: 'E- post'
+      password_placeholder: Salasõna
+      submit_button: 'Pane nimi kirja'
+      title: 'Pane nimi kirja'
+      username_placeholder: Kasutajanimi
+    user:
+      avatar_upload_button: Laadida
+      avatar_upload_tooltip: 'Laadige üles uus avatari'
+      online_text: Online
+      posts_empty_text: 'Tundub, et siin pole postitusi.'
+      avatar_remove_button: Eemaldada
+      discussions_link: Arutelu
+      posts_link: Postitusi
+      posts_load_more_button: 'Laadi rohkem'
+      security_link: Turvalisus
+      settings_link: Seaded
+    user_controls:
+      button: Kontrolli
+      delete_confirmation: 'Kas olete kindel, et soovite selle kasutaja kustutada? Kasutaja postitusi EI kustutata.'
+      toggle_dropdown_accessible_label: 'Lülitage kasutaja juhtelementide rippmenüü sisse'
+      delete_button: Kustutama
+      edit_button: Toimetama
+    user_email_confirmation:
+      resend_button: 'Saada kinnitusmeil uuesti'
+      sent_message: Saadetud
+    welcome_hero:
+      hide: 'Peida tervitussõnum'
+    badge:
+      frontpage_tooltip: 'Märgitud esileheks'
+  lib:
+    debug_button: Debug
+    alert:
+      dismiss_a11y_label: 'Hoiatusest loobumine'
+    badge:
+      hidden_tooltip: Peidetud
+    dropdown:
+      toggle_dropdown_accessible_label: 'Lülitage rippmenüü sisse'
+    edit_user:
+      activate_button: 'Kasutaja aktiveerimine'
+      groups_heading: Rühmad
+      set_password_label: 'Määra uus parool'
+      nothing_available: 'Teil pole lubatud seda kasutajat redigeerida.'
+      email_heading: 'E- post'
+      email_label: 'E- post'
+      password_heading: Salasõna
+      password_label: Salasõna
+      submit_button: 'Salvesta muudatused'
+      title: 'Kasutaja redigeerimine'
+      username_heading: Kasutajanimi
+      username_label: Kasutajanimi
+    error:
+      generic_message: 'Oops! Midagi läks valesti. Laadige leht uuesti ja proovige uuesti.'
+      generic_cross_origin_message: 'Oops! Ristpäritolu taotluse ajal läks midagi valesti. Laadige leht uuesti ja proovige uuesti.'
+      not_found_message: 'Soovitud ressurssi ei leitud.'
+      payload_too_large_message: 'Taotluse kasulik koormus oli liiga suur.'
+      permission_denied_message: 'Teil ei ole selleks luba.'
+      rate_limit_exceeded_message: 'Sa lähed natuke liiga kiiresti. Proovige mõne sekundi pärast uuesti.'
+      render_failed_message: 'Kahjuks ilmnes selle sisu kuvamisel tõrge. Kui olete kasutaja, proovige hiljem uuesti. Kui olete administraator, vaadake lisateabe saamiseks oma Flarumi logifaile.'
+    modal:
+      close: Sulgema
+    nav:
+      drawer_button: 'Avage navigeerimissahtel'
+    loading_indicator:
+      accessible_label: Laadimise...
+  views:
+    confirm_email:
+      text: 'Klõpsake alloleval nupul, et kinnitada oma konto e-posti aadress.'
+      submit_button: 'Kinnitage e-posti aadress'
+      title: 'Kinnitage e-posti aadress'
+    content:
+      javascript_disabled_message: 'Seda saiti on kõige parem vaadata kaasaegses brauseris, kus JavaScript on lubatud.'
+      load_error_message: 'Selle saidi täisversiooni laadimisel läks midagi valesti. Proovige seda lehte tõrke parandamiseks kõvasti värskendada.'
+      loading_text: Laadimise...
+    error:
+      csrf_token_mismatch: 'Olete olnud liiga kaua passiivne.'
+      csrf_token_mismatch_return_link: 'Mine tagasi ja proovi uuesti'
+      invalid_confirmation_token: 'Seda kinnituslinki on juba kasutatud või see on kehtetu.'
+      not_authenticated: 'Teil pole sellele lehele juurdepääsuks luba. Proovige pärast sisselogimist uuesti.'
+      not_found: 'Teie soovitud lehte ei leitud.'
+      permission_denied: 'Teil pole sellele lehele juurdepääsuks luba.'
+      unknown: 'Selle lehe laadimisel ilmnes tõrge.'
+    log_out:
+      log_out_button: 'Logi välja'
+      title: 'Logi välja'
+    reset_password:
+      confirm_password_label: 'Kinnitage uus parool'
+      new_password_label: 'Uus parool'
+      submit_button: 'Salvesta muudatused'
+      title: 'Parooli lähtestamine'
+    discussion:
+      next_page_button: 'Järgmine lehekülg'
+      previous_page_button: 'Eelmine lehekülg'
+    index:
+      all_discussions_heading: 'Kõik arutelud'
+      next_page_button: 'Järgmine lehekülg'
+      previous_page_button: 'Eelmine lehekülg'
+  api:
+    invalid_username_message: 'Kasutajanimi võib sisaldada ainult tähti, numbreid ja sidekriipse.'
+  email:
+    activate_account:
+      subject: 'Uue konto aktiveerimine'
+    confirm_email:
+      subject: 'Kinnitage oma uus e-posti aadress'
+    reset_password:
+      subject: 'Parooli lähtestamine'
+    send_test:
+      subject: 'Flarumi e-posti test'
+  ref:
+    all_discussions: 'Kõik arutelud'
+    change_email: 'E-posti aadressi muutmine'
+    change_password: 'Muuda parooli'
+    color: Värv
+    confirm_password: 'Kinnitage parool'
+    confirm_email: 'Kinnitage e-posti aadress'
+    custom_footer_text: 'Lisage HTML, mis kuvatakse lehe allosas.'
+    custom_footer_title: 'Kohandatud jaluse redigeerimine'
+    custom_header_text: 'Lisage HTML, mis kuvatakse lehe ülaosas, Flarumi enda päise kohal.'
+    custom_header_title: 'Kohandatud päise redigeerimine'
+    delete: Kustutama
+    delete_forever: 'Kustuta igavesti'
+    discussions: Arutelu
+    edit: Toimetama
+    edit_user: 'Kasutaja redigeerimine'
+    email: 'E- post'
+    extensions: Laiendused
+    generic_confirmation_message: 'Kas olete kindel, et soovite jätkata? Seda toimingut ei saa tagasi võtta.'
+    icon: Ikoon
+    load_more: 'Laadi rohkem'
+    loading: Laadimise...
+    log_in: 'Logi sisse'
+    log_out: 'Logi välja'
+    mark_all_as_read: 'Kõigi loetuks märkimine'
+    never: Iial
+    new_token: 'Uus märk'
+    next_page: 'Järgmine lehekülg'
+    notifications: Teatised
+    okay: OK
+    password: Salasõna
+    posts: Postitusi
+    previous_page: 'Eelmine lehekülg'
+    remove: Eemaldada
+    rename: 'Ümber nimetada'
+    reply: Vastuse
+    reset_your_password: 'Parooli lähtestamine'
+    restore: Taastada
+    save_changes: 'Salvesta muudatused'
+    search_users: 'Kasutajate otsimine'
+    security: Turvalisus
+    settings: Seaded
+    sign_up: 'Pane nimi kirja'
+    start_a_discussion: 'Arutelu alustamine'
+    username: Kasutajanimi
+    users: Kasutajad
+    view: Vaade
+    write_a_reply: 'Kirjutage vastus...'
+    you: Te
+  group:
+    admin: Admin
+    admins: Administraatorid
+    guest: Külaline
+    guests: Külalistele
+    member: Liige
+    members: Liikmed
+    mod: Viisil
+    mods: Modifikatsioonid
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Kõik sildid'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Valige arutelu jaoks sildid'
+    discussion_controls:
+      edit_tags_button: 'Siltide redigeerimine'
+    header:
+      back_to_tags_tooltip: 'Tagasi siltide loendisse'
+    index:
+      more_link: Rohkem...
+      untagged_link: Sildistamata
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Valige Sildid'
+  lib:
+    deleted_tag_text: Kustutatud
+    tag_selection_modal:
+      bypass_requirements: 'Möödasõidusildi nõuded'
+      submit_button: OK
+      title: 'Valige Sildid'
+  ref:
+    choose_tags: 'Valige Sildid'
+    name: Nimi
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Kasutaja, rühma või postituse mainimine'
+    mentioned_by:
+      title: 'Vastused sellele postitusele'
+      load_more_button: 'Laadi rohkem'
+    post:
+      quote_button: Tsitaat
+      reply_link: Vastuse
+      you_text: Te
+    settings:
+      notify_post_mentioned_label: 'Keegi vastab ühele minu postitusele'
+      notify_user_mentioned_label: 'Keegi mainib mind postituses'
+      notify_group_mentioned_label: 'Keegi mainib postituses rühma, mille liige ma olen'
+    user:
+      mentions_link: Mainib
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Jälgimise tühistamine'
+      unignore_button: Unsir
+      follow_button: Järgnema
+    settings:
+      follow_after_reply_label: 'Järgige automaatselt arutelusid, millele ma vastan'
+      notify_for_all_posts_label: 'Teavitage igast uuest postitusest, mitte ainult viimasest arutelust'
+      notify_new_post_label: 'Keegi postitab minu jälgitavasse arutelusse'
+    sub_controls:
+      following_text: 'Teid teavitatakse kõigist vastustest.'
+      ignoring_text: 'Ärge kunagi teavitage. Peida aruteluloendist.'
+      not_following_button: 'Ei jälgi'
+      not_following_text: 'Teid teavitatakse ainult siis, kui @mentioned.'
+      notify_alert_tooltip: 'Foorumi märguande saamine, kui on uusi postitusi'
+      notify_email_tooltip: 'Meilisõnumi saamine, kui on uusi postitusi'
+      follow_button: Järgnema
+      following_button: Järgmine
+      ignoring_button: Ignoreerides
+    badge:
+      following_tooltip: Järgmine
+      ignoring_tooltip: Ignoreerides
+    following:
+      meta_title_text: Järgmine
+    index:
+      following_link: Järgmine
+  ref:
+    follow: Järgnema
+    following: Järgmine
+    ignoring: Ignoreerides
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Täname, et märgistasite selle postituse. Meie moderaatorid uurivad seda.'
+      reason_inappropriate_label: Sobimatu
+      reason_inappropriate_text: 'See postitus on solvav, solvav või rikub meie <a>kogukonna juhiseid</a>.'
+      reason_missing_message: 'Palun esitage mõned üksikasjad meie moderaatoritele.'
+      reason_off_topic_label: Teemaväline
+      reason_off_topic_text: 'See postitus ei ole praeguse arutelu jaoks asjakohane ja tuleks mujale viia.'
+      reason_other_label: 'Muu (palun täpsustage)'
+      reason_spam_label: Spämm
+      reason_spam_text: 'See postitus on reklaam.'
+      dismiss_button: OK
+      submit_button: 'Lipuga postitus'
+      title: 'Lipuga postitus'
+    flagged_posts:
+      empty_text: 'Lippe pole'
+      title: 'Lipuga märgitud postitused'
+      tooltip: 'Lipuga märgitud postitused'
+    post:
+      dismiss_flag_button: 'Lipust loobumine'
+    post_controls:
+      flag_button: Lipp
+  ref:
+    flag_post: 'Lipuga postitus'
+    flagged_posts: 'Lipuga märgitud postitused'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Teid on peatatud määramata ajaks'
+      user_unsuspended_text: 'Teid on peatatud'
+    suspension_info:
+      dismiss_button: Jätta
+      indefinite: 'See on tähtajatu peatamine'
+      title: 'See konto on peatatud'
+    suspend_user:
+      display_message: 'Kuva sõnum kasutajale'
+      indefinitely_label: 'Peatatud määramata ajaks'
+      limited_time_days_text: ' Päevad'
+      limited_time_label: 'Peatatud piiratud ajaks...'
+      not_suspended_label: 'Ei ole peatatud'
+      placeholder_optional: Vabatahtlik
+      reason: 'Peatamise põhjus'
+      status_heading: 'Peatamise staatus'
+      submit_button: 'Salvesta muudatused'
+    user_badge:
+      suspended_tooltip: Peatatud
+    user_controls:
+      suspend_button: Peatama
+  email:
+    no_reason_given: 'Peatamiseks ei esitatud ühtegi põhjust.'
+    suspended:
+      subject: 'Teie konto on peatatud'
+    unsuspended:
+      subject: 'Teie konto on peatamata'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Kõik kasutaja poolt üles laaditud failid.', anonymize_description: 'Eemaldab üleslaaditud failidest kasutajaviite. Failid ise jäävad kättesaadavaks kasutajatele, kes võiksid neid enne anonüümimist vaadata.', delete_description: 'Kustutab kõik kasutaja poolt üles laaditud failid.' }
+      tagsubscription: { export_description: 'Ekspordib märgendi tellimistaseme üksikasjad, kui see on olemas.', anonymize_description: 'Eemaldab kasutaja sildi tellimuse.' }
+      followuser: { export_description: 'Eksporditakse jälgitavate ja jälgitavate kasutajate üksikasjad.', delete_description: 'Kustutab kõik järgmiste kasutajatega seotud andmed.', anonymize_description: 'Kustutab kõik järgmiste kasutajatega seotud andmed.' }
+      bannedipdata: { export_description: 'Kui kasutajaga on seotud IP-keelu kirje (st kasutaja keelati IP-ga), lisatakse ekspordile kasutaja IP-aadress koos keelu põhjuse ja loomise kuupäevaga.', anonymize_description: 'Kõik kasutajaga seotud IP-aadressid on lahti seotud, kuid IP ise jääb koos põhjusega keelatuks. Veenduge, et väljale "põhjus" ei salvestataks PII-andmeid.' }
+fof-upload:
+  forum:
+    media_manager: Meediajuht
+    buttons:
+      attach: Lisada
+      upload: Laadida
+      upload_shared: Ühiskasutusega
+      user_uploads: 'Kasutaja üleslaadimine'
+      cancel: Tühistama
+      media: 'Minu meedia'
+      shared_media: 'Jagatud meedia'
+    states:
+      error: Viga
+      loading: Uploading
+      unauthorized: 'Teil pole lubatud faile alla laadida'
+    text_preview:
+      expand: 'Laiendage eelvaadet'
+      collapse: 'Ahenda eelvaade'
+      error: "Tõrge faili eelvaates. See võib olla kustutatud või esitatud faili ID on kehtetu.\n"
+      no_snippet_preview: '<eelvaade ilmub siia pärast postitamist>'
+      no_snippet: '<Eelvaate koodilõik pole saadaval>'
+  api:
+    upload_errors:
+      forbidden_type: 'Seda tüüpi failide üleslaadimine pole lubatud.'
+      could_not_detect_mime: 'Selle faili MIME-tüüpi ei õnnestunud tuvastada, proovige uuesti.'
+      max_upload_file_size_ini: 'Laadige üles maksimaalne failide mahupiirang, mis on saavutatud alates php.ini. aastast.'
+      max_upload_file_size_form: 'Laadige üles maksimaalne failimahu piirang, mis on saavutatud vormilt.'
+      partial_upload: 'Osaline üleslaadimine.'
+      no_file_uploaded: 'Faili pole üles laaditud.'
+      no_upload_tmp_folder: 'Failide üleslaadimiseks pole tmp-kausta.'
+      cannot_write_to_disk: 'Kettale ei saa kirjutada.'
+      upload_blocked_by_php_extension: 'Php laiendus blokeeris üleslaadimise.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Uus ühiskasutatav fail'
+      dropzone: 'Pukseerige failid siia või klõpsake sirvimiseks'
+      hide-from-media-gallery: 'Peida kasutaja meediumigaleriis'
+      upload: Laadida
+    file_list:
+      loading: 'Failide laadimine...'
+      empty: 'Kuvatavaid faile pole.'
+      release_to_upload: 'Üleslaadimiseks vabastamine'
+      modal_empty_desktop: 'Teie faililoend on tühi. Klõpsake nuppu või lohistage fail üleslaadimiseks siia.'
+      modal_empty_phone: 'Teie faililoend on tühi. Faili üleslaadimiseks puudutage ülalolevat nuppu.'
+      load_more_files_btn: 'Laadige rohkem faile'
+      hide_file: { hide_success: 'Fail on peidetud', show_success: 'Kuvatud fail', loading: 'Faili peitmine...' }
+      hide_shared_file: { hide_success: 'Fail on muudetud privaatseks', show_success: 'Fail on avalikustatud', loading: 'Faili privaatseks muutmine...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Kirjutas
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'teksti lisamine'
+      code_tooltip: 'Sisestage kood'
+      header_tooltip: 'Päise teksti lisamine'
+      image_tooltip: 'Pildi lisamine'
+      italic_tooltip: 'Kursiivteksti lisamine'
+      link_tooltip: 'Lingi lisamine'
+      ordered_list_tooltip: 'Numberloendi lisamine'
+      quote_tooltip: 'Hinnapakkumise lisamine'
+      spoiler_tooltip: 'Sisestage spoiler'
+      strikethrough_tooltip: 'Läbikriipsutatud teksti lisamine'
+      unordered_list_tooltip: 'Täpploendi lisamine'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Keegi loob arutelu sildis, mida ma jälgin'
+      notify_new_post_label: 'Keegi postitab sildi, mida ma jälgin'
+      notify_new_discussion_tag_label: 'Keegi sildistab arutelu uuesti sildiks, mida ma jälgin'
+    index:
+      follow_tag_button: Järgnema
+      unfollow_tag_button: 'Lõpeta jälgimine'
+      following: { following_none_label: 'Järgnenud arutelud', following_tags_label: 'Jälgitavad sildid' }
+    badge:
+      following_tag_tooltip: Järgmine
+      lurking_tag_tooltip: Varitsemine
+    sub_controls:
+      following_text: 'Olge kursis kõigi uute aruteludega.'
+      hiding_text: 'Peida arutelud lehelt Kõik arutelud.'
+      ignoring_text: 'Ärge kunagi teavitage.'
+      lurking_text: 'Olge kursis kõigi uute arutelude ja vastustega.'
+      not_following_button: 'Ei jälgi'
+      not_following_text: 'Teid teavitatakse ainult siis, kui @mentioned.'
+      notify_alert_tooltip: 'Foorumi märguande saamine, kui on uusi arutelusid või postitusi'
+      notify_email_tooltip: 'Meilisõnumi saamine uute arutelude või postituste korral'
+      submit_button: 'Kinnitage tellimus'
+      follow_button: Järgnema
+      following_button: Järgmine
+      hiding_button: Peitmine
+      ignoring_button: Ignoreerides
+      lurking_button: Varitsemine
+    user:
+      settings: { heading: 'Järgige silte', filter_label: 'Mida kuvada vaikimisi lehel Järgmine' }
+  ref:
+    follow: Järgnema
+    following: Järgmine
+    hiding: Peitmine
+    ignoring: Ignoreerides
+    lurking: Varitsemine
+    filtering_options:
+      none: 'Järgnenud arutelud'
+      tags: 'Jälgitavad sildid'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'See hüüdnimi on kehtetu. Hüüdnimereeglite kohta lisateabe saamiseks võtke ühendust oma foorumi administraatoriga.'
+  ref:
+    change_nickname: 'Muuda hüüdnime'
+    nickname: Hüüdnimi
+  forum:
+    change_nickname:
+      submit_button: 'Salvesta muudatused'
+      title: 'Muuda hüüdnime'
+    edit_user:
+      nicknames_heading: 'Muuda hüüdnime'
+      nicknames_text: Hüüdnimi
+    settings:
+      change_nickname_button: 'Muuda hüüdnime'
+    sign_up:
+      nickname_placeholder: Hüüdnimi
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Lingitud kontod', last-used-label: 'Viimati kasutatud', link-created-label: 'Link on loodud', orphaned-account: 'Olete selle pakkuja kaudu varem sisse loginud, kuid sellest ajast alates on see foorum selle meetodiga sisselogimise keelanud.', help: 'Need lingitud kontod võimaldavad teil foorumisse sisse logida teiste teenusepakkujate abil.' } }
+    signup:
+      username_help: 'Palun valige kasutajanimi, mida siin teada saada'
+    unlink: 'Eemalda link'
+    error:
+      bad_verification_code: 'Kehtetu või aegunud kinnitusluba. Proovige uuesti.'
+      invalid_state: 'Kehtetu olek. Proovige uuesti.'
+    providers:
+      discord: Ebakõla
+      facebook: Facebookis
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Twitter
+  lib:
+    providers:
+      discord: Ebakõla
+      facebook: Facebookis
+      github: GitHub
+      gitlab: GitLab
+      twitter: Twitter
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'Rakenduse ID'
+      app_secret: 'Rakenduse saladus'
+      client_id: 'Kliendi ID'
+      client_secret: 'Kliendi saladus'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Logi sisse teise kasutajana'
+      placeholder_optional: '(Valikuline) Esitage sellele kasutajale ülemineku põhjus'
+      placeholder_required: 'Enne jätkamist peate esitama oma põhjuse sellele kasutajale üleminekuks'
+    user_controls:
+      impersonate_button: 'Logi sisse kasutajana'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Privaatne arutelu' }
+    buttons:
+      add_recipients: Adressaadid
+      submit: OK
+      edit_recipients: 'Adressaatide redigeerimine'
+      cancel: Tühistama
+      make_public: 'Tehke see arutelu avalikuks'
+      remove_from_discussion: 'Jätke see privaatne arutelu'
+    composer_private_discussion:
+      submit_button: 'Privaatse arutelu postitamine'
+      title_placeholder: 'Privaatse arutelu pealkiri'
+    confirm:
+      make_public: 'Kas olete kindel, et soovite adressaadid eemaldada ja muuta selle arutelu nähtavaks kõigile, kes saavad määratud silti vaadata?'
+    nav:
+      start_button: 'Arutage privaatselt'
+      nav_item: 'Privaatsed arutelud'
+    input:
+      search_recipients: 'Otsi adressaati, tippides kolm esimest märki...'
+    search:
+      headings: { groups: Õigusegrupid }
+    modal:
+      titles: { add_recipients: 'Adressaatide lisamine arutelusse' }
+      labels: { selected_users: 'Valitud kasutajad', search_field: 'Otsi kasutajat' }
+      help: { add_recipients: 'See arutelu on nähtav ainult siin valitud kasutajatele. Nõutav on vähemalt 1 saaja (peale teie enda).', update_recipients: 'See arutelu on nähtav ainult siin valitud kasutajatele.', selected_users: 'Kasutaja eemaldamiseks klõpsake tema nime.', click_user_to_remove_tooltip: 'Klõpsake eemaldamiseks' }
+    user:
+      settings: { block_pd: 'Privaatsete arutelude blokeerimine' }
+      byobu_link: 'Privaatsed arutelud'
+      dropdown_label: 'Privaatsed arutelud'
+    notifications:
+      pd_label: 'Keegi kaasab mind uude privaatsesse arutellu'
+      pd_reply_label: 'Keegi postitab privaatses arutelus, mille saaja ma olen'
+      pd_user_left_label: 'Adressaatkasutaja lahkub privaatsest arutelust, milles osalen'
+      pd_added_label: 'Keegi lisab mind olemasolevasse privaatsesse arutellu'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Märgi teave'
+    all_badges: 'Vaadake kõiki märke'
+    all_users: 'Vaadake kõiki kasutajaid'
+    give_badge: 'Andke märk'
+    update_badge: 'Märgi värskendamine'
+    select_badge: 'Märgi valimine'
+    user_has_badge: 'Kasutajal on see märk juba olemas.'
+    user_no_badges: 'Sellel kasutajal pole veel märke.'
+    no_received: 'Ükski kasutaja pole seda märki teeninud.'
+    save_changes: 'Salvestage muudatused'
+    badge:
+      badge: Märk
+      badges: Märgid
+      name: 'Märgi nimi'
+      description: 'Märgi kirjeldus'
+      earning_reason: 'Märgi teenimise põhjus'
+      update_earning_reason: 'Värskendage teenimise põhjust'
+      no_earning_reason: 'Teenimise põhjust pole määratud'
+      earned_on: 'Märk teenitud'
+      category: 'Märgi kategooria'
+      badge_details: 'Märgi üksikasjad'
+    badges_in_card:
+      title: 'Märgid kasutajakaardil'
+      manage_badges: 'Märkide haldamine'
+      description: 'Kasutajakaardil nähtavaid märke saate muuta mõne teise märgiga. Kui te ühtegi ei vali, valitakse need automaatselt.'
+    moderation:
+      remove_badge: 'Kasutajalt märgi eemaldamine'
+      remove_badge_confirm: 'Kas olete kindel, et soovite selle märgi sellelt kasutajalt eemaldada?'
+      give_badge: 'Andke märk'
+    notification:
+      title: 'Olete saanud uue märgi'
+      settings: 'Olen saanud märgi'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Armetu staatus'
+      not_miserable_label: 'Pole õnnetu'
+      indefinitely_label: 'Õnnetu lõputult'
+      limited_time_label: 'Piiratud aja jooksul õnnetu...'
+      limited_time_days_text: ' Päevad'
+      submit_button: 'Salvesta muudatused'
+    user_badge:
+      miserable_user_tooltip: 'Õnnetu kasutaja'
+    user_controls:
+      miserable_user_button: 'Õnnetu kasutaja'
+  ref:
+    miserable_user: 'Õnnetu kasutaja'
+sycho-profile-cover:
+  forum:
+    cover: Katma
+    edit_cover: 'Kaane redigeerimine'
+    added:
+      success: 'Profiili kate on uuendatud.'
+      error: 'Pilti ei saanud üles laadida.'
+    removed:
+      success: 'Profiili kate on eemaldatud.'
+      error: 'Katet ei saanud eemaldada, proovige hiljem uuesti.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Lõikelauale kopeerimine'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Viimased külastajad', guest: Külaline }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Riigi kood'
+    saveButton: Salvestama
+    clickToSelectCountry: 'Valige oma riik'
+    countrySaved: 'Riik on edukalt päästetud!'
+    field_placeholder: 'Kinnitage riigilipud'
+    binding_country: 'Avastasime, et te pole oma asukohta sidunud. Palun linkige kõigepealt oma riik. Sõnumeid saate postitada ja jätta alles pärast oma riigi linkimist.'
+    binding_country_click: 'Klõpsake nüüd'
+username-blacklist:
+  forum:
+    modal-title: Hoiatus!
+    modal-body-first-line: 'Hoiatus - <strong>administraator blokeerib</strong> selle kasutajanime'
+    modal-body-second-line: 'Valige mõni muu kasutajanimi, mis ei riku meie kogukonna juhiseid, ja proovige uuesti.'
+  admin:
+    blackList: 'Mustas nimekirjas olev kasutajanimi'
+    blackList-help: 'Kirjutage siia kasutajanimi, mille soovite registreerimise ajal blokeerida (eraldatakse komaga)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Sünopsis, show-summaries: 'Katkendi kuvamine igast arutelust aruteluloendites (lauaarvuti/tahvelarvuti)', show-summaries-mobile: 'Katkendi kuvamine aruteluloendites igast arutelust (mobiilne)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Foorumi tegevus'
+      forum_new_discussions: 'Foorumi uued arutelud'
+      discussion_last_posts: 'See arutelu'
+      user_last_posts: 'Selle kasutaja postitused ja kommentaarid'
+    feeds:
+      titles: { main_subtitle: 'Viimased postitused foorumis', main_d_subtitle: 'Uusimad arutelud foorumil', discussion_subtitle: 'Selle arutelu viimased sõnumid', user_subtitle: 'Selle kasutaja viimased postitused ja kommentaarid.' }
+    discussion:
+      feed_link: Sööda
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Järgida
+    profile_page:
+      no_following: 'Tundub, et te ei jälgi kedagi.'
+    settings:
+      notify_new_follower_label: 'Keegi järgneb mulle'
+      notify_new_unfollower_label: 'Keegi lõpetab minu jälgimise'
+      notify_new_discussion_label: 'Keegi, keda ma jälgin, alustab arutelu'
+      notify_new_post_label: 'Keegi, keda ma jälgin, postitab olemasolevas arutelus'
+      block_follow: 'Kasutajatel minu jälgimise keelamine'
+    badge:
+      label: { follow: 'Pärast arutelusid', lurk: 'Lõppude lõpuks' }
+    filter:
+      following: 'Jälgitavad kasutajad'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Tasemete jälgimine', follow_select_label: 'Järgige tüüpi', no_user_attr_provided_err: 'Uh oh, selle modaali avamisel läks midagi valesti.', no_user_attr_provided_err_debug: 'Atribuuti "user" ei edastatud SelectFollowUserLevel modaalile, kui see loodi. Modaali ei saa renderdada.', save_btn: Salvestama, cancel_btn: Tühistama }
+    profile_link: 'Jälgitud kasutajad'
+    user_controls:
+      follow_button: Järgnema
+      unfollow_button: 'Jälgimise tühistamine'
+      change_button: 'Muuda jälgimise tüüpi'
+    index:
+      follow_tag_button: Järgnema
+      unfollow_tag_button: 'Muuda jälgimise tüüpi'
+  email:
+    new_follower_subject: '[Jälgi kasutajat] Teil on uus jälgija!'
+  lib:
+    following_link: 'Jälgitud kasutajad'
+    follow: Järgnema
+    change_follow_type: 'Muuda jälgimise tüüpi'
+    unfollow: 'Jälgimise tühistamine'
+    follow_levels:
+      unfollow: { name: 'Ära jälgi' }
+      follow: { name: 'Arutelude jälgimine' }
+      lurk: { name: 'Jälgi kõiki' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Veenduge, et see taotletud hüüdnime muutmine järgib foorumi juhiseid.', decision_title: Otsus, approval_label: Kinnitada, rejected_label: 'Tagasi lükata', submit_button: Esitada, reason_title: 'Tagasilükkamise põhjus', success: 'Otsus saadetud.', title: 'Hüüdnime muutmise taotlus' }
+      results: { title: 'Hüüdnime muutmise taotlus', approved: 'Teie hüüdnime muutmise taotlus on heaks kiidetud', rejected: 'Teie hüüdnime muutmise taotlus lükati tagasi', resubmit: 'Sel ajal võite soovi korral oma konto seadetes uue hüüdnime muutmise taotluse uuesti esitada.', dismiss_button: OK }
+      request: { title: 'Hüüdnime muutmise taotlemine', submit_button: 'Esitan taotluse', delete_button: 'Kustuta taotlus', confirmation_message: 'Teie hüüdnime muutmise taotlus on esitatud ja ootab kinnitamist.', deleted: 'Hüüdnime taotlus on kustutatud.', dismiss_button: OK }
+    username_modals:
+      action: { help_text: 'Palun veenduge, et see taotletud kasutajanime muutmine järgib foorumi juhiseid.', decision_title: Otsus, approval_label: Kinnitada, rejected_label: 'Tagasi lükata', submit_button: Esitada, reason_title: 'Tagasilükkamise põhjus', success: 'Otsus saadetud.', title: 'Kasutajanime muutmise taotlus' }
+      results: { title: 'Kasutajanime muutmise taotlus', approved: 'Teie kasutajanime muutmise taotlus on heaks kiidetud', rejected: 'Teie kasutajanime muutmise taotlus lükati tagasi', resubmit: 'Sel ajal võite oma konto seadetest uue kasutajanime muutmise taotluse uuesti esitada, kui otsustate seda teha.', dismiss_button: OK }
+      request: { title: 'Taotlege kasutajanime muutmist', submit_button: 'Esitan taotluse', delete_button: 'Kustuta taotlus', confirmation_message: 'Teie kasutajanime muutmise taotlus on esitatud ja ootab kinnitamist.', deleted: 'Kasutajanime taotlus kustutati.', dismiss_button: OK }
+    pending_requests:
+      empty_text: 'Nime muutmise taotlusi ei leitud.'
+      tooltip: 'Nime muutmise taotlused'
+      title: 'Nime muutmise taotlused'
+    settings:
+      nickname_request_button: 'Muuda hüüdnime'
+      username_request_button: 'Muuda kasutajanime'
+    user:
+      name_history_link: 'Nime ajalugu'
+  ref:
+    name_change_request: 'Nime muutmise taotlus'
+    name_change_requests: 'Nime muutmise taotlused'
+    nickname_change_request: 'Hüüdnime muutmise taotlus'
+    nickname_change_requests: 'Hüüdnime muutmise taotlused'
+    username_change_request: 'Kasutajanime muutmise taotlus'
+    username_change_requests: 'Kasutajanime muutmise taotlused'
+  email:
+    body:
+      noReasonProvided: 'Põhjust ei esitatud.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Kirjutage midagi enda kohta'
+    profile:
+      cancel_confirm: 'Kas olete kindel, et soovite oma biograafia redigeerimise tühistada? Kõik tehtud muudatused lähevad kaotsi.'
+      cancel_button: Tühistama
+      save_button: Salvestama
+      edit_bio_label: 'Muuda biograafiat'
+fof-split:
+  forum:
+    split:
+      from: 'Siit lahku löödud'
+      to: 'Jaga siia'
+      cancel: 'Tükeldamise tühistamine'
+    modal:
+      title: 'Tükeldatud arutelu'
+      new_discussion_label: 'Uue arutelu pealkirja määramine'
+      submit_button: Split
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Muutke oma sotsiaalmeedia nuppe'
+      add: 'Nuppude lisamine oma sotsiaalmeediasse'
+      headtitle: 'Muuda nuppe'
+      title: Pealkiri
+      url: URL
+      submit: Salvestama
+      delete: Kustutama
+      deletetitle: 'Nupp Kustuta'
+      save_disabled_fetching_favicons: 'Tuuakse üks või mitu ikooni. Oota.'
+      favicon: Favicon
+      grey_favicon: 'Hall Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Jagama
+      share_dropdown_accessible_label: 'Lülitage arutelu jagamise rippmenüü sisse'
+    modal:
+      title: Jagama
+      copy_button: Koopia
+  lib:
+    networks:
+      facebook: Facebookis
+      twitter: Twitter
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Telegrammi
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Minu maailm'
+      qq: QQ
+      qzone: QZone
+      native: 'Kohalik aktsia'
+fof-recaptcha:
+  forum:
+    error: 'ReCAPTCHA esitamisel ilmnes viga. Proovi uuesti.'
+    unknown_error: 'Ilmnes tundmatu viga. Kontrollige captchat ja proovige uuesti.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Te ei saa seda reaktsiooni praegu kasutada, värskendage lehte'
+    warning: 'Teie reaktsioon pöördus usule'
+    settings:
+      notify_post_reacted_label: 'Keegi reageerib ühele minu postitusele'
+    reacting-own-post: 'Te ei saa oma postitusele reageerida'
+    modal:
+      title: Reaktsioonid
+      no_reactions: 'Reaktsioone pole veel'
+    mod_item: 'Vaata reaktsioone'
+    react_button_label: Reageerida
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Pildi kärpija laadimine ebaõnnestus.', generic_resize: 'Pildi kärpimisel ja suuruse muutmisel läks midagi valesti.', get_image_data: 'Kärpimine ebaõnnestus. Veenduge, et teie brauseri sõrmejäljekaitse oleks keelatud.' }
+      help_text: "Pildi üleslaadimine võib nurjuda, kui teie brauseri privaatsusseaded on väga ranged. Kui teil on probleeme, keelake sõrmejälgede kaitse. Vastasel juhul saate <disableResize>kärbitud pildi tihendamise keelata</disableResize> või <disableCrop>kärpimise täielikult keelata</disableCrop>.\n"
+      submit_button: Laadida
+      submit_crop_button: 'Kärpimine ja üleslaadimine'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'On väga tõenäoline, et see ei vaja edasist arutelu ja seega ei ole sellel mõtet.', checkbox_label: 'Olen teadlik, et see arutelu on üsna vana, kuid tahaksin siiski vastata.', error: 'See arutelu on vastamiseks liiga vana.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Teil pole hääletamiseks luba'
+    poll_ended: 'See küsitlus on lõppenud.'
+    public_poll: 'Vaata valijaid'
+    composer_discussion:
+      add_poll: 'Lisa küsitlus'
+      edit_poll: 'Redigeeri küsitlust'
+    modal:
+      add_title: 'Küsitluse lisamine'
+      add_option_label: 'Lisa valik'
+      edit_title: 'Redigeeri küsitlust'
+      include_question: 'Peate lisama küsimuse'
+      max: 'Teil võib olla maksimaalselt 10 vastust'
+      min: 'Peate lisama vähemalt 2 vastust'
+      no_voters: 'Hääli pole'
+      option_placeholder: Vastus
+      image_option_placeholder: 'Pildi URL (valikuline)'
+      options_label: Vastused
+      public_poll_label: 'Inimestel on võimalik näha, kes hääletas'
+      allow_multiple_votes_label: 'Luba inimestel hääletada mitme valiku poolt'
+      max_votes_label: 'Maksimaalne häälte arv kasutaja kohta'
+      max_votes_help: 'Seadke väärtuseks 0, et kasutajad saaksid hääletada kõigi suvandite poolt.'
+      question_placeholder: Küsimus
+      submit: Esitada
+    moderation:
+      delete: 'Eemalda küsitlus'
+      delete_confirm: 'Kas olete kindel, et soovite selle küsitluse kustutada?'
+      edit: 'Redigeeri küsitlust'
+    tooltip:
+      badge: Küsitlus
+    votes_modal:
+      title: Valijad
+fof-nightmode:
+  ref:
+    auto: 'Automaatne (põhineb brauseri või seadme valikutel)'
+    light: 'Päevane režiim'
+    dark: 'Öine režiim'
+  forum:
+    header:
+      nightmode_button: 'Öine režiim'
+    user:
+      settings: { heading: Theme, description: 'Valige, millist värvi teemat soovite foorumis kasutada.', description2: 'See teema lingitakse teie kontoga ja kehtib kõigile teie seadmetele, välja arvatud juhul, kui lülitate seadmepõhiste sätete jaoks sisse alloleva lüliti.', device_specific_setting_checkbox: 'Kasutage seadme kohta seadeid', device_specific_setting_checkbox_tooltip: 'Teie valitud teema salvestatakse iga seadme jaoks eraldi.', auto_unsupported: 'Teie brauser ei toeta automaatset pimedat režiimi.', option_descriptions: { auto: 'Teie teema valitakse automaatselt teie brauseri või seadme seadete põhjal. Näiteks kui teil on iOS-is lubatud tume režiim, on ka foorumid tumedad.', day: 'Klassikaline kogemus, millega olete harjunud. Armastatud ja testitud.', night: 'Sa oled natuke öökull. Sa vaatad foorumit öösel, kui linnud magavad ja rebased jahivad. Või eelistate lihtsalt tumedamaid värve!' }, options: { auto: 'Automaatne (põhineb brauseri või seadme valikutel)', day: 'Päevane režiim', night: 'Öine režiim' } }
+    day: 'Päevane režiim'
+    night: 'Öine režiim'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Tühi märkus ei ole lubatud.'
+    moderatorNotes:
+      add_button: 'Uus märkus'
+      create-heading: 'Uue moderaatori märkme loomine'
+      dismiss_button: Teinud
+      noNotes: 'Tundub, et siin pole märkmeid.'
+      submit_button: 'Salvesta märkus'
+      delete: Kustutama
+      confirm: 'Kas olete kindel, et soovite selle märkuse kustutada?'
+    user:
+      notes: 'Moderaatori märkused'
+  api:
+    no_reason_provided: 'Põhjust pole esitatud'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Häält
+    vote_title: 'Näita, kes hääletas'
+    nav:
+      name: Pingeread
+    ranking:
+      rank: Koht
+      name: Kasutaja
+      amount: Punktid
+    notification:
+      prefrences: { vote: 'Kui üks minu postitustest on üles/alla hääletatud' }
+    user:
+      votes_link: Häält
+    modal:
+      downvotes_label: 'Allahääletajad:'
+      title: Valijad
+      upvotes_label: 'Toetajad:'
+    mod_item: 'Vaata valijaid'
+    voters:
+      none: 'Valijaid veel pole'
+      label: Valijad
+      label_none: 'Valijaid pole'
+    post:
+      upvote_button: 'Üleshääletatud postitus'
+      downvote_button: 'Allahääletatud postitus'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Ajastatud mustandid on praegu sätetes keelatud.'
+  ref:
+    schedule_draft: 'Ajakava eelnõu'
+  forum:
+    composer:
+      title: 'Mustandi salvestamine'
+      saving: Salvestamine...
+      saved: Salvestatud!
+      exit_alert: 'Kas loobuda mustandi muudatustest?'
+      discard_empty_draft_alert: 'Visake tühi mustand ära?'
+    dropdown:
+      empty_text: 'Te pole mustandeid salvestanud'
+      title: Mustandid
+      delete_all_button: 'Kõigi mustandite kustutamine'
+      delete_button: 'Mustandi kustutamine'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Kas olete kindel, et soovite oma mustandi kustutada?'
+      delete_all_alert: 'Kas olete kindel, et soovite kõik oma mustandid kustutada?'
+      schedule_button: 'Ajakava eelnõu'
+      tooltip: Mustandid
+    schedule_draft_modal:
+      text: 'Ajastage oma mustand automaatselt hiljem postitama!'
+      unschedule_button: 'Planeerimata jätmine'
+      unschedule_warning: 'Kas olete kindel, et soovite selle mustandi ajakava tühistada?'
+      reschedule_button: 'Ajakava muutmine'
+      schedule_button: Ajakava
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Sobimatu kuupäev ja/või kellaaeg'
+      title: 'Ajakava eelnõu'
+    user:
+      settings: { drafts_heading: Mustandid, draft_autosave_enable: 'Kas lubada mustandi automaatne salvestamine?', draft_autosave_interval_label: 'Automaatne salvestamise intervall (sekundites)', draft_autosave_interval_button: 'Värskendamise intervall', draft_autosave_interval_invalid: 'Intervall peab olema täisarv, mis on suurem kui 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Vastas
+    this_best_answer: 'Valige parim vastus'
+    remove_best_answer: 'Parima vastuse valiku tühistamine'
+    best_answer_button: 'Parim vastus'
+    errors:
+      mismatch: 'Valitud postitust selles arutelus ei ole.'
+    notification:
+      content: 'Palun valige parim vastus, kui teie küsimusele on vastatud'
+      preferences: { awarded_best_answer: 'Keegi määrab minu postituse parimaks vastuseks', best_answer_in_discussion: 'Parim vastus on määratud arutelus, milles osalesin', select_best_answer: 'Automaatne meeldetuletus parima vastuse valimiseks minu alustatud arutelus' }
+    index:
+      ask_question: 'Esitage küsimus'
+      cannot_ask_question: 'Ei saa küsimust esitada'
+      solved_link: 'Lahendatud arutelud'
+      unsolved_link: 'Lahendamata arutelud'
+    filter:
+      all_label: 'Kõik küsimused'
+      solved_label: 'Lahendatud küsimused'
+      unsolved_label: 'Lahendamata küsimused'
+      accessible_label: 'Lahendatud/lahendamata valik'
+    composer:
+      titlePlaceholder: 'Küsimuse pealkiri'
+    search:
+      discussions_solutions_heading: 'Arutelud lahendustega'
+    discussion:
+      jump_to_best_answer_button: 'Vaadelgem parimat vastust'
+  email:
+    subject:
+      select: 'Kas sa said oma küsimusele vastuse?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Kõige paremad vastused'
+      least_best_answers: 'Kõige vähem parimaid vastuseid'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Kedagi teist ei keelata'
+    user_badge:
+      banned_tooltip: Keelatud
+    ban_ip_button: 'Keela IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Keeld
+      unban_button: Unban
+  error:
+    banned_ip_message: 'Autoriseerimine ebaõnnestus.'
+    no_ips_found_message: 'Kasutajale ei leitud IP-sid.'
+  lib:
+    modal:
+      check_button: Kontrollima
+      save_button: Salvestama
+      ban_ip_confirmation: 'Kas olete kindel, et soovite selle IP-aadressi kasutamise foorumis blokeerida? See blokeerib selle IP-aadressi (-aadresside) kasutajatel sisselogimise ja registreerimise.'
+      unban_ip_confirmation: 'Kas olete kindel, et soovite selle kasutaja ja kõigi teiste kasutajate, keda teised IP-d ei keela, blokeerida?'
+      unban_ip_no_users: 'Kedagi teist ei blokeerita'
+      title: 'IP(de) keelamine'
+      unban_title: 'Unban IP(d)'
+      address_label: IP-aadress
+      reason_label: Põhjus
+      ban_button: Keeld
+      unban_button: Unban
+  ref:
+    ban_label: Keeld
+    ban_ip_addresses: 'IP(de) keelamine'
+    ban_ip_button: 'Keela IP'
+    unban_label: Unban
+    unban_ip_addresses: 'Unban IP(d)'
+    unban_ip_button: 'Unban IP'
+    address_label: IP-aadress
+    reason_label: Põhjus
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Teie registreerimise üksikasjad on leitud rämpsposti ennetamise andmebaasist, seetõttu on teie registreerimine blokeeritud.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Arutelude kustutamine'
+      hard_delete_discussions_help: 'See kustutab jäädavalt kõik selle kasutaja alustatud arutelud. Kui see on keelatud, peidetakse selle asemel arutelud.'
+      hard_delete_posts_label: 'Kustuta postitused'
+      hard_delete_posts_help: 'See kustutab jäädavalt kõik selle kasutaja tehtud postitused (kommentaarid, vastused jne). Kui see on keelatud, peidetakse postitused selle asemel.'
+      hard_delete_user_label: 'Kasutaja kustutamine'
+      hard_delete_user_help: 'See kustutab kasutaja jäädavalt. Kui see on keelatud, peatatakse kasutaja selle asemel.'
+      intro: 'Kasutaja rämpspostitajaks märkimisel võetakse mitmeid meetmeid, mis sõltuvad teie foorumis saadaolevatest laiendustest.'
+      move_discussions_tag_label: 'Arutelude teisaldamine karantiinisildile'
+      move_discussions_tag_help: 'See teisaldab kõik selle kasutaja alustatud arutelud foorumi seadetes määratud sildile. Kui see on keelatud, jäetakse arutelud nende praegustesse siltidesse.'
+      process_button: Protsess
+      report_to_sfs_label: 'Teatage StopForumSpamile'
+      report_to_sfs_help: 'See teatab kasutaja põhiandmed (kasutajanimi, e-posti aadress, IP-aadress) StopForumSpamile. See aitab vältida kasutaja registreerumist teistel foorumitel, mis kasutavad teenust StopForumSpam.'
+    user_controls:
+      spammer_button: 'Rämpsposti saatja'
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Aruteluvaadete arvu lähtestamine'
+      submit: Esitada
+      label: 'Vaatamiste arvu määramine'
+    discussion_controls:
+      resetviews_button: 'Vaatamiste arvu määramine'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Kleepumatu
+      sticky_button: Kleepuv
+    badge:
+      sticky_tooltip: Kleepuv
+  ref:
+    sticky: Kleepuv
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Lukus
+    discussion_controls:
+      lock_button: Lukk
+      unlock_button: Avada
+    settings:
+      notify_discussion_locked_label: 'Keegi lukustab minu alustatud arutelu'
+flarum-likes:
+  forum:
+    post:
+      like_link: Nagu
+      unlike_link: Erinevalt
+      you_text: Te
+    post_likes:
+      title: 'Kasutajad, kellele see meeldib'
+      load_more_button: 'Laadi rohkem'
+    settings:
+      notify_post_liked_label: 'Kellelegi meeldib üks minu postitustest'
+    user:
+      likes_link: Meeldib
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Sisestage emotikon'
+      type_to_search_text: 'Tippige emotikoni otsimiseks'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Teie sisu on liiga suur, lugege meie postitamise juhiseid' }
+dhtml-persona:
+  forum:
+    persona: Isik
+dhtml-leaderboard:
+  forum:
+    leaderboard: Edetabel
+dhtml-gender:
+  forum:
+    male: Meessoost
+    female: Emane
+    other: 'Eelista mitte öelda'
+    inputGender: Sugu
+    saveButton: Salvestama
+    clickToSelectGender: 'Valige oma sugu'
+    genderSaved: 'Sugu edukalt päästetud!'
+    field_placeholder: 'Kinnitage sugu'
+    binding_gender: 'Avastasime, et te pole oma sugu määranud. Palun seadke kõigepealt oma sugu. Sõnumeid saate postitada ja jätta alles pärast oma soo määramist.'
+    binding_gender_click: 'Klõpsake nüüd'
+flarum-content-pages:
+  forum:
+    home: Kodu
+    about-us: 'Meie kohta'
+    guidelines: Suunised
+    privacy-policy: Privaatsuspoliitika
+    terms-of-use: Kasutusaeg
+    contact-us: 'Võta meiega ühendust'
+    download-app: 'Laadi rakendus alla'
+    discord-chat: 'Ebakõla vestlus'
+    tags-cloud: 'Sildid Pilv'
+    languages: Keeled
+    leaderboard: Edetabel
+    live: Elusad
+    live-coding: 'Elus kodeerimine'
+    challenges: Väljakutsed
+    dev-challenges: 'Dev väljakutsed'
+    jobs: Tööd
+    community: Ühendus
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Töö postitamine'
+    job-postings: Töökuulutused
+    workshops: Seminarid
+    dev-workshops: 'Dev Workshops'
+    events: Sündmused
+    conferences: Konverentsid
+    event-conferences: 'Sündmused / konverentsid'
+    showcase: Esitlus
+    tags: Tags
+    more: Rohkem
+    memberships: Liikmed
+    members: Liikmed
+    general-discussion: 'Üldine arutelu'
+    technology-articles: Tehnoloogiaartiklid
+    coding-challenges: Kodeerimisraskused
+    q-a: 'Q/A jagu'
+    artificial-intelligence: Tehisintellekt
+    computer-science: Arvutiteadus
+    programming-languages: Programmeerimiskeeled
+    development-tools: 'Arendamise tööriistad'
+    software-development: 'Tarkvara arendamine'
+    frontend-development: 'Esiplaani arendamine'
+    backend-development: 'Taustaprogrammi arendus'
+    software-engineering: Tarkvaratehnika
+    cybersecurity: Küberturvalisus
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Märkide loendur'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Muuda sünnikuupäeva'
+      date_of_birth_text: Sünnikuupäev
+      submit_button: 'Salvesta muudatused'
+    settings:
+      change_dob_label: 'Muuda sünnikuupäeva'
+      show_dob_date_label: 'Näita sünnipäeva ja -kuud'
+      show_dob_year_label: 'Näita sünniaastat'
+      show_dob_year_help: 'See võimaldab inimestel näha teie vanust.'
+      dob_heading: Sünnikuupäev
+    nav:
+      nav_item: 'Tänased sünnipäevad'
+    edit_user:
+      dob_heading: Sünnikuupäev
+    sign_up:
+      dob_placeholder: Sünnikuupäev
+  api:
+    invalid_dob_message: 'Kehtetu sünniaeg'
+  ref:
+    date_of_birth: Sünnikuupäev
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Emotikonide valija'
+    search_placeholder: Otsing...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Autori ja kuupäeva redigeerimine'
+    modal:
+      title-post: 'Muuda postituse autorit ja kuupäeva'
+      title-discussion: 'Arutelu autori ja kuupäeva redigeerimine'
+      user: Autor
+      created_at: 'Loomise aeg'
+      edited_at: 'Aja muutmine'
+      sync-with-discussion: 'Aruteluga sünkroonimine'
+      sync-with-post: 'Sünkrooni esimese postitusega'
+      sync-impossible: 'Ei leia esimest postitust. Proovige kerida arutelu alguseni.'
+      submit: Salvestama
+      cancel: Tühistama
+    search:
+      placeholder: 'Kasutajate otsimine'
+      type-more: 'Tippige andmebaasist otsimiseks 3 märki'
+      no-results: 'Tulemusi pole'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'RTF-vormingu režiimi sisselülitamine'
+      insert_button: Lisa
+      insert_image: { src_placeholder: Link, title_placeholder: Pealkiri }
+      insert_link: { text_placeholder: Tekst, href_placeholder: URL, title_placeholder: 'Pealkiri (kuvatakse kursoril)', remove_button: Eemaldada }
+      additional_items_tooltip: 'Täiendavad juhtelemendid'
+      code_block_tooltip: 'Koodiploki lisamine'
+      horizontal_rule_tooltip: 'Horisontaalse reegli lisamine'
+      image_tooltip: 'Pildi lisamine'
+      link_tooltip: 'Lingi lisamine'
+      spoiler_block_tooltip: 'Blokeeri spoiler/rippmenüü'
+      strike_tooltip: 'Läbikriipsutus <alt-shift-5>'
+      text_type_tooltip: 'Valige Teksti tüüp'
+  forum:
+    settings:
+      composer_heading: Helilooja
+      use_rich_text_editor_label: 'Kas kasutate RTF-redaktorit?'
+      rich_text_compact_paragraphs_label: 'Ärge eraldage lõike uue reaga.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Teil on tõukemärguanded lubatud, kuid te pole seda seadet konfigureerinud.'
+      optin_button: Konfigureerida
+    discussion_controls:
+      share_button: Jagama
+    post_controls:
+      share_button: Jagama
+    user_controls:
+      share_button: Jagama
+    settings:
+      push_header: Lükkama
+      pwa_notifications: { access_default: 'Brauseri piirangute tõttu peate selles seadmes tõukemärguannete saamiseks lubama.', access_default_button: Liitun, access_denied: 'Selles seadmes tõukemärguannete saamiseks peate kohandama oma brauseri seadeid.', access_denied_button: 'Vaadake, kuidas', no_browser_support: 'See brauser ei toeta progressiivsete veebirakenduste tõukemärguandeid.', no_browser_support_button: Lisateave }
+  views:
+    offline:
+      header: 'Võrguühenduse viga'
+      text: 'See rakendus nõuab võrguühendust; seda ei saa võrguühenduseta kasutada. Palun kontrollige oma ühendust.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Hoiata kasutajat'
+    user:
+      warnings: 'Moderaatori hoiatused'
+    settings:
+      warning_notification_label: 'Moderaator hoiatab mind'
+    validation:
+      public_comment_required: 'Enamik neist annab avaliku kommentaari.'
+      invalid_strike_count: 'Streikide arv peab olema täisarv vahemikus 0 kuni 5.'
+    warning_controls:
+      delete_button: Eemaldada
+      restore_button: Taastada
+      delete_forever_button: 'Kustuta jäädavalt'
+    warning_list:
+      add_button: 'Uus hoiatus'
+      no_warnings: 'Tundub, et siin pole hoiatusi.'
+      warnings_no_strikes: 'Moderaatori hoiatused: streike ei saadud'
+    warning_list_item:
+      public_comment: Hoiatus
+      private_comment: 'Moderaatori nähtavad kommentaarid'
+      linked_post: 'Lingitud postitus'
+    warning_modal:
+      confirmation_message: 'Teie hoiatus on salvestatud. Võimalik, et peate selle nägemiseks lehte värskendama.'
+      strikes_heading: 'Mitu streiki tuleks kohaldada?'
+      submit_button: 'Salvesta hoiatus'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Vastusemalli redigeerimine'
+    reply_template:
+      title: 'Vastusemalli redigeerimine'
+      submit_button: 'Vastusemalli salvestamine'

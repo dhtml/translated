@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'A megadott jelszó helytelen.'
+      confirm_password_placeholder: 'Jelszó megerősítése'
+      dismiss_button: OKÉ
+      submit_button: 'Változtatások mentése'
+      title: 'E-mail módosítása'
+    change_password:
+      send_button: 'Jelszó-visszaállítási e-mail küldése'
+      text: 'Kattintson az alábbi gombra, és ellenőrizze e-mailjeit, hogy van-e link a jelszó megváltoztatásához.'
+      title: 'Jelszó módosítása'
+    composer:
+      close_tooltip: Bezár
+      exit_full_screen_tooltip: 'Kilépés a teljes képernyős módból'
+      full_screen_tooltip: 'Teljes képernyő'
+      minimize_tooltip: Minimalizál
+      preview_tooltip: Előnézet
+    composer_discussion:
+      body_placeholder: 'Írj egy bejegyzést...'
+      discard_confirmation: 'Nem tette közzé a beszélgetést. Szeretné eldobni?'
+      submit_button: 'Hozzászólás beszélgetés'
+      title_placeholder: 'Beszélgetés címe'
+      title: 'Beszélgetés indítása'
+    composer_edit:
+      discard_confirmation: 'Nem mentette a módosításokat. Szeretné eldobni őket?'
+      edited_message: 'A szerkesztésed megtörtént.'
+      submit_button: 'Változtatások mentése'
+      view_button: Nézet
+    composer_reply:
+      discard_confirmation: 'Nem küldte el válaszát. Szeretné eldobni?'
+      posted_message: 'Válaszát közzétettük.'
+      submit_button: 'Hozzászólás Válasz'
+      body_placeholder: 'Írj egy választ...'
+      view_button: Nézet
+    discussion_controls:
+      cannot_reply_button: 'Nem tudok válaszolni'
+      cannot_reply_text: 'Nincs engedélyed válaszolni erre a beszélgetésre.'
+      delete_confirmation: 'Biztosan törölni akarod ezt a beszélgetést?'
+      log_in_to_reply_button: 'A válaszhoz jelentkezz be'
+      toggle_dropdown_accessible_label: 'Vitafórum-műveletek legördülő menüjének váltása'
+      delete_button: Töröl
+      delete_forever_button: 'Végleges törlés'
+      rename_button: Átnevez
+      reply_button: Válasz
+      restore_button: Visszaad
+    discussion_list:
+      empty_text: 'Úgy tűnik, mintha itt nem lennének viták.'
+      load_more_button: 'Több betöltése'
+    forgot_password:
+      email_sent_message: 'Ha az Ön által belépett e-mailt regisztráljuk ezen az oldalon, küldünk egy e-mailt, amely tartalmaz egy linket a jelszó visszaállításához. Ellenőrizze spam mappa, ha nem kapja meg a következő percben vagy kettőben.'
+      not_found_message: 'Nincs felhasználó regisztrálva ezzel az e-mail címmel.'
+      submit_button: 'Visszaszerezze a jelszót'
+      text: 'Írja be az e-mail címét, és küldünk egy linket a jelszó visszaállításához.'
+      title: 'Elfelejtett jelszó'
+      dismiss_button: OKÉ
+      email_placeholder: E-mail
+    header:
+      admin_button: Adminisztráció
+      back_to_index_tooltip: 'Vissza a vitalistához'
+      locale_dropdown_accessible_label: 'A fórum területi beállításának módosítása'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Keresési lekérdezés törlése'
+      search_placeholder: 'Keresés a fórumban'
+      search_role_label: 'Keresés a fórumban'
+      session_dropdown_accessible_label: 'Munkamenet-beállítások legördülő menüjének váltása'
+      log_in_link: Bejelentkezés
+      log_out_button: Kijelentkezik
+      settings_button: Beállítások
+      sign_up_link: Feliratkozni
+    index:
+      cannot_start_discussion_button: 'Nem lehet beszélgetést indítani'
+      mark_all_as_read_confirmation: 'Biztosan minden beszélgetést olvasottként szeretne megjelölni?'
+      refresh_tooltip: Felfrissít
+      toggle_sidenav_dropdown_accessible_label: 'Navigáció legördülő menüjének váltása'
+      all_discussions_link: 'Minden beszélgetés'
+      mark_all_as_read_tooltip: 'Összes megjelölése olvasottként'
+      meta_title_text: 'Minden beszélgetés'
+      start_discussion_button: 'Beszélgetés indítása'
+    index_sort:
+      latest_button: Legkésőbbi
+      newest_button: Legújabb
+      oldest_button: Legrégebbi
+      relevance_button: Fontosság
+      toggle_dropdown_accessible_label: 'Vitafórumlista rendezésének módosítása'
+      top_button: Felső
+      hot_button: Trend
+      votes_button: 'Pozitív szavazatok'
+      front_button: Címlap
+      popular_button: Népszerű
+      unpopular_button: Népszerűtlen
+    log_in:
+      forgot_password_link: 'Elfelejtett jelszó?'
+      invalid_login_message: 'A bejelentkezési adatok helytelenek.'
+      remember_me_label: 'Emlékezz rám'
+      sign_up_text: 'Még nincs fiókja? <a>feliratkozni</a>'
+      username_or_email_placeholder: 'Felhasználónév vagy e-mail cím'
+      password_placeholder: Jelszó
+      submit_button: Bejelentkezés
+      title: Bejelentkezés
+    notifications:
+      delete_all_confirm: 'Biztosan törli az összes értesítést? Ez a művelet nem vonható vissza'
+      delete_all_tooltip: 'Az összes értesítés törlése'
+      empty_text: 'Nincs értesítés'
+      mark_as_read_tooltip: 'Megjelölés olvasottként'
+      toggle_dropdown_accessible_label: 'Értesítések megtekintése'
+      mark_all_as_read_tooltip: 'Összes megjelölése olvasottként'
+      title: Értesítések
+      tooltip: Értesítések
+    post:
+      edited_text: Szerkesztett
+    post_controls:
+      delete_confirmation: 'Biztos benne, hogy örökre törölni szeretné ezt a bejegyzést? Ez a művelet nem vonható vissza.'
+      hide_confirmation: 'Biztosan törli ezt a bejegyzést?'
+      toggle_dropdown_accessible_label: 'Bejegyzésvezérlők legördülő menüjének váltása'
+      push_to_front_button: 'Leküldés a FrontPage programba'
+      pull_from_front_button: 'Lekérés a FrontPage programból'
+      delete_button: Töröl
+      delete_forever_button: 'Végleges törlés'
+      edit_button: Szerkeszt
+      restore_button: Visszaad
+    post_scrubber:
+      now_link: Most
+      original_post_link: 'Eredeti hozzászólás'
+    post_stream:
+      load_more_button: 'Több betöltése'
+      reply_placeholder: 'Írj egy választ...'
+    rename_discussion:
+      title: 'Megbeszélés átnevezése'
+      submit_button: Átnevez
+    search:
+      discussions_heading: Viták
+      users_heading: Felhasználók
+    security:
+      cannot_terminate_current_session: 'Az aktuális aktív munkamenet nem szakítható meg. Jelentkezzen ki helyette.'
+      created: Létrehozott
+      current_active_session: 'Aktuális aktív munkamenet'
+      developer_tokens_heading: 'Fejlesztői tokenek'
+      empty_text: 'Úgy tűnik, itt nincs semmi látnivaló.'
+      global_logout: { heading: 'Globális kijelentkezés', help_text: 'Törli az aktuális cookie-munkamenetet, leállítja az összes munkamenetet, visszavonja a fejlesztői tokeneket, és érvénytelenít minden e-mailt megerősítő vagy jelszó-visszaállítási e-mailt.', log_out_button: Kijelentkezik }
+      hide_access_token: 'Token elrejtése'
+      last_activity: 'Utolsó tevékenység'
+      new_access_token_modal: { submit_button: 'Jogkivonat létrehozása', title_placeholder: Cím, title: 'Új token' }
+      revoke_access_token: Visszavon
+      sessions_heading: 'Aktív munkamenetek'
+      session_termination_failed: 'Hiba történt a munkamenetek leállítása közben.'
+      show_access_token: 'Token megtekintése'
+      terminate_all_other_sessions: 'Az összes többi munkamenet leállítása'
+      terminate_session: Befejeződik
+      token_revoked: 'A token visszavonva.'
+      token_title_placeholder: /
+      never: Soha
+      new_access_token_button: 'Új token'
+      revoke_access_token_confirmation: 'Biztos, hogy folytatni akarja? Ez a művelet nem vonható vissza.'
+      terminate_all_other_sessions_confirmation: 'Biztos, hogy folytatni akarja? Ez a művelet nem vonható vissza.'
+      title: Biztonság
+    settings:
+      account_heading: Számla
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Valaki átnevez egy általam indított vitát'
+      privacy_disclose_online_label: 'Annak lehetővé tétele, hogy mások lássák, amikor online vagyok'
+      privacy_heading: Magánélet
+      change_email_button: 'E-mail módosítása'
+      change_password_button: 'Jelszó módosítása'
+      notifications_heading: Értesítések
+      notify_by_email_heading: E-mail
+      title: Beállítások
+    sign_up:
+      log_in_text: 'Már van fiókja? <a>bejelentkezés</a>'
+      dismiss_button: OKÉ
+      email_placeholder: E-mail
+      password_placeholder: Jelszó
+      submit_button: Feliratkozni
+      title: Feliratkozni
+      username_placeholder: Felhasználónév
+    user:
+      avatar_upload_button: Feltölt
+      avatar_upload_tooltip: 'Új avatar feltöltése'
+      online_text: Online
+      posts_empty_text: 'Úgy tűnik, itt nincsenek hozzászólások.'
+      avatar_remove_button: Eltávolít
+      discussions_link: Viták
+      posts_link: Hozzászólás
+      posts_load_more_button: 'Több betöltése'
+      security_link: Biztonság
+      settings_link: Beállítások
+    user_controls:
+      button: Vezérlőberendezés
+      delete_confirmation: 'Biztosan törölni szeretné ezt a felhasználót? A felhasználó bejegyzései NEM törlődnek.'
+      toggle_dropdown_accessible_label: 'Felhasználói vezérlők legördülő menüjének váltása'
+      delete_button: Töröl
+      edit_button: Szerkeszt
+    user_email_confirmation:
+      resend_button: 'Megerősítő e-mail újraküldése'
+      sent_message: Küldött
+    welcome_hero:
+      hide: 'Üdvözlő üzenet elrejtése'
+    badge:
+      frontpage_tooltip: 'FrontPage megjelölés'
+  lib:
+    debug_button: Debug
+    alert:
+      dismiss_a11y_label: 'Riasztás elvetése'
+    badge:
+      hidden_tooltip: Rejtett
+    dropdown:
+      toggle_dropdown_accessible_label: 'Váltás legördülő menü'
+    edit_user:
+      activate_button: 'Felhasználó aktiválása'
+      groups_heading: Csoportok
+      set_password_label: 'Új jelszó beállítása'
+      nothing_available: 'Ezt a felhasználót nem szerkesztheti.'
+      email_heading: E-mail
+      email_label: E-mail
+      password_heading: Jelszó
+      password_label: Jelszó
+      submit_button: 'Változtatások mentése'
+      title: 'Felhasználó szerkesztése'
+      username_heading: Felhasználónév
+      username_label: Felhasználónév
+    error:
+      generic_message: 'Hoppá! Valami hiba történt. Kérjük, töltse be újra az oldalt, és próbálja újra.'
+      generic_cross_origin_message: 'Hoppá! Hiba történt egy eredetközi kérés során. Kérjük, töltse be újra az oldalt, és próbálja újra.'
+      not_found_message: 'A kért erőforrás nem található.'
+      payload_too_large_message: 'A kérelem hasznos adata túl nagy volt.'
+      permission_denied_message: 'Erre nincs engedélyed.'
+      rate_limit_exceeded_message: 'Egy kicsit túl gyorsan haladsz. Kérjük, próbálja újra néhány másodperc múlva.'
+      render_failed_message: 'Sajnáljuk, hibát észleltünk a tartalom megjelenítése során. Ha Ön felhasználó, próbálkozzon újra később. Ha Ön rendszergazda, további információkért tekintse meg a Flarum-naplófájlokat.'
+    modal:
+      close: Bezár
+    nav:
+      drawer_button: 'Nyissa meg a navigációs fiókot'
+    loading_indicator:
+      accessible_label: Berakás...
+  views:
+    confirm_email:
+      text: 'Kattintson az alábbi gombra fiókja e-mail-címének megerősítéséhez.'
+      submit_button: 'E-mail megerősítése'
+      title: 'E-mail megerősítése'
+    content:
+      javascript_disabled_message: 'Ezt a webhelyet legjobban egy modern böngészőben lehet megtekinteni, ha a JavaScript engedélyezve van.'
+      load_error_message: 'Hiba történt a webhely teljes verziójának betöltése közben. A hiba kijavításához próbálja meg alaposan frissíteni ezt az oldalt.'
+      loading_text: Berakás...
+    error:
+      csrf_token_mismatch: 'Túl sokáig voltál inaktív.'
+      csrf_token_mismatch_return_link: 'Menjen vissza, és próbálja újra'
+      invalid_confirmation_token: 'Ezt a megerősítő linket már használták vagy érvénytelen.'
+      not_authenticated: 'Nincs engedélye az oldal elérésére. Bejelentkezés után próbálja újra.'
+      not_found: 'A kért oldal nem található.'
+      permission_denied: 'Nincs engedélye az oldal elérésére.'
+      unknown: 'Hiba történt az oldal betöltésekor.'
+    log_out:
+      log_out_button: Kijelentkezik
+      title: Kijelentkezik
+    reset_password:
+      confirm_password_label: 'Új jelszó megerősítése'
+      new_password_label: 'Új jelszó'
+      submit_button: 'Változtatások mentése'
+      title: 'Jelszó visszaállítása'
+    discussion:
+      next_page_button: 'Következő oldal'
+      previous_page_button: 'Előző oldal'
+    index:
+      all_discussions_heading: 'Minden beszélgetés'
+      next_page_button: 'Következő oldal'
+      previous_page_button: 'Előző oldal'
+  api:
+    invalid_username_message: 'A felhasználónév csak betűket, számokat és kötőjeleket tartalmazhat.'
+  email:
+    activate_account:
+      subject: 'Aktiválja új fiókját'
+    confirm_email:
+      subject: 'Erősítsd meg az új e-mail címedet'
+    reset_password:
+      subject: 'Jelszó visszaállítása'
+    send_test:
+      subject: 'Flarum e-mail teszt'
+  ref:
+    all_discussions: 'Minden beszélgetés'
+    change_email: 'E-mail módosítása'
+    change_password: 'Jelszó módosítása'
+    color: Szín
+    confirm_password: 'Jelszó megerősítése'
+    confirm_email: 'E-mail megerősítése'
+    custom_footer_text: 'Adja hozzá a HTML-t, hogy az oldal alján jelenjen meg.'
+    custom_footer_title: 'Egyéni lábléc szerkesztése'
+    custom_header_text: 'Adja hozzá a HTML-t, hogy az oldal tetején, a Flarum saját fejléce felett jelenjen meg.'
+    custom_header_title: 'Egyéni fejléc szerkesztése'
+    delete: Töröl
+    delete_forever: 'Végleges törlés'
+    discussions: Viták
+    edit: Szerkeszt
+    edit_user: 'Felhasználó szerkesztése'
+    email: E-mail
+    extensions: Kiterjesztés
+    generic_confirmation_message: 'Biztos, hogy folytatni akarja? Ez a művelet nem vonható vissza.'
+    icon: Ikon
+    load_more: 'Több betöltése'
+    loading: Berakás...
+    log_in: Bejelentkezés
+    log_out: Kijelentkezik
+    mark_all_as_read: 'Összes megjelölése olvasottként'
+    never: Soha
+    new_token: 'Új token'
+    next_page: 'Következő oldal'
+    notifications: Értesítések
+    okay: OKÉ
+    password: Jelszó
+    posts: Hozzászólás
+    previous_page: 'Előző oldal'
+    remove: Eltávolít
+    rename: Átnevez
+    reply: Válasz
+    reset_your_password: 'Jelszó visszaállítása'
+    restore: Visszaad
+    save_changes: 'Változtatások mentése'
+    search_users: 'Felhasználók keresése'
+    security: Biztonság
+    settings: Beállítások
+    sign_up: Feliratkozni
+    start_a_discussion: 'Beszélgetés indítása'
+    username: Felhasználónév
+    users: Felhasználók
+    view: Nézet
+    write_a_reply: 'Írj egy választ...'
+    you: Te
+  group:
+    admin: Admin
+    admins: Rendszergazdák
+    guest: Vendég
+    guests: Vendégek
+    member: Tag
+    members: Tagok
+    mod: Mód
+    mods: Modok
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Összes címke'
+      meta_title_text: Címkék
+    choose_tags:
+      title: 'Címkék kiválasztása a beszélgetéshez'
+    discussion_controls:
+      edit_tags_button: 'Címkék szerkesztése'
+    header:
+      back_to_tags_tooltip: 'Vissza a címkelistához'
+    index:
+      more_link: Több...
+      untagged_link: Címkézetlen
+      tags_link: Címkék
+    composer_discussion:
+      choose_tags_link: 'Válassza a Címkék lehetőséget'
+  lib:
+    deleted_tag_text: Törölt
+    tag_selection_modal:
+      bypass_requirements: 'Címke megkerülése követelmények'
+      submit_button: OKÉ
+      title: 'Válassza a Címkék lehetőséget'
+  ref:
+    choose_tags: 'Válassza a Címkék lehetőséget'
+    name: Név
+    tags: Címkék
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Felhasználó, csoport vagy bejegyzés megemlítése'
+    mentioned_by:
+      title: 'Válaszok erre a bejegyzésre'
+      load_more_button: 'Több betöltése'
+    post:
+      quote_button: Idéz
+      reply_link: Válasz
+      you_text: Te
+    settings:
+      notify_post_mentioned_label: 'Valaki válaszol az egyik bejegyzésemre'
+      notify_user_mentioned_label: 'Valaki megemlít engem egy bejegyzésben'
+      notify_group_mentioned_label: 'Valaki megemlít egy csoportot, amelynek tagja vagyok egy bejegyzésben'
+    user:
+      mentions_link: Megemlíti
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Követés leállítása'
+      unignore_button: Unsir
+      follow_button: Követ
+    settings:
+      follow_after_reply_label: 'Automatikusan követheti azokat a beszélgetéseket, amelyekre válaszolok'
+      notify_for_all_posts_label: 'Minden új bejegyzésről értesíthetsz, nem csak a beszélgetés utolsó bejegyzéséről'
+      notify_new_post_label: 'Valaki hozzászólást tesz közzé egy általam követett beszélgetésben'
+    sub_controls:
+      following_text: 'Értesítést kap minden válaszról.'
+      ignoring_text: 'Soha ne kapjon értesítést. Elrejtés a vitafórum listájából.'
+      not_following_button: 'Nem követi'
+      not_following_text: 'Csak akkor kapjon értesítést, ha @mentioned.'
+      notify_alert_tooltip: 'Fórumértesítés kérése új hozzászólások esetén'
+      notify_email_tooltip: 'E-mail kérése, ha új bejegyzések jelennek meg'
+      follow_button: Követ
+      following_button: Alábbi
+      ignoring_button: 'Figyelmen kívül hagyja'
+    badge:
+      following_tooltip: Alábbi
+      ignoring_tooltip: 'Figyelmen kívül hagyja'
+    following:
+      meta_title_text: Alábbi
+    index:
+      following_link: Alábbi
+  ref:
+    follow: Követ
+    following: Alábbi
+    ignoring: 'Figyelmen kívül hagyja'
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Köszönjük, hogy megjelölte ezt a bejegyzést. Moderátoraink meg fogják vizsgálni.'
+      reason_inappropriate_label: Alkalmatlan
+      reason_inappropriate_text: 'Ez a bejegyzés sértő, sértő vagy sérti <a>közösségi irányelveinket</a>.'
+      reason_missing_message: 'Kérjük, adjon meg néhány részletet moderátoraink számára.'
+      reason_off_topic_label: 'Témán kívüli'
+      reason_off_topic_text: 'Ez a bejegyzés nem releváns a jelenlegi vita szempontjából, és máshová kell helyezni.'
+      reason_other_label: 'Egyéb (kérjük, részletezze)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Ez a bejegyzés egy hirdetés.'
+      dismiss_button: OKÉ
+      submit_button: 'Post jelölés'
+      title: 'Post jelölés'
+    flagged_posts:
+      empty_text: 'Nincs zászló'
+      title: 'Megjelölt bejegyzések'
+      tooltip: 'Megjelölt bejegyzések'
+    post:
+      dismiss_flag_button: 'Zászló elvetése'
+    post_controls:
+      flag_button: Zászló
+  ref:
+    flag_post: 'Post jelölés'
+    flagged_posts: 'Megjelölt bejegyzések'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Önt határozatlan időre felfüggesztettük'
+      user_unsuspended_text: 'Ön fel lett függesztve'
+    suspension_info:
+      dismiss_button: Elbocsát
+      indefinite: 'Ez határozatlan idejű felfüggesztés'
+      title: 'Ez a fiók fel van függesztve'
+    suspend_user:
+      display_message: 'Üzenet megjelenítése a felhasználó számára'
+      indefinitely_label: 'Határozatlan időre felfüggesztve'
+      limited_time_days_text: ' Napok'
+      limited_time_label: 'Korlátozott ideig felfüggesztve...'
+      not_suspended_label: 'Nincs felfüggesztve'
+      placeholder_optional: 'Szabadon választható'
+      reason: 'A felfüggesztés oka'
+      status_heading: 'Felfüggesztés állapota'
+      submit_button: 'Változtatások mentése'
+    user_badge:
+      suspended_tooltip: Felfüggesztett
+    user_controls:
+      suspend_button: Felfüggeszt
+  email:
+    no_reason_given: 'A felfüggesztést nem indokolták.'
+    suspended:
+      subject: 'Fiókját felfüggesztettük'
+    unsuspended:
+      subject: 'Fiókját felfüggesztettük'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'A felhasználó által feltöltött összes fájl.', anonymize_description: 'Eltávolítja a felhasználói referenciát a feltöltött fájlokból. Maguk a fájlok továbbra is elérhetők maradnak azon felhasználók számára, akik anonimizálás előtt megtekinthetik őket.', delete_description: 'Törli a felhasználó által feltöltött összes fájlt.' }
+      tagsubscription: { export_description: 'Exportálja egy címke előfizetési szintjének részleteit, ha van ilyen.', anonymize_description: 'Eltávolítja a felhasználó előfizetését a címkéhez.' }
+      followuser: { export_description: 'Exportálja a követett és követő felhasználók adatait.', delete_description: 'Törli a következő felhasználókkal kapcsolatos összes adatot.', anonymize_description: 'Törli a következő felhasználókkal kapcsolatos összes adatot.' }
+      bannedipdata: { export_description: 'Ha egy IP-kitiltási rekord társítva van egy felhasználóhoz (azaz a felhasználót IP-cím tiltotta ki), akkor a felhasználó IP-címe is szerepelni fog az exportálásban, a kitiltás okával és a létrehozás dátumával együtt.', anonymize_description: 'A felhasználóhoz kapcsolódó IP-címek le vannak választva, de maga az IP-cím továbbra is tiltott marad, az okkal együtt. Győződjön meg arról, hogy az "ok" mezőben nincsenek személyazonosításra alkalmas adatok.' }
+fof-upload:
+  forum:
+    media_manager: Médiakezelő
+    buttons:
+      attach: Mellékel
+      upload: Feltölt
+      upload_shared: Megosztott
+      user_uploads: 'Felhasználói feltöltések'
+      cancel: Érvénytelenít
+      media: 'Saját média'
+      shared_media: 'Megosztott média'
+    states:
+      error: Hiba
+      loading: Feltöltő
+      unauthorized: 'Nem tölthet le fájlokat'
+    text_preview:
+      expand: 'Előnézet kibontása'
+      collapse: 'Előnézet összecsukása'
+      error: "Hiba történt a fájl előnézetében. Lehet, hogy törölték, vagy a megadott fájlazonosító érvénytelen.\n"
+      no_snippet_preview: '< közzététel után itt jelenik meg az előnézet>'
+      no_snippet: '<Nincs elérhető előnézeti kódrészlet>'
+  api:
+    upload_errors:
+      forbidden_type: 'Az ilyen típusú fájlok feltöltése nem engedélyezett.'
+      could_not_detect_mime: 'Nem sikerült észlelni a fájl MIME-típusát, próbálkozzon újra.'
+      max_upload_file_size_ini: 'A feltöltés maximális fájlméretkorlátja elérte a php.ini-től.'
+      max_upload_file_size_form: 'Feltöltés maximális fájlméretkorlát elérése az űrlapról.'
+      partial_upload: 'Részleges feltöltés.'
+      no_file_uploaded: 'Nincs feltöltött fájl.'
+      no_upload_tmp_folder: 'Nincs tmp mappa a fájlok feltöltéséhez.'
+      cannot_write_to_disk: 'Nem lehet lemezre írni.'
+      upload_blocked_by_php_extension: 'Egy php kiterjesztés blokkolta a feltöltést.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Új megosztott fájl'
+      dropzone: 'Húzza ide a fájlokat, vagy kattintson a böngészéshez'
+      hide-from-media-gallery: 'Elrejtés a felhasználó médiagalériájából'
+      upload: Feltölt
+    file_list:
+      loading: 'Fájlok betöltése...'
+      empty: 'Nincsenek megjeleníthető fájlok.'
+      release_to_upload: 'Kiadás feltöltéshez'
+      modal_empty_desktop: 'A fájllista üres. Kattintson a gombra, vagy húzzon ide egy fájlt a feltöltéshez.'
+      modal_empty_phone: 'A fájllista üres. Koppintson a fenti gombra egy fájl feltöltéséhez.'
+      load_more_files_btn: 'További fájlok betöltése'
+      hide_file: { hide_success: 'Fájl rejtett', show_success: 'Megjelenített fájl', loading: 'Fájl elrejtése...' }
+      hide_shared_file: { hide_success: 'Fájl priváttá téve', show_success: 'Nyilvánosságra hozott fájl', loading: 'Fájl priváttá tétele...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Írta
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Félkövér szöveg hozzáadása'
+      code_tooltip: 'Kód beszúrása'
+      header_tooltip: 'Fejlécszöveg hozzáadása'
+      image_tooltip: 'Kép hozzáadása'
+      italic_tooltip: 'Dőlt szöveg hozzáadása'
+      link_tooltip: 'Link hozzáadása'
+      ordered_list_tooltip: 'Számozott lista hozzáadása'
+      quote_tooltip: 'Idézet beszúrása'
+      spoiler_tooltip: 'Helyezzen be egy spoilert'
+      strikethrough_tooltip: 'Áthúzott szöveg hozzáadása'
+      unordered_list_tooltip: 'Listajeles felsorolás hozzáadása'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Valaki beszélgetést hoz létre egy általam követett címkében'
+      notify_new_post_label: 'Valaki bejegyzést tesz közzé egy általam követett címkében'
+      notify_new_discussion_tag_label: 'Valaki átcímkéz egy beszélgetést egy általam követett címkére'
+    index:
+      follow_tag_button: Követ
+      unfollow_tag_button: 'Követés leállítása'
+      following: { following_none_label: 'Követett beszélgetések', following_tags_label: 'Követett címkék' }
+    badge:
+      following_tag_tooltip: Alábbi
+      lurking_tag_tooltip: Lappangó
+    sub_controls:
+      following_text: 'Értesítést kap minden új megbeszélésről.'
+      hiding_text: 'Beszélgetések elrejtése az Összes beszélgetés lapról.'
+      ignoring_text: 'Soha ne kapjon értesítést.'
+      lurking_text: 'Értesítést kap minden új beszélgetésről és válaszról.'
+      not_following_button: 'Nem követi'
+      not_following_text: 'Csak akkor kapjon értesítést, ha @mentioned.'
+      notify_alert_tooltip: 'Fórumértesítés kérése új beszélgetések vagy hozzászólások esetén'
+      notify_email_tooltip: 'E-mail kérése, ha új beszélgetések vagy bejegyzések jelennek meg'
+      submit_button: 'Előfizetés megerősítése'
+      follow_button: Követ
+      following_button: Alábbi
+      hiding_button: Elrejtés
+      ignoring_button: 'Figyelmen kívül hagyja'
+      lurking_button: Lappangó
+    user:
+      settings: { heading: 'Kövesse a címkéket', filter_label: 'Mi jelenjen meg alapértelmezés szerint a következő oldalon?' }
+  ref:
+    follow: Követ
+    following: Alábbi
+    hiding: Elrejtés
+    ignoring: 'Figyelmen kívül hagyja'
+    lurking: Lappangó
+    filtering_options:
+      none: 'Követett beszélgetések'
+      tags: 'Követett címkék'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Ez a becenév érvénytelen. Kérjük, vegye fel a kapcsolatot a fórum adminisztrátorával a becenévszabályokkal kapcsolatos további információkért.'
+  ref:
+    change_nickname: 'Becenév módosítása'
+    nickname: Becenév
+  forum:
+    change_nickname:
+      submit_button: 'Változtatások mentése'
+      title: 'Becenév módosítása'
+    edit_user:
+      nicknames_heading: 'Becenév módosítása'
+      nicknames_text: Becenév
+    settings:
+      change_nickname_button: 'Becenév módosítása'
+    sign_up:
+      nickname_placeholder: Becenév
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Összekapcsolt fiókok', last-used-label: 'Utoljára használt', link-created-label: 'Link létrehozva', orphaned-account: 'Korábban már bejelentkezett ezzel a szolgáltatóval, de ez a fórum azóta letiltotta az ezzel a módszerrel való bejelentkezést.', help: 'Ezek az összekapcsolt fiókok lehetővé teszik, hogy más szolgáltatók használatával jelentkezzen be a fórumba.' } }
+    signup:
+      username_help: 'Kérjük, válasszon egy felhasználónevet, amelyet itt ismer'
+    unlink: 'Link eltávolítása'
+    error:
+      bad_verification_code: 'Érvénytelen vagy lejárt ellenőrző token. Kérjük, próbálja újra.'
+      invalid_state: 'Érvénytelen állapot. Kérjük, próbálja újra.'
+    providers:
+      discord: Viszály
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Csicsergés
+  lib:
+    providers:
+      discord: Viszály
+      facebook: Facebook
+      github: GitHub
+      gitlab: GitLab
+      twitter: Csicsergés
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: Alkalmazásazonosító
+      app_secret: 'Titkos alkalmazástitok'
+      client_id: Ügyfél-azonosító
+      client_secret: 'Titkos ügyfélkulcs'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Bejelentkezés másik felhasználóként'
+      placeholder_optional: '(Nem kötelező) Adja meg a felhasználóra váltás okát'
+      placeholder_required: 'A folytatás előtt meg kell adnia a felhasználóra váltás okát'
+    user_controls:
+      impersonate_button: 'Bejelentkezés felhasználóként'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Privát beszélgetés' }
+    buttons:
+      add_recipients: Címzettek
+      submit: OKÉ
+      edit_recipients: 'Címzettek szerkesztése'
+      cancel: Érvénytelenít
+      make_public: 'A beszélgetés nyilvánosságra hozatala'
+      remove_from_discussion: 'Hagyja ezt a privát beszélgetést'
+    composer_private_discussion:
+      submit_button: 'Privát beszélgetés közzététele'
+      title_placeholder: 'Privát beszélgetés címe'
+    confirm:
+      make_public: 'Biztosan el szeretné távolítani a címzetteket, és láthatóvá szeretné tenni ezt a beszélgetést mindenki számára, aki megtekintheti a hozzárendelt címkét?'
+    nav:
+      start_button: 'Privát beszélgetés'
+      nav_item: 'Privát beszélgetések'
+    input:
+      search_recipients: 'Keresse meg a címzettet az első három karakter beírásával...'
+    search:
+      headings: { groups: Engedélycsoportok }
+    modal:
+      titles: { add_recipients: 'Címzettek hozzáadása a beszélgetéshez' }
+      labels: { selected_users: 'Kiválasztott felhasználók', search_field: 'Felhasználó keresése' }
+      help: { add_recipients: 'Ez a beszélgetés csak az itt kiválasztott felhasználók számára lesz látható. Legalább 1 címzett (rajtad kívül) szükséges.', update_recipients: 'Ez a beszélgetés csak az itt kiválasztott felhasználók számára lesz látható.', selected_users: 'Kattintson egy felhasználó nevére az eltávolításához.', click_user_to_remove_tooltip: 'Kattintson az eltávolításhoz' }
+    user:
+      settings: { block_pd: 'Privát beszélgetések blokkolása' }
+      byobu_link: 'Privát beszélgetések'
+      dropdown_label: 'Privát beszélgetések'
+    notifications:
+      pd_label: 'Valaki bevon engem egy új magánbeszélgetésbe'
+      pd_reply_label: 'Valaki bejegyzést tesz közzé egy privát beszélgetésben, amelynek a címzettje vagyok'
+      pd_user_left_label: 'Egy címzett felhasználó kilép egy privát beszélgetésből, amelynek részese vagyok'
+      pd_added_label: 'Valaki hozzáad egy meglévő privát beszélgetéshez'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Jelvény adatai'
+    all_badges: 'Az összes jelvény megtekintése'
+    all_users: 'Az összes felhasználó megtekintése'
+    give_badge: 'Jelvény megadása'
+    update_badge: 'Jelvény frissítése'
+    select_badge: 'Válassza ki a jelvényt'
+    user_has_badge: 'A felhasználó már rendelkezik ezzel a jelvénnyel.'
+    user_no_badges: 'Ez a felhasználó még nem rendelkezik jelvényekkel.'
+    no_received: 'Egyetlen felhasználó sem érdemelte ki ezt a jelvényt.'
+    save_changes: 'Módosítások mentése'
+    badge:
+      badge: Jelvény
+      badges: Jelvények
+      name: 'Jelvény neve'
+      description: 'Jelvény leírása'
+      earning_reason: 'Jelvényszerzés oka'
+      update_earning_reason: 'Frissítés bevételi oka'
+      no_earning_reason: 'Nincs beállítva bevételi ok'
+      earned_on: 'Megszerzett jelvény'
+      category: 'Jelvény kategóriája'
+      badge_details: 'Jelvény részletei'
+    badges_in_card:
+      title: 'Jelvények a felhasználói kártyán'
+      manage_badges: 'Jelvények kezelése'
+      description: 'A felhasználói kártyán látható jelvényeket módosíthatja egy másik jelvényre. Ha nem jelöl ki egyiket sem, a rendszer automatikusan kijelöli őket.'
+    moderation:
+      remove_badge: 'Jelvény eltávolítása a felhasználótól'
+      remove_badge_confirm: 'Biztosan el szeretné távolítani ezt a jelvényt erről a felhasználóról?'
+      give_badge: 'Jelvény megadása'
+    notification:
+      title: 'Új jelvényt kapott'
+      settings: 'Kaptam egy jelvényt'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Nyomorúságos állapot'
+      not_miserable_label: 'Nem nyomorult'
+      indefinitely_label: 'Nyomorult a végtelenségig'
+      limited_time_label: 'Nyomorult korlátozott ideig...'
+      limited_time_days_text: ' Napok'
+      submit_button: 'Változtatások mentése'
+    user_badge:
+      miserable_user_tooltip: 'Szerencsétlen felhasználó'
+    user_controls:
+      miserable_user_button: 'Szerencsétlen felhasználó'
+  ref:
+    miserable_user: 'Szerencsétlen felhasználó'
+sycho-profile-cover:
+  forum:
+    cover: Fedő
+    edit_cover: 'Borító szerkesztése'
+    added:
+      success: 'A profil fedele frissítve.'
+      error: 'A kép feltöltése sikertelen.'
+    removed:
+      success: 'A profil fedele eltávolítva.'
+      error: 'Nem sikerült eltávolítani a fedelet, próbálkozzon újra később.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Másolás a vágólapra'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Utolsó látogatók', guest: Vendég }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: Országkód
+    saveButton: Megment
+    clickToSelectCountry: 'Válassza ki országát'
+    countrySaved: 'Az ország sikeresen megmentett!'
+    field_placeholder: 'Országzászlók megerősítése'
+    binding_country: 'Rájöttünk, hogy nem kötötted meg a tartózkodási helyedet. Kérjük, először kapcsolja össze országát. Csak az országod összekapcsolása után tehetsz közzé és hagyhatsz üzenetet.'
+    binding_country_click: 'Kattintson most'
+username-blacklist:
+  forum:
+    modal-title: Figyelmeztetés!
+    modal-body-first-line: 'Figyelmeztetés – Ezt a felhasználónevet <strong>a rendszergazda blokkolja</strong>'
+    modal-body-second-line: 'Kérjük, válassz másik felhasználónevet, amely nem sérti közösségi irányelveinket, és próbáld újra.'
+  admin:
+    blackList: 'Feketelistás felhasználónév'
+    blackList-help: 'Írja ide azt a felhasználónevet, amelyet blokkolni szeretne a regisztráció során (vesszővel elválasztva)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Áttekintés, show-summaries: 'Kivonat megjelenítése minden vitafórumból vitafórumokban (asztali számítógép/táblagép)', show-summaries-mobile: 'Részlet megjelenítése az egyes beszélgetésekből a vitafórumok listájában (mobil)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Fórum tevékenység'
+      forum_new_discussions: 'A fórum új beszélgetései'
+      discussion_last_posts: 'Ez a vita'
+      user_last_posts: 'A felhasználó hozzászólásai és megjegyzései'
+    feeds:
+      titles: { main_subtitle: 'Utolsó hozzászólások a fórumban', main_d_subtitle: 'A fórum legújabb beszélgetései', discussion_subtitle: 'A beszélgetés utolsó üzenetei', user_subtitle: 'A felhasználó legutóbbi bejegyzései és megjegyzései.' }
+    discussion:
+      feed_link: Etet
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Követte
+    profile_page:
+      no_following: 'Úgy tűnik, nem követsz senkit.'
+    settings:
+      notify_new_follower_label: 'Valaki követ engem'
+      notify_new_unfollower_label: 'Valaki abbahagyja a követésemet'
+      notify_new_discussion_label: 'Valaki, akit követek, beszélgetést indít'
+      notify_new_post_label: 'Valaki, akit követek, egy meglévő beszélgetés bejegyzései'
+      block_follow: 'Annak megakadályozása, hogy a felhasználók kövessenek engem'
+    badge:
+      label: { follow: 'A megbeszéléseket követően', lurk: 'Az összes követése' }
+    filter:
+      following: 'Követett felhasználók'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Követési szintek', follow_select_label: 'Követés típusa', no_user_attr_provided_err: 'Ó, valami hiba történt a modális megnyitása közben.', no_user_attr_provided_err_debug: 'A létrehozáskor nem lett átadva a "user" attribútum a SelectFollowUserLevel modálisnak. A modális nem jeleníthető meg.', save_btn: Megment, cancel_btn: Érvénytelenít }
+    profile_link: 'Követett felhasználók'
+    user_controls:
+      follow_button: Követ
+      unfollow_button: 'Követés leállítása'
+      change_button: 'Követés típusának módosítása'
+    index:
+      follow_tag_button: Követ
+      unfollow_tag_button: 'Követés típusának módosítása'
+  email:
+    new_follower_subject: '[Felhasználó követése] Új követőd van!'
+  lib:
+    following_link: 'Követett felhasználók'
+    follow: Követ
+    change_follow_type: 'Követés típusának módosítása'
+    unfollow: 'Követés leállítása'
+    follow_levels:
+      unfollow: { name: 'Ne kövesd' }
+      follow: { name: 'Beszélgetések követése' }
+      lurk: { name: 'Az összes követése' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Kérjük, győződjön meg arról, hogy a kért becenév-módosítás megfelel a fórum irányelveinek.', decision_title: Döntés, approval_label: Jóváhagy, rejected_label: Elutasít, submit_button: Előterjeszt, reason_title: 'Az elutasítás oka', success: 'Határozat elküldve.', title: 'Becenév-módosítási kérelem' }
+      results: { title: 'Becenév-módosítási kérelem', approved: 'Becenév-módosítási kérelmét jóváhagytuk', rejected: 'A rendszer elutasította a becenév-módosítási kérelmét', resubmit: 'Ekkor újra beküldhetsz egy új becenév-módosítási kérelmet a fiókbeállításokban, ha úgy döntesz.', dismiss_button: OKÉ }
+      request: { title: 'Becenév módosításának kérése', submit_button: 'Kérelem elküldése', delete_button: 'Kérelem törlése', confirmation_message: 'A becenév-módosítási kérelmet elküldtük, és jóváhagyásra vár.', deleted: 'Becenévkérés törölve.', dismiss_button: OKÉ }
+    username_modals:
+      action: { help_text: 'Kérjük, győződj meg róla, hogy a kért felhasználónév-módosítás megfelel a fórum irányelveinek.', decision_title: Döntés, approval_label: Jóváhagy, rejected_label: Elutasít, submit_button: Előterjeszt, reason_title: 'Az elutasítás oka', success: 'Határozat elküldve.', title: 'Felhasználónév-módosítási kérelem' }
+      results: { title: 'Felhasználónév-módosítási kérelem', approved: 'A felhasználónév módosítására vonatkozó kérelmedet jóváhagytuk', rejected: 'A felhasználónév-módosítási kérelmedet elutasítottuk', resubmit: 'Ekkor újra beküldhetsz egy új felhasználónév-módosítási kérelmet a fiókbeállításokban, ha úgy döntesz.', dismiss_button: OKÉ }
+      request: { title: 'Felhasználónév módosításának kérése', submit_button: 'Kérelem elküldése', delete_button: 'Kérelem törlése', confirmation_message: 'A felhasználónév módosítására vonatkozó kérelmedet elküldtük, és jóváhagyásra vár.', deleted: 'Felhasználónév kérés törölve.', dismiss_button: OKÉ }
+    pending_requests:
+      empty_text: 'Nem található névváltoztatási kérelem.'
+      tooltip: 'Névváltoztatási kérelmek'
+      title: 'Névváltoztatási kérelmek'
+    settings:
+      nickname_request_button: 'Becenév módosítása'
+      username_request_button: 'Felhasználónév módosítása'
+    user:
+      name_history_link: 'Név története'
+  ref:
+    name_change_request: 'Névváltoztatási kérelem'
+    name_change_requests: 'Névváltoztatási kérelmek'
+    nickname_change_request: 'Becenév-módosítási kérelem'
+    nickname_change_requests: 'Becenév-módosítási kérelmek'
+    username_change_request: 'Felhasználónév-módosítási kérelem'
+    username_change_requests: 'Felhasználónév-módosítási kérelmek'
+  email:
+    body:
+      noReasonProvided: 'Nincs megadva indoklás.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Írj valamit magadról'
+    profile:
+      cancel_confirm: 'Biztosan megszakítod az életrajzod szerkesztését? Az elvégzett módosítások elvesznek.'
+      cancel_button: Érvénytelenít
+      save_button: Megment
+      edit_bio_label: 'Bio szerkesztése'
+fof-split:
+  forum:
+    split:
+      from: 'Innen hasítva'
+      to: 'Felosztás ide'
+      cancel: 'Felosztás megszakítása'
+    modal:
+      title: 'Osztott beszélgetés'
+      new_discussion_label: 'Az új vitafórum címének megadása'
+      submit_button: Hasít
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'A közösségimédia-gombok szerkesztése'
+      add: 'Gombok hozzáadása a közösségi médiához'
+      headtitle: 'Szerkesztés gombok'
+      title: Cím
+      url: URL
+      submit: Megment
+      delete: Töröl
+      deletetitle: 'Törlés gomb'
+      save_disabled_fetching_favicons: 'Egy vagy több ikon lekérése folyamatban van. Várj, kérlek.'
+      favicon: Favicon
+      grey_favicon: 'Szürke Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Részvény
+      share_dropdown_accessible_label: 'Beszélgetésmegosztás legördülő menüjének váltása'
+    modal:
+      title: Részvény
+      copy_button: Másolat
+  lib:
+    networks:
+      facebook: Facebook
+      twitter: Csicsergés
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Távirat
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Az én világom'
+      qq: QQ
+      qzone: QZone
+      native: 'Natív megosztás'
+fof-recaptcha:
+  forum:
+    error: 'Hiba történt a reCAPTCHA elküldésekor. Próbáld újra.'
+    unknown_error: 'Ismeretlen hiba történt. Ellenőrizze a captcha-t, és próbálja újra.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Ezt a reakciót most nem használhatja, kérjük, frissítse az oldalt'
+    warning: 'A reakciód megtért'
+    settings:
+      notify_post_reacted_label: 'Valaki reagál az egyik bejegyzésemre'
+    reacting-own-post: 'Nem reagálhat a saját bejegyzésére'
+    modal:
+      title: Reakciók
+      no_reactions: 'Még nincsenek reakciók'
+    mod_item: 'Reakciók megtekintése'
+    react_button_label: Reagál
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Nem sikerült betölteni a képvágót.', generic_resize: 'Hiba történt a kép körülvágása és átméretezése közben.', get_image_data: 'Nem sikerült levágni. Győződjön meg arról, hogy a böngésző ujjlenyomat-védelme le van tiltva.' }
+      help_text: "A képfeltöltés sikertelen lehet, ha a böngésző adatvédelmi beállításai nagyon szigorúak. Ha problémába ütközik, próbálja meg letiltani az ujjlenyomat-védelmet. Ellenkező esetben <disableResize>letilthatja a kivágott kép tömörítését</disableResize>, vagy <disableCrop>teljesen letilthatja a vágást</disableCrop>.\n"
+      submit_button: Feltölt
+      submit_crop_button: 'Vágás és feltöltés'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Nagyon valószínű, hogy nincs szükség további megbeszélésre, és így a botlás nem szolgál célt.', checkbox_label: 'Tisztában vagyok azzal, hogy ez a vita meglehetősen régi, de szeretnék válaszolni.', error: 'Ez a vita túl régi ahhoz, hogy válaszoljunk rá.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Nincs engedélyed szavazni'
+    poll_ended: 'Ez a szavazás véget ért.'
+    public_poll: 'Szavazók megtekintése'
+    composer_discussion:
+      add_poll: 'Szavazás hozzáadása'
+      edit_poll: 'Szavazás szerkesztése'
+    modal:
+      add_title: 'Szavazás hozzáadása'
+      add_option_label: 'Beállítás hozzáadása'
+      edit_title: 'Szavazás szerkesztése'
+      include_question: 'Meg kell adnia egy kérdést'
+      max: 'Legfeljebb 10 választ kaphat'
+      min: 'Legalább 2 választ kell megadnia'
+      no_voters: 'Nincs szavazat'
+      option_placeholder: Válasz
+      image_option_placeholder: 'Kép URL-címe (nem kötelező)'
+      options_label: Válaszok
+      public_poll_label: 'Annak lehetővé tétele, hogy az emberek lássák, ki szavazott'
+      allow_multiple_votes_label: 'Annak lehetővé tétele, hogy az emberek több lehetőségre szavazzanak'
+      max_votes_label: 'Szavazatok maximális száma felhasználónként'
+      max_votes_help: 'Állítsa 0-ra, hogy a felhasználók szavazhassanak az összes lehetőségre.'
+      question_placeholder: Kérdés
+      submit: Előterjeszt
+    moderation:
+      delete: 'Szavazás eltávolítása'
+      delete_confirm: 'Biztosan törli ezt a szavazást?'
+      edit: 'Szavazás szerkesztése'
+    tooltip:
+      badge: Szavazás
+    votes_modal:
+      title: Szavazó
+fof-nightmode:
+  ref:
+    auto: 'Automatikus (a böngésző vagy az eszköz beállításai alapján)'
+    light: 'Nappali mód'
+    dark: 'Éjszakai mód'
+  forum:
+    header:
+      nightmode_button: 'Éjszakai mód'
+    user:
+      settings: { heading: Téma, description: 'Válassza ki a fórumon használni kívánt színtémát.', description2: 'Ez a téma össze lesz kapcsolva a fiókjával, és minden eszközére vonatkozik, kivéve, ha bekapcsolja az alábbi kapcsolót az eszközönkénti beállításokhoz.', device_specific_setting_checkbox: 'Eszközenkénti használat beállításai', device_specific_setting_checkbox_tooltip: 'A kiválasztott téma minden egyes eszközhöz külön kerül mentésre.', auto_unsupported: 'Az Ön böngészője nem támogatja az automatikus sötét módot.', option_descriptions: { auto: 'A téma automatikusan kiválasztásra kerül a böngésző vagy az eszköz beállításai alapján. Például, ha engedélyezve van a sötét mód az iOS rendszerben, a fórumok is sötétek lesznek.', day: 'A klasszikus élmény, amit megszoktál. Szeretett és tesztelt.', night: 'Kicsit éjszakai bagoly vagy. Éjjel vigyázol a fórumra, miközben a madarak alszanak és a rókák vadásznak. Vagy csak a sötétebb színeket részesíti előnyben!' }, options: { auto: 'Automatikus (a böngésző vagy az eszköz beállításai alapján)', day: 'Nappali mód', night: 'Éjszakai mód' } }
+    day: 'Nappali mód'
+    night: 'Éjszakai mód'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Üres jegyzet nem megengedett.'
+    moderatorNotes:
+      add_button: 'Új megjegyzés'
+      create-heading: 'Új moderátori megjegyzés létrehozása'
+      dismiss_button: Kész
+      noNotes: 'Úgy tűnik, itt nincsenek jegyzetek.'
+      submit_button: 'Megjegyzés mentése'
+      delete: Töröl
+      confirm: 'Biztosan törli ezt a jegyzetet?'
+    user:
+      notes: 'Moderátori megjegyzések'
+  api:
+    no_reason_provided: 'Nincs megadva indoklás'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Szavazat
+    vote_title: 'Mutasd meg, ki szavazott'
+    nav:
+      name: Rangsor
+    ranking:
+      rank: Hely
+      name: Felhasználó
+      amount: Váltó
+    notification:
+      prefrences: { vote: 'Amikor az egyik hozzászólásomat fel/le szavazzák' }
+    user:
+      votes_link: Szavazat
+    modal:
+      downvotes_label: 'Leszavazók:'
+      title: Szavazó
+      upvotes_label: 'Szavazók:'
+    mod_item: 'Szavazók megtekintése'
+    voters:
+      none: 'Még nincsenek szavazók'
+      label: Szavazó
+      label_none: 'Nincs szavazó'
+    post:
+      upvote_button: 'Upvote bejegyzés'
+      downvote_button: 'Bejegyzés leszavazása'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Az ütemezett piszkozatok jelenleg le vannak tiltva a beállításokban.'
+  ref:
+    schedule_draft: 'Ütemezési tervezet'
+  forum:
+    composer:
+      title: 'Piszkozat mentése'
+      saving: Megtakarítás...
+      saved: Mentett!
+      exit_alert: 'Elveti a piszkozat módosításait?'
+      discard_empty_draft_alert: 'Üres piszkozat elvetése?'
+    dropdown:
+      empty_text: 'Még nem mentett piszkozatokat'
+      title: Tervezetek
+      delete_all_button: 'Az összes piszkozat törlése'
+      delete_button: 'Piszkozat törlése'
+      scheduled_icon_tooltip_formatter: 'L [kukac] LT'
+      alert: 'Biztosan törli a piszkozatot?'
+      delete_all_alert: 'Biztosan törli az összes piszkozatot?'
+      schedule_button: 'Ütemezési tervezet'
+      tooltip: Tervezetek
+    schedule_draft_modal:
+      text: 'Ütemezd be a piszkozatodat úgy, hogy később automatikusan közzétedd!'
+      unschedule_button: 'Menetrend törlése'
+      unschedule_warning: 'Biztosan szeretné törölni ezt a tervezetet?'
+      reschedule_button: Átütemezni
+      schedule_button: Menetrend
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Érvénytelen dátum és/vagy idő'
+      title: 'Ütemezési tervezet'
+    user:
+      settings: { drafts_heading: Tervezetek, draft_autosave_enable: 'Engedélyezi a piszkozat automatikus mentését?', draft_autosave_interval_label: 'Automatikus mentési időköz (másodperc)', draft_autosave_interval_button: 'Frissítési időköz', draft_autosave_interval_invalid: 'Az intervallumnak 4-nél nagyobb egész számnak kell lennie.' }
+fof-best-answer:
+  forum:
+    answered_badge: Válaszolt
+    this_best_answer: 'Válassza a Legjobb válasz lehetőséget'
+    remove_best_answer: 'Törölje a jelet a Legjobb válasz jelölőnégyzetből'
+    best_answer_button: 'Legjobb válasz'
+    errors:
+      mismatch: 'A kiválasztott hozzászólás nem létezik ebben a beszélgetésben.'
+    notification:
+      content: 'Kérjük, válassza ki a legjobb választ, ha kérdésére választ kapott'
+      preferences: { awarded_best_answer: 'Valaki beállítja a bejegyzésemet a legjobb válaszként', best_answer_in_discussion: 'A legjobb válasz egy olyan beszélgetésben adható, amelyben részt vettem', select_best_answer: 'Automatikus emlékeztető a legjobb válasz kiválasztásához egy általam indított beszélgetésben' }
+    index:
+      ask_question: 'Kérdés feltevése'
+      cannot_ask_question: 'Nem lehet kérdést feltenni'
+      solved_link: 'Megoldott megbeszélések'
+      unsolved_link: 'Megoldatlan viták'
+    filter:
+      all_label: 'Minden kérdés'
+      solved_label: 'Megoldott kérdések'
+      unsolved_label: 'Megoldatlan kérdések'
+      accessible_label: 'Megoldott/megoldatlan kiválasztás'
+    composer:
+      titlePlaceholder: 'Kérdés címe'
+    search:
+      discussions_solutions_heading: 'Megbeszélések megoldásokkal'
+    discussion:
+      jump_to_best_answer_button: 'Legjobb válasz'
+  email:
+    subject:
+      select: 'Sikerült megválaszolni a kérdést?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'A legjobb válaszok'
+      least_best_answers: 'A legkevésbé legjobb válaszok'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Senki mást nem tiltanak ki'
+    user_badge:
+      banned_tooltip: Tiltott
+    ban_ip_button: 'IP tiltása'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Tilalom
+      unban_button: Unban
+  error:
+    banned_ip_message: 'Az engedélyezés nem sikerült.'
+    no_ips_found_message: 'Nem található IP-cím a felhasználóhoz.'
+  lib:
+    modal:
+      check_button: Ellenőriz
+      save_button: Megment
+      ban_ip_confirmation: 'Biztosan blokkolni szeretné ezt az IP-címet a fórumon? Ez megakadályozza az ezzel az IP-címmel (IP-címekkel) rendelkező felhasználókat a bejelentkezésben és a regisztrációban.'
+      unban_ip_confirmation: 'Biztosan fel akarja oldani ennek a felhasználónak és az összes többi felhasználónak a tiltását, akiket más IP-k nem tiltottak le?'
+      unban_ip_no_users: 'Senki mást nem tiltanak ki'
+      title: 'IP(k) tiltása'
+      unban_title: 'Unban IP(s)'
+      address_label: IP-cím
+      reason_label: Ok
+      ban_button: Tilalom
+      unban_button: Unban
+  ref:
+    ban_label: Tilalom
+    ban_ip_addresses: 'IP(k) tiltása'
+    ban_ip_button: 'IP tiltása'
+    unban_label: Unban
+    unban_ip_addresses: 'Unban IP(s)'
+    unban_ip_button: 'Unban IP'
+    address_label: IP-cím
+    reason_label: Ok
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'A regisztráció részleteit megtaláltuk egy spammegelőzési adatbázisban, ezért regisztrációját blokkoltuk.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Vitafórumok törlése'
+      hard_delete_discussions_help: 'Ezzel véglegesen törli a felhasználó által indított összes beszélgetést. Ha le van tiltva, a beszélgetések rejtve maradnak.'
+      hard_delete_posts_label: 'Bejegyzések törlése'
+      hard_delete_posts_help: 'Ez véglegesen törli a felhasználó által készített összes bejegyzést (megjegyzéseket, válaszokat stb.). Ha le van tiltva, a bejegyzések rejtve lesznek.'
+      hard_delete_user_label: 'Felhasználó törlése'
+      hard_delete_user_help: 'Ezzel véglegesen törli a felhasználót. Ha le van tiltva, a rendszer felfüggeszti a felhasználót.'
+      intro: 'Amikor egy felhasználót spammerként jelöl meg, több műveletet hajt végre, ami a fórumon elérhető bővítményektől függ.'
+      move_discussions_tag_label: 'Beszélgetések áthelyezése karanténba helyezett címkébe'
+      move_discussions_tag_help: 'Ezzel a felhasználó által indított összes beszélgetés átkerül a fórum beállításaiban megadott címkére. Ha le van tiltva, a vitafórumok az aktuális címkéjükben maradnak.'
+      process_button: Folyamat
+      report_to_sfs_label: 'Jelentés a StopForumSpam-nek'
+      report_to_sfs_help: 'Ez jelenti a felhasználó alapvető adatait (felhasználónév, e-mail, IP-cím) a StopForumSpam-nek. Ez segít megakadályozni, hogy a felhasználó regisztráljon más fórumokon, amelyek a StopForumSpam szolgáltatást használják.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Vitafórumnézetek számának visszaállítása'
+      submit: Előterjeszt
+      label: 'Megtekintési szám beállítása'
+    discussion_controls:
+      resetviews_button: 'Nézetszám beállítása'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: ragadómentes
+      sticky_button: Ragadós
+    badge:
+      sticky_tooltip: Ragadós
+  ref:
+    sticky: Ragadós
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Zárolt
+    discussion_controls:
+      lock_button: Zár
+      unlock_button: Kinyit
+    settings:
+      notify_discussion_locked_label: 'Valaki lezár egy általam indított beszélgetést'
+flarum-likes:
+  forum:
+    post:
+      like_link: Szeret
+      unlike_link: Eltérően
+      you_text: Te
+    post_likes:
+      title: 'Felhasználók, akiknek tetszik ez'
+      load_more_button: 'Több betöltése'
+    settings:
+      notify_post_liked_label: 'Valaki kedveli az egyik bejegyzésemet'
+    user:
+      likes_link: Szereti
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Emoji beszúrása'
+      type_to_search_text: 'Gépelés emoji kereséséhez'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'A tartalom túl nagy, kérjük, olvassa el a közzétételre vonatkozó irányelveinket' }
+dhtml-persona:
+  forum:
+    persona: Személy
+dhtml-leaderboard:
+  forum:
+    leaderboard: Ranglista
+dhtml-gender:
+  forum:
+    male: Férfi
+    female: Nőstény
+    other: 'Nem szeretnék válaszolni'
+    inputGender: Nem
+    saveButton: Megment
+    clickToSelectGender: 'Válassza ki a nemét'
+    genderSaved: 'A nem sikeresen megmentett!'
+    field_placeholder: 'Nemének megerősítése'
+    binding_gender: 'Rájöttünk, hogy nem állította be a nemét. Kérjük, először adja meg a nemét. Csak a nemed beállítása után tehetsz közzé és hagyhatsz üzenetet.'
+    binding_gender_click: 'Kattintson most'
+flarum-content-pages:
+  forum:
+    home: Otthon
+    about-us: Rólunk
+    guidelines: Iránymutatások
+    privacy-policy: Adatvédelem
+    terms-of-use: 'Használati idő'
+    contact-us: Kapcsolat
+    download-app: 'Alkalmazás letöltése'
+    discord-chat: 'Discord csevegés'
+    tags-cloud: 'Címkék Felhő'
+    languages: Nyelvek
+    leaderboard: Ranglista
+    live: Élő
+    live-coding: 'Élő kódolás'
+    challenges: Kihívások
+    dev-challenges: 'Dev kihívások'
+    jobs: Munkahelyek
+    community: Közösség
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Job Posting'
+    job-postings: 'Job Postings'
+    workshops: Műhelyek
+    dev-workshops: 'Dev Workshops'
+    events: Események
+    conferences: Konferencia
+    event-conferences: 'Események / konferenciák'
+    showcase: Bemutató
+    tags: Címkék
+    more: Több
+    memberships: Tagságok
+    members: Tagok
+    general-discussion: 'Általános vita'
+    technology-articles: 'Technológiai cikkek'
+    coding-challenges: 'Coding kihívások'
+    q-a: 'Q/A szakasz'
+    artificial-intelligence: 'Mesterséges intelligencia'
+    computer-science: Számítógép-tudomány
+    programming-languages: 'Programozási nyelvek'
+    development-tools: 'Fejlesztési eszközök'
+    software-development: Szoftverfejlesztés
+    frontend-development: 'Frontend fejlesztés'
+    backend-development: 'Backend fejlesztés'
+    software-engineering: Szoftvermérnök
+    cybersecurity: Kiberbiztonság
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: Karakterszámláló
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Születési dátum szerkesztése'
+      date_of_birth_text: 'Születési dátum'
+      submit_button: 'Változtatások mentése'
+    settings:
+      change_dob_label: 'Születési dátum módosítása'
+      show_dob_date_label: 'Születési nap és hónap megjelenítése'
+      show_dob_year_label: 'Születési év megjelenítése'
+      show_dob_year_help: 'Ez lehetővé teszi az emberek számára, hogy lássák az életkorát.'
+      dob_heading: 'Születési dátum'
+    nav:
+      nav_item: 'Mai születésnapok'
+    edit_user:
+      dob_heading: 'Születési dátum'
+    sign_up:
+      dob_placeholder: 'Születési dátum'
+  api:
+    invalid_dob_message: 'Érvénytelen születési dátum'
+  ref:
+    date_of_birth: 'Születési dátum'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Emoji választó'
+    search_placeholder: Keresés...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Szerző és dátum szerkesztése'
+    modal:
+      title-post: 'A bejegyzés szerzőjének és dátumának szerkesztése'
+      title-discussion: 'Beszélgetés szerzőjének és dátumának szerkesztése'
+      user: Szerző
+      created_at: 'Létrehozási idő'
+      edited_at: 'Szerkesztési idő'
+      sync-with-discussion: 'Szinkronizálás a beszélgetéssel'
+      sync-with-post: 'Szinkronizálás az első bejegyzéssel'
+      sync-impossible: 'Nem található az első bejegyzés. Görgessen a beszélgetés elejére.'
+      submit: Megment
+      cancel: Érvénytelenít
+    search:
+      placeholder: 'Felhasználók keresése'
+      type-more: 'Írjon be 3 karaktert az adatbázisban való kereséshez'
+      no-results: 'Nincs találat'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Rich Text mód váltása'
+      insert_button: Beilleszt
+      insert_image: { src_placeholder: Láncszem, title_placeholder: Cím }
+      insert_link: { text_placeholder: SMS, href_placeholder: URL, title_placeholder: 'Cím (rámutatáskor jelenik meg)', remove_button: Eltávolít }
+      additional_items_tooltip: 'További vezérlők'
+      code_block_tooltip: 'Kódblokk beszúrása'
+      horizontal_rule_tooltip: 'Vízszintes lénia beszúrása'
+      image_tooltip: 'Kép hozzáadása'
+      link_tooltip: 'Link hozzáadása'
+      spoiler_block_tooltip: 'Spoiler/legördülő menü blokkolása'
+      strike_tooltip: 'Áthúzás <alt-shift-5>'
+      text_type_tooltip: 'Szövegtípus kiválasztása'
+  forum:
+    settings:
+      composer_heading: Zeneszerző
+      use_rich_text_editor_label: 'Rich Text szerkesztőt használ?'
+      rich_text_compact_paragraphs_label: 'Ne válassza el a bekezdéseket újsorral.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Engedélyezte a leküldéses értesítéseket, de nem konfigurálta ezt az eszközt.'
+      optin_button: Konfigurál
+    discussion_controls:
+      share_button: Részvény
+    post_controls:
+      share_button: Részvény
+    user_controls:
+      share_button: Részvény
+    settings:
+      push_header: Tol
+      pwa_notifications: { access_default: 'A böngésző korlátozásai miatt engedélyeznie kell, hogy push értesítéseket kapjon ezen az eszközön.', access_default_button: Feliratkozás, access_denied: 'Módosítania kell a böngésző beállításait, hogy push értesítéseket kapjon ezen az eszközön.', access_denied_button: 'Tudja meg, hogyan', no_browser_support: 'Ez a böngésző nem támogatja a progresszív webalkalmazások leküldéses értesítéseit.', no_browser_support_button: 'Tudj meg többet' }
+  views:
+    offline:
+      header: 'Hálózati kapcsolati hiba'
+      text: 'Ez az alkalmazás hálózati kapcsolatot igényel; Offline nem használható. Kérjük, ellenőrizze a kapcsolatot.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Felhasználó figyelmeztetése'
+    user:
+      warnings: 'Moderátori figyelmeztetések'
+    settings:
+      warning_notification_label: 'Egy moderátor figyelmeztet'
+    validation:
+      public_comment_required: 'Leginkább nyilvános megjegyzést teszel.'
+      invalid_strike_count: 'A figyelmeztetések számának 0 és 5 közötti egész számnak kell lennie.'
+    warning_controls:
+      delete_button: Eltávolít
+      restore_button: Visszaad
+      delete_forever_button: 'Végleges törlés'
+    warning_list:
+      add_button: 'Új figyelmeztetés'
+      no_warnings: 'Úgy tűnik, itt nincsenek figyelmeztetések.'
+      warnings_no_strikes: 'Moderátori figyelmeztetések: Nem érkezett figyelmeztetés'
+    warning_list_item:
+      public_comment: Figyelmeztetés
+      private_comment: 'Moderátori látható megjegyzések'
+      linked_post: 'Linkelt bejegyzés'
+    warning_modal:
+      confirmation_message: 'A figyelmeztetés mentésre került. Előfordulhat, hogy frissítenie kell az oldalt, hogy láthassa.'
+      strikes_heading: 'Hány sztrájkot kell alkalmazni?'
+      submit_button: 'Figyelmeztetés mentése'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Válaszsablon szerkesztése'
+    reply_template:
+      title: 'Válaszsablon szerkesztése'
+      submit_button: 'Válaszsablon mentése'

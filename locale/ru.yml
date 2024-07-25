@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Введен неверный пароль.'
+      confirm_password_placeholder: 'Подтвердите пароль'
+      dismiss_button: ХОРОШО
+      submit_button: 'Сохранить изменения'
+      title: 'Изменить адрес электронной почты'
+    change_password:
+      send_button: 'Отправить электронное письмо для сброса пароля'
+      text: 'Нажмите кнопку ниже и проверьте свою электронную почту на наличие ссылки для изменения пароля.'
+      title: 'Смена пароля'
+    composer:
+      close_tooltip: Закрывать
+      exit_full_screen_tooltip: 'Выход из полноэкранного режима'
+      full_screen_tooltip: 'На весь экран'
+      minimize_tooltip: Минимизировать
+      preview_tooltip: 'Предварительный просмотр'
+    composer_discussion:
+      body_placeholder: 'Написать сообщение...'
+      discard_confirmation: 'Вы не разместили свою дискуссию. Вы хотите выбросить его?'
+      submit_button: 'После обсуждения'
+      title_placeholder: 'Название дискуссии'
+      title: 'Начать обсуждение'
+    composer_edit:
+      discard_confirmation: 'Вы не сохранили изменения. Хотите ли вы их выбросить?'
+      edited_message: 'Ваша правка была сделана.'
+      submit_button: 'Сохранить изменения'
+      view_button: Вид
+    composer_reply:
+      discard_confirmation: 'Вы не опубликовали свой ответ. Вы хотите выбросить его?'
+      posted_message: 'Ваш ответ был опубликован.'
+      submit_button: Пост-ответ
+      body_placeholder: 'Написать ответ...'
+      view_button: Вид
+    discussion_controls:
+      cannot_reply_button: 'Не могу ответить'
+      cannot_reply_text: 'У вас нет разрешения отвечать на это обсуждение.'
+      delete_confirmation: 'Вы уверены, что хотите удалить эту дискуссию?'
+      log_in_to_reply_button: 'Войдите, чтобы ответить'
+      toggle_dropdown_accessible_label: 'Переключение действий с обсуждением в раскрывающемся меню'
+      delete_button: Удалить
+      delete_forever_button: 'Удалить навсегда'
+      rename_button: Переименовать
+      reply_button: Ответ
+      restore_button: Восстанавливать
+    discussion_list:
+      empty_text: 'Похоже, что здесь нет никаких обсуждений.'
+      load_more_button: 'Загрузить еще'
+    forgot_password:
+      email_sent_message: 'Если введенное вами электронное письмо зарегистрировано на этом сайте, мы отправим вам электронное письмо, содержащее ссылку для сброса вашего пароля. Проверьте папку спама, если вы не получите ее в течение следующей минуты или двух.'
+      not_found_message: 'Нет пользователя, зарегистрированного с этим адресом электронной почты.'
+      submit_button: 'Восстановление пароля'
+      text: 'Введите свой адрес электронной почты, и мы отправим вам ссылку для сброса вашего пароля.'
+      title: 'Забыли пароль'
+      dismiss_button: ХОРОШО
+      email_placeholder: Email
+    header:
+      admin_button: Администрация
+      back_to_index_tooltip: 'Вернуться к списку обсуждений'
+      locale_dropdown_accessible_label: 'Изменить языковой стандарт форума'
+      profile_button: Профиль
+      search_clear_button_accessible_label: 'Очистить поисковый запрос'
+      search_placeholder: 'Поиск по форуму'
+      search_role_label: 'Поиск по форуму'
+      session_dropdown_accessible_label: 'Ниспадающее меню «Переключить параметры сеанса»'
+      log_in_link: Войти
+      log_out_button: Выходить
+      settings_button: Параметры
+      sign_up_link: Регистрация
+    index:
+      cannot_start_discussion_button: 'Не могу начать обсуждение'
+      mark_all_as_read_confirmation: 'Вы уверены, что хотите помечать все обсуждения как прочитанные?'
+      refresh_tooltip: Освежать
+      toggle_sidenav_dropdown_accessible_label: 'Переключить выпадающее меню навигации'
+      all_discussions_link: 'Все обсуждения'
+      mark_all_as_read_tooltip: 'Пометить все как прочитанное'
+      meta_title_text: 'Все обсуждения'
+      start_discussion_button: 'Начать обсуждение'
+    index_sort:
+      latest_button: 'Самый поздний'
+      newest_button: Новейший
+      oldest_button: Старейший
+      relevance_button: Уместность
+      toggle_dropdown_accessible_label: 'Сортировка списка обсуждений изменений'
+      top_button: Вверх
+      hot_button: Тенденции
+      votes_button: 'Голоса «за»'
+      front_button: 'Титульная страница'
+      popular_button: Популярный
+      unpopular_button: Непопулярный
+    log_in:
+      forgot_password_link: 'Забыли пароль?'
+      invalid_login_message: 'Ваши данные для входа были неверны.'
+      remember_me_label: 'Помни обо мне'
+      sign_up_text: 'У вас нет учетной записи? <a>Регистрация</a>'
+      username_or_email_placeholder: 'Имя пользователя или адрес электронной почты'
+      password_placeholder: Пароль
+      submit_button: Войти
+      title: Войти
+    notifications:
+      delete_all_confirm: 'Вы уверены, что хотите удалить все уведомления? Это действие нельзя отменить'
+      delete_all_tooltip: 'Удалить все уведомления'
+      empty_text: 'Нет уведомлений'
+      mark_as_read_tooltip: 'Пометить как прочитанное'
+      toggle_dropdown_accessible_label: 'Просмотр уведомлений'
+      mark_all_as_read_tooltip: 'Пометить все как прочитанное'
+      title: Уведомления
+      tooltip: Уведомления
+    post:
+      edited_text: Отредактированы
+    post_controls:
+      delete_confirmation: 'Вы уверены, что хотите удалить этот пост навсегда? Это действие нельзя отменить.'
+      hide_confirmation: 'Вы уверены, что хотите удалить этот пост?'
+      toggle_dropdown_accessible_label: 'Выпадающее меню «Переключить элементы управления записями»'
+      push_to_front_button: 'Отправка на FrontPage'
+      pull_from_front_button: 'Извлечение из FrontPage'
+      delete_button: Удалить
+      delete_forever_button: 'Удалить навсегда'
+      edit_button: Редактировать
+      restore_button: Восстанавливать
+    post_scrubber:
+      now_link: Сейчас
+      original_post_link: 'Оригинальный пост'
+    post_stream:
+      load_more_button: 'Загрузить еще'
+      reply_placeholder: 'Написать ответ...'
+    rename_discussion:
+      title: 'Обсуждение переименования'
+      submit_button: Переименовать
+    search:
+      discussions_heading: Обсуждения
+      users_heading: Пользователей
+    security:
+      cannot_terminate_current_session: 'Невозможно завершить текущий активный сеанс. Вместо этого выйдите из системы.'
+      created: Созданный
+      current_active_session: 'Текущая активная сессия'
+      developer_tokens_heading: 'Токены разработчика'
+      empty_text: 'Похоже, что смотреть здесь нечего.'
+      global_logout: { heading: 'Глобальный выход', help_text: 'Очищает текущий сеанс использования файлов cookie, завершает все сеансы, отзывает токены разработчика и делает недействительными все сообщения с подтверждением электронной почты или сбросом пароля.', log_out_button: Выходить }
+      hide_access_token: 'Скрыть токен'
+      last_activity: 'Последнее задание'
+      new_access_token_modal: { submit_button: 'Создать токен', title_placeholder: Титул, title: 'Новый токен' }
+      revoke_access_token: Отменять
+      sessions_heading: 'Активные сессии'
+      session_termination_failed: 'Произошла ошибка при завершении сеанса.'
+      show_access_token: 'Посмотреть токен'
+      terminate_all_other_sessions: 'Завершение всех остальных сеансов'
+      terminate_session: Кончать
+      token_revoked: 'Токен отозван.'
+      token_title_placeholder: /
+      never: Никогда
+      new_access_token_button: 'Новый токен'
+      revoke_access_token_confirmation: 'Вы уверены, что хотите продолжить? Это действие нельзя отменить.'
+      terminate_all_other_sessions_confirmation: 'Вы уверены, что хотите продолжить? Это действие нельзя отменить.'
+      title: Безопасность
+    settings:
+      account_heading: Счет
+      notify_by_web_heading: Паутина
+      notify_discussion_renamed_label: 'Кто-то переименовывает дискуссию, которую я начал'
+      privacy_disclose_online_label: 'Позволять другим видеть, когда я в сети'
+      privacy_heading: Конфиденциальность
+      change_email_button: 'Изменить адрес электронной почты'
+      change_password_button: 'Смена пароля'
+      notifications_heading: Уведомления
+      notify_by_email_heading: Email
+      title: Параметры
+    sign_up:
+      log_in_text: 'У вас уже есть учетная запись? <a>Войти</a>'
+      dismiss_button: ХОРОШО
+      email_placeholder: Email
+      password_placeholder: Пароль
+      submit_button: Регистрация
+      title: Регистрация
+      username_placeholder: 'Имя пользователя'
+    user:
+      avatar_upload_button: Закачать
+      avatar_upload_tooltip: 'Загрузите новый аватар'
+      online_text: Онлайн
+      posts_empty_text: 'Похоже, что здесь нет никаких постов.'
+      avatar_remove_button: Убирать
+      discussions_link: Обсуждения
+      posts_link: Сообщения
+      posts_load_more_button: 'Загрузить еще'
+      security_link: Безопасность
+      settings_link: Параметры
+    user_controls:
+      button: 'Рычаги управления'
+      delete_confirmation: 'Вы уверены, что хотите удалить этого пользователя? Сообщения пользователя НЕ будут удалены.'
+      toggle_dropdown_accessible_label: 'Переключение пользовательских элементов управления в раскрывающемся меню'
+      delete_button: Удалить
+      edit_button: Редактировать
+    user_email_confirmation:
+      resend_button: 'Повторная отправка электронного письма с подтверждением'
+      sent_message: Посылать
+    welcome_hero:
+      hide: 'Скрыть приветственное сообщение'
+    badge:
+      frontpage_tooltip: 'Помечено как FrontPage'
+  lib:
+    debug_button: Отлаживать
+    alert:
+      dismiss_a11y_label: 'Закрыть оповещение'
+    badge:
+      hidden_tooltip: Скрытый
+    dropdown:
+      toggle_dropdown_accessible_label: 'Переключить выпадающее меню'
+    edit_user:
+      activate_button: 'Активировать пользователя'
+      groups_heading: Группы
+      set_password_label: 'Установить новый пароль'
+      nothing_available: 'Вы не можете редактировать этого пользователя.'
+      email_heading: Email
+      email_label: Email
+      password_heading: Пароль
+      password_label: Пароль
+      submit_button: 'Сохранить изменения'
+      title: 'Редактировать пользователя'
+      username_heading: 'Имя пользователя'
+      username_label: 'Имя пользователя'
+    error:
+      generic_message: 'Ой! Что-то пошло не так. Пожалуйста, перезагрузите страницу и повторите попытку.'
+      generic_cross_origin_message: 'Ой! Что-то пошло не так во время запроса о перекрестном происхождении. Пожалуйста, перезагрузите страницу и повторите попытку.'
+      not_found_message: 'Запрошенный ресурс не найден.'
+      payload_too_large_message: 'Полезная нагрузка запроса была слишком большой.'
+      permission_denied_message: 'У вас нет на это разрешения.'
+      rate_limit_exceeded_message: 'Вы едете слишком быстро. Повторите попытку через несколько секунд.'
+      render_failed_message: 'К сожалению, при отображении этого содержимого произошла ошибка. Если вы пользователь, повторите попытку позже. Если вы являетесь администратором, загляните в файлы журналов Flarum для получения дополнительной информации.'
+    modal:
+      close: Закрывать
+    nav:
+      drawer_button: 'Откройте панель навигации'
+    loading_indicator:
+      accessible_label: Погрузка...
+  views:
+    confirm_email:
+      text: 'Нажмите кнопку ниже, чтобы подтвердить адрес электронной почты вашей учетной записи.'
+      submit_button: 'Подтвердить адрес электронной почты'
+      title: 'Подтвердить адрес электронной почты'
+    content:
+      javascript_disabled_message: 'Этот сайт лучше всего просматривать в современном браузере с включенным JavaScript.'
+      load_error_message: 'Что-то пошло не так при попытке загрузить полную версию этого сайта. Попробуйте обновить эту страницу, чтобы исправить ошибку.'
+      loading_text: Погрузка...
+    error:
+      csrf_token_mismatch: 'Вы слишком долго были неактивны.'
+      csrf_token_mismatch_return_link: 'Вернитесь назад, чтобы попробовать еще раз'
+      invalid_confirmation_token: 'Эта ссылка для подтверждения уже использовалась или недействительна.'
+      not_authenticated: 'У вас нет разрешения на доступ к этой странице. Повторите попытку после входа в систему.'
+      not_found: 'Запрошенная вами страница не найдена.'
+      permission_denied: 'У вас нет разрешения на доступ к этой странице.'
+      unknown: 'При попытке загрузить эту страницу произошла ошибка.'
+    log_out:
+      log_out_button: Выходить
+      title: Выходить
+    reset_password:
+      confirm_password_label: 'Подтвердите новый пароль'
+      new_password_label: 'Новый пароль'
+      submit_button: 'Сохранить изменения'
+      title: 'Сброс пароля'
+    discussion:
+      next_page_button: 'Следующая страница'
+      previous_page_button: 'Предыдущая страница'
+    index:
+      all_discussions_heading: 'Все обсуждения'
+      next_page_button: 'Следующая страница'
+      previous_page_button: 'Предыдущая страница'
+  api:
+    invalid_username_message: 'Имя пользователя может содержать только буквы, цифры и тире.'
+  email:
+    activate_account:
+      subject: 'Активируйте свою новую учетную запись'
+    confirm_email:
+      subject: 'Подтвердите свой новый адрес электронной почты'
+    reset_password:
+      subject: 'Сброс пароля'
+    send_test:
+      subject: 'Тест электронной почты Flarum'
+  ref:
+    all_discussions: 'Все обсуждения'
+    change_email: 'Изменить адрес электронной почты'
+    change_password: 'Смена пароля'
+    color: Цвет
+    confirm_password: 'Подтвердите пароль'
+    confirm_email: 'Подтвердить адрес электронной почты'
+    custom_footer_text: 'Добавьте HTML, который будет отображаться в самом низу страницы.'
+    custom_footer_title: 'Редактирование пользовательского нижнего колонтитула'
+    custom_header_text: 'Добавьте HTML, который будет отображаться в самом верху страницы, над собственным заголовком Flarum.'
+    custom_header_title: 'Редактирование пользовательского заголовка'
+    delete: Удалить
+    delete_forever: 'Удалить навсегда'
+    discussions: Обсуждения
+    edit: Редактировать
+    edit_user: 'Редактировать пользователя'
+    email: Email
+    extensions: Расширения
+    generic_confirmation_message: 'Вы уверены, что хотите продолжить? Это действие нельзя отменить.'
+    icon: Икона
+    load_more: 'Загрузить еще'
+    loading: Погрузка...
+    log_in: Войти
+    log_out: Выходить
+    mark_all_as_read: 'Пометить все как прочитанное'
+    never: Никогда
+    new_token: 'Новый токен'
+    next_page: 'Следующая страница'
+    notifications: Уведомления
+    okay: ХОРОШО
+    password: Пароль
+    posts: Сообщения
+    previous_page: 'Предыдущая страница'
+    remove: Убирать
+    rename: Переименовать
+    reply: Ответ
+    reset_your_password: 'Сброс пароля'
+    restore: Восстанавливать
+    save_changes: 'Сохранить изменения'
+    search_users: 'Поиск пользователей'
+    security: Безопасность
+    settings: Параметры
+    sign_up: Регистрация
+    start_a_discussion: 'Начать обсуждение'
+    username: 'Имя пользователя'
+    users: Пользователей
+    view: Вид
+    write_a_reply: 'Написать ответ...'
+    you: Ты
+  group:
+    admin: Администратора
+    admins: Админы
+    guest: Гость
+    guests: Гости
+    member: Член
+    members: Члены
+    mod: Способ
+    mods: Моды
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Все теги'
+      meta_title_text: Теги
+    choose_tags:
+      title: 'Выбор тегов для обсуждения'
+    discussion_controls:
+      edit_tags_button: 'Редактировать теги'
+    header:
+      back_to_tags_tooltip: 'Вернуться к списку тегов'
+    index:
+      more_link: Больше...
+      untagged_link: Немаркированный
+      tags_link: Теги
+    composer_discussion:
+      choose_tags_link: 'Выберите теги'
+  lib:
+    deleted_tag_text: Уничтоженный
+    tag_selection_modal:
+      bypass_requirements: 'Требования к обходу тегов'
+      submit_button: ХОРОШО
+      title: 'Выберите теги'
+  ref:
+    choose_tags: 'Выберите теги'
+    name: Имя
+    tags: Теги
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Упоминание пользователя, группы или публикации'
+    mentioned_by:
+      title: 'Ответы на этот пост'
+      load_more_button: 'Загрузить еще'
+    post:
+      quote_button: Цитировать
+      reply_link: Ответ
+      you_text: Ты
+    settings:
+      notify_post_mentioned_label: 'Кто-то отвечает на один из моих постов'
+      notify_user_mentioned_label: 'Кто-то упоминает меня в посте'
+      notify_group_mentioned_label: 'Кто-то упоминает группу, в которой я состою, в сообщении'
+    user:
+      mentions_link: Упоминает
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: Отписаться
+      unignore_button: Унсир
+      follow_button: Следовать
+    settings:
+      follow_after_reply_label: 'Автоматически следить за обсуждениями, на которые я отвечаю'
+      notify_for_all_posts_label: 'Уведомляйте о каждом новом сообщении, а не только о последнем в обсуждении'
+      notify_new_post_label: 'Кто-то пишет в обсуждении, за которым я слежу'
+    sub_controls:
+      following_text: 'Получайте уведомления обо всех ответах.'
+      ignoring_text: 'Никогда не получайте уведомления. Скрыть из списка обсуждений.'
+      not_following_button: 'Не следят'
+      not_following_text: 'Получайте уведомления только тогда, когда @mentioned.'
+      notify_alert_tooltip: 'Получайте уведомления на форуме о новых сообщениях'
+      notify_email_tooltip: 'Получайте уведомления по электронной почте при появлении новых сообщений'
+      follow_button: Следовать
+      following_button: Следующий
+      ignoring_button: Игнорирование
+    badge:
+      following_tooltip: Следующий
+      ignoring_tooltip: Игнорирование
+    following:
+      meta_title_text: Следующий
+    index:
+      following_link: Следующий
+  ref:
+    follow: Следовать
+    following: Следующий
+    ignoring: Игнорирование
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Спасибо, что отметили этот пост. Наши модераторы разберутся.'
+      reason_inappropriate_label: Неуместный
+      reason_inappropriate_text: 'Этот пост является оскорбительным, оскорбительным или нарушает <a>наши правила сообщества</a>.'
+      reason_missing_message: 'Пожалуйста, предоставьте некоторые подробности нашим модераторам.'
+      reason_off_topic_label: 'Не по теме'
+      reason_off_topic_text: 'Этот пост не имеет отношения к текущему обсуждению и должен быть перенесен в другое место.'
+      reason_other_label: 'Другое (просьба уточнить)'
+      reason_spam_label: Спам
+      reason_spam_text: 'Этот пост является рекламой.'
+      dismiss_button: ХОРОШО
+      submit_button: Флагшток
+      title: Флагшток
+    flagged_posts:
+      empty_text: 'Без флагов'
+      title: 'Помеченные сообщения'
+      tooltip: 'Помеченные сообщения'
+    post:
+      dismiss_flag_button: 'Отклонить флаг'
+    post_controls:
+      flag_button: Флаг
+  ref:
+    flag_post: Флагшток
+    flagged_posts: 'Помеченные сообщения'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Вы были отстранены на неопределенный срок'
+      user_unsuspended_text: 'Вас разблокировали'
+    suspension_info:
+      dismiss_button: Увольнять
+      indefinite: 'Это бессрочная приостановка'
+      title: 'Эта учетная запись заблокирована'
+    suspend_user:
+      display_message: 'Отображение сообщения для пользователя'
+      indefinitely_label: 'Приостановлено на неопределенный срок'
+      limited_time_days_text: ' Дни недели'
+      limited_time_label: 'Приостановлено на ограниченное время...'
+      not_suspended_label: 'Не приостановлен'
+      placeholder_optional: Необязательный
+      reason: 'Причина приостановки'
+      status_heading: 'Статус приостановки'
+      submit_button: 'Сохранить изменения'
+    user_badge:
+      suspended_tooltip: Подвешенный
+    user_controls:
+      suspend_button: Приостанавливать
+  email:
+    no_reason_given: 'Причина такого отстранения не была названа.'
+    suspended:
+      subject: 'Ваша учетная запись заблокирована'
+    unsuspended:
+      subject: 'Ваша учетная запись была разблокирована'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Все файлы, загруженные пользователем.', anonymize_description: 'Удаляет ссылку пользователя из загруженных файлов. Сами файлы остаются доступными для пользователей, которые могут просматривать их до анонимизации.', delete_description: 'Удаляет все файлы, загруженные пользователем.' }
+      tagsubscription: { export_description: 'Экспортирует сведения об уровне подписки для тега, если он существует.', anonymize_description: 'Удаляет подписку пользователя на тег.' }
+      followuser: { export_description: 'Экспортирует сведения о пользователях, на которых подписаны, и пользователях, подписанных на подписчиков.', delete_description: 'Удаляет все данные, относящиеся к следующим пользователям.', anonymize_description: 'Удаляет все данные, относящиеся к следующим пользователям.' }
+      bannedipdata: { export_description: 'Если запись о блокировке IP-адреса связана с пользователем (т.е. пользователь был забанен по IP), IP-адрес пользователя будет включен в экспорт вместе с причиной бана и датой создания.', anonymize_description: 'Любые IP-адреса, связанные с пользователем, отвязываются, но сам IP-адрес остается заблокированным вместе с причиной. Убедитесь, что в поле "reason" не хранятся данные PII.' }
+fof-upload:
+  forum:
+    media_manager: Медиа-менеджер
+    buttons:
+      attach: Прикреплять
+      upload: Закачать
+      upload_shared: Совместный
+      user_uploads: 'Пользовательские загрузки'
+      cancel: Отмена
+      media: 'Мои медиафайлы'
+      shared_media: 'Общие медиафайлы'
+    states:
+      error: Ошибка
+      loading: Загрузки
+      unauthorized: 'Вы не имеете права скачивать файлы'
+    text_preview:
+      expand: 'Развернуть предварительный просмотр'
+      collapse: 'Свернуть предварительный просмотр'
+      error: "Ошибка предварительного просмотра файла. Возможно, он был удален или предоставленный идентификатор файла недействителен.\n"
+      no_snippet_preview: '<Предварительный просмотр появится здесь после публикации>'
+      no_snippet: '<фрагмент предварительного просмотра недоступен>'
+  api:
+    upload_errors:
+      forbidden_type: 'Загрузка файлов такого типа не допускается.'
+      could_not_detect_mime: 'Не удалось определить MIME-тип этого файла, повторите попытку.'
+      max_upload_file_size_ini: 'Максимальный размер файла загрузки достигнут от php.ini.'
+      max_upload_file_size_form: 'Максимальный размер файла загрузки, достигнутый из формы.'
+      partial_upload: 'Частичная загрузка.'
+      no_file_uploaded: 'Файл не загружен.'
+      no_upload_tmp_folder: 'Нет папки tmp для загрузки файлов.'
+      cannot_write_to_disk: 'Не удается записать на диск.'
+      upload_blocked_by_php_extension: 'Расширение php заблокировало загрузку.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Новый общий файл'
+      dropzone: 'Перетащите файлы сюда или нажмите, чтобы просмотреть'
+      hide-from-media-gallery: 'Скрыть из медиагалереи пользователя'
+      upload: Закачать
+    file_list:
+      loading: 'Загрузка файлов...'
+      empty: 'Нет файлов, которые можно было бы показать.'
+      release_to_upload: 'Отпустить для загрузки'
+      modal_empty_desktop: 'Список файлов пуст. Нажмите кнопку или перетащите файл сюда, чтобы загрузить.'
+      modal_empty_phone: 'Список файлов пуст. Нажмите кнопку выше, чтобы загрузить файл.'
+      load_more_files_btn: 'Загрузите больше файлов'
+      hide_file: { hide_success: 'Файл скрыт', show_success: 'Показанный файл', loading: 'Скрытие файла...' }
+      hide_shared_file: { hide_success: 'Файл стал приватным', show_success: 'Файл опубликован', loading: 'Делаем файл частным...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: писать
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Добавить полужирный шрифт'
+      code_tooltip: 'Вставить код'
+      header_tooltip: 'Добавить текст заголовка'
+      image_tooltip: 'Добавить изображение'
+      italic_tooltip: 'Добавить курсивный текст'
+      link_tooltip: 'Добавить ссылку'
+      ordered_list_tooltip: 'Добавление нумерованного списка'
+      quote_tooltip: 'Вставить предложение'
+      spoiler_tooltip: 'Вставьте спойлер'
+      strikethrough_tooltip: 'Добавить зачеркнутый текст'
+      unordered_list_tooltip: 'Добавление маркированного списка'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Кто-то создает обсуждение в теге, на который я подписан'
+      notify_new_post_label: 'Кто-то публикует сообщение в теге, на который я подписан'
+      notify_new_discussion_tag_label: 'Кто-то перепомечает обсуждение тегом, на который я подписан'
+    index:
+      follow_tag_button: Следовать
+      unfollow_tag_button: 'Перестать следовать'
+      following: { following_none_label: 'Последующие обсуждения', following_tags_label: 'Отслеживаемые теги' }
+    badge:
+      following_tag_tooltip: Следующий
+      lurking_tag_tooltip: Скрывается
+    sub_controls:
+      following_text: 'Получайте уведомления обо всех новых обсуждениях.'
+      hiding_text: 'Скрыть обсуждения со страницы Все обсуждения.'
+      ignoring_text: 'Никогда не получайте уведомления.'
+      lurking_text: 'Получайте уведомления обо всех новых обсуждениях и ответах.'
+      not_following_button: 'Не следят'
+      not_following_text: 'Получайте уведомления только тогда, когда @mentioned.'
+      notify_alert_tooltip: 'Получайте уведомления на форуме о новых обсуждениях или сообщениях'
+      notify_email_tooltip: 'Получайте уведомления по электронной почте при появлении новых обсуждений или сообщений'
+      submit_button: 'Подтвердить подписку'
+      follow_button: Следовать
+      following_button: Следующий
+      hiding_button: Сокрытие
+      ignoring_button: Игнорирование
+      lurking_button: Скрывается
+    user:
+      settings: { heading: 'Подписаться на теги', filter_label: 'Что показывать по умолчанию на странице "Подписки"' }
+  ref:
+    follow: Следовать
+    following: Следующий
+    hiding: Сокрытие
+    ignoring: Игнорирование
+    lurking: Скрывается
+    filtering_options:
+      none: 'Последующие обсуждения'
+      tags: 'Отслеживаемые теги'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Этот ник недействителен. Пожалуйста, свяжитесь с администратором вашего форума для получения дополнительной информации о правилах использования никнеймов.'
+  ref:
+    change_nickname: 'Сменить никнейм'
+    nickname: Прозвище
+  forum:
+    change_nickname:
+      submit_button: 'Сохранить изменения'
+      title: 'Сменить никнейм'
+    edit_user:
+      nicknames_heading: 'Сменить никнейм'
+      nicknames_text: Прозвище
+    settings:
+      change_nickname_button: 'Сменить никнейм'
+    sign_up:
+      nickname_placeholder: Прозвище
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Связанные аккаунты', last-used-label: 'Последнее использование', link-created-label: 'Ссылка создана', orphaned-account: 'Ранее вы входили в систему через этого поставщика, но с тех пор на этом форуме вход с помощью этого метода отключен.', help: 'Эти связанные учетные записи позволяют вам входить на форум с помощью других провайдеров.' } }
+    signup:
+      username_help: 'Пожалуйста, выберите имя пользователя, под которым вы будете известны здесь.'
+    unlink: 'Удалить ссылку'
+    error:
+      bad_verification_code: 'Недопустимый или просроченный токен подтверждения. Пожалуйста, повторите попытку.'
+      invalid_state: 'Недопустимое состояние. Пожалуйста, повторите попытку.'
+    providers:
+      discord: Разногласие
+      facebook: Фейсбук
+      github: GitHub
+      gitlab: GitLab
+      google: Гугл
+      linkedin: LinkedIn
+      twitter: Щебетать
+  lib:
+    providers:
+      discord: Разногласие
+      facebook: Фейсбук
+      github: GitHub
+      gitlab: GitLab
+      twitter: Щебетать
+      google: Гугл
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'Идентификатор приложения'
+      app_secret: 'Секрет приложения'
+      client_id: 'Идентификатор клиента'
+      client_secret: 'Секрет клиента'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Войти как другой пользователь'
+      placeholder_optional: '(Дополнительный) Укажите причину перехода к этому пользователю'
+      placeholder_required: 'Вы должны указать причину перехода на этого пользователя, прежде чем продолжить.'
+    user_controls:
+      impersonate_button: 'Войти как пользователь'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Частная беседа' }
+    buttons:
+      add_recipients: Получателей
+      submit: ХОРОШО
+      edit_recipients: 'Редактирование получателей'
+      cancel: Отмена
+      make_public: 'Сделайте это обсуждение публичным'
+      remove_from_discussion: 'Покиньте эту частную дискуссию'
+    composer_private_discussion:
+      submit_button: 'Опубликовать личное обсуждение'
+      title_placeholder: 'Название частной беседы'
+    confirm:
+      make_public: 'Вы уверены, что хотите удалить получателей и сделать это обсуждение видимым для всех, кто может просмотреть назначенный тег?'
+    nav:
+      start_button: 'Обсудите наедине'
+      nav_item: 'Частные обсуждения'
+    input:
+      search_recipients: 'Найдите получателя, введя первые три символа...'
+    search:
+      headings: { groups: 'Группы разрешений' }
+    modal:
+      titles: { add_recipients: 'Добавление получателей в обсуждение' }
+      labels: { selected_users: 'Избранные пользователи', search_field: 'Поиск пользователя' }
+      help: { add_recipients: 'Это обсуждение будет видно только тем пользователям, которых вы здесь выберете. Требуется как минимум 1 получатель (кроме вас).', update_recipients: 'Это обсуждение будет видно только тем пользователям, которых вы здесь выберете.', selected_users: 'Щелкните имя пользователя, чтобы удалить его.', click_user_to_remove_tooltip: 'Нажмите, чтобы удалить' }
+    user:
+      settings: { block_pd: 'Блокировка приватных обсуждений' }
+      byobu_link: 'Частные обсуждения'
+      dropdown_label: 'Частные обсуждения'
+    notifications:
+      pd_label: 'Кто-то включает меня в новую частную дискуссию'
+      pd_reply_label: 'Кто-то публикует сообщение в частной дискуссии, в которой я являюсь'
+      pd_user_left_label: 'Пользователь-получатель покидает частную дискуссию, в которой я участвую'
+      pd_added_label: 'Кто-то добавляет меня в существующую частную дискуссию'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Информация о значке'
+    all_badges: 'Посмотреть все значки'
+    all_users: 'Посмотреть всех пользователей'
+    give_badge: 'Подарить бейдж'
+    update_badge: 'Значок обновления'
+    select_badge: 'Выберите значок'
+    user_has_badge: 'У пользователя уже есть этот значок.'
+    user_no_badges: 'У этого пользователя пока нет значков.'
+    no_received: 'Ни один пользователь не заслужил этот значок.'
+    save_changes: 'Сохранить изменения'
+    badge:
+      badge: Значок
+      badges: Значки
+      name: 'Название бейджа'
+      description: 'Описание значка'
+      earning_reason: 'Причина получения значка'
+      update_earning_reason: 'Обновить причину заработка'
+      no_earning_reason: 'Причина заработка не указана'
+      earned_on: 'Значок, полученный на'
+      category: 'Категория значка'
+      badge_details: 'Информация о значке'
+    badges_in_card:
+      title: 'Бейджи в карточке пользователя'
+      manage_badges: 'Управление значками'
+      description: 'Вы можете изменить видимые эмблемы в карточке пользователя на одну из других эмблем. Если вы не выберете ни одного из них, они будут выбраны автоматически.'
+    moderation:
+      remove_badge: 'Удаление значка у пользователя'
+      remove_badge_confirm: 'Вы уверены, что хотите удалить этот значок у этого пользователя?'
+      give_badge: 'Подарить бейдж'
+    notification:
+      title: 'Вы получили новый значок'
+      settings: 'Я получил значок'
+    uncategorized: 'Без рубрики'
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Жалкое положение'
+      not_miserable_label: 'Не жалкий'
+      indefinitely_label: 'Несчастный на неопределенный срок'
+      limited_time_label: 'Несчастный в течение ограниченного времени...'
+      limited_time_days_text: ' Дни недели'
+      submit_button: 'Сохранить изменения'
+    user_badge:
+      miserable_user_tooltip: 'Несчастный пользователь'
+    user_controls:
+      miserable_user_button: 'Несчастный пользователь'
+  ref:
+    miserable_user: 'Несчастный пользователь'
+sycho-profile-cover:
+  forum:
+    cover: Крышка
+    edit_cover: 'Редактировать обложку'
+    added:
+      success: 'Обновлена обложка профиля.'
+      error: 'Не удалось загрузить изображение.'
+    removed:
+      success: 'Крышка профиля снята.'
+      error: 'Не удалось снять крышку, повторите попытку позже.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Копировать в буфер'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Последние посетители', guest: Гость }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Код страны'
+    saveButton: Спасать
+    clickToSelectCountry: 'Выберите свою страну'
+    countrySaved: 'Страну успешно спасли!'
+    field_placeholder: 'Подтверждение флагов стран'
+    binding_country: 'Мы обнаружили, что вы не связали свое местонахождение. Пожалуйста, сначала дайте ссылку на свою страну. Вы можете публиковать и оставлять сообщения только после привязки своей страны.'
+    binding_country_click: 'Нажмите сейчас'
+username-blacklist:
+  forum:
+    modal-title: Предупреждение!
+    modal-body-first-line: 'Предупреждение - Это имя пользователя <strong>заблокировано администратором</strong>'
+    modal-body-second-line: 'Пожалуйста, выберите другое имя пользователя, которое не нарушает наши правила сообщества, и повторите попытку.'
+  admin:
+    blackList: 'Имя пользователя в черном списке'
+    blackList-help: 'Напишите здесь имя пользователя, которое вы хотите заблокировать при регистрации (через запятую)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Синопсис, show-summaries: 'Отображение отрывка из каждого обсуждения в списках обсуждений (настольный компьютер/планшет)', show-summaries-mobile: 'Отображение отрывка из каждого обсуждения в списках обсуждений (мобильная версия)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Деятельность Форума'
+      forum_new_discussions: 'Новые дискуссии Форума'
+      discussion_last_posts: 'Это обсуждение'
+      user_last_posts: 'Сообщения и комментарии этого пользователя'
+    feeds:
+      titles: { main_subtitle: 'Последние сообщения на форуме', main_d_subtitle: 'Последние обсуждения на форуме', discussion_subtitle: 'Последние сообщения в этой дискуссии', user_subtitle: 'Последние сообщения и комментарии этого пользователя.' }
+    discussion:
+      feed_link: Кормить
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Следовал
+    profile_page:
+      no_following: 'Похоже, вы ни на кого не подписаны.'
+    settings:
+      notify_new_follower_label: 'Кто-то следит за мной'
+      notify_new_unfollower_label: 'Кто-то перестает следить за мной'
+      notify_new_discussion_label: 'Кто-то, за кем я слежу, начинает обсуждение'
+      notify_new_post_label: 'Кто-то, за кем я слежу, сообщения в существующем обсуждении'
+      block_follow: 'Запретить пользователям следить за мной'
+    badge:
+      label: { follow: 'По итогам обсуждений', lurk: 'Следим за всем' }
+    filter:
+      following: 'Пользователей, на которых подписаны'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Следите за уровнями', follow_select_label: 'Следовать типу', no_user_attr_provided_err: 'О, что-то пошло не так при открытии этого модального окна.', no_user_attr_provided_err_debug: 'Атрибут user не передавался модальному окну SelectFollowUserLevel при создании. Модальное окно не может быть визуализировано.', save_btn: Спасать, cancel_btn: Отмена }
+    profile_link: 'Пользователи, на которых подписаны'
+    user_controls:
+      follow_button: Следовать
+      unfollow_button: Отписаться
+      change_button: 'Изменение типа подписки'
+    index:
+      follow_tag_button: Следовать
+      unfollow_tag_button: 'Изменение типа подписки'
+  email:
+    new_follower_subject: '[Подписаться на пользователя] У вас появился новый подписчик!'
+  lib:
+    following_link: 'Пользователи, на которых подписаны'
+    follow: Следовать
+    change_follow_type: 'Изменение типа подписки'
+    unfollow: Отписаться
+    follow_levels:
+      unfollow: { name: 'Не подписывайтесь' }
+      follow: { name: 'Следите за обсуждениями' }
+      lurk: { name: 'Следить за всеми' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Пожалуйста, убедитесь, что запрашиваемое изменение ника соответствует правилам форума.', decision_title: Решение, approval_label: Одобрять, rejected_label: Отвергать, submit_button: Отправить, reason_title: 'Причина отказа', success: 'Решение отправлено.', title: 'Запрос на смену никнейма' }
+      results: { title: 'Запрос на смену никнейма', approved: 'Ваш запрос на смену никнейма одобрен', rejected: 'Ваш запрос на смену никнейма был отклонен', resubmit: 'В настоящее время вы можете повторно отправить новый запрос на изменение псевдонима в настройках своей учетной записи, если захотите.', dismiss_button: ХОРОШО }
+      request: { title: 'Запрос на смену никнейма', submit_button: 'Отправить запрос', delete_button: 'Удалить запрос', confirmation_message: 'Ваш запрос на смену никнейма отправлен и ожидает одобрения.', deleted: 'Запрос на никнейм удален.', dismiss_button: ХОРОШО }
+    username_modals:
+      action: { help_text: 'Пожалуйста, убедитесь, что запрашиваемое изменение имени пользователя соответствует правилам форума.', decision_title: Решение, approval_label: Одобрять, rejected_label: Отвергать, submit_button: Отправить, reason_title: 'Причина отказа', success: 'Решение отправлено.', title: 'Запрос на изменение имени пользователя' }
+      results: { title: 'Запрос на изменение имени пользователя', approved: 'Ваш запрос на изменение имени пользователя одобрен', rejected: 'Ваш запрос на изменение имени пользователя был отклонен', resubmit: 'В настоящее время вы можете повторно отправить новый запрос на изменение имени пользователя в настройках своей учетной записи, если захотите.', dismiss_button: ХОРОШО }
+      request: { title: 'Запрос на изменение имени пользователя', submit_button: 'Отправить запрос', delete_button: 'Удалить запрос', confirmation_message: 'Ваш запрос на изменение имени пользователя отправлен и ожидает утверждения.', deleted: 'Запрос имени пользователя удален.', dismiss_button: ХОРОШО }
+    pending_requests:
+      empty_text: 'Запросы на изменение имени не найдены.'
+      tooltip: 'Запросы на изменение имени'
+      title: 'Запросы на изменение имени'
+    settings:
+      nickname_request_button: 'Сменить никнейм'
+      username_request_button: 'Изменить имя пользователя'
+    user:
+      name_history_link: 'История имен'
+  ref:
+    name_change_request: 'Запрос на изменение имени'
+    name_change_requests: 'Запросы на изменение имени'
+    nickname_change_request: 'Запрос на смену никнейма'
+    nickname_change_requests: 'Запросы на смену никнейма'
+    username_change_request: 'Запрос на изменение имени пользователя'
+    username_change_requests: 'Запросы на изменение имени пользователя'
+  email:
+    body:
+      noReasonProvided: 'Причина не указана.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Напишите что-нибудь о себе'
+    profile:
+      cancel_confirm: 'Вы уверены, что хотите отменить редактирование своей биографии? Вы потеряете все внесенные изменения.'
+      cancel_button: Отмена
+      save_button: Спасать
+      edit_bio_label: 'Редактировать биографию'
+fof-split:
+  forum:
+    split:
+      from: 'Разделитесь отсюда'
+      to: 'Сплит сюда'
+      cancel: 'Отменить сплит'
+    modal:
+      title: 'Разделенная дискуссия'
+      new_discussion_label: 'Укажите название нового обсуждения'
+      submit_button: Раскалывать
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Редактирование кнопок социальных сетей'
+      add: 'Добавьте кнопки в свои социальные сети'
+      headtitle: 'Кнопки редактирования'
+      title: Титул
+      url: URL-адрес
+      submit: Спасать
+      delete: Удалить
+      deletetitle: 'Кнопка «Удалить»'
+      save_disabled_fetching_favicons: 'Извлекается один или несколько значков. Подождите.'
+      favicon: Фавикон
+      grey_favicon: 'Серый фавикон'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: 'Предоставить общий доступ'
+      share_dropdown_accessible_label: 'Переключение раскрывающегося меню «Общий доступ к обсуждению»'
+    modal:
+      title: 'Предоставить общий доступ'
+      copy_button: Копировать
+  lib:
+    networks:
+      facebook: Фейсбук
+      twitter: Щебетать
+      linkedin: LinkedIn
+      reddit: Реддит
+      whatsapp: WhatsApp
+      telegram: Телеграмма
+      vkontakte: ВКонтакте
+      odnoklassniki: Одноклассники
+      my_mail: 'Мой мир'
+      qq: QQ
+      qzone: QZone
+      native: 'Собственный общий доступ'
+fof-recaptcha:
+  forum:
+    error: 'Произошла ошибка при отправке reCAPTCHA. Повторить.'
+    unknown_error: 'Произошла неизвестная ошибка. Проверьте капчу и повторите попытку.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Вы не можете использовать эту реакцию прямо сейчас, пожалуйста, обновите страницу'
+    warning: 'Ваша реакция была конвертирована'
+    settings:
+      notify_post_reacted_label: 'Кто-то реагирует на один из моих постов'
+    reacting-own-post: 'Вы не можете отреагировать на собственный пост'
+    modal:
+      title: Реакции
+      no_reactions: 'Реакции пока нет'
+    mod_item: 'Просмотр реакций'
+    react_button_label: Реагировать
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Не удалось загрузить кадрирование изображения.', generic_resize: 'Что-то пошло не так при обрезке и изменении размера изображения.', get_image_data: 'Обрезать не удалось. Убедитесь, что защита от отпечатков пальцев в вашем браузере отключена.' }
+      help_text: "Загрузка изображения может завершиться ошибкой, если настройки конфиденциальности вашего браузера очень строгие. Если у вас возникли проблемы, попробуйте отключить защиту от отпечатков пальцев. В противном случае вы можете <disableResize>либо отключить сжатие обрезанного изображения</disableResize>, либо <disableCrop>полностью отключить обрезку</disableCrop>.\n"
+      submit_button: Закачать
+      submit_crop_button: 'Обрезка и загрузка'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Весьма вероятно, что он не нуждается в дальнейшем обсуждении, и поэтому его выталкивание не имеет смысла.', checkbox_label: 'Я знаю, что эта дискуссия довольно старая, но все же хотел бы ответить.', error: 'Эта дискуссия слишком стара, чтобы на нее отвечать.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'У вас нет права голоса'
+    poll_ended: 'Этот опрос закончился.'
+    public_poll: 'Посмотреть голосующих'
+    composer_discussion:
+      add_poll: 'Добавить опрос'
+      edit_poll: 'Редактировать опрос'
+    modal:
+      add_title: 'Добавить опрос'
+      add_option_label: 'Добавить опцию'
+      edit_title: 'Редактировать опрос'
+      include_question: 'Вы должны включить вопрос'
+      max: 'У вас может быть не более 10 ответов'
+      min: 'Вы должны включить минимум 2 ответа'
+      no_voters: 'Нет голосов'
+      option_placeholder: Ответ
+      image_option_placeholder: 'URL-адрес изображения (необязательно)'
+      options_label: Ответы
+      public_poll_label: 'Позволить людям видеть, кто проголосовал'
+      allow_multiple_votes_label: 'Разрешите людям голосовать за несколько вариантов'
+      max_votes_label: 'Максимальное количество голосов на пользователя'
+      max_votes_help: 'Установите значение 0, чтобы разрешить пользователям голосовать за все варианты.'
+      question_placeholder: Вопрос
+      submit: Отправить
+    moderation:
+      delete: 'Удалить опрос'
+      delete_confirm: 'Вы уверены, что хотите удалить этот опрос?'
+      edit: 'Редактировать опрос'
+    tooltip:
+      badge: Опрос
+    votes_modal:
+      title: Избирателей
+fof-nightmode:
+  ref:
+    auto: 'Автоматический (в зависимости от настроек браузера или устройства)'
+    light: 'Дневной режим'
+    dark: 'Ночной режим'
+  forum:
+    header:
+      nightmode_button: 'Ночной режим'
+    user:
+      settings: { heading: Тема, description: 'Выберите, какую цветовую тему вы хотите использовать на форуме.', description2: 'Эта тема будет связана с вашей учетной записью и будет применяться ко всем вашим устройствам, если вы не включите переключатель ниже для настройки каждого устройства.', device_specific_setting_checkbox: 'Использование параметров для каждого устройства', device_specific_setting_checkbox_tooltip: 'Выбранная вами тема будет сохранена индивидуально для каждого из ваших устройств.', auto_unsupported: 'Ваш браузер не поддерживает автоматический темный режим.', option_descriptions: { auto: 'Ваша тема будет автоматически выбрана в зависимости от настроек вашего браузера или устройства. Например, если у вас включен темный режим в iOS, форумы тоже будут темными.', day: 'Классический опыт, к которому вы привыкли. Полюбили и проверили.', night: 'Ты немного сова. Ночью вы наблюдаете за форумом, пока птицы спят, а лисы охотятся. Или вы просто предпочитаете более темные цвета!' }, options: { auto: 'Автоматический (в зависимости от настроек браузера или устройства)', day: 'Дневной режим', night: 'Ночной режим' } }
+    day: 'Дневной режим'
+    night: 'Ночной режим'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Пустая банкнота не допускается.'
+    moderatorNotes:
+      add_button: 'Новая заметка'
+      create-heading: 'Создание новой заметки модератора'
+      dismiss_button: Договорились
+      noNotes: 'Похоже, что здесь нет никаких нот.'
+      submit_button: 'Сохранить примечание'
+      delete: Удалить
+      confirm: 'Вы уверены, что хотите удалить эту заметку?'
+    user:
+      notes: 'Заметки модератора'
+  api:
+    no_reason_provided: 'Причина не указана'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Голосов
+    vote_title: 'Покажите, кто голосовал'
+    nav:
+      name: Рейтинга
+    ranking:
+      rank: Место
+      name: Пользователь
+      amount: Точки
+    notification:
+      prefrences: { vote: 'Когда за один из моих постов голосуют «за» или «против»' }
+    user:
+      votes_link: Голосов
+    modal:
+      downvotes_label: 'Минусующие:'
+      title: Избирателей
+      upvotes_label: 'Проголосовавшие:'
+    mod_item: 'Просмотреть голосующих'
+    voters:
+      none: 'Голосующих пока нет'
+      label: Избирателей
+      label_none: 'Нет избирателей'
+    post:
+      upvote_button: 'Голосование за публикацию'
+      downvote_button: 'Минусуйте пост'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Запланированные черновики в настоящее время отключены в настройках.'
+  ref:
+    schedule_draft: 'Проект графика'
+  forum:
+    composer:
+      title: 'Сохранить черновик'
+      saving: Спасительный...
+      saved: Сохранено!
+      exit_alert: 'Отменить изменения в черновике?'
+      discard_empty_draft_alert: 'Отказаться от пустого черновика?'
+    dropdown:
+      empty_text: 'Вы не сохранили черновики'
+      title: Проекты
+      delete_all_button: 'Удалить все черновики'
+      delete_button: 'Удалить черновик'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Вы уверены, что хотите удалить свой черновик?'
+      delete_all_alert: 'Вы уверены, что хотите удалить все свои черновики?'
+      schedule_button: 'Проект графика'
+      tooltip: Проекты
+    schedule_draft_modal:
+      text: 'Запланируйте свой черновик на автоматическую публикацию позже!'
+      unschedule_button: Нерасписание
+      unschedule_warning: 'Вы уверены, что хотите отменить этот драфт?'
+      reschedule_button: Перепланировать
+      schedule_button: Расписание
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Неверная дата и/или время'
+      title: 'Проект графика'
+    user:
+      settings: { drafts_heading: Проекты, draft_autosave_enable: 'Включить автосохранение черновика?', draft_autosave_interval_label: 'Интервал автосохранения (секунды)', draft_autosave_interval_button: 'Интервал обновления', draft_autosave_interval_invalid: 'Интервал должен быть целым числом больше 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Ответил
+    this_best_answer: 'Выберите лучший ответ'
+    remove_best_answer: 'Отменить выбор лучшего ответа'
+    best_answer_button: 'Лучший ответ'
+    errors:
+      mismatch: 'Выбранный пост не существует в этом обсуждении.'
+    notification:
+      content: 'Выберите лучший ответ, если на ваш вопрос был дан ответ'
+      preferences: { awarded_best_answer: 'Кто-то считает мой пост лучшим ответом', best_answer_in_discussion: 'Лучший ответ - это дискуссия, в которой я участвовал', select_best_answer: 'Автоматическое напоминание о выборе лучшего ответа в начатой мной дискуссии' }
+    index:
+      ask_question: 'Задать вопрос'
+      cannot_ask_question: 'Не могу задать вопрос'
+      solved_link: 'Решенные обсуждения'
+      unsolved_link: 'Нерешенные обсуждения'
+    filter:
+      all_label: 'Все вопросы'
+      solved_label: 'Решенные вопросы'
+      unsolved_label: 'Нерешенные вопросы'
+      accessible_label: 'Решенный/Нерешенный выбор'
+    composer:
+      titlePlaceholder: 'Заголовок вопроса'
+    search:
+      discussions_solutions_heading: 'Обсуждения с решениями'
+    discussion:
+      jump_to_best_answer_button: 'Смотреть Лучший ответ'
+  email:
+    subject:
+      select: 'Удалось ли вам ответить на ваш вопрос?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Самые лучшие ответы'
+      least_best_answers: 'Наименее лучшие ответы'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Больше никто не будет забанен'
+    user_badge:
+      banned_tooltip: Запрещены
+    ban_ip_button: 'Бан IP'
+    unban_ip_button: 'Разбан IP'
+    user_controls:
+      ban_button: Запрещение
+      unban_button: Разбан
+  error:
+    banned_ip_message: 'Авторизация не удалась.'
+    no_ips_found_message: 'Для пользователя не найдены IP-адреса.'
+  lib:
+    modal:
+      check_button: Проверка
+      save_button: Спасать
+      ban_ip_confirmation: 'Вы уверены, что хотите заблокировать использование этого IP-адреса на форуме? Это заблокирует вход и регистрацию пользователей с этим IP-адресом.'
+      unban_ip_confirmation: 'Вы уверены, что хотите разблокировать этого пользователя и всех других пользователей, не забаненных другими IP-адресами?'
+      unban_ip_no_users: 'Больше никто не будет разбанен'
+      title: 'Бан IP-адресов'
+      unban_title: 'Разблокировка IP-адресов'
+      address_label: IP-адрес
+      reason_label: Причина
+      ban_button: Запрещение
+      unban_button: Разбан
+  ref:
+    ban_label: Запрещение
+    ban_ip_addresses: 'Бан IP-адресов'
+    ban_ip_button: 'Бан IP'
+    unban_label: Разбан
+    unban_ip_addresses: 'Разблокировка IP-адресов'
+    unban_ip_button: 'Разбан IP'
+    address_label: IP-адрес
+    reason_label: Причина
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Сведения о вашей регистрации были найдены в базе данных предотвращения спама, поэтому ваша регистрация была заблокирована.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Удаление обсуждений'
+      hard_delete_discussions_help: 'Это навсегда удалит все обсуждения, начатые этим пользователем. При отключении обсуждения будут скрыты.'
+      hard_delete_posts_label: 'Удаление публикаций'
+      hard_delete_posts_help: 'Это навсегда удалит все сообщения (комментарии, ответы и т.д.), сделанные этим пользователем. При отключении сообщения будут скрыты.'
+      hard_delete_user_label: 'Удалить пользователя'
+      hard_delete_user_help: 'Это приведет к безвозвратному удалению пользователя. Если отключено, пользователь будет заблокирован.'
+      intro: 'При пометке пользователя как спамера будет предпринято несколько действий, которые зависят от расширений, доступных на вашем форуме.'
+      move_discussions_tag_label: 'Перемещение обсуждений в тег quarantined'
+      move_discussions_tag_help: 'Это переместит все обсуждения, начатые этим пользователем, в тег, который вы указали в настройках форума. Если отключено, обсуждения останутся в своих текущих тегах.'
+      process_button: Процесс
+      report_to_sfs_label: 'Сообщить в StopForumSpam'
+      report_to_sfs_help: 'Это сообщит основные данные пользователя (имя пользователя, адрес электронной почты, IP-адрес) в StopForumSpam. Это поможет предотвратить регистрацию пользователя на других форумах, которые используют сервис StopForumSpam.'
+    user_controls:
+      spammer_button: Спамер
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Сбросить количество просмотров обсуждения'
+      submit: Отправить
+      label: 'Настройка количества просмотров'
+    discussion_controls:
+      resetviews_button: 'Настройка количества просмотров'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Нелипкий
+      sticky_button: Липкий
+    badge:
+      sticky_tooltip: Липкий
+  ref:
+    sticky: Липкий
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Запертый
+    discussion_controls:
+      lock_button: Замок
+      unlock_button: Отпирать
+    settings:
+      notify_discussion_locked_label: 'Кто-то блокирует дискуссию, которую я начал'
+flarum-likes:
+  forum:
+    post:
+      like_link: Любить
+      unlike_link: 'В отличие от'
+      you_text: Ты
+    post_likes:
+      title: 'Пользователи, которым нравится это'
+      load_more_button: 'Загрузить еще'
+    settings:
+      notify_post_liked_label: 'Кому-то понравился один из моих постов'
+    user:
+      likes_link: Любит
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Вставка эмодзи'
+      type_to_search_text: 'Введите для поиска эмодзи'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Ваш контент слишком велик, пожалуйста, ознакомьтесь с нашими правилами публикации' }
+dhtml-persona:
+  forum:
+    persona: Человек
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Таблица лидеров'
+dhtml-gender:
+  forum:
+    male: Мужской
+    female: Женский
+    other: 'Предпочитаю не говорить'
+    inputGender: Род
+    saveButton: Спасать
+    clickToSelectGender: 'Выберите свой пол'
+    genderSaved: 'Пол успешно сохранен!'
+    field_placeholder: 'Подтвердите пол'
+    binding_gender: 'Мы обнаружили, что вы не установили свой пол. Пожалуйста, сначала укажите свой пол. Публиковать и оставлять сообщения можно только после определения пола.'
+    binding_gender_click: 'Нажмите сейчас'
+flarum-content-pages:
+  forum:
+    home: Дом
+    about-us: 'О нас'
+    guidelines: 'Руководящие принципы'
+    privacy-policy: 'Политика конфиденциальности'
+    terms-of-use: 'Условия использования'
+    contact-us: 'Свяжитесь с нами'
+    download-app: 'Скачать приложение'
+    discord-chat: 'Чат Discord'
+    tags-cloud: 'Метки: облако'
+    languages: Языки
+    leaderboard: 'Таблица лидеров'
+    live: 'Жив Live Live'
+    live-coding: 'Live Coding'
+    challenges: Проблемы
+    dev-challenges: 'Девять вызовов'
+    jobs: Джобс
+    community: Сообщество
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Публикация работы'
+    job-postings: 'Опубликование работы'
+    workshops: 'Рабочие совещания'
+    dev-workshops: 'Dev Workshops'
+    events: События
+    conferences: Конференции
+    event-conferences: 'События / Конференции'
+    showcase: Показка
+    tags: Теги
+    more: Больше
+    memberships: Членство
+    members: Члены
+    general-discussion: 'Общее обсуждение'
+    technology-articles: 'Технологические статьи'
+    coding-challenges: 'Проблемы кодирования'
+    q-a: 'Q/A Раздел'
+    artificial-intelligence: 'Искусственный интеллект'
+    computer-science: 'Компьютерная наука'
+    programming-languages: 'Языки программирования'
+    development-tools: 'Инструменты развития'
+    software-development: 'Программное обеспечение'
+    frontend-development: 'Frontend Development'
+    backend-development: 'Резервное развитие'
+    software-engineering: 'Программное обеспечение'
+    cybersecurity: Кибербезопасность
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Счетчик символов'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Редактировать дату рождения'
+      date_of_birth_text: 'Дата рождения'
+      submit_button: 'Сохранить изменения'
+    settings:
+      change_dob_label: 'Изменить дату рождения'
+      show_dob_date_label: 'Показать день и месяц рождения'
+      show_dob_year_label: 'Показать год рождения'
+      show_dob_year_help: 'Это позволит людям увидеть ваш возраст.'
+      dob_heading: 'Дата рождения'
+    nav:
+      nav_item: 'Сегодняшние дни рождения'
+    edit_user:
+      dob_heading: 'Дата рождения'
+    sign_up:
+      dob_placeholder: 'Дата рождения'
+  api:
+    invalid_dob_message: 'Неверная дата рождения'
+  ref:
+    date_of_birth: 'Дата рождения'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Выбор эмодзи'
+    search_placeholder: Искать...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Редактирование автора и даты'
+    modal:
+      title-post: 'Редактировать автора и дату записи'
+      title-discussion: 'Редактировать автора и дату обсуждения'
+      user: Автор
+      created_at: 'Время создания'
+      edited_at: 'Время редактирования'
+      sync-with-discussion: 'Синхронизация с обсуждением'
+      sync-with-post: 'Синхронизация с первой записью'
+      sync-impossible: 'Не могу найти первое сообщение. Попробуйте прокрутить до начала обсуждения.'
+      submit: Спасать
+      cancel: Отмена
+    search:
+      placeholder: 'Поиск пользователей'
+      type-more: 'Введите 3 символа для поиска в базе данных'
+      no-results: 'Нет результатов'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Переключение режима форматированного текста'
+      insert_button: Вставка
+      insert_image: { src_placeholder: Связь, title_placeholder: Титул }
+      insert_link: { text_placeholder: СМС, href_placeholder: URL-адрес, title_placeholder: 'Название (отображается при наведении)', remove_button: Убирать }
+      additional_items_tooltip: 'Дополнительные элементы управления'
+      code_block_tooltip: 'Вставка блока кода'
+      horizontal_rule_tooltip: 'Вставить горизонтальную линейку'
+      image_tooltip: 'Добавить изображение'
+      link_tooltip: 'Добавить ссылку'
+      spoiler_block_tooltip: 'Спойлер/выпадающий список блоков'
+      strike_tooltip: 'Зачеркнутый <alt-shift-5>'
+      text_type_tooltip: 'Выберите тип текста'
+  forum:
+    settings:
+      composer_heading: Композитор
+      use_rich_text_editor_label: 'Используете редактор форматированного текста?'
+      rich_text_compact_paragraphs_label: 'Не разделяйте абзацы новой строкой.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'У вас включены push-уведомления, но вы не настроили это устройство.'
+      optin_button: Настроить
+    discussion_controls:
+      share_button: 'Предоставить общий доступ'
+    post_controls:
+      share_button: 'Предоставить общий доступ'
+    user_controls:
+      share_button: 'Предоставить общий доступ'
+    settings:
+      push_header: Толкать
+      pwa_notifications: { access_default: 'Из-за ограничений браузера вы должны согласиться на получение push-уведомлений на этом устройстве.', access_default_button: Зарегистрироваться, access_denied: 'Вы должны изменить настройки браузера, чтобы получать push-уведомления на этом устройстве.', access_denied_button: Подробнее, no_browser_support: 'Этот браузер не поддерживает push-уведомления для прогрессивных веб-приложений.', no_browser_support_button: Подробнее }
+  views:
+    offline:
+      header: 'Ошибка сетевого подключения'
+      text: 'Для этого приложения требуется подключение к сети; Его нельзя использовать в автономном режиме. Пожалуйста, проверьте подключение.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Предупредить пользователя'
+    user:
+      warnings: 'Предупреждения модератора'
+    settings:
+      warning_notification_label: 'Модератор предупреждает меня'
+    validation:
+      public_comment_required: 'В большинстве случаев вы предоставляете публичные комментарии.'
+      invalid_strike_count: 'Количество страйков должно быть целым числом от 0 до 5.'
+    warning_controls:
+      delete_button: Убирать
+      restore_button: Восстанавливать
+      delete_forever_button: 'Окончательное удаление'
+    warning_list:
+      add_button: 'Новое предупреждение'
+      no_warnings: 'Похоже, что здесь нет никаких предупреждений.'
+      warnings_no_strikes: 'Предупреждения модераторов: Предупреждений не получено'
+    warning_list_item:
+      public_comment: Предупреждение
+      private_comment: 'Видимые комментарии модератора'
+      linked_post: 'Связанный пост'
+    warning_modal:
+      confirmation_message: 'Ваше предупреждение сохранено. Возможно, вам потребуется обновить страницу, чтобы увидеть ее.'
+      strikes_heading: 'Сколько ударов должно быть нанесено?'
+      submit_button: 'Сохранить предупреждение'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Редактировать шаблон ответа'
+    reply_template:
+      title: 'Редактировать шаблон ответа'
+      submit_button: 'Сохранить шаблон ответа'

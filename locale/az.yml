@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Daxil etdiyiniz şifrə səhvdir.'
+      confirm_password_placeholder: 'Şifrəni təsdiqlə'
+      dismiss_button: YAXŞI
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+      title: 'E-Poçtu Dəyişdir'
+    change_password:
+      send_button: 'Şifrəni Göndər E-poçtu Sıfırla'
+      text: 'Aşağıdakı düyməni basın və şifrənizi dəyişmək üçün link üçün e-poçtunuzu yoxlayın.'
+      title: 'Şifrəni Dəyiş'
+    composer:
+      close_tooltip: Bağla
+      exit_full_screen_tooltip: 'Tam Ekran'
+      full_screen_tooltip: 'Tam Ekran'
+      minimize_tooltip: Minimalla
+      preview_tooltip: Önbaxış
+    composer_discussion:
+      body_placeholder: 'Bir Post Yaz...'
+      discard_confirmation: 'Müzakirənizi yerləşdirməmisiniz. – Onu atmaq istəyirsiniz?'
+      submit_button: 'Post Müzakirə'
+      title_placeholder: 'Müzakirə Başlığı'
+      title: 'Müzakirəyə başla'
+    composer_edit:
+      discard_confirmation: 'Dəyişikliklərinizi qeyd etmədiniz. İndi siz də onları atın !'
+      edited_message: 'Sizin redaktəniz edildi.'
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+      view_button: Baxış
+    composer_reply:
+      discard_confirmation: 'Cavabınızı yerləşdirmədiniz. – Onu atmaq istəyirsiniz?'
+      posted_message: 'Sizin cavabınız yerləşdirilib.'
+      submit_button: 'Post Cavabla'
+      body_placeholder: 'Bir Cavab Yaz...'
+      view_button: Baxış
+    discussion_controls:
+      cannot_reply_button: 'Cavab verə bilmir'
+      cannot_reply_text: 'Bu müzakirəyə cavab vermək üçün icazəniz yoxdur.'
+      delete_confirmation: 'Bu müzakirəni həqiqətən də silmək istəyirsiniz?'
+      log_in_to_reply_button: 'Cavab vermək üçün daxil olmaq'
+      toggle_dropdown_accessible_label: 'Müzakirə fəaliyyətlər açılan menyusunu açar'
+      delete_button: Sil
+      delete_forever_button: 'Faylı sil'
+      rename_button: 'Yenidən adlandır'
+      reply_button: Cavabla
+      restore_button: Bərpa
+    discussion_list:
+      empty_text: 'Görünür, burada heç bir müzakirə yoxdur.'
+      load_more_button: 'Daha Çox Yüklə'
+    forgot_password:
+      email_sent_message: 'Giriş e-poçt bu saytla qeydiyyatdan keçdiyiniz e-poçt varsa, şəkilinizi sıfırlamaq üçün bir linki olan bir e-poçt göndərir. növbəti ya iki dəyişdirməsində onu almaq istədiyiniz spam qəbul edin.'
+      not_found_message: 'Bu e-poçt ünvanı ilə qeydiyyatdan keçmiş bir istifadəçi yoxdur.'
+      submit_button: Qeydiyyat
+      text: 'E-poçt ünvanınızı daxil edin və biz şəkilinizi sıfırlamaq üçün bir link göndərmək olacaq.'
+      title: Qeydiyyat
+      dismiss_button: YAXŞI
+      email_placeholder: E-poçt
+    header:
+      admin_button: İdarəetmə
+      back_to_index_tooltip: 'Müzakirə Siyahısına qayıt'
+      locale_dropdown_accessible_label: 'Change forum locale'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Axtarış sorğusunu təmizlə'
+      search_placeholder: Axtar
+      search_role_label: Axtar
+      session_dropdown_accessible_label: 'İclas seçimləri açılan menyusunu aç'
+      log_in_link: 'Daxil ol'
+      log_out_button: _Giriş
+      settings_button: Qurğular
+      sign_up_link: 'Qeydiyyatdan keçmək'
+    index:
+      cannot_start_discussion_button: 'Müzakirə başlaya bilmir'
+      mark_all_as_read_confirmation: 'Bütün müzakirələri oxunaqlı qeyd etmək istədiyinizə əminsinizmi?'
+      refresh_tooltip: Təzələ
+      toggle_sidenav_dropdown_accessible_label: 'Naviqasiya açılan menyusunu bağla'
+      all_discussions_link: 'Bütün Müzakirələr'
+      mark_all_as_read_tooltip: 'Hamı kimi işarələ'
+      meta_title_text: 'Bütün Müzakirələr'
+      start_discussion_button: 'Müzakirəyə başla'
+    index_sort:
+      latest_button: Son
+      newest_button: 'Ən Yeni'
+      oldest_button: 'Ən Qədim'
+      relevance_button: Aidiyyəti
+      toggle_dropdown_accessible_label: 'Müzakirə siyahısı sıralamanı dəyiş'
+      top_button: Üst
+      hot_button: Trending
+      votes_button: Upvotlar
+      front_button: 'Ön Səhifə'
+      popular_button: Populyar
+      unpopular_button: Bəyənilməyən
+    log_in:
+      forgot_password_link: 'Şifrə unuduldu?'
+      invalid_login_message: 'Sizin giriş detallarınız səhv idi.'
+      remember_me_label: 'Xatırla məni'
+      sign_up_text: 'Hesabın yoxdur? <a>Qeydiyyatdan keçmək</a>'
+      username_or_email_placeholder: 'İstifadəçi adı və ya E-poçt'
+      password_placeholder: Şifrə
+      submit_button: 'Daxil ol'
+      title: 'Daxil ol'
+    notifications:
+      delete_all_confirm: 'Bütün bildirişləri silmək istədiyinizdən əminsiniz? Bu hərəkət qarşılana bilməz'
+      delete_all_tooltip: 'Bütün bildirişləri sil'
+      empty_text: 'Bildiriş yoxdur'
+      mark_as_read_tooltip: 'Oxunduğu kimi işarələ'
+      toggle_dropdown_accessible_label: 'Bildirişləri bax'
+      mark_all_as_read_tooltip: 'Hamı kimi işarələ'
+      title: Bildirişlər
+      tooltip: Bildirişlər
+    post:
+      edited_text: Düzəlt
+    post_controls:
+      delete_confirmation: 'Bu yazını həmişəlik silmək istədiyinizdən əminsiniz? Bu hərəkət silinə bilməz.'
+      hide_confirmation: 'Əminsinizmi ki, bu yazını silmək istəyirsiniz?'
+      toggle_dropdown_accessible_label: 'Post nəzarət açılan menyusunu bağla'
+      push_to_front_button: 'FrontPage-ə itələ'
+      pull_from_front_button: 'FrontPage-dən çək'
+      delete_button: Sil
+      delete_forever_button: 'Faylı sil'
+      edit_button: _Düzəlt
+      restore_button: Bərpa
+    post_scrubber:
+      now_link: hal-hazırda
+      original_post_link: 'Orijinal Poçt'
+    post_stream:
+      load_more_button: 'Daha Çox Yüklə'
+      reply_placeholder: 'Bir Cavab Yaz...'
+    rename_discussion:
+      title: 'Müzakirəni yenidən adlandır'
+      submit_button: 'Yenidən adlandır'
+    search:
+      discussions_heading: Müzakirələr
+      users_heading: İstifadəçilər
+    security:
+      cannot_terminate_current_session: 'Hazırkı fəal iclas dayandırıla bilmir. Bunun yerinə daxil ol.'
+      created: Yaradıldı
+      current_active_session: 'Hazırkı Fəal İclas'
+      developer_tokens_heading: 'Aparıcı Tokenlər'
+      empty_text: 'Görünür, burada görmək üçün heç nə yoxdur.'
+      global_logout: { heading: 'Qlobal Logout', help_text: 'Cari cookie seansı təmizləyir, bütün seansları dayandırır, developer tokenləri ləğv edir, və hər hansı bir e-poçt təsdiq və ya parol sıfırlamaq e-poçtları invalidat edir.', log_out_button: _Giriş }
+      hide_access_token: 'Nişan gizlət'
+      last_activity: 'Son fəaliyyət'
+      new_access_token_modal: { submit_button: 'Nişan Yarat', title_placeholder: Başlıq, title: 'Yeni Nişan' }
+      revoke_access_token: Ləğv
+      sessions_heading: 'Fəal İclaslar'
+      session_termination_failed: 'Oturumlarınız sonlandırılarkən xəta oldu.'
+      show_access_token: Nişan
+      terminate_all_other_sessions: 'Bütün digər seansları dayandır'
+      terminate_session: Sonlandır
+      token_revoked: 'Token ləğv edildi.'
+      token_title_placeholder: /
+      never: 'Heç vaxt'
+      new_access_token_button: 'Yeni Nişan'
+      revoke_access_token_confirmation: 'Əminsinizmi ki, bu yolu davam etdirmək istəyirsiniz? Bu hərəkət silinə bilməz.'
+      terminate_all_other_sessions_confirmation: 'Əminsinizmi ki, bu yolu davam etdirmək istəyirsiniz? Bu hərəkət silinə bilməz.'
+      title: Təhlükəsizlik
+    settings:
+      account_heading: Hesab
+      notify_by_web_heading: Veb
+      notify_discussion_renamed_label: 'Kimsə mənim başladığım müzakirənin adını'
+      privacy_disclose_online_label: 'İnternetdə olanda başqalarına görməyə icazə ver'
+      privacy_heading: Gizlilik
+      change_email_button: 'E-Poçtu Dəyişdir'
+      change_password_button: 'Şifrəni Dəyiş'
+      notifications_heading: Bildirişlər
+      notify_by_email_heading: E-poçt
+      title: Qurğular
+    sign_up:
+      log_in_text: 'Artıq hesab var? <a>Daxil ol</a>'
+      dismiss_button: YAXŞI
+      email_placeholder: E-poçt
+      password_placeholder: Şifrə
+      submit_button: 'Qeydiyyatdan keçmək'
+      title: 'Qeydiyyatdan keçmək'
+      username_placeholder: 'İstifadəçi Adı'
+    user:
+      avatar_upload_button: Yüklə
+      avatar_upload_tooltip: 'Yeni avatar yukle'
+      online_text: Onlayn
+      posts_empty_text: 'Görünür, burada heç bir post yoxdur.'
+      avatar_remove_button: Sil
+      discussions_link: Müzakirələr
+      posts_link: Postlar
+      posts_load_more_button: 'Daha Çox Yüklə'
+      security_link: Təhlükəsizlik
+      settings_link: Qurğular
+    user_controls:
+      button: İdarələr
+      delete_confirmation: 'Bu istifadəçini mütləq silmək istəyirsiniz? İstifadəçinin yazışmaları silinməyəcək.'
+      toggle_dropdown_accessible_label: 'İstifadəçi nəzarətləri açılan menyusunu açar'
+      delete_button: Sil
+      edit_button: _Düzəlt
+    user_email_confirmation:
+      resend_button: 'Resend Təsdiq e-poçt'
+      sent_message: Göndər
+    welcome_hero:
+      hide: 'Xoş gəldin ismarışı gizlət'
+    badge:
+      frontpage_tooltip: 'FrontPage olaraq işarələ'
+  lib:
+    debug_button: 'Xəta Aq'
+    alert:
+      dismiss_a11y_label: 'Xəbərdarlığı rədd etmək'
+    badge:
+      hidden_tooltip: Gizli
+    dropdown:
+      toggle_dropdown_accessible_label: 'Açılan menyunu bağla'
+    edit_user:
+      activate_button: 'İstifadəçini Aktivləşdir'
+      groups_heading: Qruplar
+      set_password_label: 'Şifrəni seç'
+      nothing_available: 'Bu istifadəçini redaktə etməyə icazə verilmir.'
+      email_heading: E-poçt
+      email_label: E-poçt
+      password_heading: Şifrə
+      password_label: Şifrə
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+      title: 'İstifadəçini Düzəlt'
+      username_heading: 'İstifadəçi Adı'
+      username_label: 'İstifadəçi Adı'
+    error:
+      generic_message: 'Ey ə '' y! Nə isə pis oldu. Xahiş edirik səhifəni yenidən yükləyin və yenidən cəhd edin.'
+      generic_cross_origin_message: 'Ey ə '' y! Haçalıq istəyi zamanı nə isə səhv oldu. Xahiş edirik səhifəni yenidən yükləyin və yenidən cəhd edin.'
+      not_found_message: 'İstəyən resurs tapılmadı.'
+      payload_too_large_message: 'İstək yükü həddindən artıq böyük idi.'
+      permission_denied_message: 'Sizin bunu etməyə icazəniz yoxdur.'
+      rate_limit_exceeded_message: 'Bir az tez gedirsən. Zəhmət olmasa bir neçə saniyədən sonra yenidən cəhd edin.'
+      render_failed_message: 'Bağışlayın, bu məzmunu nümayiş etdirərkən xəta ilə qarşılaşdıq. Əgər istifadəçisinizsə, zəhmət olmasa, daha sonra yenidən cəhd edin. Əgər administratorsunuzsa, daha ətraflı məlumat üçün Flarum log fayllarınıza nəzər salın.'
+    modal:
+      close: Bağla
+    nav:
+      drawer_button: 'Açıq Naviqasiya Draçitləmək'
+    loading_indicator:
+      accessible_label: Yüklənir...
+  views:
+    confirm_email:
+      text: 'Hesabınızın e-poçtunu təsdiqləmək üçün aşağıdakı düyməni basın.'
+      submit_button: 'E-poçtu təsdiqlə'
+      title: 'E-poçtu təsdiqlə'
+    content:
+      javascript_disabled_message: 'Bu sayta ən yaxşı halda JavaScript imkanlı müasir brauzerdə baxılır.'
+      load_error_message: 'Bu saytın tam versiyasını yükləməyə çalışarkən nə isə səhv oldu. Xətanı düzəltmək üçün bu səhifəni səylə yeniləməyə çalışın.'
+      loading_text: Yüklənir...
+    error:
+      csrf_token_mismatch: 'Uzun müddətdir ki, fəaliyyətsizsən.'
+      csrf_token_mismatch_return_link: 'Geri dön, yenidən cəhd etmək üçün'
+      invalid_confirmation_token: 'Bu təsdiq linki artıq istifadə olunub və ya qüvvədə deyil.'
+      not_authenticated: 'Bu səhifəyə daxil olmaq üçün icazəniz yoxdur. Girişdən sonra yenidən cəhd edin.'
+      not_found: 'İstədiyiniz səhifəni tapmaq mümkün olmadı.'
+      permission_denied: 'Bu səhifəyə daxil olmaq üçün icazəniz yoxdur.'
+      unknown: 'Bu səhifəni yükləməyə çalışarkən xəta oldu.'
+    log_out:
+      log_out_button: _Giriş
+      title: _Giriş
+    reset_password:
+      confirm_password_label: 'Yeni Şifrəni Təsdiqlə'
+      new_password_label: 'Yeni Şifrə'
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+      title: 'Şifrənizi Sıfırla'
+    discussion:
+      next_page_button: 'Növbəti səhifə'
+      previous_page_button: 'Əvvəlki Səhifə'
+    index:
+      all_discussions_heading: 'Bütün Müzakirələr'
+      next_page_button: 'Növbəti səhifə'
+      previous_page_button: 'Əvvəlki Səhifə'
+  api:
+    invalid_username_message: 'İstifadəçi adı yalnız hərf, rəqəm və dash ola bilər.'
+  email:
+    activate_account:
+      subject: 'Yeni hesabınızı aktivləşdirin'
+    confirm_email:
+      subject: 'Yeni E-Poçt Ünvanınızı təsdiq edin'
+    reset_password:
+      subject: 'Şifrənizi Sıfırla'
+    send_test:
+      subject: 'Flarum E-Poçt Testi'
+  ref:
+    all_discussions: 'Bütün Müzakirələr'
+    change_email: 'E-Poçtu Dəyişdir'
+    change_password: 'Şifrəni Dəyiş'
+    color: Rəng
+    confirm_password: 'Şifrəni təsdiqlə'
+    confirm_email: 'E-poçtu təsdiqlə'
+    custom_footer_text: 'Səhifənin ən aşağı hissəsində göstəriləcək HTML əlavə edin.'
+    custom_footer_title: 'Xüsusi Altlıqları Düzəlt'
+    custom_header_text: 'Səhifənin ən üst hissəsində, Flarum-un öz başlıqları üzərində göstəriləcək HTML əlavə edin.'
+    custom_header_title: 'Xüsusi Başlığı Düzəlt'
+    delete: Sil
+    delete_forever: 'Faylı sil'
+    discussions: Müzakirələr
+    edit: _Düzəlt
+    edit_user: 'İstifadəçini Düzəlt'
+    email: E-poçt
+    extensions: Uzantılar
+    generic_confirmation_message: 'Əminsinizmi ki, bu yolu davam etdirmək istəyirsiniz? Bu hərəkət silinə bilməz.'
+    icon: Ikona
+    load_more: 'Daha Çox Yüklə'
+    loading: Yüklənir...
+    log_in: 'Daxil ol'
+    log_out: _Giriş
+    mark_all_as_read: 'Hamı kimi işarələ'
+    never: 'Heç vaxt'
+    new_token: 'Yeni Nişan'
+    next_page: 'Növbəti səhifə'
+    notifications: Bildirişlər
+    okay: YAXŞI
+    password: Şifrə
+    posts: Postlar
+    previous_page: 'Əvvəlki Səhifə'
+    remove: Sil
+    rename: 'Yenidən adlandır'
+    reply: Cavabla
+    reset_your_password: 'Şifrənizi Sıfırla'
+    restore: Bərpa
+    save_changes: 'Dəyişiklikləri Qeyd Et'
+    search_users: 'İstifadəçiləri axtar'
+    security: Təhlükəsizlik
+    settings: Qurğular
+    sign_up: 'Qeydiyyatdan keçmək'
+    start_a_discussion: 'Müzakirəyə başla'
+    username: 'İstifadəçi Adı'
+    users: İstifadəçilər
+    view: Baxış
+    write_a_reply: 'Bir Cavab Yaz...'
+    you: Sən
+  group:
+    admin: İdarə
+    admins: Adminlər
+    guest: Qonaq
+    guests: Qonaqlar
+    member: Üzv
+    members: Üzvlər
+    mod: Tərz
+    mods: Modlar
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Bütün Teqlər'
+      meta_title_text: Taqlar
+    choose_tags:
+      title: 'Müzakirəniz üçün Etiketlər seçin'
+    discussion_controls:
+      edit_tags_button: _Düzəlt
+    header:
+      back_to_tags_tooltip: 'Tag Siyahısına Qayıt'
+    index:
+      more_link: 'Daha ətraflı...'
+      untagged_link: Dırnaqsız
+      tags_link: Taqlar
+    composer_discussion:
+      choose_tags_link: 'Taqları Seç'
+  lib:
+    deleted_tag_text: Sil
+    tag_selection_modal:
+      bypass_requirements: 'Etiket tələblərini kənara qoy'
+      submit_button: YAXŞI
+      title: 'Taqları Seç'
+  ref:
+    choose_tags: 'Taqları Seç'
+    name: Ad
+    tags: Taqlar
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'İstifadəçi, qrup və ya post qeyd edin'
+    mentioned_by:
+      title: 'Bu yazıya cavab'
+      load_more_button: 'Daha Çox Yüklə'
+    post:
+      quote_button: Sitatla
+      reply_link: Cavabla
+      you_text: Sən
+    settings:
+      notify_post_mentioned_label: 'Birisi mənim yazılarımdan birinə cavab verir'
+      notify_user_mentioned_label: 'Kimsə məni bir postda zikr edir'
+      notify_group_mentioned_label: 'Kimsə bir postda üzvü olduğum bir qrupun adını çəkir'
+    user:
+      mentions_link: Qeydlər
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Heç bir zaman'
+      unignore_button: Istət
+      follow_button: İzlə
+    settings:
+      follow_after_reply_label: 'Avtomatik olaraq cavablandırdığım müzakirələri izləyin'
+      notify_for_all_posts_label: 'Müzakirədə yalnız sonuncu yox, hər yeni yazı haqqında məlumat'
+      notify_new_post_label: 'Kimsə izlədiyim müzakirədə yazılar'
+    sub_controls:
+      following_text: 'Bütün cavablar haqqında xəbər alın.'
+      ignoring_text: 'Heç vaxt xəbər vermə. Müzakirə siyahısından gizlət.'
+      not_following_button: 'Riayət Etmə'
+      not_following_text: 'Yalnız @mentioned zaman xəbər alın.'
+      notify_alert_tooltip: 'Yeni postlar olduqda forum bildirişi alın'
+      notify_email_tooltip: 'Yeni yazılar olanda e-mail əldə edin'
+      follow_button: İzlə
+      following_button: Aşağıdakılar
+      ignoring_button: 'Göz yum'
+    badge:
+      following_tooltip: Aşağıdakılar
+      ignoring_tooltip: 'Göz yum'
+    following:
+      meta_title_text: Aşağıdakılar
+    index:
+      following_link: Aşağıdakılar
+  ref:
+    follow: İzlə
+    following: Aşağıdakılar
+    ignoring: 'Göz yum'
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Bu postu baykot etdiyiniz üçün təşəkkür edirəm. Moderatorlarımız ona baxacaqlar.'
+      reason_inappropriate_label: Yersiz
+      reason_inappropriate_text: 'Bu yazı təhqiramiz, təhqiramiz və ya <a>cəmiyyətin göstərişlərini</a> pozur.'
+      reason_missing_message: 'Xahiş edirik moderatorlarımız üçün bəzi detalları təqdim edəsiniz.'
+      reason_off_topic_label: Qeyri-mövzu
+      reason_off_topic_text: 'Bu yazı indiki müzakirəyə aid deyil və başqa yerə köçürülməlidir.'
+      reason_other_label: 'Digər (zəhmət olmasa, konkretləşdirin)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Bu yazı reklamdır.'
+      dismiss_button: YAXŞI
+      submit_button: 'Bayraq Postu'
+      title: 'Bayraq Postu'
+    flagged_posts:
+      empty_text: 'Bayraq yoxdur'
+      title: 'Bayraqlı Yazılar'
+      tooltip: 'Bayraqlı Yazılar'
+    post:
+      dismiss_flag_button: Bayraq
+    post_controls:
+      flag_button: Bayraq
+  ref:
+    flag_post: 'Bayraq Postu'
+    flagged_posts: 'Bayraqlı Yazılar'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Sən qeyri-müəyyən müddətə təxirə salındın'
+      user_unsuspended_text: 'Sən sərf olunmamışdın'
+    suspension_info:
+      dismiss_button: Rədd
+      indefinite: 'Bu müddətsiz təxirə salınmasıdır'
+      title: 'Bu hesab dayandırılır'
+    suspend_user:
+      display_message: 'İsmarışı istifadəçi üçün göstər'
+      indefinitely_label: 'Qeyri-müəyyən müddətə dayandırılır'
+      limited_time_days_text: ' günlər'
+      limited_time_label: 'Məhdud müddətə dayandırılır...'
+      not_suspended_label: 'Təxirə salınmayıb'
+      placeholder_optional: Seçimli
+      reason: 'Təxirə salınmasının səbəbi'
+      status_heading: 'Dayandırma Vəziyyəti'
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+    user_badge:
+      suspended_tooltip: '_Təxirə Sal'
+    user_controls:
+      suspend_button: _Dayandır
+  email:
+    no_reason_given: 'Bu təxirə salınmasına heç bir səbəb verilmədi.'
+    suspended:
+      subject: 'Hesabınız təxirə salınıb'
+    unsuspended:
+      subject: 'Sənin hesabın xərcsiz qalıb'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'İstifadəçi tərəfindən yüklənən bütün fayllar.', anonymize_description: 'Yüklənmiş fayllardan istifadəçi referatlarını çıxarır. Faylların özləri istifadəçilər üçün əlçatan olaraq qalır ki, bu da onlara əvvəlcədən anonimləşdirilməyə baxa bilər.', delete_description: 'İstifadəçi tərəfindən yüklənən bütün faylları silər.' }
+      tagsubscription: { export_description: 'Əgər varsa, etiket üçün abunə səviyyəsinin təfsilatlarını ixrac edir.', anonymize_description: 'İstifadəçinin etiketə abunə yazılışını aradan qaldırır.' }
+      followuser: { export_description: 'İzlənən istifadəçilərin və istifadəçilərin izləmə detallarını ixrac edir.', delete_description: 'İstifadəçiləri izləmə ilə əlaqəli bütün məlumatları silər.', anonymize_description: 'İstifadəçiləri izləmə ilə əlaqəli bütün məlumatları silər.' }
+      bannedipdata: { export_description: 'Əgər IP ban yazısı istifadəçi ilə əlaqəlidirsə (yəni istifadəçi ip tərəfindən qadağan olunmuşdu), istifadəçinin IP ünvanı ixraca daxil ediləcək. Bunun səbəbi və yaranma tarixi ilə yanaşı.', anonymize_description: 'İstifadəçi ilə əlaqəli olan hər hansı IP ünvanları dekoup edilir, lakin ip özü də qadağan olaraq qalacaq. Səbəblə yanaşı. Heç bir PII məlumatlarının ''səbəb'' sahəsində saxlanılmasını təmin edin.' }
+fof-upload:
+  forum:
+    media_manager: 'Media meneceri'
+    buttons:
+      attach: Ilişdir
+      upload: Yüklə
+      upload_shared: Bölüşülmüş
+      user_uploads: 'İstifadəçi yükləmələri'
+      cancel: 'Ləğv etmək'
+      media: 'Mənim mediam'
+      shared_media: 'Bölüşülmüş media'
+    states:
+      error: Xəta
+      loading: Yüklənir
+      unauthorized: 'Faylları yükləməyə icazə verilmir'
+    text_preview:
+      expand: 'Önbaxış genişlə'
+      collapse: 'Önbaxış çöküşü'
+      error: "Fayla baxış xətası: %s Silinmiş ola bilər, yaxud verilən fayl ID-si qüvvədə deyil.\n"
+      no_snippet_preview: '<preview postdan sonra burada görünəcək>'
+      no_snippet: '<o önbaxış snippet mövcuddur>'
+  api:
+    upload_errors:
+      forbidden_type: 'Bu tip faylların yüklənməsinə icazə verilmir.'
+      could_not_detect_mime: 'Bu faylın MIME növü aşkar edilə bilmədi, xahiş edirik yenidən cəhd edin.'
+      max_upload_file_size_ini: 'php.ini-dən əldə edilən max fayllar üçün limiti yüklə.'
+      max_upload_file_size_form: 'Fayl yükləmə limiti formasından əldə edilir.'
+      partial_upload: 'Qismən yükləmə.'
+      no_file_uploaded: 'Heç bir fayl yükləmədi.'
+      no_upload_tmp_folder: 'Faylları yükləmək üçün tmp qovluğu yoxdur.'
+      cannot_write_to_disk: 'Diskə yazıla bilmir.'
+      upload_blocked_by_php_extension: 'Php uzantısı upload-u bağladı.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Yeni fayl'
+      dropzone: 'Faylları buraya sürükleyin və atın və ya baxmaq üçün basın'
+      hide-from-media-gallery: 'İstifadəçinin media qalereyasından gizlət'
+      upload: Yüklə
+    file_list:
+      loading: 'Fayllar yüklənir...'
+      empty: 'Göstəriləcək fayl yoxdur.'
+      release_to_upload: 'Yükləmək üçün buraxın'
+      modal_empty_desktop: 'Fayl siyahınız boşdur. Yükləmək üçün düyməni basın və ya bir faylı buraya sürükleyin.'
+      modal_empty_phone: 'Fayl siyahınız boşdur. Faylı yükləmək üçün yuxarıdakı düyməyə toxunun.'
+      load_more_files_btn: 'Daha çox fayl yüklə'
+      hide_file: { hide_success: 'Fayl gizli', show_success: 'Fayl göstərildiyi kimi', loading: 'Fayl gizlədilir...' }
+      hide_shared_file: { hide_success: 'Fayl xüsusi düzəldilidi', show_success: 'Fayl ictimaiyyətə təqdim edilib', loading: 'Fayl xüsusi düzəldilir...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: yazdı
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Qalın mətn əlavə et'
+      code_tooltip: 'Kod daxil et'
+      header_tooltip: 'Başlıq əlavə et'
+      image_tooltip: 'Şəkil əlavə et'
+      italic_tooltip: 'İtalik mətni əlavə et'
+      link_tooltip: 'Körpü əlavə et'
+      ordered_list_tooltip: 'Nömrələnmiş siyahı əlavə et'
+      quote_tooltip: 'Sitat daxil et'
+      spoiler_tooltip: 'Qaşıqçı daxil et'
+      strikethrough_tooltip: 'Yazı əlavə et'
+      unordered_list_tooltip: 'Bulleted list əlavə et'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Kimsə izlədiyim tagda müzakirə yaradır'
+      notify_new_post_label: 'Kimsə mənim izlədiyim bir tagda postlar'
+      notify_new_discussion_tag_label: 'Kimsə izlədiyim bir etiketə müzakirəni yenidən etiketlədir'
+    index:
+      follow_tag_button: İzlə
+      unfollow_tag_button: 'Izləməni Dayandır'
+      following: { following_none_label: 'Müzakirələri izlə', following_tags_label: 'İzlənən Etiketlər' }
+    badge:
+      following_tag_tooltip: Aşağıdakılar
+      lurking_tag_tooltip: Lurkinq
+    sub_controls:
+      following_text: 'Bütün yeni müzakirələr barədə məlumat alın.'
+      hiding_text: 'Bütün müzakirələr səhifəsindən müzakirələri gizləyin.'
+      ignoring_text: 'Heç vaxt xəbər vermə.'
+      lurking_text: 'Bütün yeni müzakirələr və cavablar barədə məlumat alın.'
+      not_following_button: 'Riayət Etmə'
+      not_following_text: 'Yalnız @mentioned zaman xəbər alın.'
+      notify_alert_tooltip: 'Yeni müzakirələr və ya postlar olduqda forum bildirişi alın'
+      notify_email_tooltip: 'Yeni müzakirələr və ya yazılar olduqda e-mail əldə edin'
+      submit_button: 'Abunə təsdiqlə'
+      follow_button: İzlə
+      following_button: Aşağıdakılar
+      hiding_button: Gizlət
+      ignoring_button: 'Göz yum'
+      lurking_button: Lurkinq
+    user:
+      settings: { heading: 'Etiketləri izlə', filter_label: 'Aşağıdakı səhifədə default olaraq nə göstərmək lazımdır?' }
+  ref:
+    follow: İzlə
+    following: Aşağıdakılar
+    hiding: Gizlət
+    ignoring: 'Göz yum'
+    lurking: Lurkinq
+    filtering_options:
+      none: 'Müzakirələri izlə'
+      tags: 'İzlənən Etiketlər'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Bu ləqəb keçərsizdir. Ləqəb qaydaları haqqında daha ətraflı məlumat almaq üçün forum administratorunuza müraciət etməyiniz xahiş olunur.'
+  ref:
+    change_nickname: 'Change Nickname'
+    nickname: Ləqəb
+  forum:
+    change_nickname:
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+      title: 'Change Nickname'
+    edit_user:
+      nicknames_heading: 'Change Nickname'
+      nicknames_text: Ləqəb
+    settings:
+      change_nickname_button: 'Change Nickname'
+    sign_up:
+      nickname_placeholder: Ləqəb
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Əlaqəli hesablar', last-used-label: 'Son istifadə olunan', link-created-label: 'Körpü yaradıldı', orphaned-account: 'Siz əvvəllər bu provayder vasitəsilə imza atmısınız, lakin bu forum o vaxtdan bəri bu metodla imzanı qeyri-fəal edib.', help: 'Bu əlaqəli hesablar digər provayderlərdən istifadə edərək foruma imza atmaq imkanı verir.' } }
+    signup:
+      username_help: 'Xahiş edirik, buradan məlum olacaq istifadəçi adını seçin'
+    unlink: 'Körpünü Sil'
+    error:
+      bad_verification_code: 'Hökmsüz və ya vaxtı bitmiş yoxlama nişanı. Zəhmət olmasa, yenidən cəhd edin.'
+      invalid_state: 'Səhv vəziyyəti. Zəhmət olmasa, yenidən cəhd edin.'
+    providers:
+      discord: Discord
+      facebook: Facebook
+      github: 'Ünvan:'
+      gitlab: Cism
+      google: Google
+      linkedin: LinkedIn
+      twitter: Twitter
+  lib:
+    providers:
+      discord: Discord
+      facebook: Facebook
+      github: 'Ünvan:'
+      gitlab: Cism
+      twitter: Twitter
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'Proqram ID-i'
+      app_secret: Gizli
+      client_id: 'Klient ID-i'
+      client_secret: 'Klient sirri'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Başqa istifadəçi kimi giriş'
+      placeholder_optional: '(İxtisas) Bu istifadəçiyə keçmək üçün səbəbinizi təqdim edin'
+      placeholder_required: 'İşləmədən əvvəl bu istifadəçiyə keçmək üçün səbəbinizi təqdim etməlisiniz'
+    user_controls:
+      impersonate_button: 'İstifadəçi olaraq giriş'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Şəxsi müzakirə' }
+    buttons:
+      add_recipients: Alıcı
+      submit: YAXŞI
+      edit_recipients: 'Alıcıları düzəlt'
+      cancel: 'Ləğv etmək'
+      make_public: 'Bu müzakirəni ictimai edin'
+      remove_from_discussion: 'Bu şəxsi müzakirəni tərk edin'
+    composer_private_discussion:
+      submit_button: 'Post Şəxsi müzakirə'
+      title_placeholder: 'Şəxsi müzakirə başlığı'
+    confirm:
+      make_public: 'Əminsinizmi ki, alıcıları çıxartmaq və bu müzakirəni təyin olunmuş etiketə baxa bilən hər kəs üçün görünən etmək istəyirsiniz?'
+    nav:
+      start_button: 'Şəxsi müzakirə'
+      nav_item: 'Şəxsi müzakirələr'
+    input:
+      search_recipients: 'İlk üç hərifləri qeyd etməklə alıcını axtar...'
+    search:
+      headings: { groups: 'İcazə Qrupları' }
+    modal:
+      titles: { add_recipients: 'Müzakirənizə alıcıları əlavə edin' }
+      labels: { selected_users: 'Seçilmiş istifadəçilər', search_field: 'İstifadəçi axtar' }
+      help: { add_recipients: 'Bu müzakirə yalnız burada seçdiyiniz istifadəçilər üçün görünəcək. Ən azı 1 alıcı (özünüzdən başqa) tələb olunur.', update_recipients: 'Bu müzakirə yalnız burada seçdiyiniz istifadəçilər üçün görünəcək.', selected_users: 'Onları aradan qaldırmaq üçün istifadəçinin adını basın.', click_user_to_remove_tooltip: 'Aradan qaldırmaq üçün klikləyin' }
+    user:
+      settings: { block_pd: 'Blok şəxsi müzakirələr' }
+      byobu_link: 'Şəxsi müzakirələr'
+      dropdown_label: 'Şəxsi müzakirələr'
+    notifications:
+      pd_label: 'Kimsə məni yeni şəxsi müzakirəyə daxil edir'
+      pd_reply_label: 'Kimsə şəxsi müzakirədə postlar mən alıcı'
+      pd_user_left_label: 'Alıcı istifadəçi şəxsi müzakirə tərk edir mən bir hissəsi'
+      pd_added_label: 'Kimsə məni mövcud şəxsi müzakirəyə əlavə edir'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Badge məlumatı'
+    all_badges: 'Bütün nişanlara bax'
+    all_users: 'Bütün istifadəçilərə bax'
+    give_badge: 'Nişanı ver'
+    update_badge: Yenilə
+    select_badge: 'Nişanı seç'
+    user_has_badge: 'İstifadəçinin artıq bu nişanı var.'
+    user_no_badges: 'Bu istifadəçinin hələlik heç bir nişanı yoxdur.'
+    no_received: 'Bu nişanı heç bir istifadəçi qazanmamışdır.'
+    save_changes: 'Dəyişiklikləri qeyd et'
+    badge:
+      badge: Roze
+      badges: Rozenalar
+      name: 'Badge adı'
+      description: 'Badge təsviri'
+      earning_reason: 'Badə qazanmaq səbəbi'
+      update_earning_reason: 'Qazanma səbəbini yenilə'
+      no_earning_reason: 'Heç bir qazanc səbəbi təyin olunmayıb'
+      earned_on: 'Badə qazandı'
+      category: 'Badge kateqoriya'
+      badge_details: 'Badımcan detalları'
+    badges_in_card:
+      title: 'İstifadəçi kartındakı nişanlar'
+      manage_badges: 'Rozeni idarə et'
+      description: 'İstifadəçi kartınızda görünən nişanları digər nişanlarınızdan biri ilə dəyişə bilərsiniz. Əgər heç birini seçməsəniz, avtomatik olaraq seçiləcəklər.'
+    moderation:
+      remove_badge: 'İstifadəçidən nişanı sil'
+      remove_badge_confirm: 'Əminsinizmi ki, bu nişanı bu istifadəçidən çıxartmaq istəyirsiniz?'
+      give_badge: 'Nişanı ver'
+    notification:
+      title: 'Yeni nişan almısan'
+      settings: 'Rozemi almışam'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Acınacaqlı vəziyyət'
+      not_miserable_label: 'Bədbəxt deyil'
+      indefinitely_label: 'Əbədiyyən bədbəxt'
+      limited_time_label: 'Məhdud müddət üçün acınacaqlıdır...'
+      limited_time_days_text: ' günlər'
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+    user_badge:
+      miserable_user_tooltip: 'Miserable İstifadəçi'
+    user_controls:
+      miserable_user_button: 'Miserable İstifadəçi'
+  ref:
+    miserable_user: 'Miserable İstifadəçi'
+sycho-profile-cover:
+  forum:
+    cover: Qapaq
+    edit_cover: 'Örtüyü düzəlt'
+    added:
+      success: 'Profil örtüyü yenilənib.'
+      error: 'Rəsm yüklənə bilmədi.'
+    removed:
+      success: 'Profil örtüyü silindi.'
+      error: 'Örtük silinə bilmədi, sonra yenidən sınayın.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Panoya köçür'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Son ziyarətçilər', guest: Qonaq }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Ölkə Kodu'
+    saveButton: 'Qeyd Et'
+    clickToSelectCountry: 'Ölkənizi seçin'
+    countrySaved: 'Ölkə uğurla xilas oldu!'
+    field_placeholder: 'Ölkə Bayraqları təsdiq edilsin'
+    binding_country: '(Ona belə deyiləcəkdir:) "Sən (öz- öz ağlından) artıq bir xəbər eşitdik. Zəhmət olmasa, ilk öncə ölkənizi əlaqələndirin. Yalnız ölkənizi əlaqələndirdikdən sonra mesaj yaza və buraxa bilərsiniz.'
+    binding_country_click: 'İndi klikləyin'
+username-blacklist:
+  forum:
+    modal-title: '(Bu Qur '' anın müşriklərə) öyüd-'
+    modal-body-first-line: 'Xəbərdarlıq - Bu istifadəçi adı <strong>idarəçi tərəfindən bloklanıb</strong>'
+    modal-body-second-line: 'Xahiş edirik, icma qaydalarımızı pozmayan başqa bir istifadəçi adı seçin və yenidən cəhd edin.'
+  admin:
+    blackList: 'İstifadəçi adı'
+    blackList-help: 'Qeydiyyat zamanı blok etmək istədiyiniz istifadəçi adını buraya yazın (comma ilə ayrılır)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Sinopsis, show-summaries: 'Müzakirə siyahılarında hər müzakirədən bir parçanı göstər (Desktop/Tablet)', show-summaries-mobile: 'Müzakirə siyahılarında hər müzakirədən bir parçanı göstər (Mobil)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Forum fəaliyyəti'
+      forum_new_discussions: 'Forumun yeni müzakirələri'
+      discussion_last_posts: 'Bu müzakirə'
+      user_last_posts: 'Bu istifadəçi tərəfindən yazılar & comments'
+    feeds:
+      titles: { main_subtitle: 'Forumda son yazılar', main_d_subtitle: 'Forumda ən yeni müzakirələr', discussion_subtitle: 'Bu müzakirədə son mesajlar', user_subtitle: 'Bu istifadəçi tərəfindən son yazılar &comments.' }
+    discussion:
+      feed_link: Qidalandırma
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Ardı
+    profile_page:
+      no_following: 'Görünür ki, heç kimin arxasınca gəlmirsən.'
+    settings:
+      notify_new_follower_label: 'Kimsə məni izləyir,'
+      notify_new_unfollower_label: 'Kimsə məni izləməyə son verir'
+      notify_new_discussion_label: 'Izlədiyim biri müzakirəyə başlayır'
+      notify_new_post_label: 'Mövcud müzakirədə yazıları izlədiyim biri'
+      block_follow: 'İstifadəçilərin məni izləmələrinə mane ol'
+    badge:
+      label: { follow: 'Müzakirələrdən sonra', lurk: 'Hamısını izləmə' }
+    filter:
+      following: 'İzlənən istifadəçilər'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Səviyyələrə riayət edin', follow_select_label: İzlə, no_user_attr_provided_err: 'Uh oh, bu modal açarkən nəsə səhv oldu.', no_user_attr_provided_err_debug: 'Heç bir ''user'' atributu yaradılarkən SelectFollowUserLevel modal-a ötürülmdü. Modal tərcümə etmək mümkün deyil.', save_btn: 'Qeyd Et', cancel_btn: 'Ləğv etmək' }
+    profile_link: 'İzlənən İstifadəçilər'
+    user_controls:
+      follow_button: İzlə
+      unfollow_button: 'Heç bir zaman'
+      change_button: 'İz tipini dəyiş'
+    index:
+      follow_tag_button: İzlə
+      unfollow_tag_button: 'İz tipini dəyiş'
+  email:
+    new_follower_subject: '[İstifadəçini İzlə] Yeni davamçısın var!'
+  lib:
+    following_link: 'İzlənən İstifadəçilər'
+    follow: İzlə
+    change_follow_type: 'İz tipini dəyiş'
+    unfollow: 'Heç bir zaman'
+    follow_levels:
+      unfollow: { name: İzləməyin }
+      follow: { name: 'Müzakirələri izləyin' }
+      lurk: { name: 'Hamısını izlə' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Xahiş edirik, xahiş olunan bu ləqəb dəyişikliyinin forum qaydalarına əməl etdiyinə əmin olun.', decision_title: Qərar, approval_label: Təsdiqlə, rejected_label: 'Rədd Et', submit_button: Göndərmək, reason_title: 'Rədd edilmənin səbəbi', success: 'Göndərilən qərar.', title: 'Ləqəb Dəyişiklik İstinad' }
+      results: { title: 'Ləqəb Dəyişiklik İstinad', approved: 'Ləqəb dəyişdirmə xahişiniz qəbul edilib', rejected: 'Sizin ləqəb dəyişdirmə istəyiniz rədd edildi', resubmit: 'Bu zaman, əgər siz seçirsinizsə, hesab qurğularınızdan yeni ləqəb dəyişdirmə xahişini yenidən daxil edə bilərsiniz.', dismiss_button: YAXŞI }
+      request: { title: 'İstinad Ləqəb Dəyişiklik', submit_button: 'İstək göndər', delete_button: 'Faylı sil', confirmation_message: 'Sizin ləqəb dəyişdirmə istəyiniz təqdim edilib və razılıq gözləyir.', deleted: 'Ləqəb istəyi silindi.', dismiss_button: YAXŞI }
+    username_modals:
+      action: { help_text: 'Xahiş edirik, bu isdifadə edilən istifadəçi adı dəyişikliyinin forum qaydalarına əməl etdiyinə əmin olun.', decision_title: Qərar, approval_label: Təsdiqlə, rejected_label: 'Rədd Et', submit_button: Göndərmək, reason_title: 'Rədd edilmənin səbəbi', success: 'Göndərilən qərar.', title: 'İstifadəçi Adı Dəyişən İstək' }
+      results: { title: 'İstifadəçi Adı Dəyişən İstək', approved: 'İstifadəçi adınızın dəyişdirilməsi xahişiniz qəbul edilib', rejected: 'İstifadəçi adınızın dəyişdirilməsi istəyi rədd edildi', resubmit: 'Bu zaman, əgər siz seçirsinizsə, hesab qurğularınızdan yeni istifadəçi adı dəyişikliyi xahişini yenidən daxil edə bilərsiniz.', dismiss_button: YAXŞI }
+      request: { title: 'İstifadəçi Adı Dəyişdirilməsini İstə', submit_button: 'İstək göndər', delete_button: 'Faylı sil', confirmation_message: 'İstifadəçi adı dəyişmə istəyiniz təqdim edilib və təsdiq edilməkdədir.', deleted: 'İstifadəçi adı istəyi silindi.', dismiss_button: YAXŞI }
+    pending_requests:
+      empty_text: 'İsim dəyişmə istəyi tapılmadı.'
+      tooltip: 'İsim Dəyişmə İstinadları'
+      title: 'İsim Dəyişmə İstinadları'
+    settings:
+      nickname_request_button: 'Change Nickname'
+      username_request_button: 'İstifadəçi Adını Dəyiş'
+    user:
+      name_history_link: 'Ad Tarixi'
+  ref:
+    name_change_request: 'İsim Dəyişmə İstəyi'
+    name_change_requests: 'İsim Dəyişmə İstinadları'
+    nickname_change_request: 'Ləqəb Dəyişiklik İstinad'
+    nickname_change_requests: 'Ləqəb Dəyişiklik İstinadları'
+    username_change_request: 'İstifadəçi Adı Dəyişən İstək'
+    username_change_requests: 'İstifadəçi Adı Dəyiş İstinadları'
+  email:
+    body:
+      noReasonProvided: 'Heç bir səbəb yoxdur.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Özün haqqında bir şey yaz'
+    profile:
+      cancel_confirm: 'Bio redaktəni ləğv etmək istədiyinizdən əminsiniz? Etdiyiniz dəyişiklikləri itirəcəksiniz.'
+      cancel_button: 'Ləğv etmək'
+      save_button: 'Qeyd Et'
+      edit_bio_label: 'Bio düzəlt'
+fof-split:
+  forum:
+    split:
+      from: 'Buradan bölün'
+      to: 'Buraya bölün'
+      cancel: 'Bölməni ləğv et'
+    modal:
+      title: 'Bölmə müzakirəsi'
+      new_discussion_label: 'Yeni müzakirə üçün başlığı göstər'
+      submit_button: Böl
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Sosial media düymələrinizi redaktə edin'
+      add: 'Sosial medianıza düymələr əlavə edin'
+      headtitle: 'Düymələri düzəlt'
+      title: Başlıq
+      url: URL
+      submit: 'Qeyd Et'
+      delete: Sil
+      deletetitle: 'Düyməni Sil'
+      save_disabled_fetching_favicons: 'Bir və ya bir necə ikonalar alınır. Xahiş edirəm gözləyin.'
+      favicon: Favicon
+      grey_favicon: 'Qrey Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Paylaş
+      share_dropdown_accessible_label: 'Müzakirə payı açılan menyusunu bağla'
+    modal:
+      title: Paylaş
+      copy_button: Köçür
+  lib:
+    networks:
+      facebook: Facebook
+      twitter: Twitter
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: WhatsApp
+      telegram: Teleqüllə
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Mənim Dünyam'
+      qq: QQ
+      qzone: QZona
+      native: 'Doğma pay'
+fof-recaptcha:
+  forum:
+    error: 'ReCAPTCHA göndərilməsi xəta oldu. Bir də cəhd edin.'
+    unknown_error: 'Namə''lum xəta baş verdi. Kaptçanı yoxlayın və yenidən cəhd edin.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Bu reaksiyadan hal-hazırda istifadə edə bilməzsiniz, lütfən səhifəni yeniləyin'
+    warning: 'Sizin reaksiyanız konvertasiya edildi'
+    settings:
+      notify_post_reacted_label: 'Kimsə mənim yazılarımdan birinə reaksiya verir'
+    reacting-own-post: 'Öz yazınıza reaksiya verə bilməzsiniz'
+    modal:
+      title: Reaksiyalar
+      no_reactions: 'Hələlik heç bir reaksiya yoxdur'
+    mod_item: 'Baxış Reaksiyaları'
+    react_button_label: Reaksiya
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Rəsm məhsulu yüklənə bilmədi.', generic_resize: 'Şəkili qıvrarkən bir şey səhv oldu & yenidən ölçüsü.', get_image_data: 'Məhsul əldə edə bilmədi. Brauzerinizin barmaq izi mühafizəsinin qeyri-fəal olduğuna əmin olun.' }
+      help_text: "Brauzerinizin məxfilik ayarları çox sərtdirsə, şəkil yükləməsi uğursuz ola bilər. Əgər çətinlik çəkirsinizsə, barmaq izi ilə müdafiəni qeyri-fəal etməyə çalışın. Əks halda, ya <disableResize>qıvrılmış şəklin sıxılması,</disableResize> ya da <disableCrop>kiplənməsini tamamilə qeyri-fəal etmək</disableCrop> olar.\n"
+      submit_button: Yüklə
+      submit_crop_button: 'Məhsul & Yüklə'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Çox ehtimal ki, onun daha heç bir müzakirəyə ehtiyacı yoxdur və buna görə də onu tə''min etmək heç bir məqsədə xidmət etmir.', checkbox_label: 'Mən bilirəm ki, bu müzakirə çox köhnə olsa da, yenə də cavab vermək istəyərdim.', error: 'Bu söhbətə cavab vermək üçün çox yaşlıdır.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Səs verməyə icazəniz yoxdur'
+    poll_ended: 'Bu sorğu başa çatıb.'
+    public_poll: 'Baxış seçiciləri'
+    composer_discussion:
+      add_poll: 'Sorğu əlavə et'
+      edit_poll: 'Sorğunu düzəlt'
+    modal:
+      add_title: 'Anket əlavə et'
+      add_option_label: 'Seçim əlavə et'
+      edit_title: 'Sorğunu düzəlt'
+      include_question: 'Sual daxil etməlisiniz'
+      max: 'Maksimum 10 cavab ola bilərsiniz'
+      min: 'Minimum 2 cavab daxil etməlisiniz'
+      no_voters: 'Səs yoxdur'
+      option_placeholder: Cavab
+      image_option_placeholder: 'Rəsm URL-i (seçimli)'
+      options_label: Cavablar
+      public_poll_label: 'İnsanlara kimin səs verdiyini görməyə icazə verin'
+      allow_multiple_votes_label: 'İnsanlara bir neçə varianta səs verməyə icazə verin'
+      max_votes_label: 'Maks hər istifadəçiyə səs verir'
+      max_votes_help: 'İstifadəçilərin bütün variantlara səs vermələrinə imkan vermək üçün 0-a təyin edin.'
+      question_placeholder: Sual
+      submit: Göndərmək
+    moderation:
+      delete: 'Sorğunu Sil'
+      delete_confirm: 'Bu sorğunu silmək istədiyinizdən əminsiniz?'
+      edit: 'Sorğunu düzəlt'
+    tooltip:
+      badge: Sorğu
+    votes_modal:
+      title: Seçicilər
+fof-nightmode:
+  ref:
+    auto: 'Avtomatik (brauzer və ya cihaz seçimləri əsasında)'
+    light: 'Gün Modu'
+    dark: 'Gecə modu'
+  forum:
+    header:
+      nightmode_button: 'Gecə modu'
+    user:
+      settings: { heading: Tema, description: 'Forumda hansı rəng mövzusunu istifadə etmək istədiyinizi seçin.', description2: 'Bu mövzu hesabınızla əlaqəli olacaq və hər bir cihaz ayarları üçün aşağıdakı keçiddə keçməsəniz, bütün cihazlarınıza aiddir.', device_specific_setting_checkbox: 'Qurğu qurğuları üçün istifadə', device_specific_setting_checkbox_tooltip: 'Mövzu seçiminiz hər bir cihazınız üçün ayrı-ayrılıqda xilas olacaq.', auto_unsupported: 'Brauzeriniz avto qaranlıq rejimi dəstəkləmir.', option_descriptions: { auto: 'Mövzunuz avtomatik olaraq brauzeriniz və ya cihaz qurğularınız əsasında seçiləcək. Məsələn, əgər iOS-da qaranlıq rejiminiz varsa, forumlar da qaranlıq olacaq.', day: 'Alışdığınız klassik təcrübə. Sevilib sınanıb.', night: 'Bir az gecə bayquşsan. Gecələri foruma nəzarət edirsən, quşlar yatarkən, tülkülər isə ovlayır. Yoxsa sadəcə daha tünd rənglərə üstünlük verirsiniz!' }, options: { auto: 'Avtomatik (brauzer və ya cihaz seçimləri əsasında)', day: 'Gün Modu', night: 'Gecə modu' } }
+    day: 'Gün Modu'
+    night: 'Gecə modu'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Boş nota icazə verilmir.'
+    moderatorNotes:
+      add_button: 'Yeni qeyd'
+      create-heading: 'Yeni moderator qeydi yarat'
+      dismiss_button: 'Yerinə yetdi'
+      noNotes: 'Görünür, burada qeydlər yoxdur.'
+      submit_button: 'Qeyd qeydi qeyd et'
+      delete: Sil
+      confirm: 'Bu qeydi mütləq silmək istəyirsiniz?'
+    user:
+      notes: 'Moderator Qeydlər'
+  api:
+    no_reason_provided: 'Heç bir səbəb verilmir'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Səslər
+    vote_title: 'Kimin səs verib-göstərmədiyini göstər'
+    nav:
+      name: Sırala
+    ranking:
+      rank: Yer
+      name: İstifadəçi
+      amount: Nöqtələr
+    notification:
+      prefrences: { vote: 'Postlarımdan biri yuxarı/aşağı səs verəndə' }
+    user:
+      votes_link: Səslər
+    modal:
+      downvotes_label: 'Aşağı endiricilər:'
+      title: Seçicilər
+      upvotes_label: 'Upvoterlər:'
+    mod_item: 'Baxış Seçiciləri'
+    voters:
+      none: 'Hələ seçicilər yoxdur'
+      label: Seçicilər
+      label_none: 'Seçicilər yoxdur'
+    post:
+      upvote_button: 'Poçta yüklə'
+      downvote_button: 'Aşağıya aşağı sal'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Hazırda qurğularda nizamlı layihələr qeyri-fəaldır.'
+  ref:
+    schedule_draft: 'Cədvəl layihəsi'
+  forum:
+    composer:
+      title: 'Layihəni Qeyd Et'
+      saving: 'Qeyd Et...'
+      saved: Xilas!
+      exit_alert: 'Layihəyə edilən dəyişikliklərdən imtina edin?'
+      discard_empty_draft_alert: 'Boş layihəni atın'
+    dropdown:
+      empty_text: 'Sən heç bir draftı xilas etməmisən'
+      title: Layihə
+      delete_all_button: 'Bütün layihələri sil'
+      delete_button: 'Layihəni Sil'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Əminsinizmi ki, layihənizi silmək istəyirsiniz?'
+      delete_all_alert: 'Bütün layihələrinizi silmək istədiyinizdən əminsiniz?'
+      schedule_button: 'Cədvəl layihəsi'
+      tooltip: Layihə
+    schedule_draft_modal:
+      text: 'Daha sonra avtomatik olaraq yerləşdirmək üçün layihənizi planlaşdırın!'
+      unschedule_button: Sadtlaş
+      unschedule_warning: 'Əminsinizmi ki, bu layihəni alt-üst etmək istəyirsiniz?'
+      reschedule_button: Reschedule
+      schedule_button: Cədvəl
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Səhv tarix və/və ya vaxt'
+      title: 'Cədvəl layihəsi'
+    user:
+      settings: { drafts_heading: Layihə, draft_autosave_enable: 'Avtomatik Avtosaveni Fəallaşdır', draft_autosave_interval_label: 'Avtomatik Qeyd Aralığı (saniyə)', draft_autosave_interval_button: 'Yenilənmə Aralığı', draft_autosave_interval_invalid: 'Bu interval 4-dən böyük bir integer olmalıdır.' }
+fof-best-answer:
+  forum:
+    answered_badge: 'Cavab verdi'
+    this_best_answer: 'Ən yaxşı cavabı seçin'
+    remove_best_answer: 'Ən yaxşı cavabı unseect'
+    best_answer_button: 'Ən yaxşı cavab'
+    errors:
+      mismatch: 'Seçilmiş yazı bu müzakirədə mövcud deyil.'
+    notification:
+      content: 'Sualınız cavablandırılıbsa, zəhmət olmasa Ən Yaxşı Cavab seçin'
+      preferences: { awarded_best_answer: 'Kimsə mənim postumu ən yaxşı cavab kimi təyin edir', best_answer_in_discussion: 'İştirak etdiyim müzakirədə ən yaxşı cavab təyin olunub', select_best_answer: 'Başladığım müzakirədə ən yaxşı cavabı seçmək üçün avtomatlaşdırılmış xatırlatma' }
+    index:
+      ask_question: 'Sual verin'
+      cannot_ask_question: 'Sual vermək mümkün deyil'
+      solved_link: 'Həll edilmiş müzakirələr'
+      unsolved_link: 'Həll edilməmiş müzakirələr'
+    filter:
+      all_label: 'Bütün suallar'
+      solved_label: 'Həll edilmiş suallar'
+      unsolved_label: 'Həll olunmamış suallar'
+      accessible_label: 'Həll edilməmiş seçim'
+    composer:
+      titlePlaceholder: 'Sual başlığı'
+    search:
+      discussions_solutions_heading: 'Həll yolları ilə müzakirələr aparılır'
+    discussion:
+      jump_to_best_answer_button: 'Yadda saxla'
+  email:
+    subject:
+      select: 'Sorğunuzu cavab almaq üçün müraciət edirik?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Ən yaxşı cavablar'
+      least_best_answers: 'Ən az ən yaxşı cavablar'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Başqa heç kimə qadağa qoyulmayacaq'
+    user_badge:
+      banned_tooltip: 'Qadağan edildi'
+    ban_ip_button: 'Ban IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Ban
+      unban_button: Unban
+  error:
+    banned_ip_message: 'Səlahiyyət bacarılmadı.'
+    no_ips_found_message: 'İstifadəçi üçün IP(lər) tapılmadı.'
+  lib:
+    modal:
+      check_button: Yoxla
+      save_button: 'Qeyd Et'
+      ban_ip_confirmation: 'Əminsinizmi ki, bu IP ünvanının forumda istifadəsini əngəlləmək istəyirsiniz? Bu, bu IP ünvanı(es) olan istifadəçilərin giriş və qeydiyyatdan keçmələrinə mane olacaq.'
+      unban_ip_confirmation: 'Digər İp-lər tərəfindən qadağan olunmayan bu istifadəçini və bütün digər istifadəçiləri banlamaq istədiyinizdən əminsiniz?'
+      unban_ip_no_users: 'Daha heç kim tapılmaz,'
+      title: 'Ban IP(lər)i'
+      unban_title: 'Unban IP(lər)i'
+      address_label: 'IP Ünvanı'
+      reason_label: Səbəb
+      ban_button: Ban
+      unban_button: Unban
+  ref:
+    ban_label: Ban
+    ban_ip_addresses: 'Ban IP(lər)i'
+    ban_ip_button: 'Ban IP'
+    unban_label: Unban
+    unban_ip_addresses: 'Unban IP(lər)i'
+    unban_ip_button: 'Unban IP'
+    address_label: 'IP Ünvanı'
+    reason_label: Səbəb
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Qeydiyyatınızın təfərrüatları spamın qarşısının alınması məlumat bazasında tapılıb, buna görə də qeydiyyatınız bloklanıb.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Müzakirələri sil'
+      hard_delete_discussions_help: 'Bu istifadəçinin başladığı bütün müzakirələr həmişəlik silinəcək. Əlil olduqda onun əvəzinə müzakirələr gizlədiləcək.'
+      hard_delete_posts_label: 'Faylı sil (commit)'
+      hard_delete_posts_help: 'Bu istifadəçi tərəfindən edilmiş bütün yazıları (şərh, cavab və s.) birdəfəlik siləcəkdir. Əlil olduqda onun əvəzinə postlar gizlədiləcək.'
+      hard_delete_user_label: 'faylı sil'
+      hard_delete_user_help: 'Bu istifadəçini birdəfəlik siləcək. Əlil olduqda onun əvəzinə istifadəçi dayandırılacaq.'
+      intro: 'İstifadəçi spammer kimi işarələnərkən bir neçə hərəkət ediləcək. Bu sizin forumunuzda mövcud olan uzantılardan asılıdır.'
+      move_discussions_tag_label: 'Müzakirələri karantinli etiketə köçür'
+      move_discussions_tag_help: 'Bu istifadəçinin başladığı bütün müzakirələri forum ayarlarında qeyd etdiyiniz etiketə köçürəcək. Əlillər olduqda müzakirələr onların hazırkı teqlərində qalacaq.'
+      process_button: Gedişat
+      report_to_sfs_label: 'StopForumSpam-a raport'
+      report_to_sfs_help: 'Bununla da istifadəçinin əsas detalları (istifadəçi adı, e-mail, IP ünvanı) StopForumSpam-a məlumat veriləcək. Bu, istifadəçinin "StopForumSpam" xidmətindən istifadə edən digər forumlarda qeydiyyatdan keçməsinin qarşısını almağa kömək edəcək.'
+    user_controls:
+      spammer_button: Spamer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Müzakirə baxış sayını sıfırla'
+      submit: Göndərmək
+      label: 'Saya baxmaq üçün təyin'
+    discussion_controls:
+      resetviews_button: 'Baxış sayını təyin edin'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Qeyri-adi
+      sticky_button: Yapışqan
+    badge:
+      sticky_tooltip: Yapışqan
+  ref:
+    sticky: Yapışqan
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Qıfıllı
+    discussion_controls:
+      lock_button: Qıfılla
+      unlock_button: 'Kilidi aç'
+    settings:
+      notify_discussion_locked_label: 'Kimsə mənim başladığım müzakirəni qıfıllayıb'
+flarum-likes:
+  forum:
+    post:
+      like_link: Like
+      unlike_link: Fərqli
+      you_text: Sən
+    post_likes:
+      title: 'Bu like edən istifadəçilər'
+      load_more_button: 'Daha Çox Yüklə'
+    settings:
+      notify_post_liked_label: 'Mənim postlarımdan biri kiminsə xoşuna gəlir'
+    user:
+      likes_link: Bəyən
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Emoji daxil et'
+      type_to_search_text: 'Emoji axtarmaq üçün növ'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Məzmununz həddindən artıq böyükdür. Xahiş edirik, yazı ilə bağlı göstərişlərimizi oxuyun' }
+dhtml-persona:
+  forum:
+    persona: Kəs
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Lider lövhəsi'
+dhtml-gender:
+  forum:
+    male: Kişi
+    female: Qadın
+    other: 'Deməməyə üstünlük verin'
+    inputGender: Cins
+    saveButton: 'Qeyd Et'
+    clickToSelectGender: 'Cinsinizi seçin'
+    genderSaved: 'Cinslər uğurla xilas oldu!'
+    field_placeholder: 'Cinsiyyəti təsdiqlə'
+    binding_gender: 'Biz səni cinsini təyin etmədiyimizi aşkar etdik. Zəhmət olmasa, cinsinizi birinci təyin edin. Yalnız cinsinizi təyin etdikdən sonra mesaj yaza və buraxa bilərsiniz.'
+    binding_gender_click: 'İndi klikləyin'
+flarum-content-pages:
+  forum:
+    home: 'Ana səhifə'
+    about-us: Haqqımızda
+    guidelines: Bələdiyyələr
+    privacy-policy: 'Gizlilik Siyasəti'
+    terms-of-use: 'İstifadə müddəti'
+    contact-us: 'Bizimlə əlaqə saxlayın'
+    download-app: 'Proqram Yüklə'
+    discord-chat: 'Discord Chat'
+    tags-cloud: 'Etiketlər Bulud'
+    languages: Dillər
+    leaderboard: 'Lider lövhəsi'
+    live: Canlı
+    live-coding: 'Canlı Koding'
+    challenges: ' Challenge'
+    dev-challenges: Axtarış
+    jobs: Biznes
+    community: Qarabağ
+    dev-jobs: Haqqımızda
+    job-posting: İş
+    job-postings: 'İş Proqramları'
+    workshops: Tarix
+    dev-workshops: Haqqımızda
+    events: Elanlar
+    conferences: Konfrans
+    event-conferences: ' Events / Konfrans'
+    showcase: Elanlar
+    tags: Taqlar
+    more: 'Daha çox'
+    memberships: Qeydiyyat
+    members: Üzvlər
+    general-discussion: 'Baş müzakirə'
+    technology-articles: Texnologiya
+    coding-challenges: 'Coding Challenges'
+    q-a: Q/A
+    artificial-intelligence: Sifariş
+    computer-science: 'Kompüter Elmləri'
+    programming-languages: Proqramlar
+    development-tools: Proqramlar
+    software-development: Proqram
+    frontend-development: Qeydiyyat
+    backend-development: 'Daxili İnkişaf'
+    software-engineering: Proqramlar
+    cybersecurity: Sifariş
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Personaj sayğacı'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Doğum tarixi'
+      date_of_birth_text: 'Doğum günü'
+      submit_button: 'Dəyişiklikləri Qeyd Et'
+    settings:
+      change_dob_label: 'Doğum tarixini dəyiş'
+      show_dob_date_label: 'Doğum gününü və ayını göstər'
+      show_dob_year_label: 'Doğum ilini göstər'
+      show_dob_year_help: 'Bu, insanlara sizin yaşınızı görməyə imkan verəcək.'
+      dob_heading: 'Doğum günü'
+    nav:
+      nav_item: 'Bu günün Doğum Günləri'
+    edit_user:
+      dob_heading: 'Doğum günü'
+    sign_up:
+      dob_placeholder: 'Doğum günü'
+  api:
+    invalid_dob_message: 'Doğum tarixi'
+  ref:
+    date_of_birth: 'Doğum günü'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Emoji Piker'
+    search_placeholder: Axtar...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Müəllif və Tarix'
+    modal:
+      title-post: 'Post Müəllif və Tarix yaz'
+      title-discussion: 'Müzakirə Müəllifini və Tarixini Düzəlt'
+      user: 'Müəllif:'
+      created_at: 'Yaradılma vaxtı'
+      edited_at: Vaxt
+      sync-with-discussion: 'Müzakirə ilə sinxronla'
+      sync-with-post: 'İlk yazı ilə sinxronizasiya'
+      sync-impossible: 'İlk yazı tapıla bilmir. Müzakirənin əvvəlində nə isə etməyə çalış.'
+      submit: 'Qeyd Et'
+      cancel: 'Ləğv etmək'
+    search:
+      placeholder: 'İstifadəçiləri axtar'
+      type-more: 'Verilənlər bazasının axtarılması üçün 3-cü tip hərflər'
+      no-results: 'Nəticə yoxdur'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Zəngin Mətn Modu'
+      insert_button: 'Daxil Et'
+      insert_image: { src_placeholder: Bağla, title_placeholder: Başlıq }
+      insert_link: { text_placeholder: Mətn, href_placeholder: URL, title_placeholder: 'Başlıq (hover üzərində göstərilir)', remove_button: Sil }
+      additional_items_tooltip: 'Əlavə Tənzimləmələr'
+      code_block_tooltip: 'Kod blok daxil et'
+      horizontal_rule_tooltip: 'Üfüqi qaydanı daxil et'
+      image_tooltip: 'Şəkil əlavə et'
+      link_tooltip: 'Körpü əlavə et'
+      spoiler_block_tooltip: 'Blok Spoiler/Dropdown'
+      strike_tooltip: 'Qırtlağ <alt-shift-5>'
+      text_type_tooltip: 'Mətn Növünü Seç'
+  forum:
+    settings:
+      composer_heading: Bəstəkar
+      use_rich_text_editor_label: 'Zəngin mətn redaktorundan istifadə edin?'
+      rich_text_compact_paragraphs_label: 'Abzasları yeni sətirlərlə ayırmayın.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Sizin itələmə bildirişləriniz var, lakin bu avadanlığı konfiqurasiya etməmişsiniz.'
+      optin_button: Quraşdır
+    discussion_controls:
+      share_button: Paylaş
+    post_controls:
+      share_button: Paylaş
+    user_controls:
+      share_button: Paylaş
+    settings:
+      push_header: Sıxışdır
+      pwa_notifications: { access_default: 'Brauzer məhdudiyyətləri səbəbiylə bu cihazda itələmə bildirişlərini almaq üçün mütləq içəriyə müraciət etməlisiniz.', access_default_button: 'Opt In', access_denied: 'Bu cihazda itələmə bildirişlərini almaq üçün brauzer ayarlarınızı düzəltmalısınız.', access_denied_button: 'Necə?', no_browser_support: 'Bu brauzer mütərəqqi veb proqramları üçün push bildirişlərini dəstəkləmir.', no_browser_support_button: 'Daha çox öyrənin' }
+  views:
+    offline:
+      header: 'Şəbəkə bağlantısı xətası'
+      text: 'Bu proqram şəbəkə bağlantısı tələb edir; offline istifadə edilə bilməz. Zəhmət olmasa əlaqənizi yoxlayın.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'İstifadəçini xəbərdar etmək'
+    user:
+      warnings: 'Moderator xəbərdarlıqları'
+    settings:
+      warning_notification_label: 'Moderator xəbərdarlıq edir'
+    validation:
+      public_comment_required: 'Siz ən çox ictimai şərh verirsiniz.'
+      invalid_strike_count: 'Vuruşların sayı 0 ilə 5 arasında inteqr olmalıdır.'
+    warning_controls:
+      delete_button: Sil
+      restore_button: Bərpa
+      delete_forever_button: 'Birdəfəlik Sil'
+    warning_list:
+      add_button: 'Yeni xəbərdarlıq'
+      no_warnings: 'Görünür, burada heç bir xəbərdarlıq yoxdur.'
+      warnings_no_strikes: 'Moderatordan xəbərdarlıq: Zərbə alan olmadı'
+    warning_list_item:
+      public_comment: Xəbərdarlıq
+      private_comment: 'Moderator-Kürən Şərhlər'
+      linked_post: 'Bağlı Poçt'
+    warning_modal:
+      confirmation_message: '(Allahın əzabı ilə) sənə qorxudan (xəbərdarlıq et). Səhifəni görmək üçün onu təzələmək lazım gələ bilər.'
+      strikes_heading: 'Neçə zərbə tətbiq olunmalıdır?'
+      submit_button: 'Xəbərdarlığı qeyd et'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Cavab şablonuna düzəliş et'
+    reply_template:
+      title: 'Cavab şablonuna düzəliş et'
+      submit_button: 'Cavab şablonu qeyd et'

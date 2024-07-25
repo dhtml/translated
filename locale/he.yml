@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'הסיסמה שהזנת שגויה.'
+      confirm_password_placeholder: 'אשר סיסמה'
+      dismiss_button: אוקיי
+      submit_button: 'שמירת שינויים'
+      title: 'שינוי דוא"ל'
+    change_password:
+      send_button: 'שלח דוא"ל איפוס סיסמה'
+      text: 'לחץ על הלחצן למטה ובדוק את הדוא"ל שלך עבור קישור לשינוי הסיסמה שלך.'
+      title: 'שינוי סיסמה'
+    composer:
+      close_tooltip: קרוב
+      exit_full_screen_tooltip: 'יציאה ממסך מלא'
+      full_screen_tooltip: 'מסך מלא'
+      minimize_tooltip: למזער
+      preview_tooltip: 'תצוגה מקדימה'
+    composer_discussion:
+      body_placeholder: 'כתוב פוסט...'
+      discard_confirmation: 'לא פרסמת את הדיון שלך. האם ברצונך להשליך אותו?'
+      submit_button: 'לאחר דיון'
+      title_placeholder: 'כותרת הדיון'
+      title: 'התחלת דיון'
+    composer_edit:
+      discard_confirmation: 'לא שמרת את השינויים שלך. האם ברצונך להשליך אותם?'
+      edited_message: 'העריכה שלך בוצעה.'
+      submit_button: 'שמירת שינויים'
+      view_button: נוף
+    composer_reply:
+      discard_confirmation: 'לא פרסמת את תשובתך. האם ברצונך להשליך אותו?'
+      posted_message: 'תשובתך פורסמה.'
+      submit_button: 'פרסם תגובה'
+      body_placeholder: 'כתוב תגובה...'
+      view_button: נוף
+    discussion_controls:
+      cannot_reply_button: 'לא ניתן להשיב'
+      cannot_reply_text: 'אין לך רשות להשיב לדיון הזה.'
+      delete_confirmation: 'אתה בטוח שאתה רוצה למחוק את הדיון הזה?'
+      log_in_to_reply_button: 'התחבר כדי להשיב'
+      toggle_dropdown_accessible_label: 'החלפת מצב של תפריט נפתח של פעולות דיון'
+      delete_button: למחוק
+      delete_forever_button: 'מחק לנצח'
+      rename_button: לשנות
+      reply_button: ענה
+      restore_button: לשחזר
+    discussion_list:
+      empty_text: 'נראה כאילו אין כאן דיונים.'
+      load_more_button: 'טען עוד'
+    forgot_password:
+      email_sent_message: 'אם הדוא"ל שאתה נכנס נרשם עם אתר זה, אנו נשלח לך דוא"ל המכיל קישור כדי לאפס את הסיסמה שלך. בדוק את תיקיית הספאם שלך אם אתה לא מקבל את זה בדקה או שתיים.'
+      not_found_message: 'אין משתמש רשום בכתובת הדואר האלקטרוני.'
+      submit_button: 'לשחזר את הסיסמה'
+      text: 'הזן את כתובת הדואר האלקטרוני שלך ואנחנו נשלח לך קישור כדי לאפס את הסיסמה שלך.'
+      title: 'שכח סיסמה'
+      dismiss_button: אוקיי
+      email_placeholder: 'דואר אלקטרוני'
+    header:
+      admin_button: מינהל
+      back_to_index_tooltip: 'חזרה לרשימת הדיונים'
+      locale_dropdown_accessible_label: 'שינוי אזור פורום'
+      profile_button: פרופיל
+      search_clear_button_accessible_label: 'ניקוי שאילתת חיפוש'
+      search_placeholder: 'חפש פורום'
+      search_role_label: 'חפש פורום'
+      session_dropdown_accessible_label: 'התפריט הנפתח Toggle session options'
+      log_in_link: כנס
+      log_out_button: התנתקות
+      settings_button: הגדרות
+      sign_up_link: הירשם
+    index:
+      cannot_start_discussion_button: 'לא ניתן להתחיל דיון'
+      mark_all_as_read_confirmation: 'האם אתה בטוח שברצונך לסמן את כל הדיונים כדיונים שנקראו?'
+      refresh_tooltip: לרענן
+      toggle_sidenav_dropdown_accessible_label: 'החלפת תפריט נפתח של ניווט'
+      all_discussions_link: 'כל הדיונים'
+      mark_all_as_read_tooltip: 'סמן הכל כנקרא'
+      meta_title_text: 'כל הדיונים'
+      start_discussion_button: 'התחלת דיון'
+    index_sort:
+      latest_button: האחרונה
+      newest_button: החדש
+      oldest_button: הבכור
+      relevance_button: רלוונטיות
+      toggle_dropdown_accessible_label: 'שינוי מיון רשימת דיונים'
+      top_button: סביבון
+      hot_button: טרנדים
+      votes_button: 'הצבעות בעד'
+      front_button: FrontPage
+      popular_button: פופולרי
+      unpopular_button: פופולרי
+    log_in:
+      forgot_password_link: 'שכחת סיסמא?'
+      invalid_login_message: 'פרטי הכניסה שלך היו שגויים.'
+      remember_me_label: 'זכור אותי'
+      sign_up_text: 'אין לך חשבון? <a>הירשם</a>'
+      username_or_email_placeholder: 'שם משתמש או דוא"ל'
+      password_placeholder: סיסמה
+      submit_button: כנס
+      title: כנס
+    notifications:
+      delete_all_confirm: 'האם אתה בטוח שברצונך למחוק את כל ההתראות? פעולה זו אינה הפיכה'
+      delete_all_tooltip: 'מחיקת כל ההודעות'
+      empty_text: 'אין התראות'
+      mark_as_read_tooltip: 'סמן כנקרא'
+      toggle_dropdown_accessible_label: 'הצגת הודעות'
+      mark_all_as_read_tooltip: 'סמן הכל כנקרא'
+      title: הודעות
+      tooltip: הודעות
+    post:
+      edited_text: נערך
+    post_controls:
+      delete_confirmation: 'האם אתה בטוח שאתה רוצה למחוק את הפוסט הזה לנצח? לא ניתן לבטל פעולה זו.'
+      hide_confirmation: 'האם אתה בטוח שברצונך למחוק את הפוסט הזה?'
+      toggle_dropdown_accessible_label: 'התפריט הנפתח Toggle post controls'
+      push_to_front_button: 'דחיפה ל- FrontPage'
+      pull_from_front_button: 'משיכה מ- FrontPage'
+      delete_button: למחוק
+      delete_forever_button: 'מחק לנצח'
+      edit_button: עריכה
+      restore_button: לשחזר
+    post_scrubber:
+      now_link: כעת
+      original_post_link: 'פוסט מקורי'
+    post_stream:
+      load_more_button: 'טען עוד'
+      reply_placeholder: 'כתוב תגובה...'
+    rename_discussion:
+      title: 'שינוי שם דיון'
+      submit_button: לשנות
+    search:
+      discussions_heading: דיונים
+      users_heading: משתמשים
+    security:
+      cannot_terminate_current_session: 'אין אפשרות לסיים את ההפעלה הפעילה הנוכחית. התנתק במקום זאת.'
+      created: שנוצרו
+      current_active_session: 'הפעלה פעילה נוכחית'
+      developer_tokens_heading: 'אסימונים למפתחים'
+      empty_text: 'נראה שאין מה לראות כאן.'
+      global_logout: { heading: 'התנתקות גלובלית', help_text: 'מנקה את הפעלת קובצי ה-Cookie הנוכחית, מסיים את כל ההפעלות, מבטל אסימוני מפתח ומבטל את תוקפם של הודעות דוא"ל לאישור דוא"ל או איפוס סיסמה.', log_out_button: התנתקות }
+      hide_access_token: 'הסתר אסימון'
+      last_activity: 'פעילות אחרונה'
+      new_access_token_modal: { submit_button: 'צור אסימון', title_placeholder: כותר, title: 'אסימון חדש' }
+      revoke_access_token: לבטל
+      sessions_heading: 'הפעלות פעילות'
+      session_termination_failed: 'אירעה שגיאה בעת סיום ההפעלות.'
+      show_access_token: 'אסימון תצוגה'
+      terminate_all_other_sessions: 'סיום כל המפגשים האחרים'
+      terminate_session: לסיים
+      token_revoked: 'האסימון בוטל.'
+      token_title_placeholder: /
+      never: 'אף פעם'
+      new_access_token_button: 'אסימון חדש'
+      revoke_access_token_confirmation: 'האם אתה בטוח שאתה רוצה להמשיך? לא ניתן לבטל פעולה זו.'
+      terminate_all_other_sessions_confirmation: 'האם אתה בטוח שאתה רוצה להמשיך? לא ניתן לבטל פעולה זו.'
+      title: ביטחון
+    settings:
+      account_heading: חשבון
+      notify_by_web_heading: אינטרנט
+      notify_discussion_renamed_label: 'מישהו משנה שם לדיון שהתחלתי'
+      privacy_disclose_online_label: 'אפשר לאחרים לראות מתי אני במצב מקוון'
+      privacy_heading: פרטיות
+      change_email_button: 'שינוי דוא"ל'
+      change_password_button: 'שינוי סיסמה'
+      notifications_heading: הודעות
+      notify_by_email_heading: 'דואר אלקטרוני'
+      title: הגדרות
+    sign_up:
+      log_in_text: 'כבר יש לך חשבון? <a>כנס</a>'
+      dismiss_button: אוקיי
+      email_placeholder: 'דואר אלקטרוני'
+      password_placeholder: סיסמה
+      submit_button: הירשם
+      title: הירשם
+      username_placeholder: 'שם משתמש'
+    user:
+      avatar_upload_button: העלאה
+      avatar_upload_tooltip: 'העלאת אוואטאר חדש'
+      online_text: מקוון
+      posts_empty_text: 'נראה שאין כאן פוסטים.'
+      avatar_remove_button: להסיר
+      discussions_link: דיונים
+      posts_link: הצבות
+      posts_load_more_button: 'טען עוד'
+      security_link: ביטחון
+      settings_link: הגדרות
+    user_controls:
+      button: פקדים
+      delete_confirmation: 'האם אתה בטוח שברצונך למחוק משתמש זה? הפוסטים של המשתמש לא יימחקו.'
+      toggle_dropdown_accessible_label: 'התפריט הנפתח Toggle user controls'
+      delete_button: למחוק
+      edit_button: עריכה
+    user_email_confirmation:
+      resend_button: 'שליחה חוזרת של דוא"ל אישור'
+      sent_message: שלח
+    welcome_hero:
+      hide: 'הסתרת הודעת ברכה'
+    badge:
+      frontpage_tooltip: 'מסומן כ- FrontPage'
+  lib:
+    debug_button: 'איתור באגים'
+    alert:
+      dismiss_a11y_label: 'ביטול התראה'
+    badge:
+      hidden_tooltip: מוסתרים
+    dropdown:
+      toggle_dropdown_accessible_label: 'תפריט נפתח דו-מצבי'
+    edit_user:
+      activate_button: 'הפעלת משתמש'
+      groups_heading: קבוצות
+      set_password_label: 'הגדר סיסמה חדשה'
+      nothing_available: 'אינך רשאי לערוך משתמש זה.'
+      email_heading: 'דואר אלקטרוני'
+      email_label: 'דואר אלקטרוני'
+      password_heading: סיסמה
+      password_label: סיסמה
+      submit_button: 'שמירת שינויים'
+      title: 'ערוך משתמש'
+      username_heading: 'שם משתמש'
+      username_label: 'שם משתמש'
+    error:
+      generic_message: 'אופס! משהו השתבש. טען מחדש את הדף ונסה שוב.'
+      generic_cross_origin_message: 'אופס! משהו השתבש במהלך בקשה צולבת מקורות. טען מחדש את הדף ונסה שוב.'
+      not_found_message: 'המשאב המבוקש לא נמצא.'
+      payload_too_large_message: 'מטען הבקשה היה גדול מדי.'
+      permission_denied_message: 'אין לך רשות לעשות זאת.'
+      rate_limit_exceeded_message: 'אתה הולך קצת מהר מדי. נסה שוב בעוד מספר שניות.'
+      render_failed_message: 'מצטערים, נתקלנו בשגיאה בעת הצגת תוכן זה. אם אתה משתמש, נסה שוב מאוחר יותר. אם אתה מנהל מערכת, עיין בקבצי יומן הרישום של Flarum לקבלת מידע נוסף.'
+    modal:
+      close: קרוב
+    nav:
+      drawer_button: 'פתיחת מגירת ניווט'
+    loading_indicator:
+      accessible_label: טעינת...
+  views:
+    confirm_email:
+      text: 'לחץ על הלחצן למטה כדי לאשר את כתובת הדוא"ל של חשבונך.'
+      submit_button: 'אשר דוא"ל'
+      title: 'אשר דוא"ל'
+    content:
+      javascript_disabled_message: 'אתר זה מוצג בצורה הטובה ביותר בדפדפן מודרני עם JavaScript מופעל.'
+      load_error_message: 'משהו השתבש בעת ניסיון לטעון את הגרסה המלאה של אתר זה. נסה לרענן דף זה כדי לתקן את השגיאה.'
+      loading_text: טעינת...
+    error:
+      csrf_token_mismatch: 'היית לא פעיל יותר מדי זמן.'
+      csrf_token_mismatch_return_link: 'חזור, כדי לנסות שוב'
+      invalid_confirmation_token: 'קישור אישור זה כבר נמצא בשימוש או שאינו חוקי.'
+      not_authenticated: 'אין לך הרשאה לגשת לדף זה. נסה שוב לאחר הכניסה.'
+      not_found: 'הדף שביקשת לא נמצא.'
+      permission_denied: 'אין לך הרשאה לגשת לדף זה.'
+      unknown: 'אירעה שגיאה בעת ניסיון לטעון דף זה.'
+    log_out:
+      log_out_button: התנתקות
+      title: התנתקות
+    reset_password:
+      confirm_password_label: 'אשר סיסמה חדשה'
+      new_password_label: 'סיסמה חדשה'
+      submit_button: 'שמירת שינויים'
+      title: 'אפס את הסיסמה שלך'
+    discussion:
+      next_page_button: 'העמוד הבא'
+      previous_page_button: 'לעמוד הקודם'
+    index:
+      all_discussions_heading: 'כל הדיונים'
+      next_page_button: 'העמוד הבא'
+      previous_page_button: 'לעמוד הקודם'
+  api:
+    invalid_username_message: 'שם המשתמש יכול להכיל רק אותיות, מספרים ומקפים.'
+  email:
+    activate_account:
+      subject: 'הפעל את החשבון החדש שלך'
+    confirm_email:
+      subject: 'אשר את כתובת הדוא"ל החדשה שלך'
+    reset_password:
+      subject: 'אפס את הסיסמה שלך'
+    send_test:
+      subject: 'בדיקת דוא"ל Flarum'
+  ref:
+    all_discussions: 'כל הדיונים'
+    change_email: 'שינוי דוא"ל'
+    change_password: 'שינוי סיסמה'
+    color: צבע
+    confirm_password: 'אשר סיסמה'
+    confirm_email: 'אשר דוא"ל'
+    custom_footer_text: 'הוסף HTML שיוצג בתחתית הדף.'
+    custom_footer_title: 'עריכת כותרת תחתונה מותאמת אישית'
+    custom_header_text: 'הוסף HTML שיוצג בחלק העליון של הדף, מעל הכותרת של Flarium עצמו.'
+    custom_header_title: 'עריכת כותרת עליונה מותאמת אישית'
+    delete: למחוק
+    delete_forever: 'מחק לנצח'
+    discussions: דיונים
+    edit: עריכה
+    edit_user: 'ערוך משתמש'
+    email: 'דואר אלקטרוני'
+    extensions: הרחבות
+    generic_confirmation_message: 'האם אתה בטוח שאתה רוצה להמשיך? לא ניתן לבטל פעולה זו.'
+    icon: סמל
+    load_more: 'טען עוד'
+    loading: טעינת...
+    log_in: כנס
+    log_out: התנתקות
+    mark_all_as_read: 'סמן הכל כנקרא'
+    never: 'אף פעם'
+    new_token: 'אסימון חדש'
+    next_page: 'העמוד הבא'
+    notifications: הודעות
+    okay: אוקיי
+    password: סיסמה
+    posts: הצבות
+    previous_page: 'לעמוד הקודם'
+    remove: להסיר
+    rename: לשנות
+    reply: ענה
+    reset_your_password: 'אפס את הסיסמה שלך'
+    restore: לשחזר
+    save_changes: 'שמירת שינויים'
+    search_users: 'חיפוש משתמשים'
+    security: ביטחון
+    settings: הגדרות
+    sign_up: הירשם
+    start_a_discussion: 'התחלת דיון'
+    username: 'שם משתמש'
+    users: משתמשים
+    view: נוף
+    write_a_reply: 'כתוב תגובה...'
+    you: אתה
+  group:
+    admin: 'מנהל מערכת'
+    admins: מנהלים
+    guest: אורח
+    guests: האורחים
+    member: חבר
+    members: חברים
+    mod: באופן
+    mods: אופנות
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'כל התגיות'
+      meta_title_text: תגיות
+    choose_tags:
+      title: 'בחר תגיות עבור הדיון שלך'
+    discussion_controls:
+      edit_tags_button: 'עריכת תגים'
+    header:
+      back_to_tags_tooltip: 'חזרה לרשימת התגים'
+    index:
+      more_link: עוד...
+      untagged_link: מתויגות
+      tags_link: תגיות
+    composer_discussion:
+      choose_tags_link: 'בחר תגיות'
+  lib:
+    deleted_tag_text: שנמחקו
+    tag_selection_modal:
+      bypass_requirements: 'עקיפת דרישות תג'
+      submit_button: אוקיי
+      title: 'בחר תגיות'
+  ref:
+    choose_tags: 'בחר תגיות'
+    name: שם
+    tags: תגיות
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'אזכור משתמש, קבוצה או פוסט'
+    mentioned_by:
+      title: 'תגובות לפוסט זה'
+      load_more_button: 'טען עוד'
+    post:
+      quote_button: 'הצעת מחיר'
+      reply_link: ענה
+      you_text: אתה
+    settings:
+      notify_post_mentioned_label: 'מישהו מגיב לאחד הפוסטים שלי'
+      notify_user_mentioned_label: 'מישהו מזכיר אותי בפוסט'
+      notify_group_mentioned_label: 'מישהו מזכיר קבוצה שאני חבר בה בפוסט'
+    user:
+      mentions_link: מזכיר
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'בטל מעקב'
+      unignore_button: 'לא אדוני'
+      follow_button: בצע
+    settings:
+      follow_after_reply_label: 'מעקב אוטומטי אחר דיונים שאני משיב להם'
+      notify_for_all_posts_label: 'הודע על כל הודעה חדשה במקום רק על האחרונה בדיון'
+      notify_new_post_label: 'מישהו מפרסם בדיון שאני עוקב אחריו'
+    sub_controls:
+      following_text: 'קבל הודעה על כל התשובות.'
+      ignoring_text: 'לעולם אל תקבל הודעה. הסתר מרשימת הדיון.'
+      not_following_button: 'לא עוקב'
+      not_following_text: 'קבל הודעה רק כאשר @mentioned.'
+      notify_alert_tooltip: 'קבל הודעה בפורום כאשר יש הודעות חדשות'
+      notify_email_tooltip: 'קבלת דוא"ל כשיש פוסטים חדשים'
+      follow_button: בצע
+      following_button: הבאה
+      ignoring_button: מתעלם
+    badge:
+      following_tooltip: הבאה
+      ignoring_tooltip: מתעלם
+    following:
+      meta_title_text: הבאה
+    index:
+      following_link: הבאה
+  ref:
+    follow: בצע
+    following: הבאה
+    ignoring: מתעלם
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'תודה שסימנת את הפוסט הזה. המנהלים שלנו יבדקו את זה.'
+      reason_inappropriate_label: הולם
+      reason_inappropriate_text: 'פוסט זה פוגעני, פוגעני או מפר את <a>הנחיות הקהילה</a> שלנו.'
+      reason_missing_message: 'אנא ספקו כמה פרטים עבור המנחים שלנו.'
+      reason_off_topic_label: 'מחוץ לנושא'
+      reason_off_topic_text: 'פוסט זה אינו רלוונטי לדיון הנוכחי ויש להעבירו למקום אחר.'
+      reason_other_label: 'אחר (נא לפרט)'
+      reason_spam_label: 'דואר זבל'
+      reason_spam_text: 'פוסט זה הוא פרסומת.'
+      dismiss_button: אוקיי
+      submit_button: 'פוסט דגל'
+      title: 'פוסט דגל'
+    flagged_posts:
+      empty_text: 'בלי דגלים'
+      title: 'פוסטים המסומנים בדגל'
+      tooltip: 'פוסטים המסומנים בדגל'
+    post:
+      dismiss_flag_button: 'ביטול דגל'
+    post_controls:
+      flag_button: דגל
+  ref:
+    flag_post: 'פוסט דגל'
+    flagged_posts: 'פוסטים המסומנים בדגל'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'הושעיתם ללא הגבלת זמן'
+      user_unsuspended_text: 'לא הושעיתם'
+    suspension_info:
+      dismiss_button: בטל
+      indefinite: 'מדובר בהשעיה ללא הגבלת זמן'
+      title: 'חשבון זה מושעה'
+    suspend_user:
+      display_message: 'הודעת תצוגה למשתמש'
+      indefinitely_label: 'מושעה ללא הגבלת זמן'
+      limited_time_days_text: ' ימים'
+      limited_time_label: 'מושעה לזמן מוגבל...'
+      not_suspended_label: 'לא מושעה'
+      placeholder_optional: אופציונלי
+      reason: 'סיבת ההשעיה'
+      status_heading: 'סטטוס השעיה'
+      submit_button: 'שמירת שינויים'
+    user_badge:
+      suspended_tooltip: מושעה
+    user_controls:
+      suspend_button: להשעות
+  email:
+    no_reason_given: 'לא נמסרה סיבה להשעיה זו.'
+    suspended:
+      subject: 'החשבון שלך הושעה'
+    unsuspended:
+      subject: 'החשבון שלך לא הושעה'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'כל הקבצים שהועלו על ידי המשתמש.', anonymize_description: 'מסיר את הפניית המשתמש מהקבצים שהועלו. הקבצים עצמם נשארים נגישים למשתמשים שיכולים להציג אותם לפני אנונימיזציה.', delete_description: 'מחיקת כל הקבצים שהועלו על-ידי המשתמש.' }
+      tagsubscription: { export_description: 'מייצא פרטים של רמת המנוי עבור תגית, אם קיימת.', anonymize_description: 'הסרת המנוי של המשתמש לתג.' }
+      followuser: { export_description: 'מייצא פרטים של משתמשים שעקבו אחריהם ומשתמשים שעוקבים אחריהם.', delete_description: 'מחיקת כל הנתונים הקשורים למשתמשים הבאים.', anonymize_description: 'מחיקת כל הנתונים הקשורים למשתמשים הבאים.' }
+      bannedipdata: { export_description: 'אם רשומת חסימת IP משויכת למשתמש (כלומר, המשתמש נחסם על ידי IP), כתובת ה- IP של המשתמש תיכלל בייצוא, יחד עם הסיבה לחסימה ותאריך היצירה.', anonymize_description: 'כל כתובות ה- IP המקושרות למשתמש מנותקות, אך ה- IP עצמו יישאר אסור, יחד עם הסיבה. ודא שלא נשמרים נתוני PII בשדה ''סיבה''.' }
+fof-upload:
+  forum:
+    media_manager: 'מנהל מדיה'
+    buttons:
+      attach: צרף
+      upload: העלאה
+      upload_shared: משותף
+      user_uploads: 'העלאות משתמשים'
+      cancel: ביטל
+      media: 'המדיה שלי'
+      shared_media: 'מדיה משותפת'
+    states:
+      error: שגיאה
+      loading: העלאת
+      unauthorized: 'אינך רשאי להוריד קבצים'
+    text_preview:
+      expand: 'הרחבת התצוגה המקדימה'
+      collapse: 'כווץ תצוגה מקדימה'
+      error: "שגיאה בתצוגה מקדימה של הקובץ. ייתכן שהוא נמחק, או שמזהה הקובץ שסופק אינו חוקי.\n"
+      no_snippet_preview: '<תצוגה מקדימה תופיע כאן לאחר הפרסום>'
+      no_snippet: '<אין מקטע תצוגה מקדימה זמין>'
+  api:
+    upload_errors:
+      forbidden_type: 'העלאת קבצים מסוג זה אסורה.'
+      could_not_detect_mime: 'לא היתה אפשרות לזהות את סוג MIME של קובץ זה, נסה שוב.'
+      max_upload_file_size_ini: 'העלה מגבלת גודל קובץ מקסימלית שהושגה מ- php.ini.'
+      max_upload_file_size_form: 'העלה מגבלת גודל קובץ מקסימלית שהושגה מהטופס.'
+      partial_upload: 'העלאה חלקית.'
+      no_file_uploaded: 'לא הועלה קובץ.'
+      no_upload_tmp_folder: 'אין תיקיית tmp להעלאת קבצים.'
+      cannot_write_to_disk: 'אין אפשרות לכתוב לדיסק.'
+      upload_blocked_by_php_extension: 'תוסף PHP חסם את ההעלאה.'
+  lib:
+    upload-shared-file-modal:
+      title: 'קובץ משותף חדש'
+      dropzone: 'גרור ושחרר קבצים לכאן או לחץ כדי לדפדף'
+      hide-from-media-gallery: 'הסתרה מגלריית המדיה של המשתמש'
+      upload: העלאה
+    file_list:
+      loading: 'טוען קבצים...'
+      empty: 'אין קבצים להצגה.'
+      release_to_upload: 'הפצה להעלאה'
+      modal_empty_desktop: 'רשימת הקבצים שלך ריקה. לחץ על הלחצן או גרור קובץ לכאן כדי להעלות.'
+      modal_empty_phone: 'רשימת הקבצים שלך ריקה. הקש על הלחצן למעלה כדי להעלות קובץ.'
+      load_more_files_btn: 'טעינת קבצים נוספים'
+      hide_file: { hide_success: 'קובץ מוסתר', show_success: 'הקובץ מוצג', loading: 'הסתרת קובץ...' }
+      hide_shared_file: { hide_success: 'הקובץ הפך לפרטי', show_success: 'הקובץ הפך לציבורי', loading: 'הפיכת הקובץ לפרטי...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: כתב
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'הוספת טקסט מודגש'
+      code_tooltip: 'הוספת קוד'
+      header_tooltip: 'הוספת טקסט כותרת עליונה'
+      image_tooltip: 'הוספת תמונה'
+      italic_tooltip: 'הוספת טקסט נטוי'
+      link_tooltip: 'הוספת קישור'
+      ordered_list_tooltip: 'הוספת רשימה ממוספרת'
+      quote_tooltip: 'הוספת הצעת מחיר'
+      spoiler_tooltip: 'הכניסו ספוילר'
+      strikethrough_tooltip: 'הוספת טקסט קו חוצה'
+      unordered_list_tooltip: 'הוספת רשימה עם תבליטים'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'מישהו יוצר דיון בתגית שאני עוקב אחריה'
+      notify_new_post_label: 'מישהו מפרסם בתיוג שאני עוקב אחריו'
+      notify_new_discussion_tag_label: 'מישהו מתייג מחדש דיון לתגית שאני עוקב אחריה'
+    index:
+      follow_tag_button: בצע
+      unfollow_tag_button: 'הפסק לעקוב'
+      following: { following_none_label: 'דיונים עוקבים', following_tags_label: 'תגיות במעקב' }
+    badge:
+      following_tag_tooltip: הבאה
+      lurking_tag_tooltip: אורב
+    sub_controls:
+      following_text: 'קבל הודעה על כל הדיונים החדשים.'
+      hiding_text: 'הסתר דיונים מהדף ''כל הדיונים''.'
+      ignoring_text: 'לעולם אל תקבל הודעה.'
+      lurking_text: 'קבל הודעה על כל הדיונים והתשובות החדשים.'
+      not_following_button: 'לא עוקב'
+      not_following_text: 'קבל הודעה רק כאשר @mentioned.'
+      notify_alert_tooltip: 'קבל הודעה בפורום כאשר יש דיונים או הודעות חדשות'
+      notify_email_tooltip: 'קבלת דואר אלקטרוני כאשר יש דיונים או פוסטים חדשים'
+      submit_button: 'אישור מנוי'
+      follow_button: בצע
+      following_button: הבאה
+      hiding_button: מסתיר
+      ignoring_button: מתעלם
+      lurking_button: אורב
+    user:
+      settings: { heading: 'עקוב אחר תגיות', filter_label: 'מה להציג כברירת מחדל בדף הבא' }
+  ref:
+    follow: בצע
+    following: הבאה
+    hiding: מסתיר
+    ignoring: מתעלם
+    lurking: אורב
+    filtering_options:
+      none: 'דיונים עוקבים'
+      tags: 'תגיות במעקב'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'כינוי זה אינו תקף. אנא צור קשר עם מנהל הפורום שלך לקבלת מידע נוסף על כללי כינויים.'
+  ref:
+    change_nickname: 'שינוי כינוי'
+    nickname: כינוי
+  forum:
+    change_nickname:
+      submit_button: 'שמירת שינויים'
+      title: 'שינוי כינוי'
+    edit_user:
+      nicknames_heading: 'שינוי כינוי'
+      nicknames_text: כינוי
+    settings:
+      change_nickname_button: 'שינוי כינוי'
+    sign_up:
+      nickname_placeholder: כינוי
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'חשבונות מקושרים', last-used-label: 'שימוש אחרון', link-created-label: 'הקישור נוצר', orphaned-account: 'נכנסת דרך ספק זה בעבר, אך פורום זה השבית את הכניסה באמצעות שיטה זו מאז.', help: 'חשבונות מקושרים אלה מאפשרים לך להיכנס לפורום באמצעות ספקים אחרים.' } }
+    signup:
+      username_help: 'אנא בחר שם משתמש שיכיר אותך כאן'
+    unlink: 'הסר קישור'
+    error:
+      bad_verification_code: 'אסימון אימות לא חוקי או שפג תוקפו. נסה שוב.'
+      invalid_state: 'מצב לא חוקי. נסה שוב.'
+    providers:
+      discord: דיסקורד
+      facebook: פייסבוק
+      github: גיטהאב
+      gitlab: GitLab
+      google: גוגל
+      linkedin: לינקדאין
+      twitter: טוויטר
+  lib:
+    providers:
+      discord: דיסקורד
+      facebook: פייסבוק
+      github: גיטהאב
+      gitlab: GitLab
+      twitter: טוויטר
+      google: גוגל
+      linkedin: לינקדאין
+  ref:
+    settings:
+      app_id: 'מזהה אפליקציה'
+      app_secret: 'סוד האפליקציה'
+      client_id: 'מזהה לקוח'
+      client_secret: 'סוד הלקוח'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'התחבר כמשתמש אחר'
+      placeholder_optional: '(אופציונלי) ספק את הסיבה שלך למעבר למשתמש זה'
+      placeholder_required: 'עליך לספק את הסיבה שלך למעבר למשתמש זה לפני שתמשיך'
+    user_controls:
+      impersonate_button: 'התחבר כמשתמש'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'דיון פרטי' }
+    buttons:
+      add_recipients: נמענים
+      submit: אוקיי
+      edit_recipients: 'עריכת נמענים'
+      cancel: ביטל
+      make_public: 'הפוך דיון זה לציבורי'
+      remove_from_discussion: 'עזבו את הדיון הפרטי הזה'
+    composer_private_discussion:
+      submit_button: 'פוסט דיון פרטי'
+      title_placeholder: 'כותרת דיון פרטי'
+    confirm:
+      make_public: 'האם אתה בטוח שברצונך להסיר את הנמענים ולהפוך דיון זה לגלוי לכל מי שיכול להציג את התגית שהוקצתה?'
+    nav:
+      start_button: 'דיון פרטי'
+      nav_item: 'דיונים על Private'
+    input:
+      search_recipients: 'חפש נמען על-ידי הקלדת שלושת התווים הראשונים...'
+    search:
+      headings: { groups: 'קבוצות הרשאות' }
+    modal:
+      titles: { add_recipients: 'הוספת נמענים לדיון' }
+      labels: { selected_users: 'משתמשים נבחרים', search_field: 'חפש משתמש' }
+      help: { add_recipients: 'דיון זה יהיה גלוי רק למשתמשים שתבחר כאן. נדרש לפחות נמען אחד (מלבדך).', update_recipients: 'דיון זה יהיה גלוי רק למשתמשים שתבחר כאן.', selected_users: 'לחץ על שם משתמש כדי להסיר אותו.', click_user_to_remove_tooltip: 'לחץ כדי להסיר' }
+    user:
+      settings: { block_pd: 'חסימת דיונים פרטיים' }
+      byobu_link: 'דיונים על Private'
+      dropdown_label: 'דיונים על Private'
+    notifications:
+      pd_label: 'מישהו כולל אותי בדיון פרטי חדש'
+      pd_reply_label: 'מישהו מפרסם בדיון פרטי שאני נמען שלו'
+      pd_user_left_label: 'משתמש נמען עוזב דיון פרטי שאני חלק ממנו'
+      pd_added_label: 'מישהו מוסיף אותי לדיון פרטי קיים'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'פרטי תג'
+    all_badges: 'הצג את כל התגים'
+    all_users: 'ראה את כל המשתמשים'
+    give_badge: 'תן תג'
+    update_badge: 'תג ''עדכון'''
+    select_badge: 'בחר תג'
+    user_has_badge: 'למשתמש כבר יש תג זה.'
+    user_no_badges: 'למשתמש זה אין עדיין תגים.'
+    no_received: 'אף משתמש לא זכה בתג זה.'
+    save_changes: 'שמירת שינויים'
+    badge:
+      badge: התג
+      badges: תגים
+      name: 'שם תג'
+      description: 'תיאור התג'
+      earning_reason: 'סיבת השתכרות תג'
+      update_earning_reason: 'עדכון סיבת ההשתכרות'
+      no_earning_reason: 'לא נקבעו סיבות השתכרות'
+      earned_on: 'תג שנצבר ב-'
+      category: 'קטגוריית תג'
+      badge_details: 'פרטי תג'
+    badges_in_card:
+      title: 'תגים בכרטיס משתמש'
+      manage_badges: 'ניהול תגים'
+      description: 'באפשרותך לשנות את התגים הגלויים בכרטיס המשתמש שלך באמצעות אחד התגים האחרים שלך. אם לא תבחר אף אחד מהם, הם ייבחרו באופן אוטומטי.'
+    moderation:
+      remove_badge: 'הסרת תג מהמשתמש'
+      remove_badge_confirm: 'האם אתה בטוח שברצונך להסיר תג זה ממשתמש זה?'
+      give_badge: 'תן תג'
+    notification:
+      title: 'קיבלת תג חדש'
+      settings: 'קיבלתי תג'
+    uncategorized: 'ללא קטגוריה'
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'מעמד אומלל'
+      not_miserable_label: 'לא אומלל'
+      indefinitely_label: 'אומלל עד אין קץ'
+      limited_time_label: 'אומלל לזמן מוגבל. . .'
+      limited_time_days_text: ' ימים'
+      submit_button: 'שמירת שינויים'
+    user_badge:
+      miserable_user_tooltip: 'משתמש אומלל'
+    user_controls:
+      miserable_user_button: 'משתמש אומלל'
+  ref:
+    miserable_user: 'משתמש אומלל'
+sycho-profile-cover:
+  forum:
+    cover: כריכה
+    edit_cover: 'עריכת שער'
+    added:
+      success: 'תמונת הפרופיל עודכנה.'
+      error: 'לא היתה אפשרות להעלות תמונה.'
+    removed:
+      success: 'כיסוי הפרופיל הוסר.'
+      error: 'לא ניתן להסיר את הכיסוי, נסה שוב מאוחר יותר.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'העתק ללוח'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'מבקרים אחרונים', guest: אורח }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'קוד מדינה'
+    saveButton: שמר
+    clickToSelectCountry: 'בחר את המדינה שלך'
+    countrySaved: 'המדינה ניצלה בהצלחה!'
+    field_placeholder: 'אישור דגלי מדינה'
+    binding_country: 'גילינו שלא קשרת את מקום הימצאותך. אנא קשר תחילה את המדינה שלך. אתה יכול לפרסם ולהשאיר הודעות רק לאחר קישור המדינה שלך.'
+    binding_country_click: 'לחץ עכשיו'
+username-blacklist:
+  forum:
+    modal-title: אזהרה!
+    modal-body-first-line: 'אזהרה - שם משתמש זה <strong>נחסם על-ידי מנהל המערכת</strong>'
+    modal-body-second-line: 'בחר שם משתמש אחר שאינו מפר את הנחיות הקהילה שלנו ונסה שוב.'
+  admin:
+    blackList: 'שם משתמש ברשימה השחורה'
+    blackList-help: 'כתוב כאן שם משתמש שברצונך לחסום במהלך ההרשמה (מופרד בפסיק)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: תקציר, show-summaries: 'הצגת קטע מכל דיון ברשימות דיון (מחשב שולחני/טאבלט)', show-summaries-mobile: 'הצגת קטע מכל דיון ברשימות דיון (נייד)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'פעילות הפורום'
+      forum_new_discussions: 'הדיונים החדשים של הפורום'
+      discussion_last_posts: 'דיון זה'
+      user_last_posts: 'פוסטים ותגובות מאת משתמש זה'
+    feeds:
+      titles: { main_subtitle: 'הודעות אחרונות בפורום', main_d_subtitle: 'הדיונים החדשים בפורום', discussion_subtitle: 'הודעות אחרונות בדיון זה', user_subtitle: 'הודעות ותגובות אחרונות של משתמש זה.' }
+    discussion:
+      feed_link: הזנה
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: 'עקבו אחריו'
+    profile_page:
+      no_following: 'נראה שאתה לא עוקב אחרי אף אחד.'
+    settings:
+      notify_new_follower_label: 'מישהו עוקב אחריי'
+      notify_new_unfollower_label: 'מישהו מפסיק לעקוב אחריי'
+      notify_new_discussion_label: 'מישהו שאני עוקב אחריו מתחיל דיון'
+      notify_new_post_label: 'מישהו שאני עוקב אחריו מפרסם פוסטים בדיון קיים'
+      block_follow: 'מנע ממשתמשים לעקוב אחריי'
+    badge:
+      label: { follow: 'בעקבות הדיונים', lurk: 'עוקב הכל' }
+    filter:
+      following: 'משתמשים במעקב'
+    modals:
+      select_follow_level: { follow_levels_heading: 'עקוב אחר רמות', follow_select_label: 'עקוב אחר סוג', no_user_attr_provided_err: 'אוי אוי, משהו השתבש כשפתחתי את המודאל הזה.', no_user_attr_provided_err_debug: 'אף תכונה ''משתמש'' לא הועברה למודאל SelectFollowUserLevel בעת יצירתה. לא ניתן לעבד מודאלי.', save_btn: שמר, cancel_btn: ביטל }
+    profile_link: 'משתמשים במעקב'
+    user_controls:
+      follow_button: בצע
+      unfollow_button: 'בטל מעקב'
+      change_button: 'שינוי סוג מעקב'
+    index:
+      follow_tag_button: בצע
+      unfollow_tag_button: 'שינוי סוג מעקב'
+  email:
+    new_follower_subject: '[עקוב אחר המשתמש] יש לך עוקב חדש!'
+  lib:
+    following_link: 'משתמשים במעקב'
+    follow: בצע
+    change_follow_type: 'שינוי סוג מעקב'
+    unfollow: 'בטל מעקב'
+    follow_levels:
+      unfollow: { name: 'אל תעקוב' }
+      follow: { name: 'מעקב אחר דיונים' }
+      lurk: { name: 'עקוב אחר הכל' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'אנא ודא כי שינוי כינוי מבוקש זה תואם את הנחיות הפורום.', decision_title: ההחלטה, approval_label: לאשר, rejected_label: דחה, submit_button: שלח, reason_title: 'סיבת הדחייה', success: 'ההחלטה נשלחה.', title: 'כינוי: Change Request' }
+      results: { title: 'כינוי: Change Request', approved: 'בקשתך לשינוי כינוי אושרה', rejected: 'בקשתך לשינוי כינוי נדחתה', resubmit: 'בשלב זה, תוכל לשלוח מחדש בקשה חדשה לשינוי כינוי מהגדרות החשבון שלך, אם תבחר בכך.', dismiss_button: אוקיי }
+      request: { title: 'בקש שינוי כינוי', submit_button: 'שלח בקשה', delete_button: 'בקשת מחיקה', confirmation_message: 'הבקשה שלך לשינוי כינוי הוגשה וממתינה לאישור.', deleted: 'בקשת הכינוי נמחקה.', dismiss_button: אוקיי }
+    username_modals:
+      action: { help_text: 'אנא ודא ששינוי שם המשתמש המבוקש תואם להנחיות הפורום.', decision_title: ההחלטה, approval_label: לאשר, rejected_label: דחה, submit_button: שלח, reason_title: 'סיבת הדחייה', success: 'ההחלטה נשלחה.', title: 'בקשה לשינוי שם משתמש' }
+      results: { title: 'בקשה לשינוי שם משתמש', approved: 'בקשתך לשינוי שם המשתמש אושרה', rejected: 'בקשתך לשינוי שם המשתמש נדחתה', resubmit: 'בשלב זה, תוכל לשלוח מחדש בקשה חדשה לשינוי שם משתמש מהגדרות החשבון שלך, אם תבחר בכך.', dismiss_button: אוקיי }
+      request: { title: 'בקש שינוי שם משתמש', submit_button: 'שלח בקשה', delete_button: 'בקשת מחיקה', confirmation_message: 'הבקשה שלך לשינוי שם המשתמש נשלחה וממתינה לאישור.', deleted: 'בקשת שם המשתמש נמחקה.', dismiss_button: אוקיי }
+    pending_requests:
+      empty_text: 'לא נמצאו בקשות לשינוי שם.'
+      tooltip: 'בקשות לשינוי שם'
+      title: 'בקשות לשינוי שם'
+    settings:
+      nickname_request_button: 'שינוי כינוי'
+      username_request_button: 'שינוי שם משתמש'
+    user:
+      name_history_link: 'היסטוריית שמות'
+  ref:
+    name_change_request: 'בקשה לשינוי שם'
+    name_change_requests: 'בקשות לשינוי שם'
+    nickname_change_request: 'כינוי: Change Request'
+    nickname_change_requests: 'כינוי: בקשות לשינוי כינוי'
+    username_change_request: 'בקשה לשינוי שם משתמש'
+    username_change_requests: 'בקשות לשינוי שם משתמש'
+  email:
+    body:
+      noReasonProvided: 'לא נמסרה סיבה.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'כתוב משהו על עצמך'
+    profile:
+      cancel_confirm: 'האם אתה בטוח שברצונך לבטל את עריכת הביוגרפיה שלך? תאבד את כל השינויים שביצעת.'
+      cancel_button: ביטל
+      save_button: שמר
+      edit_bio_label: 'עריכת ביוגרפיה'
+fof-split:
+  forum:
+    split:
+      from: 'התפצל מכאן'
+      to: 'פיצול לכאן'
+      cancel: 'ביטול פיצול'
+    modal:
+      title: 'דיון מפוצל'
+      new_discussion_label: 'ציון הכותרת עבור הדיון החדש'
+      submit_button: חלק
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'ערוך את כפתורי המדיה החברתית שלך'
+      add: 'הוסף לחצנים למדיה החברתית שלך'
+      headtitle: 'לחצני עריכה'
+      title: כותר
+      url: 'כתובת URL'
+      submit: שמר
+      delete: למחוק
+      deletetitle: 'לחצן ''מחק'''
+      save_disabled_fetching_favicons: 'סמל אחד או יותר מובאים. חכה בבקשה.'
+      favicon: פאביקון
+      grey_favicon: 'גריי פאביקון'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: לשתף
+      share_dropdown_accessible_label: 'החלפת התפריט הנפתח של שיתוף דיון'
+    modal:
+      title: לשתף
+      copy_button: עותק
+  lib:
+    networks:
+      facebook: פייסבוק
+      twitter: טוויטר
+      linkedin: לינקדאין
+      reddit: רדיט
+      whatsapp: וואטסאפ
+      telegram: המברק
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'העולם שלי'
+      qq: QQ
+      qzone: QZone
+      native: 'שיתוף מקורי'
+fof-recaptcha:
+  forum:
+    error: 'אירעה שגיאה בשליחת reCAPTCHA. נסה שוב.'
+    unknown_error: 'אירעה שגיאה לא ידועה. בדוק את ה- captcha ונסה שוב.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'אינך יכול להשתמש בתגובה זו כעת, אנא רענן את הדף'
+    warning: 'תגובתך הומרה'
+    settings:
+      notify_post_reacted_label: 'מישהו מגיב לאחד הפוסטים שלי'
+    reacting-own-post: 'אינך יכול להגיב לפוסט שלך'
+    modal:
+      title: תגובות
+      no_reactions: 'עדיין אין תגובות'
+    mod_item: 'הצג תגובות'
+    react_button_label: להגיב
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'טעינת חותך התמונה נכשלה.', generic_resize: 'משהו השתבש בעת חיתוך ושינוי גודל התמונה.', get_image_data: 'החיתוך נכשל. ודא שההגנה מפני טביעת אצבע של הדפדפן מושבתת.' }
+      help_text: "העלאת התמונה עלולה להיכשל אם הגדרות הפרטיות של הדפדפן שלך קפדניות מאוד. אם אתה נתקל בבעיות, נסה להשבית את ההגנה מפני טביעת אצבע. אחרת, תוכל <disableResize>להשבית את דחיסת התמונה החתוכה</disableResize> או <disableCrop>להשבית את החיתוך לחלוטין</disableCrop>.\n"
+      submit_button: העלאה
+      submit_crop_button: 'חיתוך והעלאה'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'סביר מאוד להניח שהוא אינו זקוק לדיון נוסף ולכן הקפצה עליו אינה משרתת שום מטרה.', checkbox_label: 'אני מודע לכך שהדיון הזה הוא די ישן אבל עדיין הייתי רוצה להשיב.', error: 'הדיון הזה ישן מכדי לענות עליו.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'אין לך רשות להצביע'
+    poll_ended: 'הסקר הזה הסתיים.'
+    public_poll: 'הצגת מצביעים'
+    composer_discussion:
+      add_poll: 'הוסף סקר'
+      edit_poll: 'עריכת סקר'
+    modal:
+      add_title: 'הוספת סקר'
+      add_option_label: 'הוספת אפשרות'
+      edit_title: 'עריכת סקר'
+      include_question: 'עליך לכלול שאלה'
+      max: 'אתה יכול לקבל מקסימום של 10 תשובות'
+      min: 'עליך לכלול מינימום של 2 תשובות'
+      no_voters: 'אין הצבעות'
+      option_placeholder: ענה
+      image_option_placeholder: 'כתובת URL של תמונה (אופציונלי)'
+      options_label: תשובות
+      public_poll_label: 'אפשר לאנשים לראות מי הצביע'
+      allow_multiple_votes_label: 'אפשר לאנשים להצביע עבור אפשרויות מרובות'
+      max_votes_label: 'מקסימום הצבעות למשתמש'
+      max_votes_help: 'הגדר ל- 0 כדי לאפשר למשתמשים להצביע עבור כל האפשרויות.'
+      question_placeholder: שאלה
+      submit: שלח
+    moderation:
+      delete: 'הסר סקר'
+      delete_confirm: 'האם אתה בטוח שברצונך למחוק סקר זה?'
+      edit: 'עריכת סקר'
+    tooltip:
+      badge: סקר
+    votes_modal:
+      title: הבוחרים
+fof-nightmode:
+  ref:
+    auto: 'אוטומטי (מבוסס על אפשרויות הדפדפן או המכשיר)'
+    light: 'מצב יום'
+    dark: 'מצב לילה'
+  forum:
+    header:
+      nightmode_button: 'מצב לילה'
+    user:
+      settings: { heading: 'ערכת נושא', description: 'בחר באיזו ערכת צבע ברצונך להשתמש בפורום.', description2: 'ערכת נושא זו תקושר לחשבון שלך ותחול על כל המכשירים שלך, אלא אם תעבור את המתג להלן עבור הגדרות לפי מכשיר.', device_specific_setting_checkbox: 'שימוש לפי הגדרות מכשיר', device_specific_setting_checkbox_tooltip: 'בחירת ערכת הנושא שלך תישמר בנפרד עבור כל אחד מהמכשירים שלך.', auto_unsupported: 'הדפדפן שלך אינו תומך במצב כהה אוטומטי.', option_descriptions: { auto: 'ערכת הנושא שלך תיבחר באופן אוטומטי בהתבסס על הגדרות הדפדפן או המכשיר שלך. לדוגמה, אם מצב כהה מופעל אצלך ב-iOS, גם הפורומים יהיו חשוכים.', day: 'החוויה הקלאסית שאתם רגילים אליה. אהוב ונבחן.', night: 'אתה קצת ינשוף לילה. אתה שומר על הפורום בלילה, בזמן שהציפורים ישנות והשועלים צדים. או שאתה פשוט מעדיף את הצבעים הכהים יותר!' }, options: { auto: 'אוטומטי (מבוסס על אפשרויות הדפדפן או המכשיר)', day: 'מצב יום', night: 'מצב לילה' } }
+    day: 'מצב יום'
+    night: 'מצב לילה'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'פתק ריק אינו מותר.'
+    moderatorNotes:
+      add_button: 'הערה חדשה'
+      create-heading: 'יצירת הערת מנחה חדשה'
+      dismiss_button: לעשות
+      noNotes: 'נראה שאין כאן הערות.'
+      submit_button: 'שמור הערה'
+      delete: למחוק
+      confirm: 'האם אתה בטוח שברצונך למחוק הערה זו?'
+    user:
+      notes: 'הערות מנחה'
+  api:
+    no_reason_provided: 'לא נמסרה סיבה'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: קולות
+    vote_title: 'הראה מי הצביע'
+    nav:
+      name: הדירוג
+    ranking:
+      rank: מקום
+      name: משתמש
+      amount: נקודות
+    notification:
+      prefrences: { vote: 'כאשר אחד הפוסטים שלי הוא למעלה/למטה, הצביעו' }
+    user:
+      votes_link: קולות
+    modal:
+      downvotes_label: 'מצביעי מטה:'
+      title: הבוחרים
+      upvotes_label: 'מצביעים:'
+    mod_item: 'הצג מצביעים'
+    voters:
+      none: 'עדיין אין מצביעים'
+      label: הבוחרים
+      label_none: 'אין מצביעים'
+    post:
+      upvote_button: 'פוסט הצבעה בעד'
+      downvote_button: 'פוסט הצבעה נגד'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'טיוטות מתוזמנות אינן זמינות כעת בהגדרות.'
+  ref:
+    schedule_draft: 'טיוטת לוח זמנים'
+  forum:
+    composer:
+      title: 'שמירת טיוטה'
+      saving: חיסכון...
+      saved: הציל!
+      exit_alert: 'לבטל שינויים בטיוטה?'
+      discard_empty_draft_alert: 'להשליך טיוטה ריקה?'
+    dropdown:
+      empty_text: 'לא שמרת טיוטות'
+      title: טיוטות
+      delete_all_button: 'מחיקת כל הטיוטות'
+      delete_button: 'מחיקת טיוטה'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'האם אתה בטוח שברצונך למחוק את הטיוטה?'
+      delete_all_alert: 'האם אתה בטוח שברצונך למחוק את כל הטיוטות שלך?'
+      schedule_button: 'טיוטת לוח זמנים'
+      tooltip: טיוטות
+    schedule_draft_modal:
+      text: 'תזמן את הטיוטה שלך לפרסום אוטומטי במועד מאוחר יותר!'
+      unschedule_button: 'בטל לוח זמנים'
+      unschedule_warning: 'האם אתה בטוח שברצונך לבטל את לוח הזמנים של טיוטה זו?'
+      reschedule_button: 'תזמון מחדש'
+      schedule_button: 'לוח זמנים'
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'תאריך ו/או שעה לא חוקיים'
+      title: 'טיוטת לוח זמנים'
+    user:
+      settings: { drafts_heading: טיוטות, draft_autosave_enable: 'הפעל שמירה אוטומטית של טיוטה?', draft_autosave_interval_label: 'מרווח זמן לשמירה אוטומטית (שניות)', draft_autosave_interval_button: 'מרווח זמן לעדכון', draft_autosave_interval_invalid: 'מרווח הזמן חייב להיות מספר שלם גדול מ- 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: ענה
+    this_best_answer: 'בחר את התשובה הטובה ביותר'
+    remove_best_answer: 'בטל את הבחירה באפשרות התשובה הטובה ביותר'
+    best_answer_button: 'התשובה הטובה ביותר'
+    errors:
+      mismatch: 'ההודעה שנבחרה אינה קיימת בדיון זה.'
+    notification:
+      content: 'בחר את התשובה הטובה ביותר אם שאלתך נענתה'
+      preferences: { awarded_best_answer: 'מישהו מגדיר את הפוסט שלי כתשובה הטובה ביותר', best_answer_in_discussion: 'התשובה הטובה ביותר נקבעה בדיון שהשתתפתי בו', select_best_answer: 'תזכורת אוטומטית לבחירת התשובה הטובה ביותר בדיון שהתחלתי' }
+    index:
+      ask_question: 'שאל שאלה'
+      cannot_ask_question: 'לא ניתן לשאול שאלה'
+      solved_link: 'דיונים שנפתרו'
+      unsolved_link: 'דיונים לא פתורים'
+    filter:
+      all_label: 'כל השאלות'
+      solved_label: 'שאלות פתורות'
+      unsolved_label: 'שאלות לא פתורות'
+      accessible_label: 'בחירה פתורה/לא פתורה'
+    composer:
+      titlePlaceholder: 'כותרת השאלה'
+    search:
+      discussions_solutions_heading: 'דיונים עם פתרונות'
+    discussion:
+      jump_to_best_answer_button: 'התשובה הטובה ביותר'
+  email:
+    subject:
+      select: 'הצלחת לענות על השאלה שלך?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'התשובות הטובות ביותר'
+      least_best_answers: 'התשובות הכי פחות טובות'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'אף אחד אחר לא יורחק'
+    user_badge:
+      banned_tooltip: מגורש
+    ban_ip_button: 'איסור IP'
+    unban_ip_button: 'ביטול חסימת IP'
+    user_controls:
+      ban_button: איסור
+      unban_button: 'ביטול איסור'
+  error:
+    banned_ip_message: 'האישור נכשל.'
+    no_ips_found_message: 'לא נמצאו כתובות IP עבור המשתמש.'
+  lib:
+    modal:
+      check_button: חשבון
+      save_button: שמר
+      ban_ip_confirmation: 'האם אתה בטוח שברצונך לחסום כתובת IP זו משימוש בפורום? פעולה זו תחסום משתמשים עם כתובות IP אלה מלהתחבר ולהירשם.'
+      unban_ip_confirmation: 'האם אתה בטוח שאתה רוצה לבטל את החסימה של משתמש זה וכל המשתמשים האחרים שלא נאסרו על ידי כתובות IP אחרות?'
+      unban_ip_no_users: 'אף אחד אחר לא יהיה מוחרם'
+      title: 'איסור כתובות IP'
+      unban_title: 'ביטול חסימה של כתובות IP'
+      address_label: 'כתובת IP'
+      reason_label: למה
+      ban_button: איסור
+      unban_button: 'ביטול איסור'
+  ref:
+    ban_label: איסור
+    ban_ip_addresses: 'איסור כתובות IP'
+    ban_ip_button: 'איסור IP'
+    unban_label: 'ביטול איסור'
+    unban_ip_addresses: 'ביטול חסימה של כתובות IP'
+    unban_ip_button: 'ביטול חסימת IP'
+    address_label: 'כתובת IP'
+    reason_label: למה
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'פרטי הרישום שלך נמצאו במסד נתונים למניעת דואר זבל, ולכן הרשמתך נחסמה.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'מחיקת דיונים'
+      hard_delete_discussions_help: 'פעולה זו תמחק לצמיתות את כל הדיונים שהתחיל משתמש זה. כאשר הדיונים אינם זמינים, הם יוסתרו במקום זאת.'
+      hard_delete_posts_label: 'מחיקת פוסטים'
+      hard_delete_posts_help: 'פעולה זו תמחק לצמיתות את כל ההודעות (תגובות, תגובות וכו '') שבוצעו על ידי משתמש זה. כאשר הדבר מושבת, פוסטים יוסתרו במקום זאת.'
+      hard_delete_user_label: 'מחיקת משתמש'
+      hard_delete_user_help: 'פעולה זו תמחק את המשתמש לצמיתות. כאשר האפשרות מושבתת, המשתמש יושעה במקום זאת.'
+      intro: 'בעת סימון משתמש כמפיץ דואר זבל, יינקטו מספר פעולות, אשר תלוי בהרחבות הזמינות בפורום שלך.'
+      move_discussions_tag_label: 'העברת דיונים לתגית בהסגר'
+      move_discussions_tag_help: 'פעולה זו תעביר את כל הדיונים שהתחיל משתמש זה לתגית שציינת בהגדרות הפורום. כאשר אפשרות זו אינה זמינה, דיונים יישארו בתגיות הנוכחיות שלהם.'
+      process_button: תהליך
+      report_to_sfs_label: 'דווח ל- StopForumSpam'
+      report_to_sfs_help: 'פעולה זו תדווח על הפרטים הבסיסיים של המשתמש (שם משתמש, דוא"ל, כתובת IP) ל- StopForumSpam. פעולה זו תסייע למנוע מהמשתמש להירשם בפורומים אחרים המשתמשים בשירות StopForumSpam.'
+    user_controls:
+      spammer_button: 'מפיץ דואר זבל'
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'איפוס ספירת תצוגות דיון'
+      submit: שלח
+      label: 'הגדרת ספירת צפיות'
+    discussion_controls:
+      resetviews_button: 'הגדרת ספירת תצוגות'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: 'לא דביק'
+      sticky_button: דביק
+    badge:
+      sticky_tooltip: דביק
+  ref:
+    sticky: דביק
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: נעול
+    discussion_controls:
+      lock_button: נעל
+      unlock_button: לפתוח
+    settings:
+      notify_discussion_locked_label: 'מישהו נועל דיון שהתחלתי'
+flarum-likes:
+  forum:
+    post:
+      like_link: כמו
+      unlike_link: בניגוד
+      you_text: אתה
+    post_likes:
+      title: 'משתמשים שאוהבים את זה'
+      load_more_button: 'טען עוד'
+    settings:
+      notify_post_liked_label: 'מישהו מסמן לייק באחד הפוסטים שלי'
+    user:
+      likes_link: אוהב
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'הוספת אמוג''י'
+      type_to_search_text: 'הקלדה כדי לחפש אמוג''י'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'התוכן שלך גדול מדי, אנא קרא את ההנחיות שלנו לפרסום' }
+dhtml-persona:
+  forum:
+    persona: אדם
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'לוח התוצאות'
+dhtml-gender:
+  forum:
+    male: זכר
+    female: נקבה
+    other: 'מעדיף לא לומר'
+    inputGender: מין
+    saveButton: שמר
+    clickToSelectGender: 'בחר את המין שלך'
+    genderSaved: 'המין ניצל בהצלחה!'
+    field_placeholder: 'אשר מין'
+    binding_gender: 'גילינו שלא קבעת את מינך. אנא הגדר תחילה את מינך. אתה יכול לפרסם ולהשאיר הודעות רק לאחר הגדרת המין שלך.'
+    binding_gender_click: 'לחץ עכשיו'
+flarum-content-pages:
+  forum:
+    home: הביתה
+    about-us: עלינו
+    guidelines: הנחיות
+    privacy-policy: 'מדיניות פרטיות'
+    terms-of-use: 'תנאי שימוש'
+    contact-us: 'צור קשר'
+    download-app: 'הורד אפליקציה'
+    discord-chat: 'צ''אט דיסקורד'
+    tags-cloud: 'תגיות ענן'
+    languages: שפות
+    leaderboard: 'לוח התוצאות'
+    live: 'Live Live'
+    live-coding: 'Live Coding'
+    challenges: אתגרים
+    dev-challenges: אתגרים
+    jobs: משרות
+    community: קהילה
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'עבודה Posting'
+    job-postings: 'עבודה Postings'
+    workshops: סדנאות
+    dev-workshops: 'סדנאות Dev'
+    events: אירועים
+    conferences: ועידת
+    event-conferences: 'אירועים / כנסים'
+    showcase: Showcase
+    tags: תגיות
+    more: 'עוד יותר'
+    memberships: חברות
+    members: חברים
+    general-discussion: 'דיון כללי'
+    technology-articles: 'מאמרים טכנולוגיים'
+    coding-challenges: 'אתגרים משותפים'
+    q-a: 'סעיף Q/A'
+    artificial-intelligence: 'אינטליגנציה מלאכותית'
+    computer-science: 'מדעי המחשב'
+    programming-languages: 'שפות תכנות'
+    development-tools: 'פיתוח כלים'
+    software-development: 'פיתוח תוכנה'
+    frontend-development: 'פיתוח החזית'
+    backend-development: 'חזרה לפיתוח'
+    software-engineering: 'הנדסת תוכנה'
+    cybersecurity: 'אבטחת סייבר'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'מונה תווים'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'עריכת תאריך לידה'
+      date_of_birth_text: 'תאריך לידה'
+      submit_button: 'שמירת שינויים'
+    settings:
+      change_dob_label: 'שינוי תאריך לידה'
+      show_dob_date_label: 'הצג יום וחודש לידה'
+      show_dob_year_label: 'הצג שנת לידה'
+      show_dob_year_help: 'זה יאפשר לאנשים לראות את הגיל שלך.'
+      dob_heading: 'תאריך לידה'
+    nav:
+      nav_item: 'ימי הולדת של היום'
+    edit_user:
+      dob_heading: 'תאריך לידה'
+    sign_up:
+      dob_placeholder: 'תאריך לידה'
+  api:
+    invalid_dob_message: 'תאריך לידה לא חוקי'
+  ref:
+    date_of_birth: 'תאריך לידה'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'בורר אימוג''י'
+    search_placeholder: חיפוש...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'עריכת מחבר ותאריך'
+    modal:
+      title-post: 'עריכת מחבר פוסט ותאריך'
+      title-discussion: 'עריכת דיון, מחבר ותאריך'
+      user: מחבר
+      created_at: 'זמן יצירה'
+      edited_at: 'זמן עריכה'
+      sync-with-discussion: 'סינכרון עם דיון'
+      sync-with-post: 'סנכרון עם הפוסט הראשון'
+      sync-impossible: 'לא ניתן למצוא את ההודעה הראשונה. נסה לגלול לתחילת הדיון.'
+      submit: שמר
+      cancel: ביטל
+    search:
+      placeholder: 'חיפוש משתמשים'
+      type-more: 'הקלד 3 תווים כדי לחפש במסד נתונים'
+      no-results: 'אין תוצאות'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'החלפת מצב טקסט עשיר'
+      insert_button: להוסיף
+      insert_image: { src_placeholder: קישור, title_placeholder: כותר }
+      insert_link: { text_placeholder: טקסט, href_placeholder: 'כתובת URL', title_placeholder: 'כותרת (מראה בריחוף)', remove_button: להסיר }
+      additional_items_tooltip: 'בקרות נוספות'
+      code_block_tooltip: 'הוספת גוש קוד'
+      horizontal_rule_tooltip: 'הוספת כלל אופקי'
+      image_tooltip: 'הוספת תמונה'
+      link_tooltip: 'הוספת קישור'
+      spoiler_block_tooltip: 'חסום ספוילר/רשימה נפתחת'
+      strike_tooltip: 'קו חוצה <alt-shift-5>'
+      text_type_tooltip: 'בחר סוג טקסט'
+  forum:
+    settings:
+      composer_heading: מלחין
+      use_rich_text_editor_label: 'משתמש בעורך טקסט עשיר?'
+      rich_text_compact_paragraphs_label: 'אל תפריד פיסקאות באמצעות שורה חדשה.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'הפעלת הודעות דחיפה, אך לא הגדרת התקן זה.'
+      optin_button: להגדיר
+    discussion_controls:
+      share_button: לשתף
+    post_controls:
+      share_button: לשתף
+    user_controls:
+      share_button: לשתף
+    settings:
+      push_header: דחף
+      pwa_notifications: { access_default: 'עקב מגבלות דפדפן, עליך להצטרף לקבלת הודעות דחיפה במכשיר זה.', access_default_button: הצטרפות, access_denied: 'עליך להתאים את הגדרות הדפדפן כדי לקבל הודעות דחיפה במכשיר זה.', access_denied_button: 'למד כיצד', no_browser_support: 'דפדפן זה אינו תומך בהודעות דחיפה עבור אפליקציות אינטרנט הדרגתיות.', no_browser_support_button: 'למד עוד' }
+  views:
+    offline:
+      header: 'שגיאת חיבור רשת'
+      text: 'יישום זה דורש חיבור רשת; לא ניתן להשתמש בו במצב לא מקוון. בדוק את החיבור שלך.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'הזהר משתמש'
+    user:
+      warnings: 'אזהרות מנחה'
+    settings:
+      warning_notification_label: 'מנחה מזהיר אותי'
+    validation:
+      public_comment_required: 'אתה הכי מספק הערה ציבורית.'
+      invalid_strike_count: 'מספר השביתות חייב להיות מספר שלם בין 0 ל-5.'
+    warning_controls:
+      delete_button: להסיר
+      restore_button: לשחזר
+      delete_forever_button: 'מחיקה לצמיתות'
+    warning_list:
+      add_button: 'אזהרה חדשה'
+      no_warnings: 'נראה שאין כאן אזהרות.'
+      warnings_no_strikes: 'אזהרות המנחה: לא התקבלו שביתות'
+    warning_list_item:
+      public_comment: אזהרה
+      private_comment: 'הערות גלויות למנחה'
+      linked_post: 'פוסט מקושר'
+    warning_modal:
+      confirmation_message: 'האזהרה שלך נשמרה. ייתכן שיהיה עליך לרענן את הדף כדי לראות אותו.'
+      strikes_heading: 'כמה שביתות יש להפעיל?'
+      submit_button: 'שמור אזהרה'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'עריכת תבנית תשובה'
+    reply_template:
+      title: 'עריכת תבנית תשובה'
+      submit_button: 'שמור תבנית תשובה'

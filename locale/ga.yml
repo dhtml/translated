@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Tá an pasfhocal a d'' iontráil tú mícheart.'
+      confirm_password_placeholder: 'Deimhnigh Pasfhocal'
+      dismiss_button: 'Ceart go leor'
+      submit_button: 'Sábháil Athruithe'
+      title: 'Athraigh Ríomhphost'
+    change_password:
+      send_button: 'Seol Ríomhphost Athshocraigh Pasfhocal'
+      text: 'Cliceáil ar an gcnaipe thíos agus seiceáil do r-phost le haghaidh nasc chun do phasfhocal a athrú.'
+      title: 'Athraigh Pasfhocal'
+    composer:
+      close_tooltip: Dún
+      exit_full_screen_tooltip: 'Scoir den Scáileán Iomlán'
+      full_screen_tooltip: 'Scáileán Iomlán'
+      minimize_tooltip: Íoslaghdaigh
+      preview_tooltip: Réamhamharc
+    composer_discussion:
+      body_placeholder: 'Scríobh Post...'
+      discard_confirmation: 'Níor chuir tú do phlé sa phost. An bhfuil fonn ort é a chaitheamh i leataobh?'
+      submit_button: Iarphlé
+      title_placeholder: 'Teideal an Phlé'
+      title: 'Tosaigh Plé'
+    composer_edit:
+      discard_confirmation: 'Níor shábháil tú do chuid athruithe. An bhfuil fonn ort iad a chaitheamh i leataobh?'
+      edited_message: 'Rinneadh d''eagarthóireacht.'
+      submit_button: 'Sábháil Athruithe'
+      view_button: Amharc
+    composer_reply:
+      discard_confirmation: 'Níor chuir tú do fhreagra sa phost. An bhfuil fonn ort é a chaitheamh i leataobh?'
+      posted_message: 'Cuireadh do fhreagra sa phost.'
+      submit_button: 'Post Freagra'
+      body_placeholder: 'Scríobh Freagra...'
+      view_button: Amharc
+    discussion_controls:
+      cannot_reply_button: 'Ní féidir freagra a thabhairt'
+      cannot_reply_text: 'Níl cead agat freagra a thabhairt ar an bplé seo.'
+      delete_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort an plé seo a scriosadh?'
+      log_in_to_reply_button: 'Logáil Isteach chun Freagra a Thabhairt'
+      toggle_dropdown_accessible_label: 'Scoránaigh roghchlár anuas gníomhartha plé'
+      delete_button: Scrios
+      delete_forever_button: 'Scrios Go Deo'
+      rename_button: Athainmnigh
+      reply_button: Freagra
+      restore_button: Athchóirigh
+    discussion_list:
+      empty_text: 'Breathnaíonn sé amhail is nach bhfuil aon phlé anseo.'
+      load_more_button: 'Luchtaigh Níos Mó'
+    forgot_password:
+      email_sent_message: 'Má tá an ríomhphost a chuir tú cláraithe leis an suíomh seo, cuirfimid ríomhphost chugat ina bhfuil nasc chun do phasfhocal a athshocrú. Seiceáil do fillteán spam mura bhfaigheann tú é laistigh den nóiméad seo chugainn nó dhó.'
+      not_found_message: 'Níl aon úsáideoir cláraithe leis an seoladh ríomhphoist sin.'
+      submit_button: 'Athraigh Pasfhocal'
+      text: 'Cuir isteach do sheoladh ríomhphoist agus cuirfimid nasc chugat chun do phasfhocal a athshocrú.'
+      title: 'Pasfhocal dearmadta'
+      dismiss_button: 'Ceart go leor'
+      email_placeholder: 'Naisc go dtí suíomhanna eile'
+    header:
+      admin_button: 'Riarachán Riaracháin'
+      back_to_index_tooltip: 'Ar ais chuig an Liosta Plé'
+      locale_dropdown_accessible_label: 'Athraigh logchaighdeán an fhóraim'
+      profile_button: Próifíl
+      search_clear_button_accessible_label: 'Glan an cheist chuardaigh'
+      search_placeholder: 'Fóram Cuardaigh'
+      search_role_label: 'Fóram Cuardaigh'
+      session_dropdown_accessible_label: 'Scoránaigh roghchlár anuas roghanna an tseisiúin'
+      log_in_link: 'Logáil isteach'
+      log_out_button: 'Logáil Amach'
+      settings_button: Socruithe
+      sign_up_link: Cláraigh
+    index:
+      cannot_start_discussion_button: 'Ní féidir tús a chur le plé'
+      mark_all_as_read_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort an plé ar fad a mharcáil de réir mar a léitear é?'
+      refresh_tooltip: Athnuaigh
+      toggle_sidenav_dropdown_accessible_label: 'Scoránaigh roghchlár anuas nascleanúna'
+      all_discussions_link: 'Gach Plé'
+      mark_all_as_read_tooltip: 'Marcáil Gach Mar Léite'
+      meta_title_text: 'Gach Plé'
+      start_discussion_button: 'Tosaigh Plé'
+    index_sort:
+      latest_button: 'Is déanaí'
+      newest_button: 'An ceann is nuaí'
+      oldest_button: 'An duine is sine'
+      relevance_button: Ábharthacht
+      toggle_dropdown_accessible_label: 'Athraigh sórtáil liosta plé'
+      top_button: Barr
+      hot_button: Treochtáil
+      votes_button: Upvotes
+      front_button: 'Leathanach Tosaigh'
+      popular_button: Coitianta
+      unpopular_button: Neamhdhaonlathach
+    log_in:
+      forgot_password_link: 'Dearmad déanta ar phasfhocal?'
+      invalid_login_message: 'Bhí do shonraí logála isteach mícheart.'
+      remember_me_label: 'Cuimhnigh orm'
+      sign_up_text: 'Nach bhfuil cuntas agat? <a>Cláraigh</a>'
+      username_or_email_placeholder: 'Ainm Úsáideora nó Ríomhphost'
+      password_placeholder: Pasfhocal
+      submit_button: 'Logáil isteach'
+      title: 'Logáil isteach'
+    notifications:
+      delete_all_confirm: 'An bhfuil tú cinnte go bhfuil fonn ort gach fógra a scriosadh? Níl an gníomh seo inchúlaithe'
+      delete_all_tooltip: 'Scrios gach fógra'
+      empty_text: 'Gan Fógraí'
+      mark_as_read_tooltip: 'Marcáil mar Léite'
+      toggle_dropdown_accessible_label: 'Amharc ar fhógraí'
+      mark_all_as_read_tooltip: 'Marcáil Gach Mar Léite'
+      title: Fógraí
+      tooltip: Fógraí
+    post:
+      edited_text: 'Curtha in eagar'
+    post_controls:
+      delete_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort an post seo a scriosadh go deo? Ní féidir an gníomh seo a chealú.'
+      hide_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort an post seo a scriosadh?'
+      toggle_dropdown_accessible_label: 'Scoránaigh roghchlár anuas rialtáin an phoist'
+      push_to_front_button: 'Brúigh go Leathanach Tosaigh'
+      pull_from_front_button: 'Tarraingt ó FrontPage'
+      delete_button: Scrios
+      delete_forever_button: 'Scrios Go Deo'
+      edit_button: 'Cuir in eagar'
+      restore_button: Athchóirigh
+    post_scrubber:
+      now_link: Anois
+      original_post_link: 'Post Bunaidh'
+    post_stream:
+      load_more_button: 'Luchtaigh Níos Mó'
+      reply_placeholder: 'Scríobh Freagra...'
+    rename_discussion:
+      title: 'Athainmnigh Plé'
+      submit_button: Athainmnigh
+    search:
+      discussions_heading: Plé
+      users_heading: Úsáideoirí
+    security:
+      cannot_terminate_current_session: 'Ní féidir deireadh a chur leis an seisiún gníomhach reatha. Logáil amach ina ionad.'
+      created: Cruthaithe
+      current_active_session: 'Seisiún Gníomhach Reatha'
+      developer_tokens_heading: 'Comharthaí Forbróra'
+      empty_text: 'Tá an chuma ar an scéal nach bhfuil aon rud le feiceáil anseo.'
+      global_logout: { heading: 'Logáil Amach Domhanda', help_text: 'Glanann seo an seisiún fianán reatha, críochnaíonn sé gach seisiún, cúlghaireann sé comharthaí forbróra, agus neamhbhailíonn sé aon deimhniú ríomhphoist nó ríomhphoist athshocraithe pasfhocail.', log_out_button: 'Logáil Amach' }
+      hide_access_token: 'Folaigh Comhartha'
+      last_activity: 'An ghníomhaíocht dheireanach'
+      new_access_token_modal: { submit_button: 'Cruthaigh Comhartha', title_placeholder: Teideal, title: 'Comhartha Nua' }
+      revoke_access_token: Cúlghair
+      sessions_heading: 'Seisiúin Ghníomhacha'
+      session_termination_failed: 'Tharla earráid agus do sheisiúin á bhfoirceannadh.'
+      show_access_token: 'Amharc ar chomhartha'
+      terminate_all_other_sessions: 'Deireadh a chur le gach seisiún eile'
+      terminate_session: Foirceannadh
+      token_revoked: 'Comhartha cúlghairthe.'
+      token_title_placeholder: /
+      never: Riamh
+      new_access_token_button: 'Comhartha Nua'
+      revoke_access_token_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort dul ar aghaidh? Ní féidir an gníomh seo a chealú.'
+      terminate_all_other_sessions_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort dul ar aghaidh? Ní féidir an gníomh seo a chealú.'
+      title: Slándáil
+    settings:
+      account_heading: Cuntas
+      notify_by_web_heading: Gréasán
+      notify_discussion_renamed_label: 'Athainmníonn duine éigin plé a thosaigh mé'
+      privacy_disclose_online_label: 'Lig do dhaoine eile a fheiceáil nuair a bhíonn mé ar líne'
+      privacy_heading: Príobháideachas
+      change_email_button: 'Athraigh Ríomhphost'
+      change_password_button: 'Athraigh Pasfhocal'
+      notifications_heading: Fógraí
+      notify_by_email_heading: 'Naisc go dtí suíomhanna eile'
+      title: Socruithe
+    sign_up:
+      log_in_text: 'An bhfuil cuntas agat cheana féin? <a>Logáil isteach</a>'
+      dismiss_button: 'Ceart go leor'
+      email_placeholder: 'Naisc go dtí suíomhanna eile'
+      password_placeholder: Pasfhocal
+      submit_button: Cláraigh
+      title: Cláraigh
+      username_placeholder: 'Ainm Úsáideora'
+    user:
+      avatar_upload_button: Uasluchtú
+      avatar_upload_tooltip: 'Uaslódáil avatar nua'
+      online_text: 'Ar líne'
+      posts_empty_text: 'Tá an chuma air nach bhfuil aon phoist anseo.'
+      avatar_remove_button: Bain
+      discussions_link: Plé
+      posts_link: Poist
+      posts_load_more_button: 'Luchtaigh Níos Mó'
+      security_link: Slándáil
+      settings_link: Socruithe
+    user_controls:
+      button: Rialuithe
+      delete_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort an t-úsáideoir seo a scriosadh? NÍ scriosfar poist an úsáideora.'
+      toggle_dropdown_accessible_label: 'Scoránaigh roghchlár anuas rialtáin an úsáideora'
+      delete_button: Scrios
+      edit_button: 'Cuir in eagar'
+    user_email_confirmation:
+      resend_button: 'Athdhíol Ríomhphost Deimhnithe'
+      sent_message: Seolta
+    welcome_hero:
+      hide: 'Folaigh teachtaireacht fáilte'
+    badge:
+      frontpage_tooltip: 'Marcáilte mar Leathanach Tosaigh'
+  lib:
+    debug_button: Dífhabhtú
+    alert:
+      dismiss_a11y_label: 'Foláireamh a dhíbhe'
+    badge:
+      hidden_tooltip: Folaithe
+    dropdown:
+      toggle_dropdown_accessible_label: 'Scoránaigh an roghchlár anuas'
+    edit_user:
+      activate_button: 'Gníomhachtaigh Úsáideoir'
+      groups_heading: Grúpaí
+      set_password_label: 'Socraigh pasfhocal nua'
+      nothing_available: 'Níl cead agat an t-úsáideoir seo a chur in eagar.'
+      email_heading: 'Naisc go dtí suíomhanna eile'
+      email_label: 'Naisc go dtí suíomhanna eile'
+      password_heading: Pasfhocal
+      password_label: Pasfhocal
+      submit_button: 'Sábháil Athruithe'
+      title: 'Cuir Úsáideoir in Eagar'
+      username_heading: 'Ainm Úsáideora'
+      username_label: 'Ainm Úsáideora'
+    error:
+      generic_message: 'Fonsaí! Chuaigh rud éigin mícheart. Athluchtaigh an leathanach agus bain triail eile as.'
+      generic_cross_origin_message: 'Fonsaí! Chuaigh rud éigin mícheart le linn iarratas tras-tionscnaimh. Athluchtaigh an leathanach agus bain triail eile as.'
+      not_found_message: 'Níor aimsíodh an acmhainn iarrtha.'
+      payload_too_large_message: 'Bhí pálasta an iarratais rómhór.'
+      permission_denied_message: 'Níl cead agat é sin a dhéanamh.'
+      rate_limit_exceeded_message: 'Tá tú ag dul beagáinín róghasta. Bain triail eile as i gceann cúpla soicind.'
+      render_failed_message: 'Tá brón orm, thángamar ar earráid agus an t-ábhar seo á thaispeáint againn. Más úsáideoir thú, bain triail eile as níos déanaí. Más riarthóir thú, féach ar do chomhaid logála Flarum le haghaidh tuilleadh eolais.'
+    modal:
+      close: Dún
+    nav:
+      drawer_button: 'Oscail Tarraiceán Nascleanúna'
+    loading_indicator:
+      accessible_label: 'Á Luchtú...'
+  views:
+    confirm_email:
+      text: 'Cliceáil ar an gcnaipe thíos chun ríomhphost do chuntais a dheimhniú.'
+      submit_button: 'Deimhnigh Ríomhphost'
+      title: 'Deimhnigh Ríomhphost'
+    content:
+      javascript_disabled_message: 'Is fearr amharc ar an suíomh seo i mbrabhsálaí nua-aimseartha le JavaScript cumasaithe.'
+      load_error_message: 'Chuaigh rud éigin mícheart agus é ag iarraidh an leagan iomlán den suíomh seo a luchtú. Bain triail as an leathanach seo a athnuachan go crua chun an earráid a shocrú.'
+      loading_text: 'Á Luchtú...'
+    error:
+      csrf_token_mismatch: 'Bhí tú neamhghníomhach le rófhada.'
+      csrf_token_mismatch_return_link: 'Téigh ar ais, chun iarracht a dhéanamh arís'
+      invalid_confirmation_token: 'Úsáideadh an nasc deimhnithe seo cheana féin nó tá sé neamhbhailí.'
+      not_authenticated: 'Níl cead agat rochtain a fháil ar an leathanach seo. Bain triail eile as tar éis logáil isteach.'
+      not_found: 'Níorbh fhéidir an leathanach a d''iarr tú a aimsiú.'
+      permission_denied: 'Níl cead agat rochtain a fháil ar an leathanach seo.'
+      unknown: 'Tharla earráid agus iarracht á déanamh an leathanach seo a luchtú.'
+    log_out:
+      log_out_button: 'Logáil Amach'
+      title: 'Logáil Amach'
+    reset_password:
+      confirm_password_label: 'Deimhnigh Pasfhocal Nua'
+      new_password_label: 'Pasfhocal Nua'
+      submit_button: 'Sábháil Athruithe'
+      title: 'Athshocraigh Do Phasfhocal'
+    discussion:
+      next_page_button: 'An Chéad Leathanach Eile'
+      previous_page_button: 'An Leathanach Roimhe Seo'
+    index:
+      all_discussions_heading: 'Gach Plé'
+      next_page_button: 'An Chéad Leathanach Eile'
+      previous_page_button: 'An Leathanach Roimhe Seo'
+  api:
+    invalid_username_message: 'Ní fhéadfaidh ach litreacha, uimhreacha agus dashes a bheith san ainm úsáideora.'
+  email:
+    activate_account:
+      subject: 'Gníomhachtaigh do chuntas nua'
+    confirm_email:
+      subject: 'Deimhnigh do sheoladh ríomhphoist nua'
+    reset_password:
+      subject: 'Athshocraigh Do Phasfhocal'
+    send_test:
+      subject: 'Tástáil Ríomhphoist Flarum'
+  ref:
+    all_discussions: 'Gach Plé'
+    change_email: 'Athraigh Ríomhphost'
+    change_password: 'Athraigh Pasfhocal'
+    color: Dath
+    confirm_password: 'Deimhnigh Pasfhocal'
+    confirm_email: 'Deimhnigh Ríomhphost'
+    custom_footer_text: 'Cuir HTML leis le taispeáint ag bun an leathanaigh.'
+    custom_footer_title: 'Cuir Buntásc Saincheaptha in Eagar'
+    custom_header_text: 'Cuir HTML le taispeáint ag barr an leathanaigh, os cionn cheanntásc Flarum féin.'
+    custom_header_title: 'Cuir Ceanntásc Saincheaptha in Eagar'
+    delete: Scrios
+    delete_forever: 'Scrios Go Deo'
+    discussions: Plé
+    edit: 'Cuir in eagar'
+    edit_user: 'Cuir Úsáideoir in Eagar'
+    email: 'Naisc go dtí suíomhanna eile'
+    extensions: Iarmhíreanna
+    generic_confirmation_message: 'An bhfuil tú cinnte go bhfuil fonn ort dul ar aghaidh? Ní féidir an gníomh seo a chealú.'
+    icon: Deilbhín
+    load_more: 'Luchtaigh Níos Mó'
+    loading: 'Á Luchtú...'
+    log_in: 'Logáil isteach'
+    log_out: 'Logáil Amach'
+    mark_all_as_read: 'Marcáil Gach Mar Léite'
+    never: Riamh
+    new_token: 'Comhartha Nua'
+    next_page: 'An Chéad Leathanach Eile'
+    notifications: Fógraí
+    okay: 'Ceart go leor'
+    password: Pasfhocal
+    posts: Poist
+    previous_page: 'An Leathanach Roimhe Seo'
+    remove: Bain
+    rename: Athainmnigh
+    reply: Freagra
+    reset_your_password: 'Athshocraigh Do Phasfhocal'
+    restore: Athchóirigh
+    save_changes: 'Sábháil Athruithe'
+    search_users: 'Úsáideoirí cuardaigh'
+    security: Slándáil
+    settings: Socruithe
+    sign_up: Cláraigh
+    start_a_discussion: 'Tosaigh Plé'
+    username: 'Ainm Úsáideora'
+    users: Úsáideoirí
+    view: Amharc
+    write_a_reply: 'Scríobh Freagra...'
+    you: 'Tá tú'
+  group:
+    admin: Riarachán
+    admins: Riarthóirí
+    guest: Aoi
+    guests: Aíonna
+    member: Comhalta
+    members: Baill
+    mod: Modh
+    mods: Modhanna
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Gach Clib'
+      meta_title_text: Clibeanna
+    choose_tags:
+      title: 'Roghnaigh Clibeanna do Do Phlé'
+    discussion_controls:
+      edit_tags_button: 'Cuir Clibeanna in Eagar'
+    header:
+      back_to_tags_tooltip: 'Ar ais go Liosta Clibe'
+    index:
+      more_link: 'Níos mó ...'
+      untagged_link: 'Gan clib'
+      tags_link: Clibeanna
+    composer_discussion:
+      choose_tags_link: 'Roghnaigh Clibeanna'
+  lib:
+    deleted_tag_text: Scriosta
+    tag_selection_modal:
+      bypass_requirements: 'Riachtanais chlib sheachbhóthar'
+      submit_button: 'Ceart go leor'
+      title: 'Roghnaigh Clibeanna'
+  ref:
+    choose_tags: 'Roghnaigh Clibeanna'
+    name: Ainm
+    tags: Clibeanna
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Luaigh úsáideoir, grúpa nó post'
+    mentioned_by:
+      title: 'Freagraí ar an bpost seo'
+      load_more_button: 'Luchtaigh Níos Mó'
+    post:
+      quote_button: Athfhriotal
+      reply_link: Freagra
+      you_text: 'Tá tú'
+    settings:
+      notify_post_mentioned_label: 'Freagraíonn duine éigin ar cheann de mo phoist'
+      notify_user_mentioned_label: 'Luann duine éigin mé i bpost'
+      notify_group_mentioned_label: 'Luann duine éigin grúpa a bhfuil mé i mo bhall de i bpost'
+    user:
+      mentions_link: Luaitear
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: Unfollow
+      unignore_button: UnsirName
+      follow_button: Lean
+    settings:
+      follow_after_reply_label: 'Lean an plé go huathoibríoch a fhreagraím'
+      notify_for_all_posts_label: 'Fógra a thabhairt faoi gach post nua seachas an ceann deireanach i ndíospóireacht'
+      notify_new_post_label: 'Postálann duine éigin i ndíospóireacht atá á leanúint agam'
+    sub_controls:
+      following_text: 'Cuir gach freagra in iúl.'
+      ignoring_text: 'Ná cuir in iúl riamh. Folaigh ón liosta plé.'
+      not_following_button: 'Gan a bheith ag leanúint'
+      not_following_text: 'Ní chuirfear in iúl é ach amháin nuair a @mentioned.'
+      notify_alert_tooltip: 'Faigh fógra fóraim nuair a bhíonn poist nua ann'
+      notify_email_tooltip: 'Faigh ríomhphost nuair a bhíonn poist nua ann'
+      follow_button: Lean
+      following_button: 'Tar éis'
+      ignoring_button: Neamhaird
+    badge:
+      following_tooltip: 'Tar éis'
+      ignoring_tooltip: Neamhaird
+    following:
+      meta_title_text: 'Tar éis'
+    index:
+      following_link: 'Tar éis'
+  ref:
+    follow: Lean
+    following: 'Tar éis'
+    ignoring: Neamhaird
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Go raibh maith agat as flagging an post seo. Beidh ár moderators breathnú isteach air.'
+      reason_inappropriate_label: Míchuí
+      reason_inappropriate_text: 'Tá an post seo maslach, maslach, nó sáraíonn sé ár <a>dtreoirlínte pobail</a>.'
+      reason_missing_message: 'Tabhair roinnt sonraí dár modhnóirí le do thoil.'
+      reason_off_topic_label: 'Lasmuigh den ábhar'
+      reason_off_topic_text: 'Ní bhaineann an post seo leis an bplé reatha agus ba chóir é a bhogadh in áiteanna eile.'
+      reason_other_label: 'Eile (sonraigh le do thoil)'
+      reason_spam_label: Turscar
+      reason_spam_text: 'Is fógra é an post seo.'
+      dismiss_button: 'Ceart go leor'
+      submit_button: 'Post Bratach'
+      title: 'Post Bratach'
+    flagged_posts:
+      empty_text: 'Gan Bratacha'
+      title: 'Poist faoi bhratach'
+      tooltip: 'Poist faoi bhratach'
+    post:
+      dismiss_flag_button: 'Bratach a Dhíbhe'
+    post_controls:
+      flag_button: Bratach
+  ref:
+    flag_post: 'Post Bratach'
+    flagged_posts: 'Poist faoi bhratach'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Cuireadh ar fionraí thú ar feadh tréimhse éiginnte'
+      user_unsuspended_text: 'Níor cuireadh ar fionraí thú'
+    suspension_info:
+      dismiss_button: Ruaig
+      indefinite: 'Is fionraí éiginnte é seo'
+      title: 'Tá an cuntas seo ar fionraí'
+    suspend_user:
+      display_message: 'Taispeáin teachtaireacht don úsáideoir'
+      indefinitely_label: 'Ar fionraí ar feadh tréimhse éiginnte'
+      limited_time_days_text: ' laethanta'
+      limited_time_label: 'Ar fionraí ar feadh tréimhse teoranta...'
+      not_suspended_label: 'Gan a bheith ar fionraí'
+      placeholder_optional: Roghnach
+      reason: 'Cúis le fionraí'
+      status_heading: 'Stádas Fionraí'
+      submit_button: 'Sábháil Athruithe'
+    user_badge:
+      suspended_tooltip: 'Ar fionraí'
+    user_controls:
+      suspend_button: 'Cuir ar Fionraí'
+  email:
+    no_reason_given: 'Níor tugadh aon chúis leis an bhfionraí seo.'
+    suspended:
+      subject: 'Cuireadh do chuntas ar fionraí'
+    unsuspended:
+      subject: 'Níor cuireadh do chuntas ar fionraí'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Gach comhad uaslódáilte ag an úsáideoir.', anonymize_description: 'Bain an tagairt úsáideora ó na comhaid uaslódáilte. Tá na comhaid féin inrochtana d''úsáideoirí a d''fhéadfadh iad a fheiceáil roimh anaithnidiú.', delete_description: 'Scrios gach comhad a uaslódálann an t-úsáideoir.' }
+      tagsubscription: { export_description: 'Easpórtálann sonraí an leibhéil síntiúis le haghaidh clibe, má tá ceann ann.', anonymize_description: 'Bain síntiús an úsáideora leis an gclib.' }
+      followuser: { export_description: 'Easpórtáil sonraí na n-úsáideoirí a leanadh agus úsáideoirí seo a leanas.', delete_description: 'Scrios na sonraí go léir a bhaineann leis na húsáideoirí seo a leanas.', anonymize_description: 'Scrios na sonraí go léir a bhaineann leis na húsáideoirí seo a leanas.' }
+      bannedipdata: { export_description: 'Má bhaineann taifead toirmisc IP le húsáideoir (i.e. chuir IP cosc ar an úsáideoir), cuirfear seoladh IP an úsáideora san áireamh san onnmhairiú, mar aon leis an gcúis atá leis an gcosc agus leis an dáta cruthaithe.', anonymize_description: 'Déantar aon seoltaí IP atá nasctha leis an úsáideoir a dhíchúpláil, ach beidh cosc fós ar an IP féin, chomh maith leis an gcúis. Cinntigh nach stóráiltear aon sonraí PII sa réimse ''cúis''.' }
+fof-upload:
+  forum:
+    media_manager: 'Bainisteoir meán'
+    buttons:
+      attach: Ceangail
+      upload: Uasluchtú
+      upload_shared: Comhroinnte
+      user_uploads: 'Uaslódálacha úsáideora'
+      cancel: 'Cuir ar ceal'
+      media: 'Mo mheáin'
+      shared_media: 'Meáin chomhroinnte'
+    states:
+      error: Earráid
+      loading: Uasluchtú
+      unauthorized: 'Níl cead agat comhaid a íoslódáil'
+    text_preview:
+      expand: 'Leathnaigh an réamhamharc'
+      collapse: 'Laghdaigh an réamhamharc'
+      error: "Earráid agus comhad á réamhamharc. B'fhéidir gur scriosadh é, nó go bhfuil an t-aitheantas comhaid a soláthraíodh neamhbhailí.\n"
+      no_snippet_preview: 'Beidh <réamhamharc le feiceáil anseo tar éis postála>'
+      no_snippet: '<Níl blúire réamhamhairc ar fáil>'
+  api:
+    upload_errors:
+      forbidden_type: 'Ní cheadaítear comhaid den chineál seo a uaslódáil.'
+      could_not_detect_mime: 'Níorbh fhéidir cineál MIME an chomhaid seo a bhrath, bain triail eile as.'
+      max_upload_file_size_ini: 'Uaslíon na gcomhad a baineadh amach ó php.ini.'
+      max_upload_file_size_form: 'Uasluchtaigh uasteorainn chomhaid sroichte ón bhfoirm.'
+      partial_upload: 'Uaslódáil pháirteach.'
+      no_file_uploaded: 'Níor uaslódáladh aon chomhad.'
+      no_upload_tmp_folder: 'Níl fillteán tmp ann chun comhaid a uaslódáil.'
+      cannot_write_to_disk: 'Ní féidir scríobh chuig an diosca.'
+      upload_blocked_by_php_extension: 'Chuir síneadh php bac ar an uaslódáil.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Comhad comhroinnte nua'
+      dropzone: 'Tarraing agus scaoil comhaid anseo nó cliceáil chun brabhsáil'
+      hide-from-media-gallery: 'Folaigh ó ghailearaí meán an úsáideora'
+      upload: Uasluchtú
+    file_list:
+      loading: 'Comhaid á luchtú...'
+      empty: 'Níl aon chomhaid le taispeáint.'
+      release_to_upload: 'Scaoileadh le huaslódáil'
+      modal_empty_desktop: 'Tá do liosta comhad folamh. Cliceáil ar an gcnaipe nó tarraing comhad anseo le huaslódáil.'
+      modal_empty_phone: 'Tá do liosta comhad folamh. Tapáil an cnaipe thuas chun comhad a uaslódáil.'
+      load_more_files_btn: 'Luchtaigh tuilleadh comhad'
+      hide_file: { hide_success: 'Comhad i bhfolach', show_success: 'Comhad léirithe', loading: 'Comhad á chur i bhfolach...' }
+      hide_shared_file: { hide_success: 'Comhad déanta príobháideach', show_success: 'Comhad curtha ar fáil don phobal', loading: 'Comhad á dhéanamh príobháideach...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: scríobh
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Cuir téacs trom leis'
+      code_tooltip: 'Ionsáigh cód'
+      header_tooltip: 'Cuir téacs ceanntáisc leis'
+      image_tooltip: 'Cuir íomhá leis'
+      italic_tooltip: 'Cuir téacs iodálach leis'
+      link_tooltip: 'Cuir nasc leis'
+      ordered_list_tooltip: 'Cuir liosta uimhrithe leis'
+      quote_tooltip: 'Ionsáigh luachan'
+      spoiler_tooltip: 'Ionsáigh spoiler'
+      strikethrough_tooltip: 'Cuir téacs strikethrough leis'
+      unordered_list_tooltip: 'Cuir liosta urchair leis'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Cruthaíonn duine éigin plé i gclib atá á leanúint agam'
+      notify_new_post_label: 'Postálann duine éigin i gclib atá á leanúint agam'
+      notify_new_discussion_tag_label: 'Déanann duine éigin athchlibeanna ar phlé le clib atá á leanúint agam'
+    index:
+      follow_tag_button: Lean
+      unfollow_tag_button: 'Stop Ag leanúint'
+      following: { following_none_label: 'Plé ina dhiaidh sin', following_tags_label: 'Clibeanna Leantacha' }
+    badge:
+      following_tag_tooltip: 'Tar éis'
+      lurking_tag_tooltip: Lurking
+    sub_controls:
+      following_text: 'A chur in iúl faoi gach plé nua.'
+      hiding_text: 'Folaigh plé ón leathanach All Discussion.'
+      ignoring_text: 'Ná cuir in iúl riamh.'
+      lurking_text: 'A chur in iúl faoi gach plé agus freagra nua.'
+      not_following_button: 'Gan a bheith ag leanúint'
+      not_following_text: 'Ní chuirfear in iúl é ach amháin nuair a @mentioned.'
+      notify_alert_tooltip: 'Faigh fógra fóraim nuair a bhíonn plé nó poist nua ann'
+      notify_email_tooltip: 'Faigh ríomhphost nuair a bhíonn plé nó poist nua ann'
+      submit_button: 'Deimhnigh síntiús'
+      follow_button: Lean
+      following_button: 'Tar éis'
+      hiding_button: 'I bhfolach'
+      ignoring_button: Neamhaird
+      lurking_button: Lurking
+    user:
+      settings: { heading: 'Lean Clibeanna', filter_label: 'Cad atá le taispeáint de réir réamhshocraithe sa leathanach seo a leanas' }
+  ref:
+    follow: Lean
+    following: 'Tar éis'
+    hiding: 'I bhfolach'
+    ignoring: Neamhaird
+    lurking: Lurking
+    filtering_options:
+      none: 'Plé ina dhiaidh sin'
+      tags: 'Clibeanna Leantacha'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Tá an leasainm seo neamhbhailí. Téigh i dteagmháil le riarthóir an fhóraim chun tuilleadh eolais a fháil faoi rialacha leasainm.'
+  ref:
+    change_nickname: 'Athraigh Leasainm'
+    nickname: Leasainm
+  forum:
+    change_nickname:
+      submit_button: 'Sábháil Athruithe'
+      title: 'Athraigh Leasainm'
+    edit_user:
+      nicknames_heading: 'Athraigh Leasainm'
+      nicknames_text: Leasainm
+    settings:
+      change_nickname_button: 'Athraigh Leasainm'
+    sign_up:
+      nickname_placeholder: Leasainm
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Cuntais nasctha', last-used-label: 'Úsáidte go deireanach', link-created-label: 'Nasc cruthaithe', orphaned-account: 'Shínigh tú isteach tríd an soláthraí seo roimhe seo, ach tá an fóram seo díchumasaithe síniú isteach leis an modh seo ó shin.', help: 'Ligeann na cuntais nasctha seo duit síniú isteach san fhóram ag baint úsáide as soláthraithe eile.' } }
+    signup:
+      username_help: 'Roghnaigh ainm úsáideora atá ar eolas anseo'
+    unlink: 'Bain nasc'
+    error:
+      bad_verification_code: 'Comhartha fíoraithe neamhbhailí nó imithe in éag. Bain triail eile as.'
+      invalid_state: 'Staid neamhbhailí. Bain triail eile as.'
+    providers:
+      discord: DiscordName
+      facebook: Facebook
+      github: GitHubName
+      gitlab: GitLabName
+      google: Google
+      linkedin: LinkedInName
+      twitter: Twitter
+  lib:
+    providers:
+      discord: DiscordName
+      facebook: Facebook
+      github: GitHubName
+      gitlab: GitLabName
+      twitter: Twitter
+      google: Google
+      linkedin: LinkedInName
+  ref:
+    settings:
+      app_id: 'Aitheantas feidhmchláir'
+      app_secret: 'Rún Feidhmchláir'
+      client_id: 'Aitheantas an chliaint'
+      client_secret: 'Rún an Chliaint'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Logáil isteach mar úsáideoir eile'
+      placeholder_optional: '(Roghnach) Tabhair do chúis le hathrú chuig an úsáideoir seo'
+      placeholder_required: 'Ní mór duit an chúis atá agat le hathrú chuig an úsáideoir seo a chur ar fáil sula dtéann tú ar aghaidh'
+    user_controls:
+      impersonate_button: 'Logáil isteach mar úsáideoir'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Plé príobháideach' }
+    buttons:
+      add_recipients: Faighteoirí
+      submit: 'Ceart go leor'
+      edit_recipients: 'Cuir Faighteoirí in Eagar'
+      cancel: 'Cuir ar ceal'
+      make_public: 'An plé seo a phoibliú'
+      remove_from_discussion: 'Fág an plé príobháideach seo'
+    composer_private_discussion:
+      submit_button: 'Plé Iarphríobháideach'
+      title_placeholder: 'Teideal an Phlé Phríobháidigh'
+    confirm:
+      make_public: 'An bhfuil tú cinnte go bhfuil fonn ort na faighteoirí a bhaint agus an plé seo a dhéanamh infheicthe do dhuine ar bith ar féidir leo an chlib shannta a fheiceáil?'
+    nav:
+      start_button: 'Pléigh go príobháideach'
+      nav_item: 'Plé Príobháideach'
+    input:
+      search_recipients: 'Cuardaigh an faighteoir trí na chéad trí charachtar a chlóscríobh...'
+    search:
+      headings: { groups: 'Grúpaí Ceada' }
+    modal:
+      titles: { add_recipients: 'Cuir faighteoirí le do phlé' }
+      labels: { selected_users: 'Úsáideoirí roghnaithe', search_field: 'Cuardaigh an t-úsáideoir' }
+      help: { add_recipients: 'Ní bheidh an plé seo le feiceáil ach ag na húsáideoirí a roghnaíonn tú anseo. Teastaíonn faighteoir amháin ar a laghad (seachas tú féin).', update_recipients: 'Ní bheidh an plé seo le feiceáil ach ag na húsáideoirí a roghnaíonn tú anseo.', selected_users: 'Cliceáil ar ainm úsáideora chun iad a bhaint.', click_user_to_remove_tooltip: 'Cliceáil chun é a bhaint' }
+    user:
+      settings: { block_pd: 'Bac a chur ar phlé príobháideach' }
+      byobu_link: 'Plé Príobháideach'
+      dropdown_label: 'Plé Príobháideach'
+    notifications:
+      pd_label: 'Áiríonn duine éigin mé i bplé príobháideach nua'
+      pd_reply_label: 'Postálann duine éigin i ndíospóireacht phríobháideach'
+      pd_user_left_label: 'Fágann úsáideoir faighteora plé príobháideach Tá mé mar chuid de'
+      pd_added_label: 'Cuireann duine éigin mé le plé príobháideach atá ann cheana féin'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Eolas faoin suaitheantas'
+    all_badges: 'Féach ar gach suaitheantas'
+    all_users: 'Féach ar gach úsáideoir'
+    give_badge: 'Tabhair suaitheantas'
+    update_badge: 'Suaitheantas nuashonraithe'
+    select_badge: 'Roghnaigh suaitheantas'
+    user_has_badge: 'Tá an suaitheantas seo ag an úsáideoir cheana féin.'
+    user_no_badges: 'Níl suaitheantais ar bith ag an úsáideoir seo go fóill.'
+    no_received: 'Níor thuill aon úsáideoir an suaitheantas seo.'
+    save_changes: 'Sábháil athruithe'
+    badge:
+      badge: Suaitheantas
+      badges: Suaitheantais
+      name: 'Ainm an tsuaitheantais'
+      description: 'Cur síos ar an suaitheantas'
+      earning_reason: 'Cúis tuillimh suaitheantais'
+      update_earning_reason: 'Nuashonraigh cúis tuillimh'
+      no_earning_reason: 'Níl aon chúis tuillimh socraithe'
+      earned_on: 'Suaitheantas tuillte ar'
+      category: 'Catagóir suaitheantais'
+      badge_details: 'Sonraí suaitheantais'
+    badges_in_card:
+      title: 'Suaitheantais i gcárta úsáideora'
+      manage_badges: 'Bainistigh suaitheantais'
+      description: 'Is féidir leat na suaitheantais infheicthe i do chárta úsáideora a athrú le ceann de do shuaitheantais eile. Mura roghnaíonn tú aon cheann, roghnófar iad go huathoibríoch.'
+    moderation:
+      remove_badge: 'Bain suaitheantas ón úsáideoir'
+      remove_badge_confirm: 'An bhfuil tú cinnte go bhfuil fonn ort an suaitheantas seo a bhaint den úsáideoir seo?'
+      give_badge: 'Tabhair suaitheantas'
+    notification:
+      title: 'Tá suaitheantas nua faighte agat'
+      settings: 'Tá suaitheantas faighte agam'
+    uncategorized: 'Gan catagóir'
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Stádas Olc'
+      not_miserable_label: 'Ní trua'
+      indefinitely_label: 'Olc ar feadh tréimhse éiginnte'
+      limited_time_label: 'Olc ar feadh tréimhse teoranta...'
+      limited_time_days_text: ' laethanta'
+      submit_button: 'Sábháil Athruithe'
+    user_badge:
+      miserable_user_tooltip: 'Úsáideoir olc'
+    user_controls:
+      miserable_user_button: 'Úsáideoir olc'
+  ref:
+    miserable_user: 'Úsáideoir olc'
+sycho-profile-cover:
+  forum:
+    cover: Clúdach
+    edit_cover: 'Cuir Clúdach in Eagar'
+    added:
+      success: 'Nuashonraíodh clúdach próifíle.'
+      error: 'Níorbh fhéidir an íomhá a uaslódáil.'
+    removed:
+      success: 'Baineadh clúdach próifíle.'
+      error: 'Níorbh fhéidir clúdach a bhaint, bain triail eile as níos déanaí.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Cóipeáil go dtí an ghearrthaisce'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Cuairteoirí deireanacha', guest: Aoi }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Cód Tíre'
+    saveButton: Sábháil
+    clickToSelectCountry: 'Roghnaigh do thír'
+    countrySaved: 'D''éirigh le tír a shábháil!'
+    field_placeholder: 'Deimhnigh Bratacha Tíre'
+    binding_country: 'Fuaireamar amach nach bhfuil tú faoi cheangal do cá bhfuil tú. Nasc do thír ar dtús, le do thoil. Ní féidir leat teachtaireachtaí a phostáil agus a fhágáil ach amháin tar éis do thír a nascadh.'
+    binding_country_click: 'Cliceáil Anois'
+username-blacklist:
+  forum:
+    modal-title: Rabhadh!
+    modal-body-first-line: 'Rabhadh - Cuireann <strong>riarthóir bac ar</strong> an ainm úsáideora seo'
+    modal-body-second-line: 'Roghnaigh ainm úsáideora eile nach mbriseann ár dtreoirlínte pobail agus bain triail eile as.'
+  admin:
+    blackList: 'Ainm Úsáideora Liostáilte'
+    blackList-help: 'Scríobh anseo ainm úsáideora ar mhaith leat bac a chur air le linn clárúcháin (scartha ag camóg)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Achoimre, show-summaries: 'Taispeáin sliocht as gach plé ar liostaí plé (Deasc/Táibléad)', show-summaries-mobile: 'Taispeáin sliocht as gach plé ar liostaí plé (Fón Póca)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Gníomhaíocht an fhóraim'
+      forum_new_discussions: 'Plé nua an Fhóraim'
+      discussion_last_posts: 'Tá an plé seo'
+      user_last_posts: 'Poist & tuairimí ag an úsáideoir seo'
+    feeds:
+      titles: { main_subtitle: 'Poist dheireanacha san fhóram', main_d_subtitle: 'An plé is nua san fhóram', discussion_subtitle: 'Teachtaireachtaí deireanacha sa phlé seo', user_subtitle: 'Na poist is déanaí & tuairimí ag an úsáideoir seo.' }
+    discussion:
+      feed_link: Fotha
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: 'Ina dhiaidh sin'
+    profile_page:
+      no_following: 'Tá an chuma air nach bhfuil tú ag leanúint duine ar bith.'
+    settings:
+      notify_new_follower_label: 'Leanann duine éigin mé'
+      notify_new_unfollower_label: 'Stopann duine éigin ag leanúint orm'
+      notify_new_discussion_label: 'Tosaíonn duine éigin a bhfuil mé ag leanúint plé'
+      notify_new_post_label: 'Duine éigin a bhfuil mé ag leanúint post i bplé atá ann cheana féin'
+      block_follow: 'Cuir cosc ar úsáideoirí mé a leanúint'
+    badge:
+      label: { follow: 'Tar éis plé a dhéanamh', lurk: 'Tar éis gach' }
+    filter:
+      following: 'Úsáideoirí a leanadh'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Lean na leibhéil', follow_select_label: 'Lean an cineál', no_user_attr_provided_err: 'Uh oh, chuaigh rud éigin mícheart agus an modal seo á oscailt.', no_user_attr_provided_err_debug: 'Níor cuireadh aon tréith ''úsáideora'' ar aghaidh chuig an modal SelectFollowUserLevel nuair a cruthaíodh é. Ní féidir modal a dhéanamh.', save_btn: Sábháil, cancel_btn: 'Cuir ar ceal' }
+    profile_link: 'Úsáideoirí Leantacha'
+    user_controls:
+      follow_button: Lean
+      unfollow_button: Unfollow
+      change_button: 'Athraigh an cineál seo a leanas'
+    index:
+      follow_tag_button: Lean
+      unfollow_tag_button: 'Athraigh an cineál seo a leanas'
+  email:
+    new_follower_subject: '[Lean Úsáideoir] Tá leantóir nua agat!'
+  lib:
+    following_link: 'Úsáideoirí Leantacha'
+    follow: Lean
+    change_follow_type: 'Athraigh an cineál seo a leanas'
+    unfollow: Unfollow
+    follow_levels:
+      unfollow: { name: 'Ná lean' }
+      follow: { name: 'Lean an plé' }
+      lurk: { name: 'Lean gach rud' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Cinntigh le do thoil go leanann an t-athrú leasainm iarrtha seo treoirlínte an fhóraim.', decision_title: Cinneadh, approval_label: Faomhadh, rejected_label: Diúltaigh, submit_button: 'Cuir isteach', reason_title: 'Cúis leis an Diúltú', success: 'Cinneadh seolta.', title: 'Iarratas ar Athrú Leasainm' }
+      results: { title: 'Iarratas ar Athrú Leasainm', approved: 'Ceadaíodh d''iarratas ar athrú leasainm', rejected: 'Diúltaíodh d''iarratas ar athrú leasainm', resubmit: 'Ag an am seo is féidir leat iarratas nua ar athrú leasainm a chur isteach arís ó do shocruithe cuntais má roghnaíonn tú amhlaidh.', dismiss_button: 'Ceart go leor' }
+      request: { title: 'Iarr Athrú Leasainm', submit_button: 'Cuir Iarratas Isteach', delete_button: 'Scrios Iarratas', confirmation_message: 'Tá d''iarratas ar athrú leasainm curtha isteach agus tá sé ar feitheamh ceadaithe.', deleted: 'Scriosadh an t-iarratas leasainm.', dismiss_button: 'Ceart go leor' }
+    username_modals:
+      action: { help_text: 'Cinntigh le do thoil go leanann an t-athrú ainm úsáideora iarrtha seo treoirlínte an fhóraim.', decision_title: Cinneadh, approval_label: Faomhadh, rejected_label: Diúltaigh, submit_button: 'Cuir isteach', reason_title: 'Cúis leis an Diúltú', success: 'Cinneadh seolta.', title: 'Iarratas ar Athrú Ainm Úsáideora' }
+      results: { title: 'Iarratas ar Athrú Ainm Úsáideora', approved: 'Ceadaíodh d''iarratas ar athrú ainm úsáideora', rejected: 'Diúltaíodh d''iarratas ar athrú ainm úsáideora', resubmit: 'Ag an am seo is féidir leat iarratas nua ar athrú ainm úsáideora a chur isteach arís ó do shocruithe cuntais má roghnaíonn tú amhlaidh.', dismiss_button: 'Ceart go leor' }
+      request: { title: 'Iarr Athrú Ainm Úsáideora', submit_button: 'Cuir Iarratas Isteach', delete_button: 'Scrios Iarratas', confirmation_message: 'Tá d''iarratas ar athrú ainm úsáideora curtha isteach agus tá sé ar feitheamh ceadaithe.', deleted: 'Scriosadh iarratas ainm úsáideora.', dismiss_button: 'Ceart go leor' }
+    pending_requests:
+      empty_text: 'Níor aimsíodh aon iarratais ar athrú ainm.'
+      tooltip: 'Iarratais ar Athrú Ainm'
+      title: 'Iarratais ar Athrú Ainm'
+    settings:
+      nickname_request_button: 'Athraigh Leasainm'
+      username_request_button: 'Athraigh Ainm Úsáideora'
+    user:
+      name_history_link: 'Stair na n-ainmneacha'
+  ref:
+    name_change_request: 'Iarratas ar Athrú Ainm'
+    name_change_requests: 'Iarratais ar Athrú Ainm'
+    nickname_change_request: 'Iarratas ar Athrú Leasainm'
+    nickname_change_requests: 'Iarratais ar Athrú Leasainm'
+    username_change_request: 'Iarratas ar Athrú Ainm Úsáideora'
+    username_change_requests: 'Iarratais ar Athrú Ainm Úsáideora'
+  email:
+    body:
+      noReasonProvided: 'Níor cuireadh aon chúis ar fáil.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Scríobh rud éigin fút féin'
+    profile:
+      cancel_confirm: 'An bhfuil tú cinnte go bhfuil fonn ort eagarthóireacht do bhith a chur ar ceal? Caillfidh tú aon athruithe atá déanta agat.'
+      cancel_button: 'Cuir ar ceal'
+      save_button: Sábháil
+      edit_bio_label: 'Cuir bith in eagar'
+fof-split:
+  forum:
+    split:
+      from: 'Scoilt as seo'
+      to: 'Scoilt anseo'
+      cancel: 'Cealaigh scoilt'
+    modal:
+      title: 'Plé scoilte'
+      new_discussion_label: 'Sonraigh teideal an phlé nua'
+      submit_button: Scoilt
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Cuir do chnaipí meán sóisialta in eagar'
+      add: 'Cuir cnaipí le do mheáin shóisialta'
+      headtitle: 'Cuir Cnaipí in Eagar'
+      title: Teideal
+      url: URL
+      submit: Sábháil
+      delete: Scrios
+      deletetitle: 'Scrios Cnaipe'
+      save_disabled_fetching_favicons: 'Tá deilbhín amháin nó níos mó á bhfáil. Fan, le do thoil.'
+      favicon: FaviconName
+      grey_favicon: 'Favicon Liath'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Roinn
+      share_dropdown_accessible_label: 'Scoránaigh roghchlár anuas comhroinnte plé'
+    modal:
+      title: Roinn
+      copy_button: Cóipeáil
+  lib:
+    networks:
+      facebook: Facebook
+      twitter: Twitter
+      linkedin: LinkedInName
+      reddit: RedditName
+      whatsapp: WhatsAppName
+      telegram: Teileagram
+      vkontakte: VKontakteGenericName
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Mo Shaol'
+      qq: QQGenericName
+      qzone: QZoneGenericName
+      native: 'Sciar Dúchasach'
+fof-recaptcha:
+  forum:
+    error: 'Tharla earráid agus reCAPTCHA á chur isteach. Bain triail as arís.'
+    unknown_error: 'Tharla earráid anaithnid. Seiceáil an captcha agus bain triail eile as.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Ní féidir leat an t-imoibriú seo a úsáid anois, athnuaigh an leathanach'
+    warning: 'Tiontaíodh d''imoibriú'
+    settings:
+      notify_post_reacted_label: 'Imoibríonn duine éigin le ceann de mo phoist'
+    reacting-own-post: 'Ní féidir leat freagairt do do phost féin'
+    modal:
+      title: Frithghníomhartha
+      no_reactions: 'Níl aon fhrithghníomhartha fós ann'
+    mod_item: 'Amharc ar Fhrithghníomhartha'
+    react_button_label: Freagairt
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Theip ar an cropper íomhá a luchtú.', generic_resize: 'Chuaigh rud éigin mícheart agus é ag bearradh & ag athrú na híomhá.', get_image_data: 'Theip ar bharr. Cinntigh go bhfuil cosaint méarloirg do bhrabhsálaí díchumasaithe.' }
+      help_text: "D'fhéadfadh go dteipfeadh ar uaslódáil na híomhá má tá socruithe príobháideachais do bhrabhsálaí an-dian. Má tá deacracht agat, déan iarracht cosaint méarloirg a dhíchumasú. Seachas sin, is féidir leat a <disableResize>dhíchumasú ceachtar compressing an íomhá cropped</disableResize> nó <disableCrop>cropping dhíchumasú ar fad</disableCrop>.\n"
+      submit_button: Uasluchtú
+      submit_crop_button: 'Barr & Uasluchtú'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Tá sé an-dóchúil nach bhfuil gá le haon phlé breise agus dá bhrí sin bumping feidhmíonn sé aon chuspóir.', checkbox_label: 'Tuigim go bhfuil an plé seo sách sean ach ba mhaith liom freagra a thabhairt fós.', error: 'Tá an plé seo róshean le freagra a thabhairt air.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Níl cead vótála agat'
+    poll_ended: 'Tá deireadh leis an bpobalbhreith seo.'
+    public_poll: 'Féach ar vótálaithe'
+    composer_discussion:
+      add_poll: 'Cuir Vótaíocht Leis'
+      edit_poll: 'Cuir Vótaíocht in Eagar'
+    modal:
+      add_title: 'Cuir Vótaíocht Leis'
+      add_option_label: 'Cuir Rogha Leis'
+      edit_title: 'Cuir Vótaíocht in Eagar'
+      include_question: 'Ní mór duit ceist a chur san áireamh'
+      max: 'Is féidir leat 10 bhfreagra ar a mhéad a bheith agat'
+      min: 'Ní mór duit 2 fhreagra ar a laghad a chur san áireamh'
+      no_voters: 'Gan Vótaí'
+      option_placeholder: Freagra
+      image_option_placeholder: 'URL na híomhá (roghnach)'
+      options_label: Freagraí
+      public_poll_label: 'Lig do dhaoine a fheiceáil cé a vótáil'
+      allow_multiple_votes_label: 'Lig do dhaoine vótáil le haghaidh roghanna éagsúla'
+      max_votes_label: 'Vótaí uasta in aghaidh an úsáideora'
+      max_votes_help: 'Socraigh go 0 chun ligean d''úsáideoirí vótáil do gach rogha.'
+      question_placeholder: Ceist
+      submit: 'Cuir isteach'
+    moderation:
+      delete: 'Bain Vótaíocht'
+      delete_confirm: 'An bhfuil tú cinnte go bhfuil fonn ort an vótaíocht seo a scriosadh?'
+      edit: 'Cuir Vótaíocht in Eagar'
+    tooltip:
+      badge: Pobalbhreith
+    votes_modal:
+      title: Vótálaithe
+fof-nightmode:
+  ref:
+    auto: 'Uathoibríoch (bunaithe ar roghanna brabhsálaí nó gléis)'
+    light: 'Mód Lae'
+    dark: 'Mód Oíche'
+  forum:
+    header:
+      nightmode_button: 'Mód Oíche'
+    user:
+      settings: { heading: Téama, description: 'Roghnaigh an téama datha is mian leat a úsáid ar an bhfóram.', description2: 'Nascfar an téama seo le do chuntas agus beidh feidhm aige maidir le do ghléasanna go léir ach amháin má scoránaíonn tú ar an lasc thíos le haghaidh socruithe an ghléis.', device_specific_setting_checkbox: 'Úsáid socruithe an ghléis', device_specific_setting_checkbox_tooltip: 'Sábhálfar do rogha téama ina n-aonar do gach ceann de do ghléasanna.', auto_unsupported: 'Ní thacaíonn do bhrabhsálaí le mód dorcha uathoibríoch.', option_descriptions: { auto: 'Roghnófar do théama go huathoibríoch bunaithe ar shocruithe do bhrabhsálaí nó do ghléis. Mar shampla, má tá mód dorcha cumasaithe agat i iOS, beidh na fóraim dorcha freisin.', day: 'An taithí chlasaiceach a bhfuil tú cleachtaithe leis. Grá agus tástáil.', night: 'Tá tú beagán de owl oíche. Féachann tú thar an bhfóram san oíche, agus na héin ina gcodladh agus na sionnaigh ag seilg. Nó is fearr leat na dathanna níos dorcha!' }, options: { auto: 'Uathoibríoch (bunaithe ar roghanna brabhsálaí nó gléis)', day: 'Mód Lae', night: 'Mód Oíche' } }
+    day: 'Mód Lae'
+    night: 'Mód Oíche'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Ní cheadaítear nóta folamh.'
+    moderatorNotes:
+      add_button: 'Nóta nua'
+      create-heading: 'Cruthaigh nóta modhnóra nua'
+      dismiss_button: Déanta
+      noNotes: 'Tá an chuma ar an scéal nach bhfuil aon nótaí anseo.'
+      submit_button: 'Sábháil nóta'
+      delete: Scrios
+      confirm: 'An bhfuil tú cinnte go bhfuil fonn ort an nóta seo a scriosadh?'
+    user:
+      notes: 'Nótaí Modhnóra'
+  api:
+    no_reason_provided: 'Níor cuireadh aon chúis ar fáil'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Vótaí
+    vote_title: 'Taispeáin Cé a Vótáil'
+    nav:
+      name: Ranguithe
+    ranking:
+      rank: Áit
+      name: Úsáideoir
+      amount: Pointí
+    notification:
+      prefrences: { vote: 'Nuair a vótáiltear ar cheann de mo phoist suas / síos' }
+    user:
+      votes_link: Vótaí
+    modal:
+      downvotes_label: 'Downvoters:'
+      title: Vótálaithe
+      upvotes_label: 'Upvoters:'
+    mod_item: 'Féach ar vótálaithe'
+    voters:
+      none: 'Níl vótóirí ar bith ann go fóill'
+      label: Vótálaithe
+      label_none: 'Gan vótálaithe'
+    post:
+      upvote_button: 'Post upvote'
+      downvote_button: 'Post downvote'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Tá dréachtaí sceidealta díchumasaithe i suíomhanna faoi láthair.'
+  ref:
+    schedule_draft: 'Dréacht sceidil'
+  forum:
+    composer:
+      title: 'Sábháil Dréacht'
+      saving: 'Ag sábháil...'
+      saved: Sábháilte!
+      exit_alert: 'Ná bac le hathruithe ar an dréacht?'
+      discard_empty_draft_alert: 'Ná sábháil an dréacht folamh?'
+    dropdown:
+      empty_text: 'Níor shábháil tú aon dréachtaí'
+      title: Dréachtaí
+      delete_all_button: 'Scrios gach dréacht'
+      delete_button: 'Scrios dréacht'
+      scheduled_icon_tooltip_formatter: 'L [ag] LT'
+      alert: 'An bhfuil tú cinnte go bhfuil fonn ort do dhréacht a scriosadh?'
+      delete_all_alert: 'An bhfuil tú cinnte go bhfuil fonn ort do dhréachtaí go léir a scriosadh?'
+      schedule_button: 'Dréacht sceidil'
+      tooltip: Dréachtaí
+    schedule_draft_modal:
+      text: 'Sceideal do dhréacht a phost go huathoibríoch ag am níos déanaí!'
+      unschedule_button: Dísceiplíneach
+      unschedule_warning: 'An bhfuil tú cinnte go bhfuil fonn ort an dréacht seo a chealú?'
+      reschedule_button: Athsceidealú
+      schedule_button: Sceideal
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Dáta agus/nó am neamhbhailí'
+      title: 'Dréacht sceidil'
+    user:
+      settings: { drafts_heading: Dréachtaí, draft_autosave_enable: 'Cumasaigh Dréacht Autosave?', draft_autosave_interval_label: 'Eatramh Autosave (soicindí)', draft_autosave_interval_button: 'Eatramh Nuashonraithe', draft_autosave_interval_invalid: 'Caithfidh an t-eatramh a bheith ina slánuimhir níos mó ná 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Freagraíodh
+    this_best_answer: 'Roghnaigh an Freagra is Fearr'
+    remove_best_answer: 'Díroghnaigh an Freagra is Fearr'
+    best_answer_button: 'An Freagra is Fearr'
+    errors:
+      mismatch: 'Níl an post roghnaithe ann sa phlé seo.'
+    notification:
+      content: 'Roghnaigh an Freagra is Fearr má freagraíodh do cheist'
+      preferences: { awarded_best_answer: 'Socraíonn duine éigin mo phost mar fhreagra is fearr', best_answer_in_discussion: 'Tá freagra is fearr leagtha síos i ndíospóireacht ar ghlac mé páirt ann', select_best_answer: 'Meabhrúchán uathoibrithe chun an freagra is fearr a roghnú i bplé a thosaigh mé' }
+    index:
+      ask_question: 'Cuir Ceist'
+      cannot_ask_question: 'Ní féidir ceist a chur'
+      solved_link: 'Plé réitithe'
+      unsolved_link: 'Plé gan réiteach'
+    filter:
+      all_label: 'Gach ceist'
+      solved_label: 'Ceisteanna réitithe'
+      unsolved_label: 'Ceisteanna gan réiteach'
+      accessible_label: 'Roghnúchán réitithe/gan réiteach'
+    composer:
+      titlePlaceholder: 'Teideal na ceiste'
+    search:
+      discussions_solutions_heading: 'Plé le réitigh'
+    discussion:
+      jump_to_best_answer_button: 'Féach ar Fearr'
+  email:
+    subject:
+      select: 'An raibh tú a bhainistiú a fháil do cheist a fhreagairt?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Na freagraí is fearr'
+      least_best_answers: 'Na freagraí is lú is fearr'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Ní chuirfear cosc ar aon duine eile'
+    user_badge:
+      banned_tooltip: Toirmeasc
+    ban_ip_button: 'Cosc a chur ar IP'
+    unban_ip_button: 'Unban IP'
+    user_controls:
+      ban_button: Cosc
+      unban_button: UnbanName
+  error:
+    banned_ip_message: 'Theip ar údarú.'
+    no_ips_found_message: 'Níor aimsíodh aon IP(í) don úsáideoir.'
+  lib:
+    modal:
+      check_button: Seiceáil
+      save_button: Sábháil
+      ban_ip_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort an seoladh IP seo a bhlocáil ó úsáid ar an bhfóram? Cuirfidh sé seo bac ar úsáideoirí leis an seoladh/na seoltaí IP seo logáil isteach agus clárú.'
+      unban_ip_confirmation: 'An bhfuil tú cinnte go bhfuil fonn ort an t-úsáideoir seo agus gach úsáideoir eile nach gcuireann IPanna eile cosc orthu?'
+      unban_ip_no_users: 'Ní chuirfear cosc ar aon duine eile'
+      title: 'Cosc a chur ar IP (í)'
+      unban_title: 'Unban IP (í)'
+      address_label: 'Seoladh IP'
+      reason_label: Cúis
+      ban_button: Cosc
+      unban_button: UnbanName
+  ref:
+    ban_label: Cosc
+    ban_ip_addresses: 'Cosc a chur ar IP (í)'
+    ban_ip_button: 'Cosc a chur ar IP'
+    unban_label: UnbanName
+    unban_ip_addresses: 'Unban IP (í)'
+    unban_ip_button: 'Unban IP'
+    address_label: 'Seoladh IP'
+    reason_label: Cúis
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Fuarthas sonraí faoi do chlárú i mbunachar sonraí um chosc spam, dá bhrí sin cuireadh bac ar do chlárú.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Scrios plé'
+      hard_delete_discussions_help: 'Scriosfaidh sé seo gach plé a thosaigh an t-úsáideoir seo go buan. Nuair a bheidh tú faoi mhíchumas, cuirfear an plé i bhfolach ina ionad.'
+      hard_delete_posts_label: 'Scrios poist'
+      hard_delete_posts_help: 'Scriosfaidh sé seo gach post (tuairimí, freagraí, srl) a rinne an t-úsáideoir seo go buan. Nuair a bheidh siad díchumasaithe, cuirfear poist i bhfolach ina ionad.'
+      hard_delete_user_label: 'Scrios úsáideoir'
+      hard_delete_user_help: 'Scriosfaidh sé seo an t-úsáideoir go buan. Nuair atá sé díchumasaithe, cuirfear an t-úsáideoir ar fionraí ina ionad.'
+      intro: 'Agus úsáideoir á mharcáil mar spammer, déanfar roinnt gníomhartha, a bhraitheann ar na síntí atá ar fáil ar d''fhóram.'
+      move_discussions_tag_label: 'Bog an plé chuig clib choraintín'
+      move_discussions_tag_help: 'Bogfaidh sé seo gach plé a thosaigh an t-úsáideoir seo chuig an gclib a shonraigh tú i socruithe an fhóraim. Nuair a bheidh siad faoi mhíchumas, fágfar an plé ina gclibeanna reatha.'
+      process_button: Próiseas
+      report_to_sfs_label: 'Tuairiscigh chuig StopForumSpam'
+      report_to_sfs_help: 'Tuairisceoidh sé seo sonraí bunúsacha an úsáideora (ainm úsáideora, ríomhphost, seoladh IP) chuig StopForumSpam. Cabhróidh sé seo le cosc a chur ar an úsáideoir clárú ar fhóraim eile a úsáideann an tseirbhís StopForumSpam.'
+    user_controls:
+      spammer_button: SpammerName
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Athshocraigh líon na n- amharc plé'
+      submit: 'Cuir isteach'
+      label: 'Socraigh an comhaireamh le hamharc'
+    discussion_controls:
+      resetviews_button: 'Socraigh líon na n- amharc'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Unsticky
+      sticky_button: Greamaitheach
+    badge:
+      sticky_tooltip: Greamaitheach
+  ref:
+    sticky: Greamaitheach
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: 'Faoi Ghlas'
+    discussion_controls:
+      lock_button: Glasáil
+      unlock_button: Díghlasáil
+    settings:
+      notify_discussion_locked_label: 'Cuireann duine éigin plé faoi ghlas a thosaigh mé'
+flarum-likes:
+  forum:
+    post:
+      like_link: 'Cosúil le'
+      unlike_link: 'Murab ionann agus'
+      you_text: 'Tá tú'
+    post_likes:
+      title: 'Úsáideoirí a dtaitníonn sé seo leo'
+      load_more_button: 'Luchtaigh Níos Mó'
+    settings:
+      notify_post_liked_label: 'Is maith le duine éigin ceann de mo phoist'
+    user:
+      likes_link: 'Is maith liom'
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Ionsáigh emoji'
+      type_to_search_text: 'Clóscríobh emoji chun emoji a chuardach'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Tá d''ábhar rómhór, léigh ár dtreoirlínte maidir le postáil' }
+dhtml-persona:
+  forum:
+    persona: Duine
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Clár ceannaire'
+dhtml-gender:
+  forum:
+    male: Fireann
+    female: Baineann
+    other: 'B''fhearr gan a rá'
+    inputGender: Inscne
+    saveButton: Sábháil
+    clickToSelectGender: 'Roghnaigh d''inscne'
+    genderSaved: 'D''éirigh le hinscne a shábháil!'
+    field_placeholder: 'Deimhnigh Inscne'
+    binding_gender: 'Fuaireamar amach nach bhfuil d''inscne socraithe agat. Socraigh d''inscne ar dtús. Ní féidir leat teachtaireachtaí a phostáil agus a fhágáil ach amháin tar éis d''inscne a shocrú.'
+    binding_gender_click: 'Cliceáil Anois'
+flarum-content-pages:
+  forum:
+    home: Baile
+    about-us: Fúinn
+    guidelines: Treoirlínte
+    privacy-policy: 'Polasaí Príobháideachais'
+    terms-of-use: 'Téarma Úsáide'
+    contact-us: 'Déan Teagmháil Linn'
+    download-app: 'Íoslódáil an Aip'
+    discord-chat: 'Comhrá Discord'
+    tags-cloud: 'Clibeanna Cloud'
+    languages: Teangacha
+    leaderboard: 'Clár ceannaire'
+    live: 'Beo agus Beo'
+    live-coding: 'Coding Beo'
+    challenges: Dúshláin
+    dev-challenges: 'Dev Challenges'
+    jobs: 'irl - Library Service'
+    community: 'Pobail agus Fiontair'
+    dev-jobs: 'irl - Library Service'
+    job-posting: 'Post a fhógairt'
+    job-postings: 'Post a fhógairt'
+    workshops: 'Amharc ar gach eolas'
+    dev-workshops: 'Cruinnithe na Comhairle'
+    events: 'Amharc ar gach eolas'
+    conferences: 'Amharc ar gach eolas'
+    event-conferences: 'Imeachtaí / Comhdhálacha'
+    showcase: Taispeáin
+    tags: Clibeanna
+    more: 'Tuilleadh eolais'
+    memberships: Comhaltas
+    members: Baill
+    general-discussion: 'Plé ginearálta'
+    technology-articles: 'Airteagail Teicneolaíochta'
+    coding-challenges: 'Dúshláin Coding'
+    q-a: 'Rannóg Q/A'
+    artificial-intelligence: 'Faisnéis Shaorga'
+    computer-science: 'irl - Library Service'
+    programming-languages: 'Teangacha Clárú'
+    development-tools: 'Uirlisí Forbartha'
+    software-development: 'Forbairt Bogearraí'
+    frontend-development: 'Forbairt Tosaigh'
+    backend-development: 'Deontais Ardoideachais (DAO)'
+    software-engineering: 'Innealtóireacht Bogearraí'
+    cybersecurity: Cibearshlándáil
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Cuntar carachtar'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Cuir Dáta Breithe in Eagar'
+      date_of_birth_text: 'Dáta breithe'
+      submit_button: 'Sábháil Athruithe'
+    settings:
+      change_dob_label: 'Athraigh Dáta Breithe'
+      show_dob_date_label: 'Taispeáin lá agus mí breithe'
+      show_dob_year_label: 'Taispeáin bliain bhreithe'
+      show_dob_year_help: 'Tabharfaidh sé seo deis do dhaoine d''aois a fheiceáil.'
+      dob_heading: 'Dáta breithe'
+    nav:
+      nav_item: 'Breithlaethanta an lae inniu'
+    edit_user:
+      dob_heading: 'Dáta breithe'
+    sign_up:
+      dob_placeholder: 'Dáta breithe'
+  api:
+    invalid_dob_message: 'Dáta breithe neamhbhailí'
+  ref:
+    date_of_birth: 'Dáta breithe'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Emoji Picker'
+    search_placeholder: Cuardaigh...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Cuir Údar agus Dáta in Eagar'
+    modal:
+      title-post: 'Cuir Údar agus Dáta an Phoist in Eagar'
+      title-discussion: 'Cuir Údar plé agus Dáta in Eagar'
+      user: Údar
+      created_at: 'Am cruthaithe'
+      edited_at: 'Cuir am in eagar'
+      sync-with-discussion: 'Sioncronaigh le plé'
+      sync-with-post: 'Sioncronaigh leis an gcéad phost'
+      sync-impossible: 'Ní féidir an chéad phost a aimsiú. Bain triail as scrollú go dtí tús an phlé.'
+      submit: Sábháil
+      cancel: 'Cuir ar ceal'
+    search:
+      placeholder: 'Úsáideoirí cuardaigh'
+      type-more: 'Clóscríobh 3 charachtar chun bunachar sonraí a chuardach'
+      no-results: 'Gan torthaí'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Scoránaigh Mód Saibhir Téacs'
+      insert_button: Ionsáigh
+      insert_image: { src_placeholder: Nasc, title_placeholder: Teideal }
+      insert_link: { text_placeholder: Téacs, href_placeholder: URL, title_placeholder: 'Teideal (taispeánann sé ar hover)', remove_button: Bain }
+      additional_items_tooltip: 'Rialuithe Breise'
+      code_block_tooltip: 'Ionsáigh bloc cóid'
+      horizontal_rule_tooltip: 'Ionsáigh riail chothrománach'
+      image_tooltip: 'Cuir íomhá leis'
+      link_tooltip: 'Cuir nasc leis'
+      spoiler_block_tooltip: 'Bloc Spoiler / Dropdown'
+      strike_tooltip: 'Strikethrough <alt-shift-5>'
+      text_type_tooltip: 'Roghnaigh Cineál Téacs'
+  forum:
+    settings:
+      composer_heading: Cumadóir
+      use_rich_text_editor_label: 'Úsáid eagarthóir téacs saibhir?'
+      rich_text_compact_paragraphs_label: 'Ná scar míreanna le líne nua.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Tá fógraí brú cumasaithe agat, ach níl an gléas seo cumraithe agat.'
+      optin_button: Cumraigh
+    discussion_controls:
+      share_button: Roinn
+    post_controls:
+      share_button: Roinn
+    user_controls:
+      share_button: Roinn
+    settings:
+      push_header: Brúigh
+      pwa_notifications: { access_default: 'Mar gheall ar shrianta brabhsálaí, ní mór duit roghnú fógraí brú a fháil ar an ngléas seo.', access_default_button: 'Roghnaigh Isteach', access_denied: 'Ní mór duit socruithe do bhrabhsálaí a choigeartú chun fógraí brú a fháil ar an ngléas seo.', access_denied_button: 'Foghlaim Conas', no_browser_support: 'Ní thacaíonn an brabhsálaí seo le fógraí brú le haghaidh aipeanna gréasáin forásacha.', no_browser_support_button: 'Faigh tuilleadh eolais' }
+  views:
+    offline:
+      header: 'Earráid naisc líonra'
+      text: 'Tá nasc líonra de dhíth ar an bhfeidhmchlár seo; ní féidir é a úsáid as líne. Seiceáil do nasc le do thoil.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Tabhair rabhadh don Úsáideoir'
+    user:
+      warnings: 'Rabhaidh Modhnóra'
+    settings:
+      warning_notification_label: 'Tugann modhnóir rabhadh dom'
+    validation:
+      public_comment_required: 'Is tú is mó a chuireann trácht poiblí ar fáil.'
+      invalid_strike_count: 'Caithfidh líon na stailceanna a bheith ina slánuimhir idir 0 agus 5.'
+    warning_controls:
+      delete_button: Bain
+      restore_button: Athchóirigh
+      delete_forever_button: 'Scrios go Buan'
+    warning_list:
+      add_button: 'Rabhadh Nua'
+      no_warnings: 'Tá an chuma ar an scéal nach bhfuil aon rabhadh anseo.'
+      warnings_no_strikes: 'Rabhaidh Modhnóra: Ní bhfuarthas aon stailceanna'
+    warning_list_item:
+      public_comment: Rabhadh
+      private_comment: 'Tuairimí Moderator-Infheicthe'
+      linked_post: 'Post Nasctha'
+    warning_modal:
+      confirmation_message: 'Sábháladh do rabhadh. B''fhéidir go mbeidh ort an leathanach a athnuachan chun é a fheiceáil.'
+      strikes_heading: 'Cé mhéad stailc ba chóir a chur i bhfeidhm?'
+      submit_button: 'Sábháil rabhadh'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Cuir Teimpléad Freagartha in Eagar'
+    reply_template:
+      title: 'Cuir Teimpléad Freagartha in Eagar'
+      submit_button: 'Sábháil Teimpléad Freagra'

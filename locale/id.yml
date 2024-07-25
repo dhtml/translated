@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Kata sandi yang Anda masukkan salah.'
+      confirm_password_placeholder: 'Konfirmasi Kata Sandi'
+      dismiss_button: OKE
+      submit_button: 'Simpan Perubahan'
+      title: 'Ubah Email'
+    change_password:
+      send_button: 'Kirim Email Pengaturan Ulang Kata Sandi'
+      text: 'Klik tombol di bawah ini dan periksa email Anda untuk tautan untuk mengubah kata sandi Anda.'
+      title: 'Ubah Kata Sandi'
+    composer:
+      close_tooltip: Tutup
+      exit_full_screen_tooltip: 'Keluar dari Layar Penuh'
+      full_screen_tooltip: 'Layar Penuh'
+      minimize_tooltip: Meminimalkan
+      preview_tooltip: Pratayang
+    composer_discussion:
+      body_placeholder: 'Tulis postingan...'
+      discard_confirmation: 'Anda belum memposting diskusi Anda. Apakah Anda ingin membuangnya?'
+      submit_button: 'Posting Diskusi'
+      title_placeholder: 'Judul Diskusi'
+      title: 'Mulai diskusi'
+    composer_edit:
+      discard_confirmation: 'Anda belum menyimpan perubahan Anda. Apakah Anda ingin membuangnya?'
+      edited_message: 'Hasil edit Anda telah dibuat.'
+      submit_button: 'Simpan Perubahan'
+      view_button: Melihat
+    composer_reply:
+      discard_confirmation: 'Anda belum memposting balasan Anda. Apakah Anda ingin membuangnya?'
+      posted_message: 'Balasan Anda telah diposting.'
+      submit_button: 'Balasan Posting'
+      body_placeholder: 'Tulis balasan...'
+      view_button: Melihat
+    discussion_controls:
+      cannot_reply_button: 'Tidak bisa membalas'
+      cannot_reply_text: 'Anda tidak memiliki izin untuk membalas diskusi ini.'
+      delete_confirmation: 'Apakah Anda yakin ingin menghapus diskusi ini?'
+      log_in_to_reply_button: 'Masuk untuk Membalas'
+      toggle_dropdown_accessible_label: 'Alihkan menu tarik-turun tindakan diskusi'
+      delete_button: Menghapus
+      delete_forever_button: 'Hapus Selamanya'
+      rename_button: 'Ubah nama'
+      reply_button: Jawab
+      restore_button: Mengembalikan
+    discussion_list:
+      empty_text: 'Sepertinya tidak ada diskusi di sini.'
+      load_more_button: 'Muat Lebih Banyak'
+    forgot_password:
+      email_sent_message: 'Jika email yang Anda masukkan terdaftar di situs ini, kami akan mengirimkan email yang berisi tautan untuk mengatur ulang kata sandi Anda. Periksa folder spam Anda jika Anda tidak menerimanya dalam menit berikutnya atau dua.'
+      not_found_message: 'Tidak ada pengguna yang terdaftar di alamat email tersebut.'
+      submit_button: Login
+      text: 'Masukkan alamat email Anda dan kami akan mengirimkan tautan untuk mengatur ulang kata sandi Anda.'
+      title: Login
+      dismiss_button: OKE
+      email_placeholder: Login
+    header:
+      admin_button: Login
+      back_to_index_tooltip: 'Kembali ke Daftar Diskusi'
+      locale_dropdown_accessible_label: 'Ubah lokal forum'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Menghapus kueri penelusuran'
+      search_placeholder: 'Cari Forum'
+      search_role_label: 'Cari Forum'
+      session_dropdown_accessible_label: 'Alihkan menu tarik-turun opsi sesi'
+      log_in_link: Masuk
+      log_out_button: Keluar
+      settings_button: Pengaturan
+      sign_up_link: Tandatangan
+    index:
+      cannot_start_discussion_button: 'Tidak dapat memulai diskusi'
+      mark_all_as_read_confirmation: 'Apakah Anda yakin ingin menandai semua diskusi sebagai sudah dibaca?'
+      refresh_tooltip: Refresh
+      toggle_sidenav_dropdown_accessible_label: 'Beralih menu tarik-turun navigasi'
+      all_discussions_link: 'Semua Diskusi'
+      mark_all_as_read_tooltip: 'Tandai Semua sebagai Sudah Dibaca'
+      meta_title_text: 'Semua Diskusi'
+      start_discussion_button: 'Mulai diskusi'
+    index_sort:
+      latest_button: Terbaru
+      newest_button: Terbaru
+      oldest_button: Sulung
+      relevance_button: Relevansi
+      toggle_dropdown_accessible_label: 'Mengubah pengurutan daftar diskusi'
+      top_button: Puncak
+      hot_button: Tren
+      votes_button: 'Suara positif'
+      front_button: 'Halaman Depan'
+      popular_button: Populer
+      unpopular_button: Populer
+    log_in:
+      forgot_password_link: 'Lupa kata sandi?'
+      invalid_login_message: 'Detail login Anda salah.'
+      remember_me_label: 'Ingat Saya'
+      sign_up_text: 'Belum punya akun? <a>Tandatangan</a>'
+      username_or_email_placeholder: 'Nama Pengguna atau Email'
+      password_placeholder: 'Kata sandi'
+      submit_button: Masuk
+      title: Masuk
+    notifications:
+      delete_all_confirm: 'Apakah Anda yakin ingin menghapus semua notifikasi? Tindakan ini tidak dapat dibatalkan'
+      delete_all_tooltip: 'Menghapus semua notifikasi'
+      empty_text: 'Tidak Ada Pemberitahuan'
+      mark_as_read_tooltip: 'Tandai sebagai Sudah Dibaca'
+      toggle_dropdown_accessible_label: 'Melihat notifikasi'
+      mark_all_as_read_tooltip: 'Tandai Semua sebagai Sudah Dibaca'
+      title: Pemberitahuan
+      tooltip: Pemberitahuan
+    post:
+      edited_text: Diedit
+    post_controls:
+      delete_confirmation: 'Apakah Anda yakin ingin menghapus posting ini selamanya? Tindakan ini tidak dapat dibatalkan.'
+      hide_confirmation: 'Apakah Anda yakin ingin menghapus posting ini?'
+      toggle_dropdown_accessible_label: 'Alihkan menu tarik-turun kontrol postingan'
+      push_to_front_button: 'Dorong ke FrontPage'
+      pull_from_front_button: 'Tarik dari FrontPage'
+      delete_button: Menghapus
+      delete_forever_button: 'Hapus Selamanya'
+      edit_button: Mengedit
+      restore_button: Mengembalikan
+    post_scrubber:
+      now_link: Sekarang
+      original_post_link: 'Posting asli'
+    post_stream:
+      load_more_button: 'Muat Lebih Banyak'
+      reply_placeholder: 'Tulis balasan...'
+    rename_discussion:
+      title: 'Ganti Nama Diskusi'
+      submit_button: 'Ubah nama'
+    search:
+      discussions_heading: Diskusi
+      users_heading: Pengguna
+    security:
+      cannot_terminate_current_session: 'Tidak dapat mengakhiri sesi aktif saat ini. Keluar sebagai gantinya.'
+      created: Dibuat
+      current_active_session: 'Sesi Aktif Saat Ini'
+      developer_tokens_heading: 'Token Pengembang'
+      empty_text: 'Sepertinya tidak ada yang bisa dilihat di sini.'
+      global_logout: { heading: 'Global Logout', help_text: 'Menghapus sesi cookie saat ini, mengakhiri semua sesi, mencabut token developer, dan membatalkan konfirmasi email atau email pengaturan ulang kata sandi.', log_out_button: Keluar }
+      hide_access_token: 'Sembunyikan Token'
+      last_activity: 'Aktivitas terakhir'
+      new_access_token_modal: { submit_button: 'Buat Token', title_placeholder: Titel, title: 'Token Baru' }
+      revoke_access_token: Mencabut
+      sessions_heading: 'Sesi Aktif'
+      session_termination_failed: 'Terjadi kesalahan saat mengakhiri sesi Anda.'
+      show_access_token: 'Lihat Token'
+      terminate_all_other_sessions: 'Hentikan semua sesi lainnya'
+      terminate_session: Menyelesaikan
+      token_revoked: 'Token dicabut.'
+      token_title_placeholder: /
+      never: 'Tidak pernah'
+      new_access_token_button: 'Token Baru'
+      revoke_access_token_confirmation: 'Apakah Anda yakin ingin melanjutkan? Tindakan ini tidak dapat dibatalkan.'
+      terminate_all_other_sessions_confirmation: 'Apakah Anda yakin ingin melanjutkan? Tindakan ini tidak dapat dibatalkan.'
+      title: Keamanan
+    settings:
+      account_heading: Rekening
+      notify_by_web_heading: Web
+      notify_discussion_renamed_label: 'Seseorang mengganti nama diskusi yang saya mulai'
+      privacy_disclose_online_label: 'Mengizinkan orang lain melihat saat saya online'
+      privacy_heading: Privasi
+      change_email_button: 'Ubah Email'
+      change_password_button: 'Ubah Kata Sandi'
+      notifications_heading: Pemberitahuan
+      notify_by_email_heading: Login
+      title: Pengaturan
+    sign_up:
+      log_in_text: 'Sudah punya akun? <a>Masuk</a>'
+      dismiss_button: OKE
+      email_placeholder: Login
+      password_placeholder: 'Kata sandi'
+      submit_button: Tandatangan
+      title: Tandatangan
+      username_placeholder: 'Nama pengguna'
+    user:
+      avatar_upload_button: Unggah
+      avatar_upload_tooltip: 'Mengupload avatar baru'
+      online_text: Daring
+      posts_empty_text: 'Sepertinya tidak ada posting di sini.'
+      avatar_remove_button: Buka
+      discussions_link: Diskusi
+      posts_link: Posting
+      posts_load_more_button: 'Muat Lebih Banyak'
+      security_link: Keamanan
+      settings_link: Pengaturan
+    user_controls:
+      button: Kontrol
+      delete_confirmation: 'Apakah Anda yakin ingin menghapus pengguna ini? Posting pengguna TIDAK akan dihapus.'
+      toggle_dropdown_accessible_label: 'Alihkan menu tarik-turun kontrol pengguna'
+      delete_button: Menghapus
+      edit_button: Mengedit
+    user_email_confirmation:
+      resend_button: 'Kirim Ulang Email Konfirmasi'
+      sent_message: Dikirim
+    welcome_hero:
+      hide: 'Sembunyikan pesan selamat datang'
+    badge:
+      frontpage_tooltip: 'Ditandai sebagai FrontPage'
+  lib:
+    debug_button: Awakutu
+    alert:
+      dismiss_a11y_label: 'Abaikan peringatan'
+    badge:
+      hidden_tooltip: Sembunyi
+    dropdown:
+      toggle_dropdown_accessible_label: 'Alihkan menu tarik-turun'
+    edit_user:
+      activate_button: 'Aktifkan Pengguna'
+      groups_heading: Kelompok
+      set_password_label: 'Tetapkan kata sandi baru'
+      nothing_available: 'Anda tidak diizinkan untuk mengedit pengguna ini.'
+      email_heading: Login
+      email_label: Login
+      password_heading: 'Kata sandi'
+      password_label: 'Kata sandi'
+      submit_button: 'Simpan Perubahan'
+      title: 'Edit Pengguna'
+      username_heading: 'Nama pengguna'
+      username_label: 'Nama pengguna'
+    error:
+      generic_message: 'Ups! Ada yang tidak beres. Muat ulang halaman dan coba lagi.'
+      generic_cross_origin_message: 'Ups! Ada yang tidak beres selama permintaan lintas asal. Muat ulang halaman dan coba lagi.'
+      not_found_message: 'Sumber daya yang diminta tidak ditemukan.'
+      payload_too_large_message: 'Payload permintaan terlalu besar.'
+      permission_denied_message: 'Anda tidak memiliki izin untuk melakukan itu.'
+      rate_limit_exceeded_message: 'Anda akan sedikit terlalu cepat. Silakan coba lagi dalam beberapa detik.'
+      render_failed_message: 'Maaf, kami mengalami kesalahan saat menampilkan konten ini. Jika Anda pengguna, coba lagi nanti. Jika Anda administrator, lihat file log Flarum Anda untuk informasi lebih lanjut.'
+    modal:
+      close: Tutup
+    nav:
+      drawer_button: 'Buka Laci Navigasi'
+    loading_indicator:
+      accessible_label: Loading...
+  views:
+    confirm_email:
+      text: 'Klik tombol di bawah ini untuk mengonfirmasi email akun Anda.'
+      submit_button: 'Konfirmasi Email'
+      title: 'Konfirmasi Email'
+    content:
+      javascript_disabled_message: 'Situs ini paling baik dilihat di browser modern dengan JavaScript diaktifkan.'
+      load_error_message: 'Ada yang tidak beres saat mencoba memuat versi lengkap situs ini. Coba segarkan halaman ini untuk memperbaiki kesalahan.'
+      loading_text: Loading...
+    error:
+      csrf_token_mismatch: 'Anda sudah terlalu lama tidak aktif.'
+      csrf_token_mismatch_return_link: 'Kembali, untuk mencoba lagi'
+      invalid_confirmation_token: 'Tautan konfirmasi ini telah digunakan atau tidak valid.'
+      not_authenticated: 'Anda tidak memiliki izin untuk mengakses halaman ini. Coba lagi setelah masuk.'
+      not_found: 'Halaman yang Anda minta tidak dapat ditemukan.'
+      permission_denied: 'Anda tidak memiliki izin untuk mengakses halaman ini.'
+      unknown: 'Terjadi kesalahan saat mencoba memuat halaman ini.'
+    log_out:
+      log_out_button: Keluar
+      title: Keluar
+    reset_password:
+      confirm_password_label: 'Konfirmasi Kata Sandi Baru'
+      new_password_label: 'Kata Sandi Baru'
+      submit_button: 'Simpan Perubahan'
+      title: 'Atur Ulang Kata Sandi Anda'
+    discussion:
+      next_page_button: 'Halaman Selanjutnya'
+      previous_page_button: 'Halaman Sebelumnya'
+    index:
+      all_discussions_heading: 'Semua Diskusi'
+      next_page_button: 'Halaman Selanjutnya'
+      previous_page_button: 'Halaman Sebelumnya'
+  api:
+    invalid_username_message: 'Nama pengguna hanya boleh berisi huruf, angka, dan tanda hubung.'
+  email:
+    activate_account:
+      subject: 'Aktifkan Akun Baru Anda'
+    confirm_email:
+      subject: 'Konfirmasikan alamat email baru Anda'
+    reset_password:
+      subject: 'Atur Ulang Kata Sandi Anda'
+    send_test:
+      subject: 'Tes Email Flarum'
+  ref:
+    all_discussions: 'Semua Diskusi'
+    change_email: 'Ubah Email'
+    change_password: 'Ubah Kata Sandi'
+    color: Warna
+    confirm_password: 'Konfirmasi Kata Sandi'
+    confirm_email: 'Konfirmasi Email'
+    custom_footer_text: 'Tambahkan HTML untuk ditampilkan di bagian paling bawah halaman.'
+    custom_footer_title: 'Edit Footer Kustom'
+    custom_header_text: 'Tambahkan HTML untuk ditampilkan di bagian paling atas halaman, di atas header Flarum sendiri.'
+    custom_header_title: 'Edit Header Kustom'
+    delete: Menghapus
+    delete_forever: 'Hapus Selamanya'
+    discussions: Diskusi
+    edit: Mengedit
+    edit_user: 'Edit Pengguna'
+    email: Login
+    extensions: Ekstensi
+    generic_confirmation_message: 'Apakah Anda yakin ingin melanjutkan? Tindakan ini tidak dapat dibatalkan.'
+    icon: Ikon
+    load_more: 'Muat Lebih Banyak'
+    loading: Loading...
+    log_in: Masuk
+    log_out: Keluar
+    mark_all_as_read: 'Tandai Semua sebagai Sudah Dibaca'
+    never: 'Tidak pernah'
+    new_token: 'Token Baru'
+    next_page: 'Halaman Selanjutnya'
+    notifications: Pemberitahuan
+    okay: OKE
+    password: 'Kata sandi'
+    posts: Posting
+    previous_page: 'Halaman Sebelumnya'
+    remove: Buka
+    rename: 'Ubah nama'
+    reply: Jawab
+    reset_your_password: 'Atur Ulang Kata Sandi Anda'
+    restore: Mengembalikan
+    save_changes: 'Simpan Perubahan'
+    search_users: 'Cari pengguna'
+    security: Keamanan
+    settings: Pengaturan
+    sign_up: Tandatangan
+    start_a_discussion: 'Mulai diskusi'
+    username: 'Nama pengguna'
+    users: Pengguna
+    view: Melihat
+    write_a_reply: 'Tulis balasan...'
+    you: Kamu
+  group:
+    admin: Admin
+    admins: Admin
+    guest: Tamu
+    guests: Tamu
+    member: Anggota
+    members: Anggota
+    mod: Cara
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Semua Tag'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Pilih tag untuk diskusi Anda'
+    discussion_controls:
+      edit_tags_button: 'sunting tag'
+    header:
+      back_to_tags_tooltip: 'Kembali ke Daftar Tag'
+    index:
+      more_link: Lebih...
+      untagged_link: 'Tanpa tag'
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Pilih Tag'
+  lib:
+    deleted_tag_text: Dihapus
+    tag_selection_modal:
+      bypass_requirements: 'Abaikan persyaratan tag'
+      submit_button: OKE
+      title: 'Pilih Tag'
+  ref:
+    choose_tags: 'Pilih Tag'
+    name: Nama
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Menyebut pengguna, grup, atau postingan'
+    mentioned_by:
+      title: 'Balasan untuk posting ini'
+      load_more_button: 'Muat Lebih Banyak'
+    post:
+      quote_button: Kutipan
+      reply_link: Jawab
+      you_text: Kamu
+    settings:
+      notify_post_mentioned_label: 'Seseorang membalas salah satu posting saya'
+      notify_user_mentioned_label: 'Seseorang menyebut saya di postingan'
+      notify_group_mentioned_label: 'Seseorang menyebutkan grup tempat saya menjadi anggota dalam postingan'
+    user:
+      mentions_link: Menyebutkan
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Berhenti mengikuti'
+      unignore_button: Unsir
+      follow_button: Mengikuti
+    settings:
+      follow_after_reply_label: 'Secara otomatis mengikuti diskusi yang saya balas'
+      notify_for_all_posts_label: 'Beri tahu tentang setiap posting baru, bukan hanya yang terakhir dalam diskusi'
+      notify_new_post_label: 'Seseorang memposting dalam diskusi yang saya ikuti'
+    sub_controls:
+      following_text: 'Dapatkan pemberitahuan tentang semua balasan.'
+      ignoring_text: 'Jangan pernah diberi tahu. Sembunyikan dari daftar diskusi.'
+      not_following_button: 'Tidak Mengikuti'
+      not_following_text: 'Diberitahu hanya ketika @mentioned.'
+      notify_alert_tooltip: 'Dapatkan pemberitahuan forum ketika ada posting baru'
+      notify_email_tooltip: 'Dapatkan email saat ada postingan baru'
+      follow_button: Mengikuti
+      following_button: Berikut
+      ignoring_button: Mengabaikan
+    badge:
+      following_tooltip: Berikut
+      ignoring_tooltip: Mengabaikan
+    following:
+      meta_title_text: Berikut
+    index:
+      following_link: Berikut
+  ref:
+    follow: Mengikuti
+    following: Berikut
+    ignoring: Mengabaikan
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Terima kasih telah menandai posting ini. Moderator kami akan memeriksanya.'
+      reason_inappropriate_label: 'Tidak pantas'
+      reason_inappropriate_text: 'Postingan ini menyinggung, kasar, atau melanggar <a>pedoman komunitas</a> kami.'
+      reason_missing_message: 'Harap berikan beberapa detail untuk moderator kami.'
+      reason_off_topic_label: 'Di luar topik'
+      reason_off_topic_text: 'Posting ini tidak relevan dengan diskusi saat ini dan harus dipindahkan ke tempat lain.'
+      reason_other_label: 'Lainnya (sebutkan)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Posting ini adalah iklan.'
+      dismiss_button: OKE
+      submit_button: 'Tandai Post'
+      title: 'Tandai Post'
+    flagged_posts:
+      empty_text: 'Tanpa Bendera'
+      title: 'Postingan yang Ditandai'
+      tooltip: 'Postingan yang Ditandai'
+    post:
+      dismiss_flag_button: 'Abaikan Bendera'
+    post_controls:
+      flag_button: Bendera
+  ref:
+    flag_post: 'Tandai Post'
+    flagged_posts: 'Postingan yang Ditandai'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Anda telah diskors tanpa batas waktu'
+      user_unsuspended_text: 'Anda telah dibatalkan penangguhannya'
+    suspension_info:
+      dismiss_button: Mengabaikan
+      indefinite: 'Ini adalah penangguhan yang tidak terbatas'
+      title: 'Akun ini ditangguhkan'
+    suspend_user:
+      display_message: 'Tampilkan pesan untuk pengguna'
+      indefinitely_label: 'Ditangguhkan tanpa batas waktu'
+      limited_time_days_text: ' Hari'
+      limited_time_label: 'Ditangguhkan untuk waktu yang terbatas...'
+      not_suspended_label: 'Tidak ditangguhkan'
+      placeholder_optional: Fakultatif
+      reason: 'Alasan penangguhan'
+      status_heading: 'Status Penangguhan'
+      submit_button: 'Simpan Perubahan'
+    user_badge:
+      suspended_tooltip: Ditangguhkan
+    user_controls:
+      suspend_button: Menangguhkan
+  email:
+    no_reason_given: 'Tidak ada alasan yang diberikan untuk penangguhan ini.'
+    suspended:
+      subject: 'Akun Anda telah ditangguhkan'
+    unsuspended:
+      subject: 'Akun Anda telah dibatalkan penangguhannya'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Semua file diunggah oleh pengguna.', anonymize_description: 'Menghapus referensi pengguna dari file yang diunggah. File itu sendiri tetap dapat diakses oleh pengguna yang dapat melihatnya sebelum anonimisasi.', delete_description: 'Menghapus semua file yang diunggah oleh pengguna.' }
+      tagsubscription: { export_description: 'Mengekspor detail tingkat langganan untuk tag, jika ada.', anonymize_description: 'Menghapus langganan pengguna ke tag.' }
+      followuser: { export_description: 'Mengekspor detail pengguna yang diikuti dan pengguna yang mengikuti.', delete_description: 'Menghapus semua data yang terkait dengan pengguna berikut.', anonymize_description: 'Menghapus semua data yang terkait dengan pengguna berikut.' }
+      bannedipdata: { export_description: 'Jika catatan larangan IP dikaitkan dengan pengguna (yaitu pengguna diblokir oleh IP), alamat IP pengguna akan disertakan dalam ekspor, bersama dengan alasan pemblokiran dan tanggal pembuatan.', anonymize_description: 'Setiap alamat IP yang terkait dengan pengguna dipisahkan, tetapi IP itu sendiri akan tetap dilarang, bersama dengan alasannya. Pastikan tidak ada data PII yang disimpan di kolom ''alasan''.' }
+fof-upload:
+  forum:
+    media_manager: 'Manajer media'
+    buttons:
+      attach: Memasang
+      upload: Unggah
+      upload_shared: Para
+      user_uploads: 'Unggahan pengguna'
+      cancel: Membatalkan
+      media: 'Media saya'
+      shared_media: 'Media bersama'
+    states:
+      error: Kesalahan
+      loading: Meng
+      unauthorized: 'Anda tidak diperbolehkan mengunduh file'
+    text_preview:
+      expand: 'Perluas pratinjau'
+      collapse: 'Pratinjau ciutkan'
+      error: "Kesalahan pratinjau file. Mungkin telah dihapus, atau ID file yang disediakan tidak valid.\n"
+      no_snippet_preview: '<pratinjau akan muncul di sini setelah diposting>'
+      no_snippet: '<cuplikan pratinjau tidak tersedia>'
+  api:
+    upload_errors:
+      forbidden_type: 'Mengunggah file jenis ini tidak diizinkan.'
+      could_not_detect_mime: 'Tidak dapat mendeteksi jenis MIME file ini, silakan coba lagi.'
+      max_upload_file_size_ini: 'Batas ukuran file maksimum unggahan dicapai dari php.ini.'
+      max_upload_file_size_form: 'Batas ukuran file maksimum unggahan tercapai dari formulir.'
+      partial_upload: 'Unggah sebagian.'
+      no_file_uploaded: 'Tidak ada file yang diunggah.'
+      no_upload_tmp_folder: 'Tidak ada folder tmp untuk mengunggah file.'
+      cannot_write_to_disk: 'Tidak dapat menulis ke disk.'
+      upload_blocked_by_php_extension: 'Ekstensi php memblokir unggahan.'
+  lib:
+    upload-shared-file-modal:
+      title: 'File bersama baru'
+      dropzone: 'Seret dan jatuhkan file di sini atau klik untuk menelusuri'
+      hide-from-media-gallery: 'Sembunyikan dari galeri media pengguna'
+      upload: Unggah
+    file_list:
+      loading: 'Memuat file...'
+      empty: 'Tidak ada file untuk ditampilkan.'
+      release_to_upload: 'Rilis untuk diunggah'
+      modal_empty_desktop: 'Daftar file Anda kosong. Klik tombol atau seret file ke sini untuk mengunggah.'
+      modal_empty_phone: 'Daftar file Anda kosong. Ketuk tombol di atas untuk mengunggah file.'
+      load_more_files_btn: 'Muat lebih banyak file'
+      hide_file: { hide_success: 'File tersembunyi', show_success: 'File ditampilkan', loading: 'Menyembunyikan file...' }
+      hide_shared_file: { hide_success: 'File dibuat pribadi', show_success: 'File dipublikasikan', loading: 'Membuat file pribadi...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Wrote
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Menambahkan teks tebal'
+      code_tooltip: 'Sisipkan kode'
+      header_tooltip: 'Menambahkan teks header'
+      image_tooltip: 'Menambahkan gambar'
+      italic_tooltip: 'Menambahkan teks miring'
+      link_tooltip: 'Menambahkan link'
+      ordered_list_tooltip: 'Menambahkan daftar bernomor'
+      quote_tooltip: 'Menyisipkan kutipan'
+      spoiler_tooltip: 'Menyisipkan spoiler'
+      strikethrough_tooltip: 'Menambahkan teks coret'
+      unordered_list_tooltip: 'Menambahkan daftar berpoin'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Seseorang membuat diskusi dalam tag yang saya ikuti'
+      notify_new_post_label: 'Seseorang memposting dalam tag yang saya ikuti'
+      notify_new_discussion_tag_label: 'Seseorang memberi tag ulang diskusi ke tag yang saya ikuti'
+    index:
+      follow_tag_button: Mengikuti
+      unfollow_tag_button: 'Berhenti Mengikuti'
+      following: { following_none_label: 'Diskusi yang Diikuti', following_tags_label: 'Tag yang diikuti' }
+    badge:
+      following_tag_tooltip: Berikut
+      lurking_tag_tooltip: Bersembunyi
+    sub_controls:
+      following_text: 'Dapatkan pemberitahuan tentang semua diskusi baru.'
+      hiding_text: 'Sembunyikan diskusi dari halaman Semua Diskusi.'
+      ignoring_text: 'Jangan pernah diberi tahu.'
+      lurking_text: 'Dapatkan pemberitahuan tentang semua diskusi dan balasan baru.'
+      not_following_button: 'Tidak Mengikuti'
+      not_following_text: 'Diberitahu hanya ketika @mentioned.'
+      notify_alert_tooltip: 'Dapatkan notifikasi forum ketika ada diskusi atau postingan baru'
+      notify_email_tooltip: 'Dapatkan email saat ada diskusi atau postingan baru'
+      submit_button: 'Konfirmasi langganan'
+      follow_button: Mengikuti
+      following_button: Berikut
+      hiding_button: Bersembunyi
+      ignoring_button: Mengabaikan
+      lurking_button: Bersembunyi
+    user:
+      settings: { heading: 'Ikuti Tag', filter_label: 'Apa yang harus ditampilkan secara default di halaman Berikut' }
+  ref:
+    follow: Mengikuti
+    following: Berikut
+    hiding: Bersembunyi
+    ignoring: Mengabaikan
+    lurking: Bersembunyi
+    filtering_options:
+      none: 'Diskusi yang Diikuti'
+      tags: 'Tag yang diikuti'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Nama panggilan ini tidak valid. Silakan hubungi administrator forum Anda untuk informasi lebih lanjut tentang aturan nama panggilan.'
+  ref:
+    change_nickname: 'Ubah Nama Panggilan'
+    nickname: Nickname
+  forum:
+    change_nickname:
+      submit_button: 'Simpan Perubahan'
+      title: 'Ubah Nama Panggilan'
+    edit_user:
+      nicknames_heading: 'Ubah Nama Panggilan'
+      nicknames_text: Nickname
+    settings:
+      change_nickname_button: 'Ubah Nama Panggilan'
+    sign_up:
+      nickname_placeholder: Nickname
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Akun tertaut', last-used-label: 'Terakhir digunakan', link-created-label: 'Tautan dibuat', orphaned-account: 'Anda telah masuk melalui penyedia ini sebelumnya, tetapi forum ini telah menonaktifkan masuk dengan metode ini sejak itu.', help: 'Akun tertaut ini memungkinkan Anda masuk ke forum menggunakan penyedia lain.' } }
+    signup:
+      username_help: 'Silahkan pilih username untuk dikenal oleh disini'
+    unlink: 'Hapus tautan'
+    error:
+      bad_verification_code: 'Token verifikasi tidak valid atau kedaluwarsa. Silakan coba lagi.'
+      invalid_state: 'Status tidak valid. Silakan coba lagi.'
+    providers:
+      discord: Perselisihan
+      facebook: Tautan
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Twitter
+  lib:
+    providers:
+      discord: Perselisihan
+      facebook: Tautan
+      github: GitHub
+      gitlab: GitLab
+      twitter: Twitter
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'ID Aplikasi'
+      app_secret: 'Rahasia Aplikasi'
+      client_id: 'ID Klien'
+      client_secret: 'Rahasia Klien'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Login sebagai pengguna lain'
+      placeholder_optional: '(Opsional) Berikan alasan Anda beralih ke pengguna ini'
+      placeholder_required: 'Anda harus memberikan alasan untuk beralih ke pengguna ini sebelum melanjutkan'
+    user_controls:
+      impersonate_button: 'Login sebagai pengguna'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Diskusi pribadi' }
+    buttons:
+      add_recipients: Penerima
+      submit: OKE
+      edit_recipients: 'Edit Penerima'
+      cancel: Membatalkan
+      make_public: 'Jadikan diskusi ini publik'
+      remove_from_discussion: 'Tinggalkan diskusi pribadi ini'
+    composer_private_discussion:
+      submit_button: 'Posting Diskusi Pribadi'
+      title_placeholder: 'Judul Diskusi Pribadi'
+    confirm:
+      make_public: 'Apakah Anda yakin ingin menghapus penerima dan membuat diskusi ini terlihat oleh siapa saja yang dapat melihat tag yang ditetapkan?'
+    nav:
+      start_button: 'Diskusikan Secara Pribadi'
+      nav_item: 'Diskusi Pribadi'
+    input:
+      search_recipients: 'Cari penerima dengan mengetik tiga karakter pertama...'
+    search:
+      headings: { groups: 'Grup Izin' }
+    modal:
+      titles: { add_recipients: 'Menambahkan penerima ke diskusi Anda' }
+      labels: { selected_users: 'Pengguna terpilih', search_field: 'Cari pengguna' }
+      help: { add_recipients: 'Diskusi ini hanya akan terlihat oleh pengguna yang Anda pilih di sini. Setidaknya 1 penerima (selain diri Anda sendiri) diperlukan.', update_recipients: 'Diskusi ini hanya akan terlihat oleh pengguna yang Anda pilih di sini.', selected_users: 'Klik nama pengguna untuk menghapusnya.', click_user_to_remove_tooltip: 'Klik untuk menghapus' }
+    user:
+      settings: { block_pd: 'Memblokir diskusi pribadi' }
+      byobu_link: 'Diskusi Pribadi'
+      dropdown_label: 'Diskusi Pribadi'
+    notifications:
+      pd_label: 'Seseorang menyertakan saya dalam diskusi pribadi baru'
+      pd_reply_label: 'Seseorang memposting dalam diskusi pribadi yang saya terima'
+      pd_user_left_label: 'Pengguna penerima meninggalkan diskusi pribadi tempat saya menjadi bagiannya'
+      pd_added_label: 'Seseorang menambahkan saya ke diskusi pribadi yang sudah ada'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Informasi badge'
+    all_badges: 'Lihat semua lencana'
+    all_users: 'Lihat semua pengguna'
+    give_badge: 'Berikan lencana'
+    update_badge: 'Perbarui lencana'
+    select_badge: 'Pilih lencana'
+    user_has_badge: 'Pengguna sudah memiliki lencana ini.'
+    user_no_badges: 'Pengguna ini belum memiliki lencana.'
+    no_received: 'Tidak ada pengguna yang mendapatkan lencana ini.'
+    save_changes: 'Simpan perubahan'
+    badge:
+      badge: Lencana
+      badges: Lencana
+      name: 'Nama badge'
+      description: 'Deskripsi badge'
+      earning_reason: 'Alasan penghasilan lencana'
+      update_earning_reason: 'Perbarui alasan penghasilan'
+      no_earning_reason: 'Tidak ada alasan penghasilan yang ditetapkan'
+      earned_on: 'Lencana diperoleh pada'
+      category: 'Kategori lencana'
+      badge_details: 'Detail badge'
+    badges_in_card:
+      title: 'Lencana di kartu pengguna'
+      manage_badges: 'Mengelola lencana'
+      description: 'Anda dapat mengubah lencana yang terlihat di kartu pengguna Anda dengan salah satu lencana Anda yang lain. Jika Anda tidak memilih salah satu, mereka akan dipilih secara otomatis.'
+    moderation:
+      remove_badge: 'Hapus badge dari pengguna'
+      remove_badge_confirm: 'Anda yakin ingin menghapus lencana ini dari pengguna ini?'
+      give_badge: 'Berikan lencana'
+    notification:
+      title: 'Anda telah menerima lencana baru'
+      settings: 'Saya telah menerima lencana'
+    uncategorized: Uncategorized
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Status Menyedihkan'
+      not_miserable_label: 'Tidak menyedihkan'
+      indefinitely_label: 'Sengsara tanpa batas'
+      limited_time_label: 'Menyedihkan untuk waktu yang terbatas ...'
+      limited_time_days_text: ' Hari'
+      submit_button: 'Simpan Perubahan'
+    user_badge:
+      miserable_user_tooltip: 'Pengguna yang Menyedihkan'
+    user_controls:
+      miserable_user_button: 'Pengguna yang Menyedihkan'
+  ref:
+    miserable_user: 'Pengguna yang Menyedihkan'
+sycho-profile-cover:
+  forum:
+    cover: Menutupi
+    edit_cover: 'Edit Sampul'
+    added:
+      success: 'Sampul profil diperbarui.'
+      error: 'Gambar tidak dapat diunggah.'
+    removed:
+      success: 'Penutup profil dilepas.'
+      error: 'Tidak dapat melepas penutup, coba lagi nanti.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Salin ke papan klip'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Pengunjung terakhir', guest: Tamu }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Kode Negara'
+    saveButton: Simpan
+    clickToSelectCountry: 'Pilih negara Anda'
+    countrySaved: 'Negara berhasil diselamatkan!'
+    field_placeholder: 'Konfirmasi Bendera Negara'
+    binding_country: 'Kami menemukan bahwa Anda belum mengikat keberadaan Anda. Harap tautkan negara Anda terlebih dahulu. Anda hanya dapat memposting dan meninggalkan pesan setelah menautkan negara Anda.'
+    binding_country_click: 'Klik Sekarang'
+username-blacklist:
+  forum:
+    modal-title: Peringatan!
+    modal-body-first-line: 'Peringatan - Nama pengguna ini <strong>diblokir oleh administrator</strong>'
+    modal-body-second-line: 'Pilih nama pengguna lain yang tidak melanggar pedoman komunitas kami dan coba lagi.'
+  admin:
+    blackList: 'Nama Pengguna yang Masuk Daftar Hitam'
+    blackList-help: 'Tulis di sini username yang ingin Anda blokir saat registrasi (dipisahkan dengan koma)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Sinopsis, show-summaries: 'Menampilkan kutipan dari setiap diskusi dalam daftar diskusi (Desktop / Tablet)', show-summaries-mobile: 'Menampilkan kutipan dari setiap diskusi dalam daftar diskusi (Seluler)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Kegiatan forum'
+      forum_new_discussions: 'Diskusi baru Forum'
+      discussion_last_posts: 'Diskusi ini'
+      user_last_posts: 'Posting & komentar oleh pengguna ini'
+    feeds:
+      titles: { main_subtitle: 'Posting terakhir di forum', main_d_subtitle: 'Diskusi terbaru di forum', discussion_subtitle: 'Pesan terakhir dalam diskusi ini', user_subtitle: 'Posting & komentar terbaru oleh pengguna ini.' }
+    discussion:
+      feed_link: 'Memberi makan'
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Diikuti
+    profile_page:
+      no_following: 'Sepertinya Anda tidak mengikuti siapa pun.'
+    settings:
+      notify_new_follower_label: 'Seseorang mengikutiku'
+      notify_new_unfollower_label: 'Seseorang berhenti mengikutiku'
+      notify_new_discussion_label: 'Seseorang yang saya ikuti memulai diskusi'
+      notify_new_post_label: 'Seseorang yang saya ikuti postingannya dalam diskusi yang sudah ada'
+      block_follow: 'Mencegah pengguna mengikuti saya'
+    badge:
+      label: { follow: 'Setelah diskusi', lurk: 'Mengikuti semua' }
+    filter:
+      following: 'Pengguna yang diikuti'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Ikuti level', follow_select_label: 'Jenis ikuti', no_user_attr_provided_err: 'Uh oh, ada yang tidak beres saat membuka modal ini.', no_user_attr_provided_err_debug: 'Tidak ada atribut ''pengguna'' yang diteruskan ke modal SelectFollowUserLevel saat dibuat. Modal tidak dapat diberikan.', save_btn: Simpan, cancel_btn: Membatalkan }
+    profile_link: 'Pengguna yang Diikuti'
+    user_controls:
+      follow_button: Mengikuti
+      unfollow_button: 'Berhenti mengikuti'
+      change_button: 'Ubah jenis mengikuti'
+    index:
+      follow_tag_button: Mengikuti
+      unfollow_tag_button: 'Ubah jenis mengikuti'
+  email:
+    new_follower_subject: '[Ikuti Pengguna] Anda memiliki pengikut baru!'
+  lib:
+    following_link: 'Pengguna yang Diikuti'
+    follow: Mengikuti
+    change_follow_type: 'Ubah jenis mengikuti'
+    unfollow: 'Berhenti mengikuti'
+    follow_levels:
+      unfollow: { name: 'Jangan ikuti' }
+      follow: { name: 'Ikuti diskusi' }
+      lurk: { name: 'Ikuti semua' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Pastikan bahwa perubahan nama panggilan yang diminta ini mengikuti pedoman forum.', decision_title: Keputusan, approval_label: Setuju, rejected_label: Menolak, submit_button: Tunduk, reason_title: 'Alasan Penolakan', success: 'Keputusan terkirim.', title: 'Permintaan Perubahan Nama Panggilan' }
+      results: { title: 'Permintaan Perubahan Nama Panggilan', approved: 'Permintaan perubahan nama panggilan Anda telah disetujui', rejected: 'Permintaan perubahan nama panggilan Anda ditolak', resubmit: 'Saat ini, Anda dapat mengirim ulang permintaan perubahan nama panggilan baru dari pengaturan akun Anda jika Anda memilihnya.', dismiss_button: OKE }
+      request: { title: 'Minta Perubahan Nama Panggilan', submit_button: 'Kirim Permintaan', delete_button: 'Hapus Permintaan', confirmation_message: 'Permintaan perubahan nama panggilan Anda telah dikirimkan dan sedang menunggu persetujuan.', deleted: 'Permintaan nama panggilan dihapus.', dismiss_button: OKE }
+    username_modals:
+      action: { help_text: 'Pastikan bahwa perubahan nama pengguna yang diminta ini mengikuti pedoman forum.', decision_title: Keputusan, approval_label: Setuju, rejected_label: Menolak, submit_button: Tunduk, reason_title: 'Alasan Penolakan', success: 'Keputusan terkirim.', title: 'Permintaan Perubahan Nama Pengguna' }
+      results: { title: 'Permintaan Perubahan Nama Pengguna', approved: 'Permintaan perubahan nama pengguna Anda telah disetujui', rejected: 'Permintaan perubahan nama pengguna Anda ditolak', resubmit: 'Saat ini, Anda dapat mengirim ulang permintaan perubahan nama pengguna baru dari pengaturan akun Anda jika Anda memilihnya.', dismiss_button: OKE }
+      request: { title: 'Minta Perubahan Nama Pengguna', submit_button: 'Kirim Permintaan', delete_button: 'Hapus Permintaan', confirmation_message: 'Permintaan perubahan nama pengguna Anda telah dikirimkan dan sedang menunggu persetujuan.', deleted: 'Permintaan nama pengguna dihapus.', dismiss_button: OKE }
+    pending_requests:
+      empty_text: 'Tidak ada permintaan perubahan nama yang ditemukan.'
+      tooltip: 'Permintaan Perubahan Nama'
+      title: 'Permintaan Perubahan Nama'
+    settings:
+      nickname_request_button: 'Ubah Nama Panggilan'
+      username_request_button: 'Ubah Nama Pengguna'
+    user:
+      name_history_link: 'Riwayat Nama'
+  ref:
+    name_change_request: 'Permintaan Perubahan Nama'
+    name_change_requests: 'Permintaan Perubahan Nama'
+    nickname_change_request: 'Permintaan Perubahan Nama Panggilan'
+    nickname_change_requests: 'Permintaan Perubahan Nama Panggilan'
+    username_change_request: 'Permintaan Perubahan Nama Pengguna'
+    username_change_requests: 'Permintaan Perubahan Nama Pengguna'
+  email:
+    body:
+      noReasonProvided: 'Tidak ada alasan yang diberikan.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Tulis sesuatu tentang diri Anda'
+    profile:
+      cancel_confirm: 'Apakah Anda yakin ingin membatalkan pengeditan bio Anda? Anda akan kehilangan perubahan yang telah dibuat.'
+      cancel_button: Membatalkan
+      save_button: Simpan
+      edit_bio_label: 'Sunting bio'
+fof-split:
+  forum:
+    split:
+      from: 'Pisahkan dari sini'
+      to: 'Pisahkan ke sini'
+      cancel: 'Batalkan pemisahan'
+    modal:
+      title: 'Pisahkan diskusi'
+      new_discussion_label: 'Tentukan judul untuk diskusi baru'
+      submit_button: Belah
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Edit tombol media sosial Anda'
+      add: 'Tambahkan tombol ke media sosial Anda'
+      headtitle: 'Tombol Edit'
+      title: Titel
+      url: URL
+      submit: Simpan
+      delete: Menghapus
+      deletetitle: 'Tombol Hapus'
+      save_disabled_fetching_favicons: 'Satu atau beberapa ikon sedang diambil. Harap tunggu.'
+      favicon: Favicon
+      grey_favicon: 'Favicon abu-abu'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Bagi
+      share_dropdown_accessible_label: 'Alihkan menu tarik-turun berbagi diskusi'
+    modal:
+      title: Bagi
+      copy_button: Menyalin
+  lib:
+    networks:
+      facebook: Tautan
+      twitter: Twitter
+      linkedin: LinkedIn
+      reddit: Reddit
+      whatsapp: 'Ada apa'
+      telegram: Telegram
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: Duniaku
+      qq: QQ
+      qzone: QZone
+      native: 'Berbagi Asli'
+fof-recaptcha:
+  forum:
+    error: 'Terjadi kesalahan saat mengirimkan reCAPTCHA. Coba lagi.'
+    unknown_error: 'Terjadi kesalahan yang tidak diketahui. Periksa captcha dan coba lagi.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Anda tidak dapat menggunakan reaksi ini sekarang, harap segarkan halaman'
+    warning: 'Reaksi Anda dikonversi'
+    settings:
+      notify_post_reacted_label: 'Seseorang bereaksi terhadap salah satu posting saya'
+    reacting-own-post: 'Anda tidak dapat bereaksi terhadap posting Anda sendiri'
+    modal:
+      title: Reaksi
+      no_reactions: 'Belum ada reaksi'
+    mod_item: 'Lihat Reaksi'
+    react_button_label: Bereaksi
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Gagal memuat pemangkas gambar.', generic_resize: 'Ada yang tidak beres saat memotong & mengubah ukuran gambar.', get_image_data: 'Gagal memotong. Pastikan perlindungan sidik jari browser Anda dinonaktifkan.' }
+      help_text: "Pengunggahan gambar mungkin gagal jika pengaturan privasi browser Anda sangat ketat. Jika Anda mengalami masalah, coba nonaktifkan perlindungan sidik jari. Jika tidak, Anda dapat <disableResize>menonaktifkan kompresi gambar yang dipotong</disableResize> atau <disableCrop>menonaktifkan pemotongan sama sekali</disableCrop>.\n"
+      submit_button: Unggah
+      submit_crop_button: 'Pangkas & Unggah'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Sangat mungkin bahwa itu tidak memerlukan diskusi lebih lanjut dan dengan demikian menabraknya tidak ada gunanya.', checkbox_label: 'Saya sadar bahwa diskusi ini agak tua tetapi masih ingin menjawab.', error: 'Diskusi ini terlalu tua untuk dibalas.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Anda tidak memiliki izin untuk memberikan suara'
+    poll_ended: 'Jajak pendapat ini telah berakhir.'
+    public_poll: 'Lihat pemilih'
+    composer_discussion:
+      add_poll: 'Tambahkan Polling'
+      edit_poll: 'Edit Polling'
+    modal:
+      add_title: 'Menambahkan polling'
+      add_option_label: 'Tambahkan Opsi'
+      edit_title: 'Edit Polling'
+      include_question: 'Anda harus menyertakan pertanyaan'
+      max: 'Anda dapat memiliki maksimal 10 jawaban'
+      min: 'Anda harus menyertakan minimal 2 jawaban'
+      no_voters: 'Tidak ada suara'
+      option_placeholder: Menjawab
+      image_option_placeholder: 'URL gambar (opsional)'
+      options_label: Jawaban
+      public_poll_label: 'Mengizinkan orang melihat siapa yang memberikan suara'
+      allow_multiple_votes_label: 'Izinkan orang memilih beberapa opsi'
+      max_votes_label: 'Suara maksimum per pengguna'
+      max_votes_help: 'Setel ke 0 untuk memungkinkan pengguna memilih semua opsi.'
+      question_placeholder: Pertanyaan
+      submit: Tunduk
+    moderation:
+      delete: 'Hapus Polling'
+      delete_confirm: 'Apakah Anda yakin ingin menghapus jajak pendapat ini?'
+      edit: 'Edit Polling'
+    tooltip:
+      badge: 'Jajak pendapat'
+    votes_modal:
+      title: Pemilih
+fof-nightmode:
+  ref:
+    auto: 'Otomatis (berdasarkan opsi browser atau perangkat)'
+    light: 'Mode Hari'
+    dark: 'Mode Malam'
+  forum:
+    header:
+      nightmode_button: 'Mode Malam'
+    user:
+      settings: { heading: Tema, description: 'Pilih tema warna yang ingin Anda gunakan di forum.', description2: 'Tema ini akan ditautkan ke akun Anda dan berlaku untuk semua perangkat Anda kecuali Anda mengaktifkan sakelar di bawah ini untuk pengaturan per perangkat.', device_specific_setting_checkbox: 'Gunakan setelan per perangkat', device_specific_setting_checkbox_tooltip: 'Pilihan tema Anda akan disimpan satu per satu untuk setiap perangkat Anda.', auto_unsupported: 'Browser Anda tidak mendukung mode gelap otomatis.', option_descriptions: { auto: 'Tema Anda akan dipilih secara otomatis berdasarkan pengaturan browser atau perangkat Anda. Misalnya, jika Anda mengaktifkan mode gelap di iOS, forum juga akan gelap.', day: 'Pengalaman klasik yang biasa Anda gunakan. Dicintai dan diuji.', night: 'Anda sedikit burung hantu malam. Anda mengawasi forum di malam hari, sementara burung-burung sedang tidur dan rubah sedang berburu. Atau Anda hanya lebih suka warna yang lebih gelap!' }, options: { auto: 'Otomatis (berdasarkan opsi browser atau perangkat)', day: 'Mode Hari', night: 'Mode Malam' } }
+    day: 'Mode Hari'
+    night: 'Mode Malam'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Catatan kosong tidak diizinkan.'
+    moderatorNotes:
+      add_button: 'Catatan baru'
+      create-heading: 'Membuat catatan moderator baru'
+      dismiss_button: Selesai
+      noNotes: 'Sepertinya tidak ada catatan di sini.'
+      submit_button: 'Simpan catatan'
+      delete: Menghapus
+      confirm: 'Anda yakin ingin menghapus catatan ini?'
+    user:
+      notes: 'Catatan Moderator'
+  api:
+    no_reason_provided: 'Tidak ada alasan yang diberikan'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Suara
+    vote_title: 'Tampilkan Siapa yang Memilih'
+    nav:
+      name: Peringkat
+    ranking:
+      rank: Tempat
+      name: Pengguna
+      amount: Poin
+    notification:
+      prefrences: { vote: 'Ketika salah satu posting saya naik / turun dipilih' }
+    user:
+      votes_link: Suara
+    modal:
+      downvotes_label: 'Pemilih turun:'
+      title: Pemilih
+      upvotes_label: 'Upvoters:'
+    mod_item: 'Lihat Pemilih'
+    voters:
+      none: 'Belum ada pemilih'
+      label: Pemilih
+      label_none: 'Tidak ada pemilih'
+    post:
+      upvote_button: 'Postingan Upvote'
+      downvote_button: 'Posting downvote'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Draf terjadwal saat ini dinonaktifkan di pengaturan.'
+  ref:
+    schedule_draft: 'Draf jadwal'
+  forum:
+    composer:
+      title: 'Simpan Draf'
+      saving: Menyimpan...
+      saved: Disimpan!
+      exit_alert: 'Membuang perubahan pada draf?'
+      discard_empty_draft_alert: 'Buang draf kosong?'
+    dropdown:
+      empty_text: 'Anda belum menyimpan draf apa pun'
+      title: Konsep
+      delete_all_button: 'Menghapus semua draf'
+      delete_button: 'Menghapus draf'
+      scheduled_icon_tooltip_formatter: 'L [pada] LT'
+      alert: 'Apakah Anda yakin ingin menghapus draf Anda?'
+      delete_all_alert: 'Apakah Anda yakin ingin menghapus semua draf Anda?'
+      schedule_button: 'Draf jadwal'
+      tooltip: Konsep
+    schedule_draft_modal:
+      text: 'Jadwalkan draf Anda untuk diposting secara otomatis di lain waktu!'
+      unschedule_button: 'Tidak terjadwal'
+      unschedule_warning: 'Apakah Anda yakin ingin membatalkan jadwal draf ini?'
+      reschedule_button: 'Penjadwalan Ulang'
+      schedule_button: Jadwal
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Tanggal dan/atau waktu tidak valid'
+      title: 'Draf jadwal'
+    user:
+      settings: { drafts_heading: Konsep, draft_autosave_enable: 'Aktifkan Simpan Otomatis Draf?', draft_autosave_interval_label: 'Interval Simpan Otomatis (detik)', draft_autosave_interval_button: 'Perbarui Interval', draft_autosave_interval_invalid: 'Interval harus berupa bilangan bulat lebih besar dari 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Menjawab
+    this_best_answer: 'Pilih Jawaban Terbaik'
+    remove_best_answer: 'Batalkan pilihan Jawaban Terbaik'
+    best_answer_button: 'Jawaban Terbaik'
+    errors:
+      mismatch: 'Posting yang dipilih tidak ada dalam diskusi ini.'
+    notification:
+      content: 'Silakan pilih Jawaban Terbaik jika pertanyaan Anda telah terjawab'
+      preferences: { awarded_best_answer: 'Seseorang menetapkan postingan saya sebagai jawaban terbaik', best_answer_in_discussion: 'Jawaban terbaik diberikan dalam diskusi yang saya ikuti', select_best_answer: 'Pengingat otomatis untuk memilih jawaban terbaik dalam diskusi yang saya mulai' }
+    index:
+      ask_question: 'Ajukan Pertanyaan'
+      cannot_ask_question: 'Tidak Dapat Mengajukan Pertanyaan'
+      solved_link: 'Diskusi yang diselesaikan'
+      unsolved_link: 'Diskusi yang belum terpecahkan'
+    filter:
+      all_label: 'Semua pertanyaan'
+      solved_label: 'Pertanyaan yang terpecahkan'
+      unsolved_label: 'Pertanyaan yang belum terpecahkan'
+      accessible_label: 'Pilihan Terpecahkan/Belum Terpecahkan'
+    composer:
+      titlePlaceholder: 'Judul pertanyaan'
+    search:
+      discussions_solutions_heading: 'Diskusi dengan solusi'
+    discussion:
+      jump_to_best_answer_button: 'Lihat Jawaban terbaik'
+  email:
+    subject:
+      select: 'Apakah Anda berhasil mendapatkan jawaban pertanyaan Anda?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Jawaban terbaik'
+      least_best_answers: 'Jawaban terbaik paling sedikit'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Tidak ada orang lain yang akan dilarang'
+    user_badge:
+      banned_tooltip: Dilarang
+    ban_ip_button: 'Larangan IP'
+    unban_ip_button: 'Batalkan pemblokiran IP'
+    user_controls:
+      ban_button: Larang
+      unban_button: 'Batalkan pemblokiran'
+  error:
+    banned_ip_message: 'Otorisasi gagal.'
+    no_ips_found_message: 'Tidak ada IP yang ditemukan untuk pengguna.'
+  lib:
+    modal:
+      check_button: Periksa
+      save_button: Simpan
+      ban_ip_confirmation: 'Apakah Anda yakin ingin memblokir alamat IP ini agar tidak digunakan di forum? Ini akan memblokir pengguna dengan alamat IP ini agar tidak masuk dan mendaftar.'
+      unban_ip_confirmation: 'Apakah Anda yakin ingin membatalkan pemblokiran pengguna ini dan semua pengguna lain yang tidak dilarang oleh IP lain?'
+      unban_ip_no_users: 'Tidak ada orang lain yang tidak akan diblokir'
+      title: 'Larangan IP'
+      unban_title: 'Batalkan pemblokiran IP'
+      address_label: 'Alamat IP'
+      reason_label: Alasan
+      ban_button: Larang
+      unban_button: 'Batalkan pemblokiran'
+  ref:
+    ban_label: Larang
+    ban_ip_addresses: 'Larangan IP'
+    ban_ip_button: 'Larangan IP'
+    unban_label: 'Batalkan pemblokiran'
+    unban_ip_addresses: 'Batalkan pemblokiran IP'
+    unban_ip_button: 'Batalkan pemblokiran IP'
+    address_label: 'Alamat IP'
+    reason_label: Alasan
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Detail pendaftaran Anda telah ditemukan di database pencegahan spam, oleh karena itu pendaftaran Anda telah diblokir.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Menghapus diskusi'
+      hard_delete_discussions_help: 'Tindakan ini akan menghapus semua diskusi yang dimulai oleh pengguna ini secara permanen. Jika dinonaktifkan, diskusi akan disembunyikan.'
+      hard_delete_posts_label: 'Menghapus postingan'
+      hard_delete_posts_help: 'Ini akan menghapus secara permanen semua posting (komentar, balasan, dll) yang dibuat oleh pengguna ini. Saat dinonaktifkan, postingan akan disembunyikan.'
+      hard_delete_user_label: 'Menghapus pengguna'
+      hard_delete_user_help: 'Tindakan ini akan menghapus pengguna secara permanen. Jika dinonaktifkan, pengguna akan ditangguhkan.'
+      intro: 'Saat menandai pengguna sebagai spammer, beberapa tindakan akan diambil, yang bergantung pada ekstensi yang tersedia di forum Anda.'
+      move_discussions_tag_label: 'Memindahkan diskusi ke tag yang dikarantina'
+      move_discussions_tag_help: 'Ini akan memindahkan semua diskusi yang dimulai oleh pengguna ini ke tag yang Anda tentukan di pengaturan forum. Saat dinonaktifkan, diskusi akan dibiarkan dalam tag mereka saat ini.'
+      process_button: Proses
+      report_to_sfs_label: 'Laporkan ke StopForumSpam'
+      report_to_sfs_help: 'Ini akan melaporkan detail dasar pengguna (nama pengguna, email, alamat IP) ke StopForumSpam. Ini akan membantu mencegah pengguna mendaftar di forum lain yang menggunakan layanan StopForumSpam.'
+    user_controls:
+      spammer_button: Spammer
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Mereset jumlah tampilan diskusi'
+      submit: Tunduk
+      label: 'Mengatur ke jumlah tampilan'
+    discussion_controls:
+      resetviews_button: 'Mengatur jumlah penayangan'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: 'Tidak lengket'
+      sticky_button: Lengket
+    badge:
+      sticky_tooltip: Lengket
+  ref:
+    sticky: Lengket
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Terkunci
+    discussion_controls:
+      lock_button: Kunci
+      unlock_button: Membuka
+    settings:
+      notify_discussion_locked_label: 'Seseorang mengunci diskusi yang saya mulai'
+flarum-likes:
+  forum:
+    post:
+      like_link: Suka
+      unlike_link: Berbeda
+      you_text: Kamu
+    post_likes:
+      title: 'Pengguna yang menyukai ini'
+      load_more_button: 'Muat Lebih Banyak'
+    settings:
+      notify_post_liked_label: 'Seseorang menyukai salah satu posting saya'
+    user:
+      likes_link: Suka
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Sisipkan emoji'
+      type_to_search_text: 'Mengetik untuk mencari emoji'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Konten Anda terlalu besar, silakan baca pedoman kami tentang posting' }
+dhtml-persona:
+  forum:
+    persona: Orang
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Papan peringkat'
+dhtml-gender:
+  forum:
+    male: Laki-laki
+    female: Perempuan
+    other: 'Memilih untuk tidak mengatakannya'
+    inputGender: 'Jenis kelamin'
+    saveButton: Simpan
+    clickToSelectGender: 'Pilih jenis kelamin Anda'
+    genderSaved: 'Jenis kelamin berhasil diselamatkan!'
+    field_placeholder: 'Konfirmasi Jenis Kelamin'
+    binding_gender: 'Kami menemukan bahwa Anda belum menetapkan jenis kelamin Anda. Harap atur jenis kelamin Anda terlebih dahulu. Anda hanya dapat memposting dan meninggalkan pesan setelah menetapkan jenis kelamin.'
+    binding_gender_click: 'Klik Sekarang'
+flarum-content-pages:
+  forum:
+    home: Rumah
+    about-us: 'Tentang kita'
+    guidelines: Pedoman
+    privacy-policy: 'Kebijakan Privasi'
+    terms-of-use: 'Syarat Penggunaan'
+    contact-us: Hubungi
+    download-app: 'Unduh Aplikasi'
+    discord-chat: 'Obrolan Perselisihan'
+    tags-cloud: 'Tag Awan'
+    languages: Bahasa
+    leaderboard: 'Papan peringkat'
+    live: Login
+    live-coding: Login
+    challenges: Login
+    dev-challenges: 'Tantangan Dev'
+    jobs: Sitemap
+    community: Login
+    dev-jobs: 'Pekerjaan Dev'
+    job-posting: Login
+    job-postings: Login
+    workshops: Login
+    dev-workshops: Login
+    events: Sitemap
+    conferences: Login
+    event-conferences: Sitemap
+    showcase: Login
+    tags: Tags
+    more: Sitemap
+    memberships: Login
+    members: Anggota
+    general-discussion: 'Diskusi Umum'
+    technology-articles: Artikel
+    coding-challenges: 'Coding Tantangan'
+    q-a: 'Bagian Q / A'
+    artificial-intelligence: 'Intel Xeon'
+    computer-science: 'Ilmu Komputer'
+    programming-languages: 'Bahasa Pemrograman'
+    development-tools: 'Alat Pengembangan'
+    software-development: 'Pengembangan Perangkat Lunak'
+    frontend-development: 'Pembangunan Frontend'
+    backend-development: 'Pengembangan Backend'
+    software-engineering: 'Teknik Perangkat Lunak'
+    cybersecurity: Login
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Penghitung karakter'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Edit Tanggal Lahir'
+      date_of_birth_text: 'Tanggal lahir'
+      submit_button: 'Simpan Perubahan'
+    settings:
+      change_dob_label: 'Ubah Tanggal Lahir'
+      show_dob_date_label: 'Tampilkan hari dan bulan kelahiran'
+      show_dob_year_label: 'Tampilkan tahun kelahiran'
+      show_dob_year_help: 'Ini akan memungkinkan orang untuk melihat usia Anda.'
+      dob_heading: 'Tanggal lahir'
+    nav:
+      nav_item: 'Ulang Tahun Hari Ini'
+    edit_user:
+      dob_heading: 'Tanggal lahir'
+    sign_up:
+      dob_placeholder: 'Tanggal lahir'
+  api:
+    invalid_dob_message: 'Tanggal lahir tidak valid'
+  ref:
+    date_of_birth: 'Tanggal lahir'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Pemilih Emoji'
+    search_placeholder: Mencari...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Edit Penulis dan Tanggal'
+    modal:
+      title-post: 'Edit Penulis dan Tanggal Posting'
+      title-discussion: 'Edit Penulis dan Tanggal Diskusi'
+      user: Pengarang
+      created_at: 'Waktu pembuatan'
+      edited_at: 'Edit waktu'
+      sync-with-discussion: 'Sinkronkan dengan diskusi'
+      sync-with-post: 'Sinkronkan dengan posting pertama'
+      sync-impossible: 'Tidak dapat menemukan posting pertama. Coba gulir ke awal diskusi.'
+      submit: Simpan
+      cancel: Membatalkan
+    search:
+      placeholder: 'Cari pengguna'
+      type-more: 'Ketik 3 karakter untuk mencari database'
+      no-results: 'Tidak ada hasil'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Alihkan Mode Teks Kaya'
+      insert_button: Memasukkan
+      insert_image: { src_placeholder: Tautan, title_placeholder: Titel }
+      insert_link: { text_placeholder: Teks, href_placeholder: URL, title_placeholder: 'Judul (ditampilkan saat hover)', remove_button: Buka }
+      additional_items_tooltip: 'Kontrol Tambahan'
+      code_block_tooltip: 'Menyisipkan blok kode'
+      horizontal_rule_tooltip: 'Menyisipkan aturan horizontal'
+      image_tooltip: 'Menambahkan gambar'
+      link_tooltip: 'Menambahkan link'
+      spoiler_block_tooltip: 'Blokir Spoiler/Dropdown'
+      strike_tooltip: 'Coret <alt-shift-5>'
+      text_type_tooltip: 'Pilih Tipe Teks'
+  forum:
+    settings:
+      composer_heading: Komponis
+      use_rich_text_editor_label: 'Gunakan editor teks kaya?'
+      rich_text_compact_paragraphs_label: 'Jangan pisahkan paragraf dengan baris baru.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Anda telah mengaktifkan pemberitahuan push, tetapi belum mengonfigurasi perangkat ini.'
+      optin_button: Mengkonfigurasi
+    discussion_controls:
+      share_button: Bagi
+    post_controls:
+      share_button: Bagi
+    user_controls:
+      share_button: Bagi
+    settings:
+      push_header: Dorong
+      pwa_notifications: { access_default: 'Karena pembatasan browser, Anda harus memilih untuk menerima pemberitahuan push di perangkat ini.', access_default_button: Keikutsertaan, access_denied: 'Anda harus menyesuaikan pengaturan browser Anda untuk menerima pemberitahuan push pada perangkat ini.', access_denied_button: 'Pelajari Caranya', no_browser_support: 'Browser ini tidak mendukung pemberitahuan push untuk aplikasi web progresif.', no_browser_support_button: 'Pelajari lebih lanjut' }
+  views:
+    offline:
+      header: 'Kesalahan koneksi jaringan'
+      text: 'Aplikasi ini membutuhkan koneksi jaringan; Itu tidak dapat digunakan secara offline. Silakan periksa koneksi Anda.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Peringatkan Pengguna'
+    user:
+      warnings: 'Peringatan Moderator'
+    settings:
+      warning_notification_label: 'Seorang moderator memperingatkan saya'
+    validation:
+      public_comment_required: 'Anda paling banyak memberikan komentar publik.'
+      invalid_strike_count: 'Jumlah teguran harus berupa bilangan bulat antara 0 dan 5.'
+    warning_controls:
+      delete_button: Buka
+      restore_button: Mengembalikan
+      delete_forever_button: 'Hapus Secara Permanen'
+    warning_list:
+      add_button: 'Peringatan Baru'
+      no_warnings: 'Sepertinya tidak ada peringatan di sini.'
+      warnings_no_strikes: 'Peringatan moderator: Teguran tidak diterima'
+    warning_list_item:
+      public_comment: Peringatan
+      private_comment: 'Komentar yang Terlihat oleh Moderator'
+      linked_post: 'Posting Tertaut'
+    warning_modal:
+      confirmation_message: 'Peringatan Anda telah disimpan. Anda mungkin perlu menyegarkan halaman untuk melihatnya.'
+      strikes_heading: 'Berapa banyak teguran yang harus diterapkan?'
+      submit_button: 'Simpan peringatan'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Edit Template Balasan'
+    reply_template:
+      title: 'Edit Template Balasan'
+      submit_button: 'Simpan Template Balasan'

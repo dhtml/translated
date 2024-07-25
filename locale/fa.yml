@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'گذرواژه ای که وارد کرده اید نادرست است.'
+      confirm_password_placeholder: 'تایید گذرواژه'
+      dismiss_button: باشه
+      submit_button: 'ذخیرۀ تغییرات'
+      title: 'تغییر ایمیل'
+    change_password:
+      send_button: 'ارسال رمز عبور ریست ایمیل'
+      text: 'روی دکمه زیر کلیک کنید و ایمیل خود را برای پیوند برای تغییر رمز عبور خود بررسی کنید.'
+      title: 'تغییر گذرواژه'
+    composer:
+      close_tooltip: نزدیک
+      exit_full_screen_tooltip: 'خروج از حالت تمامصفحه'
+      full_screen_tooltip: تمامصفحه
+      minimize_tooltip: Minimize
+      preview_tooltip: پیشنمایش
+    composer_discussion:
+      body_placeholder: 'نوشتن یک...'
+      discard_confirmation: 'شما بحث خود را منتشر نکرده اید. میخوای دور بندازیش؟'
+      submit_button: بحث
+      title_placeholder: 'عنوان بحث'
+      title: 'شروع یک بحث'
+    composer_edit:
+      discard_confirmation: 'شما تغییرات خود را ذخیره نکرده اید. ایا می خواهید انها را دور بیندازید؟'
+      edited_message: 'ویرایش شما انجام شده است.'
+      submit_button: 'ذخیرۀ تغییرات'
+      view_button: مشاهده
+    composer_reply:
+      discard_confirmation: 'شما پاسخ خود را ارسال نکرده اید. میخوای دور بندازیش؟'
+      posted_message: 'پاسخ شما ارسال شده است.'
+      submit_button: 'ارسال پاسخ'
+      body_placeholder: 'ارسال پاسخ...'
+      view_button: مشاهده
+    discussion_controls:
+      cannot_reply_button: 'نمیتوان پاسخ داد'
+      cannot_reply_text: 'شما اجازه پاسخ دادن به این بحث را ندارید.'
+      delete_confirmation: 'ایا مطمئن هستید که می خواهید این بحث را حذف کنید؟'
+      log_in_to_reply_button: 'ورود به سیستم برای پاسخ'
+      toggle_dropdown_accessible_label: 'تغییر وضعیت منوی کشویی اقدامات بحث'
+      delete_button: حذف
+      delete_forever_button: 'حذف برای همیشه'
+      rename_button: نام
+      reply_button: پاسخ
+      restore_button: بازیابی
+    discussion_list:
+      empty_text: 'به نظر می رسد که در اینجا هیچ بحثی وجود ندارد.'
+      load_more_button: 'بار بیشتر'
+    forgot_password:
+      email_sent_message: 'اگر ایمیلی که وارد آن می شوید با این سایت ثبت شده باشد، یک ایمیل حاوی لینک برای تنظیم رمز عبور شما ارسال می کنیم. پوشه اسپم خود را چک کنید اگر آن را در دقیقه یا دو بعدی دریافت نکنید.'
+      not_found_message: 'هیچ کاربر ثبت شده با این آدرس ایمیل وجود ندارد.'
+      submit_button: 'بازیابی Password'
+      text: 'آدرس ایمیل خود را وارد کنید و ما یک لینک برای تنظیم رمز عبور شما ارسال خواهیم کرد.'
+      title: Password
+      dismiss_button: باشه
+      email_placeholder: 'ایمیل ایمیل'
+    header:
+      admin_button: مدیریت
+      back_to_index_tooltip: 'بازگشت به لیست بحث'
+      locale_dropdown_accessible_label: 'تغییر محلی انجمن'
+      profile_button: مشخصات
+      search_clear_button_accessible_label: 'پاک کردن پرسوجوی جستجو'
+      search_placeholder: 'انجمن جستجو'
+      search_role_label: 'انجمن جستجو'
+      session_dropdown_accessible_label: 'منوی کشویی گزینه های نشست را تغییر دهید'
+      log_in_link: 'ورود به سیستم'
+      log_out_button: خروج
+      settings_button: تنظیمات
+      sign_up_link: 'ثبت نام'
+    index:
+      cannot_start_discussion_button: 'نمیتوان بحث را اغاز کرد'
+      mark_all_as_read_confirmation: 'ایا مطمئن هستید که می خواهید تمام بحث ها را به عنوان خوانده شده علامت گذاری کنید؟'
+      refresh_tooltip: نوسازی
+      toggle_sidenav_dropdown_accessible_label: 'Kundeområde - شرکت فرانت هاست'
+      all_discussions_link: 'همه بحث ها'
+      mark_all_as_read_tooltip: 'نشانگذاری همه به عنوان خوانده شده'
+      meta_title_text: 'همه بحث ها'
+      start_discussion_button: 'شروع یک بحث'
+    index_sort:
+      latest_button: آخرین
+      newest_button: جدیدترین
+      oldest_button: 'قدیمی ترین'
+      relevance_button: ارتباط
+      toggle_dropdown_accessible_label: 'تغییر مرتبسازی فهرست بحثها'
+      top_button: بالا
+      hot_button: روند
+      votes_button: 'بالا و بالا'
+      front_button: جوملا
+      popular_button: محبوب
+      unpopular_button: منفور
+    log_in:
+      forgot_password_link: 'رمز عبور را فراموش کرده اید؟'
+      invalid_login_message: 'جزئیات ورود شما نادرست بود.'
+      remember_me_label: 'مرا به خاطر بسپار'
+      sign_up_text: 'حساب ندارید؟ <a>ثبت نام</a>'
+      username_or_email_placeholder: 'نام کاربری یا ایمیل'
+      password_placeholder: 'رمز عبور'
+      submit_button: 'ورود به سیستم'
+      title: 'ورود به سیستم'
+    notifications:
+      delete_all_confirm: 'ایا مطمئن هستید که می خواهید همه اعلان ها را حذف کنید؟ این عمل قابل برگشت نیست'
+      delete_all_tooltip: 'حذف همه اعلان ها'
+      empty_text: 'اعلانی وجود ندارد'
+      mark_as_read_tooltip: 'نشانگذاری به عنوان خوانده شده'
+      toggle_dropdown_accessible_label: 'نمایش اعلانها'
+      mark_all_as_read_tooltip: 'نشانگذاری همه به عنوان خوانده شده'
+      title: 'اطلاعیه ها'
+      tooltip: 'اطلاعیه ها'
+    post:
+      edited_text: ویرایش
+    post_controls:
+      delete_confirmation: 'ایا مطمئن هستید که می خواهید این را برای همیشه حذف کنید؟ این عمل را نمیتوان لغو کرد.'
+      hide_confirmation: 'ایا مطمئن هستید که می خواهید این را حذف کنید؟'
+      toggle_dropdown_accessible_label: 'تغییر وضعیت منوی کشویی کنترل'
+      push_to_front_button: 'فشار به صفحه اول'
+      pull_from_front_button: 'کشیدن از FrontPage'
+      delete_button: حذف
+      delete_forever_button: 'حذف برای همیشه'
+      edit_button: ویرایش
+      restore_button: بازیابی
+    post_scrubber:
+      now_link: 'حال حاضر'
+      original_post_link: اصلی
+    post_stream:
+      load_more_button: 'بار بیشتر'
+      reply_placeholder: 'ارسال پاسخ...'
+    rename_discussion:
+      title: 'تغییر نام بحث'
+      submit_button: نام
+    search:
+      discussions_heading: بحث
+      users_heading: کاربران
+    security:
+      cannot_terminate_current_session: 'نمیتوان نشست فعال فعلی را خاتمه داد. به جای ان خارج شوید.'
+      created: ایجاد
+      current_active_session: 'نشست فعال جاری'
+      developer_tokens_heading: 'توکن های توسعه دهنده'
+      empty_text: 'به نظر می رسد در اینجا چیزی برای دیدن وجود ندارد.'
+      global_logout: { heading: 'خروج جهانی', help_text: 'جلسه کوکی فعلی را پاک می کند، تمام جلسات را خاتمه می دهد، نشانه های توسعه دهنده را لغو می کند و هر گونه تایید ایمیل یا ایمیل های تنظیم مجدد رمز عبور را بی اعتبار می کند.', log_out_button: خروج }
+      hide_access_token: 'مخفی کردن توکن'
+      last_activity: 'اخرین فعالیت'
+      new_access_token_modal: { submit_button: 'ایجاد توکن', title_placeholder: عنوان, title: 'توکن جدید' }
+      revoke_access_token: لغو
+      sessions_heading: 'جلسات فعال'
+      session_termination_failed: 'هنگام پایان دادن به نشست هایتان خطایی رخ داد.'
+      show_access_token: 'مشاهده توکن'
+      terminate_all_other_sessions: 'پایان دادن به تمام جلسات دیگر'
+      terminate_session: خاتمه
+      token_revoked: 'توکن لغو شد.'
+      token_title_placeholder: /
+      never: هرگز
+      new_access_token_button: 'توکن جدید'
+      revoke_access_token_confirmation: 'مطمئنی میخوای ادامه کار رو ادامه دهی؟ این عمل را نمیتوان لغو کرد.'
+      terminate_all_other_sessions_confirmation: 'مطمئنی میخوای ادامه کار رو ادامه دهی؟ این عمل را نمیتوان لغو کرد.'
+      title: امنیت
+    settings:
+      account_heading: حساب
+      notify_by_web_heading: وب
+      notify_discussion_renamed_label: 'کسی بحثی را که من شروع کردم تغییر نام داد'
+      privacy_disclose_online_label: 'اجازه دادن به دیگران برای دیدن زمانی که من انلاین هستم'
+      privacy_heading: 'حریم خصوصی'
+      change_email_button: 'تغییر ایمیل'
+      change_password_button: 'تغییر گذرواژه'
+      notifications_heading: 'اطلاعیه ها'
+      notify_by_email_heading: 'ایمیل ایمیل'
+      title: تنظیمات
+    sign_up:
+      log_in_text: 'در حال حاضر یک حساب کاربری دارید؟ <a>ورود به سیستم</a>'
+      dismiss_button: باشه
+      email_placeholder: 'ایمیل ایمیل'
+      password_placeholder: 'رمز عبور'
+      submit_button: 'ثبت نام'
+      title: 'ثبت نام'
+      username_placeholder: 'نام کاربری'
+    user:
+      avatar_upload_button: آپلود
+      avatar_upload_tooltip: 'اپلود اواتار جدید'
+      online_text: آنلاین
+      posts_empty_text: 'به نظر می رسد هیچ پستی در اینجا وجود ندارد.'
+      avatar_remove_button: حذف
+      discussions_link: بحث
+      posts_link: پست
+      posts_load_more_button: 'بار بیشتر'
+      security_link: امنیت
+      settings_link: تنظیمات
+    user_controls:
+      button: کنترل
+      delete_confirmation: 'ایا مطمئن هستید که می خواهید این کاربر را حذف کنید؟ های کاربر حذف نخواهد شد.'
+      toggle_dropdown_accessible_label: 'تغییر وضعیت منوی کشویی کنترل کاربر'
+      delete_button: حذف
+      edit_button: ویرایش
+    user_email_confirmation:
+      resend_button: 'ارسال مجدد ایمیل تایید'
+      sent_message: فرستاده
+    welcome_hero:
+      hide: 'مخفی کردن پیام خوشامدگویی'
+    badge:
+      frontpage_tooltip: 'مشخص شده به عنوان صفحه اول'
+  lib:
+    debug_button: 'اشکال زدایی'
+    alert:
+      dismiss_a11y_label: 'رد هشدار'
+    badge:
+      hidden_tooltip: پنهان
+    dropdown:
+      toggle_dropdown_accessible_label: 'تغییر در منوی کشویی'
+    edit_user:
+      activate_button: 'فعالسازی کاربر'
+      groups_heading: گروه
+      set_password_label: 'تنظیم گذرواژهی جدید'
+      nothing_available: 'شما مجاز به ویرایش این کاربر نیستید.'
+      email_heading: 'ایمیل ایمیل'
+      email_label: 'ایمیل ایمیل'
+      password_heading: 'رمز عبور'
+      password_label: 'رمز عبور'
+      submit_button: 'ذخیرۀ تغییرات'
+      title: 'ویرایش کاربر'
+      username_heading: 'نام کاربری'
+      username_label: 'نام کاربری'
+    error:
+      generic_message: 'اوه! یه مشکلی پیش اومده لطفا صفحه را دوباره بارگذاری کنید و دوباره تلاش کنید.'
+      generic_cross_origin_message: 'اوه! چیزی در طول یک درخواست متقابل منشا اشتباه شد. لطفا صفحه را دوباره بارگذاری کنید و دوباره تلاش کنید.'
+      not_found_message: 'منبع درخواست شده یافت نشد.'
+      payload_too_large_message: 'ظرفیت ترابری درخواست بیش از حد بزرگ بود.'
+      permission_denied_message: 'شما اجازه انجام این کار را ندارید.'
+      rate_limit_exceeded_message: 'تو داری خیلی سریع میری لطفا در عرض چند ثانیه دوباره تلاش کنید.'
+      render_failed_message: 'با عرض پوزش، ما هنگام نمایش این محتوا با یک خطا مواجه شدیم. اگر کاربر هستید، لطفا بعدا دوباره امتحان کنید. اگر مدیر هستید، برای اطلاعات بیشتر به فایل های ورود به سیستم Flarum نگاه کنید.'
+    modal:
+      close: نزدیک
+    nav:
+      drawer_button: 'باز کردن کشوی پیمایش'
+    loading_indicator:
+      accessible_label: بارگذاری...
+  views:
+    confirm_email:
+      text: 'برای تایید ایمیل حساب خود روی دکمه زیر کلیک کنید.'
+      submit_button: 'تایید ایمیل'
+      title: 'تایید ایمیل'
+    content:
+      javascript_disabled_message: 'این سایت بهتر است در یک مرورگر مدرن با جاوا اسکریپت فعال شده است.'
+      load_error_message: 'چیزی اشتباه رفت در حالی که تلاش برای بارگذاری نسخه کامل این سایت. سعی کنید این صفحه را به سختی تازه کنید تا خطا برطرف شود.'
+      loading_text: بارگذاری...
+    error:
+      csrf_token_mismatch: 'شما برای مدت طولانی غیر فعال بوده اید.'
+      csrf_token_mismatch_return_link: 'برگرد، دوباره امتحان کن'
+      invalid_confirmation_token: 'این پیوند تایید قبلا استفاده شده یا نامعتبر است.'
+      not_authenticated: 'شما اجازه دسترسی به این صفحه را ندارید. پس از ورود دوباره امتحان کنید.'
+      not_found: 'صفحه ای که درخواست کرده بودید پیدا نشد.'
+      permission_denied: 'شما اجازه دسترسی به این صفحه را ندارید.'
+      unknown: 'هنگام تلاش برای بارگذاری این صفحه خطایی رخ داد.'
+    log_out:
+      log_out_button: خروج
+      title: خروج
+    reset_password:
+      confirm_password_label: 'تایید گذرواژه جدید'
+      new_password_label: 'گذرواژه جدید'
+      submit_button: 'ذخیرۀ تغییرات'
+      title: 'بازنشانی رمز عبور'
+    discussion:
+      next_page_button: 'صفحهٔ بعدی'
+      previous_page_button: 'صفحه قبلی'
+    index:
+      all_discussions_heading: 'همه بحث ها'
+      next_page_button: 'صفحهٔ بعدی'
+      previous_page_button: 'صفحه قبلی'
+  api:
+    invalid_username_message: 'نام کاربری ممکن است فقط شامل حروف، اعداد و خط تیره باشد.'
+  email:
+    activate_account:
+      subject: 'حساب جدید خود را فعال کنید'
+    confirm_email:
+      subject: 'ادرس ایمیل جدید خود را تایید کنید'
+    reset_password:
+      subject: 'بازنشانی رمز عبور'
+    send_test:
+      subject: 'تست ایمیل فلاروم'
+  ref:
+    all_discussions: 'همه بحث ها'
+    change_email: 'تغییر ایمیل'
+    change_password: 'تغییر گذرواژه'
+    color: رنگ
+    confirm_password: 'تایید گذرواژه'
+    confirm_email: 'تایید ایمیل'
+    custom_footer_text: 'HTML را اضافه کنید تا در پایین صفحه نمایش داده شود.'
+    custom_footer_title: 'ویرایش پاورقی سفارشی'
+    custom_header_text: 'HTML را اضافه کنید تا در بالای صفحه، بالای هدر خود Flarum نمایش داده شود.'
+    custom_header_title: 'ویرایش سرایند سفارشی'
+    delete: حذف
+    delete_forever: 'حذف برای همیشه'
+    discussions: بحث
+    edit: ویرایش
+    edit_user: 'ویرایش کاربر'
+    email: 'ایمیل ایمیل'
+    extensions: پسوند
+    generic_confirmation_message: 'مطمئنی میخوای ادامه کار رو ادامه دهی؟ این عمل را نمیتوان لغو کرد.'
+    icon: آیکون
+    load_more: 'بار بیشتر'
+    loading: بارگذاری...
+    log_in: 'ورود به سیستم'
+    log_out: خروج
+    mark_all_as_read: 'نشانگذاری همه به عنوان خوانده شده'
+    never: هرگز
+    new_token: 'توکن جدید'
+    next_page: 'صفحهٔ بعدی'
+    notifications: 'اطلاعیه ها'
+    okay: باشه
+    password: 'رمز عبور'
+    posts: پست
+    previous_page: 'صفحه قبلی'
+    remove: حذف
+    rename: نام
+    reply: پاسخ
+    reset_your_password: 'بازنشانی رمز عبور'
+    restore: بازیابی
+    save_changes: 'ذخیرۀ تغییرات'
+    search_users: 'جستجو کاربران'
+    security: امنیت
+    settings: تنظیمات
+    sign_up: 'ثبت نام'
+    start_a_discussion: 'شروع یک بحث'
+    username: 'نام کاربری'
+    users: کاربران
+    view: مشاهده
+    write_a_reply: 'ارسال پاسخ...'
+    you: شما
+  group:
+    admin: مدیر
+    admins: مدیران
+    guest: مهمان
+    guests: مهمان
+    member: عضو
+    members: اعضای
+    mod: شیوه
+    mods: مدها
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'همه برچسب ها'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'برچسب ها را برای بحث خود انتخاب کنید'
+    discussion_controls:
+      edit_tags_button: 'ویرایش برچسبها'
+    header:
+      back_to_tags_tooltip: 'بازگشت به فهرست برچسبها'
+    index:
+      more_link: بیشتر...
+      untagged_link: 'بدون برچسب'
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'انتخاب برچسب ها'
+  lib:
+    deleted_tag_text: حذف
+    tag_selection_modal:
+      bypass_requirements: 'دور زدن برچسب مورد نیاز'
+      submit_button: باشه
+      title: 'انتخاب برچسب ها'
+  ref:
+    choose_tags: 'انتخاب برچسب ها'
+    name: نام
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'ذکر یک کاربر، گروه یا'
+    mentioned_by:
+      title: 'پاسخ به این'
+      load_more_button: 'بار بیشتر'
+    post:
+      quote_button: 'نقل قول'
+      reply_link: پاسخ
+      you_text: شما
+    settings:
+      notify_post_mentioned_label: 'کسی به یکی از های من پاسخ می دهد'
+      notify_user_mentioned_label: 'کسی در یک به من اشاره می کند'
+      notify_group_mentioned_label: 'کسی در یک به گروهی اشاره می کند که من عضو ان هستم'
+    user:
+      mentions_link: اشاره
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Unfollow را دنبال کنید'
+      unignore_button: انسر
+      follow_button: دنبال
+    settings:
+      follow_after_reply_label: 'به طور خودکار بحث هایی را که به انها پاسخ می دهم دنبال کنید'
+      notify_for_all_posts_label: 'در مورد هر جدید به جای تنها اخرین در بحث اطلاع دهید'
+      notify_new_post_label: 'کسی در یک بحث که من دنبال می کنم می کند'
+    sub_controls:
+      following_text: 'از تمام پاسخ ها مطلع شوید.'
+      ignoring_text: 'هرگز مطلع نشوید. از لیست بحث ها پنهان شوید.'
+      not_following_button: 'دنبال نمی شود'
+      not_following_text: 'فقط زمانی که @mentioned اطلاع داده می شود.'
+      notify_alert_tooltip: 'دریافت اطلاعیه انجمن زمانی که های جدید وجود دارد'
+      notify_email_tooltip: 'دریافت ایمیل زمانی که های جدید وجود دارد'
+      follow_button: دنبال
+      following_button: زیر
+      ignoring_button: 'نادیده گرفتن'
+    badge:
+      following_tooltip: زیر
+      ignoring_tooltip: 'نادیده گرفتن'
+    following:
+      meta_title_text: زیر
+    index:
+      following_link: زیر
+  ref:
+    follow: دنبال
+    following: زیر
+    ignoring: 'نادیده گرفتن'
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'با تشکر از شما برای پرچم گذاری این. مدیران ما به ان نگاه خواهند کرد.'
+      reason_inappropriate_label: نامناسب
+      reason_inappropriate_text: 'این توهین امیز، سوء استفاده یا <a>نقض دستورالعمل های جامعه</a> ما است.'
+      reason_missing_message: 'لطفا برخی از جزئیات را برای مدیران ما ارائه دهید.'
+      reason_off_topic_label: 'خارج از موضوع'
+      reason_off_topic_text: 'این مقاله به بحث فعلی مربوط نیست و باید به جای دیگری منتقل شود.'
+      reason_other_label: 'دیگر (لطفا مشخص کنید)'
+      reason_spam_label: اسپم
+      reason_spam_text: 'این یک اگهی است.'
+      dismiss_button: باشه
+      submit_button: پرچم
+      title: پرچم
+    flagged_posts:
+      empty_text: 'بدون پرچم'
+      title: 'های پرچم دار'
+      tooltip: 'های پرچم دار'
+    post:
+      dismiss_flag_button: 'رد کردن پرچم'
+    post_controls:
+      flag_button: پرچم
+  ref:
+    flag_post: پرچم
+    flagged_posts: 'های پرچم دار'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'شما به طور نامحدود معلق شده اید'
+      user_unsuspended_text: 'شما بی وابستگی هستید'
+    suspension_info:
+      dismiss_button: اخراج
+      indefinite: 'این یک تعلیق نامحدود است'
+      title: 'این حساب به حالت تعلیق درامده است'
+    suspend_user:
+      display_message: 'نمایش پیام برای کاربر'
+      indefinitely_label: 'معلق به طور نامحدود'
+      limited_time_days_text: ' روز‌ها'
+      limited_time_label: 'تعلیق برای مدت زمان محدود...'
+      not_suspended_label: 'تعلیق نشده است'
+      placeholder_optional: اختیاری
+      reason: 'دلیل تعلیق'
+      status_heading: 'وضعیت تعلیق'
+      submit_button: 'ذخیرۀ تغییرات'
+    user_badge:
+      suspended_tooltip: معلق
+    user_controls:
+      suspend_button: تعلیق
+  email:
+    no_reason_given: 'هیچ دلیلی برای این تعلیق ارائه نشده است.'
+    suspended:
+      subject: 'حساب شما معلق شده است'
+    unsuspended:
+      subject: 'حساب شما باز نشده است'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'تمام فایل های اپلود شده توسط کاربر.', anonymize_description: 'مرجع کاربر را از فایل های اپلود شده حذف می کند. خود فایل ها برای کاربرانی که می توانند انها را قبل از ناشناس شدن مشاهده کنند، قابل دسترسی هستند.', delete_description: 'حذف تمام فایل های اپلود شده توسط کاربر.' }
+      tagsubscription: { export_description: 'صادرات جزئیات سطح اشتراک برای یک برچسب، اگر وجود داشته باشد.', anonymize_description: 'اشتراک کاربر را به برچسب حذف می کند.' }
+      followuser: { export_description: 'صادرات جزئیات کاربران به دنبال و کاربران به دنبال.', delete_description: 'حذف تمام اطلاعات مربوط به کاربران زیر.', anonymize_description: 'حذف تمام اطلاعات مربوط به کاربران زیر.' }
+      bannedipdata: { export_description: 'اگر یک رکورد ممنوعیت IP با یک کاربر مرتبط باشد (به عنوان مثال کاربر توسط IP ممنوع شده است)، ادرس IP کاربر در صادرات همراه با دلیل ممنوعیت و تاریخ ایجاد گنجانده خواهد شد.', anonymize_description: 'هر ادرس IP مرتبط با کاربر جدا می شود، اما خود IP همراه با دلیل ممنوع باقی خواهد ماند. اطمینان حاصل کنید که هیچ داده PII در قسمت "دلیل" ذخیره نشده است.' }
+fof-upload:
+  forum:
+    media_manager: 'مدیر رسانه'
+    buttons:
+      attach: ضمیمه
+      upload: آپلود
+      upload_shared: مشترک
+      user_uploads: 'اپلود کاربر'
+      cancel: لغو
+      media: 'رسانه های من'
+      shared_media: 'رسانه های مشترک'
+    states:
+      error: خطا
+      loading: آپلود
+      unauthorized: 'شما مجاز به بارگیری پرونده ها نیستید'
+    text_preview:
+      expand: 'گسترش پیشنمایش'
+      collapse: 'فروپاشی پیشنمایش'
+      error: "خطا در پیشنمایش پرونده. ممکن است حذف شده باشد یا شناسه فایل ارائه شده نامعتبر باشد.\n"
+      no_snippet_preview: '<preview پس از ارسال در اینجا ظاهر خواهد شد>'
+      no_snippet: '< قطعه پیشنمایش موجود نیست>'
+  api:
+    upload_errors:
+      forbidden_type: 'بارگذاری پرونده هایی از این نوع مجاز نیست.'
+      could_not_detect_mime: 'نوع MIME این پرونده را نتوانست تشخیص دهد، لطفا دوباره امتحان کنید.'
+      max_upload_file_size_ini: 'اپلود حداکثر حد فایل های رسیده از php.ini.'
+      max_upload_file_size_form: 'اپلود حداکثر حد فایل های رسیده از فرم.'
+      partial_upload: 'اپلود جزئی.'
+      no_file_uploaded: 'هیچ پرونده ای بارگذاری نشد.'
+      no_upload_tmp_folder: 'پوشه tmp برای بارگذاری پرونده ها وجود ندارد.'
+      cannot_write_to_disk: 'قادر به نوشتن در دیسک نیست.'
+      upload_blocked_by_php_extension: 'یک افزونه php اپلود را مسدود کرد.'
+  lib:
+    upload-shared-file-modal:
+      title: 'فایل مشترک جدید'
+      dropzone: 'پرونده ها را اینجا بکشید و رها کنید یا برای مرور کلیک کنید'
+      hide-from-media-gallery: 'مخفی کردن از گالری رسانهی کاربر'
+      upload: آپلود
+    file_list:
+      loading: 'در حال بارگذاری پروندهها...'
+      empty: 'هیچ پروندهای برای نمایش وجود ندارد.'
+      release_to_upload: 'انتشار برای اپلود'
+      modal_empty_desktop: 'لیست پرونده های شما خالی است. با کلیک بر روی دکمه یا کشیدن یک فایل در اینجا برای اپلود.'
+      modal_empty_phone: 'لیست پرونده های شما خالی است. روی دکمه بالا ضربه بزنید تا یک فایل اپلود شود.'
+      load_more_files_btn: 'بارگذاری پروندههای بیشتر'
+      hide_file: { hide_success: 'پرونده مخفی', show_success: 'پرونده نشان داده شده', loading: 'مخفی کردن پرونده...' }
+      hide_shared_file: { hide_success: 'پرونده خصوصی شد', show_success: 'پرونده عمومی شد', loading: 'خصوصی کردن پرونده...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: نوشت
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'افزودن متن پررنگ'
+      code_tooltip: 'درج کد'
+      header_tooltip: 'افزودن متن سرایند'
+      image_tooltip: 'افزودن یک تصویر'
+      italic_tooltip: 'افزودن متن ایتالیک'
+      link_tooltip: 'اضافه کردن یک پیوند'
+      ordered_list_tooltip: 'افزودن یک فهرست شمارهدار'
+      quote_tooltip: 'درج یک نقل قول'
+      spoiler_tooltip: 'درج یک اسپویلر'
+      strikethrough_tooltip: 'افزودن متن اعتصاب'
+      unordered_list_tooltip: 'اضافه کردن یک لیست گلوله ای'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'کسی یک بحث را در برچسبی که دنبال می کنم ایجاد می کند'
+      notify_new_post_label: 'کسی در برچسبی که دنبال می کنم می کند'
+      notify_new_discussion_tag_label: 'کسی یک بحث را دوباره به برچسبی که دنبال می کنم برچسب می دهد'
+    index:
+      follow_tag_button: دنبال
+      unfollow_tag_button: 'توقف دنبال کردن'
+      following: { following_none_label: 'بحث های دنبال شده', following_tags_label: 'دنبال کردن برچسب ها' }
+    badge:
+      following_tag_tooltip: زیر
+      lurking_tag_tooltip: Lurking
+    sub_controls:
+      following_text: 'از تمام بحث های جدید مطلع شوید.'
+      hiding_text: 'مخفی کردن بحث ها از صفحه همه بحث ها.'
+      ignoring_text: 'هرگز مطلع نشوید.'
+      lurking_text: 'از تمام بحث ها و پاسخ های جدید مطلع شوید.'
+      not_following_button: 'دنبال نمی شود'
+      not_following_text: 'فقط زمانی که @mentioned اطلاع داده می شود.'
+      notify_alert_tooltip: 'دریافت اطلاعیه انجمن زمانی که بحث ها یا های جدید وجود دارد'
+      notify_email_tooltip: 'دریافت ایمیل زمانی که بحث ها یا های جدید وجود دارد'
+      submit_button: 'تایید اشتراک'
+      follow_button: دنبال
+      following_button: زیر
+      hiding_button: مخفی
+      ignoring_button: 'نادیده گرفتن'
+      lurking_button: Lurking
+    user:
+      settings: { heading: 'دنبال کردن برچسب ها', filter_label: 'چه چیزی به طور پیش فرض در صفحه زیر نشان داده می شود' }
+  ref:
+    follow: دنبال
+    following: زیر
+    hiding: مخفی
+    ignoring: 'نادیده گرفتن'
+    lurking: Lurking
+    filtering_options:
+      none: 'بحث های دنبال شده'
+      tags: 'دنبال کردن برچسب ها'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'این نام مستعار نامعتبر است. لطفا برای اطلاعات بیشتر در مورد قوانین نام مستعار با مدیر انجمن خود تماس بگیرید.'
+  ref:
+    change_nickname: 'تغییر نام مستعار'
+    nickname: 'نام مستعار'
+  forum:
+    change_nickname:
+      submit_button: 'ذخیرۀ تغییرات'
+      title: 'تغییر نام مستعار'
+    edit_user:
+      nicknames_heading: 'تغییر نام مستعار'
+      nicknames_text: 'نام مستعار'
+    settings:
+      change_nickname_button: 'تغییر نام مستعار'
+    sign_up:
+      nickname_placeholder: 'نام مستعار'
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'حساب های لینک شده', last-used-label: 'اخرین استفاده', link-created-label: 'پیوند ایجاد شده', orphaned-account: 'شما قبلا از طریق این ارائه دهنده وارد شده اید، اما این انجمن از ان زمان ورود به سیستم را با این روش غیرفعال کرده است.', help: 'این حساب های مرتبط به شما اجازه می دهد تا با استفاده از سایر ارائه دهندگان وارد انجمن شوید.' } }
+    signup:
+      username_help: 'لطفا یک نام کاربری برای شناخته شدن در اینجا انتخاب کنید'
+    unlink: 'حذف پیوند'
+    error:
+      bad_verification_code: 'نشانه تایید نامعتبر یا منقضی شده. لطفا دوباره تلاش کنید.'
+      invalid_state: 'وضعیت نامعتبر. لطفا دوباره تلاش کنید.'
+    providers:
+      discord: اختلاف
+      facebook: 'فیس بوک'
+      github: Github
+      gitlab: 'گیت لب'
+      google: گوگل
+      linkedin: Linkedin
+      twitter: توییتر
+  lib:
+    providers:
+      discord: اختلاف
+      facebook: 'فیس بوک'
+      github: Github
+      gitlab: 'گیت لب'
+      twitter: توییتر
+      google: گوگل
+      linkedin: Linkedin
+  ref:
+    settings:
+      app_id: 'شناسه برنامه'
+      app_secret: 'راز برنامه'
+      client_id: 'شناسهی کارگیر'
+      client_secret: 'راز مشتری'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'ورود به عنوان کاربر دیگر'
+      placeholder_optional: '(اختیاری) ارائه دلیل خود را برای تعویض به این کاربر'
+      placeholder_required: 'شما باید دلیل خود را برای تعویض به این کاربر قبل از اقدام ارائه'
+    user_controls:
+      impersonate_button: 'ورود به عنوان کاربر'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'بحث خصوصی' }
+    buttons:
+      add_recipients: گیرندگان
+      submit: باشه
+      edit_recipients: 'ویرایش گیرندهها'
+      cancel: لغو
+      make_public: 'این بحث را عمومی کنید'
+      remove_from_discussion: 'این بحث خصوصی را ترک کنید'
+    composer_private_discussion:
+      submit_button: 'خصوصی بحث'
+      title_placeholder: 'عنوان بحث خصوصی'
+    confirm:
+      make_public: 'ایا مطمئن هستید که می خواهید گیرندگان را حذف کنید و این بحث را برای هر کسی که می تواند برچسب اختصاص داده شده را مشاهده کند، قابل مشاهده کنید؟'
+    nav:
+      start_button: 'بحث خصوصی'
+      nav_item: 'بحث های خصوصی'
+    input:
+      search_recipients: 'جستجوی گیرنده با تایپ کردن سه نویسه اول...'
+    search:
+      headings: { groups: 'گروه های مجوز' }
+    modal:
+      titles: { add_recipients: 'گیرندگان را به بحث خود اضافه کنید' }
+      labels: { selected_users: 'کاربران منتخب', search_field: 'جستجو برای کاربر' }
+      help: { add_recipients: 'این بحث فقط برای کاربرانی که در اینجا انتخاب می کنید قابل مشاهده خواهد بود. حداقل یک گیرنده (به غیر از خودتان) مورد نیاز است.', update_recipients: 'این بحث فقط برای کاربرانی که در اینجا انتخاب می کنید قابل مشاهده خواهد بود.', selected_users: 'روی نام کاربر کلیک کنید تا انها را حذف کنید.', click_user_to_remove_tooltip: 'برای حذف کلیک کنید' }
+    user:
+      settings: { block_pd: 'مسدود کردن بحث های خصوصی' }
+      byobu_link: 'بحث های خصوصی'
+      dropdown_label: 'بحث های خصوصی'
+    notifications:
+      pd_label: 'یک نفر من را در یک بحث خصوصی جدید وارد می کند'
+      pd_reply_label: 'کسی در یک بحث خصوصی می کند که من دریافت کننده ان هستم'
+      pd_user_left_label: 'یک کاربر گیرنده یک بحث خصوصی را ترک می کند که من بخشی از ان هستم'
+      pd_added_label: 'کسی من را به یک بحث خصوصی موجود اضافه می کند'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'اطلاعات نشان'
+    all_badges: 'مشاهده همه نشانها'
+    all_users: 'مشاهده همه کاربران'
+    give_badge: 'نشان بده'
+    update_badge: 'به روز رسانی نشان'
+    select_badge: 'انتخاب نشان'
+    user_has_badge: 'کاربر در حال حاضر این نشان را دارد.'
+    user_no_badges: 'این کاربر هنوز هیچ نشان ندارد.'
+    no_received: 'هیچ کاربری این نشان را به دست نیاورده است.'
+    save_changes: 'ذخیرۀ تغییرات'
+    badge:
+      badge: نشان
+      badges: مدالها
+      name: 'نام نشان'
+      description: 'شرح نشان'
+      earning_reason: 'نشان کسب درامد دلیل'
+      update_earning_reason: 'به روز رسانی دلیل درامد'
+      no_earning_reason: 'هیچ دلیل درامدی تنظیم نشده است'
+      earned_on: 'نشان به دست امده در'
+      category: 'دسته نشان'
+      badge_details: 'جزئیات نشان'
+    badges_in_card:
+      title: 'مدالها در کارت کاربر'
+      manage_badges: 'مدیریت مدالها'
+      description: 'شما می توانید نشان های قابل مشاهده در کارت کاربر خود را با یکی از نشان های دیگر خود را تغییر دهید. اگر هیچ کدام را انتخاب نکنید، انها به طور خودکار انتخاب می شوند.'
+    moderation:
+      remove_badge: 'حذف نشان از کاربر'
+      remove_badge_confirm: 'ایا مطمئن هستید که می خواهید این نشان را از این کاربر حذف کنید؟'
+      give_badge: 'نشان بده'
+    notification:
+      title: 'شما یک نشان جدید دریافت کرده اید'
+      settings: 'من یک نشان دریافت کرده ام'
+    uncategorized: 'دستهبندی نشده'
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'وضعیت بدبختی'
+      not_miserable_label: 'بدبخت نیست'
+      indefinitely_label: 'بدبختی به طور نامحدود'
+      limited_time_label: 'بدبختی برای مدت زمان محدود ...'
+      limited_time_days_text: ' روز‌ها'
+      submit_button: 'ذخیرۀ تغییرات'
+    user_badge:
+      miserable_user_tooltip: 'کاربر بدبخت'
+    user_controls:
+      miserable_user_button: 'کاربر بدبخت'
+  ref:
+    miserable_user: 'کاربر بدبخت'
+sycho-profile-cover:
+  forum:
+    cover: پوشش
+    edit_cover: 'ویرایش جلد'
+    added:
+      success: 'پوشش پروفایل به روز شد.'
+      error: 'تصویر را نمیتوان بارگذاری کرد.'
+    removed:
+      success: 'پوشش پروفایل حذف شد.'
+      error: 'نتوانست پوشش را حذف کند، بعدا دوباره امتحان کنید.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'رونوشت در تخته یادداشت'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'اخرین بازدید کنندگان', guest: مهمان }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'کد کشور'
+    saveButton: ذخیره
+    clickToSelectCountry: 'کشور خود را انتخاب کنید'
+    countrySaved: 'کشور با موفقیت نجات یافت!'
+    field_placeholder: 'تایید پرچم کشور'
+    binding_country: 'ما متوجه شدیم که شما محل سکونت خود را محدود نکرده اید. لطفا ابتدا کشور خود را به هم وصل کنید. شما فقط می توانید ارسال و ترک پیام پس از اتصال کشور خود را.'
+    binding_country_click: 'اکنون کلیک کنید'
+username-blacklist:
+  forum:
+    modal-title: هشدار!
+    modal-body-first-line: 'اخطار - این نام کاربری <strong>توسط سرپرست مسدود شده</strong> است'
+    modal-body-second-line: 'لطفا نام کاربری دیگری انتخاب کنید که دستورالعمل های انجمن ما را نقض نکند و دوباره تلاش کنید.'
+  admin:
+    blackList: 'نام کاربری در لیست سیاه'
+    blackList-help: 'در اینجا نام کاربری را که می خواهید در هنگام ثبت نام مسدود کنید بنویسید (جدا شده توسط کاما)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: خلاصه, show-summaries: 'نمایش گزیده ای از هر بحث در لیست بحث (دسکتاپ / قرص)', show-summaries-mobile: 'نمایش گزیده ای از هر بحث در لیست بحث (موبایل)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'فعالیت انجمن'
+      forum_new_discussions: 'بحث های جدید انجمن'
+      discussion_last_posts: 'این بحث'
+      user_last_posts: 'ها و نظرات توسط این کاربر'
+    feeds:
+      titles: { main_subtitle: 'اخرین ها در فروم', main_d_subtitle: 'جدیدترین بحث ها در انجمن', discussion_subtitle: 'اخرین پیامها در این بحث', user_subtitle: 'اخرین ها و نظرات این کاربر.' }
+    discussion:
+      feed_link: خوراک
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: دنبال
+    profile_page:
+      no_following: 'به نظر میاد کسی رو تعقیب نمیکنی'
+    settings:
+      notify_new_follower_label: 'یکی دنبالم می اید'
+      notify_new_unfollower_label: 'یه نفر دیگه دنبالم نده'
+      notify_new_discussion_label: 'کسی که من دنبال می کنم شروع به بحث می کند'
+      notify_new_post_label: 'کسی که من ها را در یک بحث موجود دنبال می کنم'
+      block_follow: 'جلوگیری از دنبال کردن من توسط کاربران'
+    badge:
+      label: { follow: 'پس از بحث', lurk: 'به دنبال همه' }
+    filter:
+      following: 'کاربران دنبال شده'
+    modals:
+      select_follow_level: { follow_levels_heading: 'سطوح را دنبال کنید', follow_select_label: 'دنبال کردن نوع', no_user_attr_provided_err: 'اوه اوه، وقتی این روش رو باز کردی یه مشکلی پیش اومده', no_user_attr_provided_err_debug: 'هیچ ویژگی "کاربر" هنگام ایجاد به حالت SelectFollowUserLevel منتقل نشد. Modal نمی تواند ارائه شود.', save_btn: ذخیره, cancel_btn: لغو }
+    profile_link: 'کاربران دنبال شده'
+    user_controls:
+      follow_button: دنبال
+      unfollow_button: 'Unfollow را دنبال کنید'
+      change_button: 'تغییر نوع دنبال کردن'
+    index:
+      follow_tag_button: دنبال
+      unfollow_tag_button: 'تغییر نوع دنبال کردن'
+  email:
+    new_follower_subject: '[کاربر را دنبال کنید] شما یک دنبال کننده جدید دارید!'
+  lib:
+    following_link: 'کاربران دنبال شده'
+    follow: دنبال
+    change_follow_type: 'تغییر نوع دنبال کردن'
+    unfollow: 'Unfollow را دنبال کنید'
+    follow_levels:
+      unfollow: { name: 'دنبال نکن' }
+      follow: { name: 'بحث ها را دنبال کنید' }
+      lurk: { name: 'همه را دنبال کنید' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'لطفا اطمینان حاصل کنید که این تغییر نام مستعار درخواست شده از دستورالعمل های انجمن پیروی می کند.', decision_title: تصمیم, approval_label: تایید, rejected_label: رد, submit_button: ارسال, reason_title: 'دلیل رد شدن', success: 'تصمیم ارسال شد.', title: 'درخواست تغییر نام مستعار' }
+      results: { title: 'درخواست تغییر نام مستعار', approved: 'درخواست تغییر نام مستعار شما تایید شده است', rejected: 'درخواست تغییر نام مستعار شما رد شد', resubmit: 'در این زمان شما ممکن است یک درخواست تغییر نام مستعار جدید را از تنظیمات حساب خود ارسال کنید.', dismiss_button: باشه }
+      request: { title: 'درخواست تغییر نام مستعار', submit_button: 'ارسال درخواست', delete_button: 'حذف درخواست', confirmation_message: 'درخواست تغییر نام مستعار شما ارسال شده است و در انتظار تایید است.', deleted: 'درخواست نام مستعار حذف شد.', dismiss_button: باشه }
+    username_modals:
+      action: { help_text: 'لطفا اطمینان حاصل کنید که این تغییر نام کاربری درخواست شده از دستورالعمل های انجمن پیروی می کند.', decision_title: تصمیم, approval_label: تایید, rejected_label: رد, submit_button: ارسال, reason_title: 'دلیل رد شدن', success: 'تصمیم ارسال شد.', title: 'درخواست تغییر نام کاربری' }
+      results: { title: 'درخواست تغییر نام کاربری', approved: 'درخواست تغییر نام کاربری شما تایید شده است', rejected: 'درخواست تغییر نام کاربری شما رد شد', resubmit: 'در این زمان شما ممکن است یک درخواست تغییر نام کاربری جدید از تنظیمات حساب خود را دوباره ارسال اگر شما تا انتخاب کنید.', dismiss_button: باشه }
+      request: { title: 'درخواست تغییر نام کاربری', submit_button: 'ارسال درخواست', delete_button: 'حذف درخواست', confirmation_message: 'درخواست تغییر نام کاربری شما ارسال شده است و در انتظار تایید است.', deleted: 'درخواست نام کاربری حذف شد.', dismiss_button: باشه }
+    pending_requests:
+      empty_text: 'هیچ درخواست تغییر نام یافت نشد.'
+      tooltip: 'درخواست تغییر نام'
+      title: 'درخواست تغییر نام'
+    settings:
+      nickname_request_button: 'تغییر نام مستعار'
+      username_request_button: 'تغییر نام کاربری'
+    user:
+      name_history_link: 'نام تاریخچه'
+  ref:
+    name_change_request: 'درخواست تغییر نام'
+    name_change_requests: 'درخواست تغییر نام'
+    nickname_change_request: 'درخواست تغییر نام مستعار'
+    nickname_change_requests: 'درخواست تغییر نام مستعار'
+    username_change_request: 'درخواست تغییر نام کاربری'
+    username_change_requests: 'درخواست تغییر نام کاربری'
+  email:
+    body:
+      noReasonProvided: 'هیچ دلیلی ارائه نشده است.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'چیزی در مورد خودتان بنویسید'
+    profile:
+      cancel_confirm: 'ایا مطمئن هستید که می خواهید ویرایش بیوگرافی خود را لغو کنید؟ شما هر تغییری که ایجاد کرده اید را از دست خواهید داد.'
+      cancel_button: لغو
+      save_button: ذخیره
+      edit_bio_label: 'ویرایش زیستی'
+fof-split:
+  forum:
+    split:
+      from: 'از اینجا جدا بشیم'
+      to: 'تقسیم به اینجا'
+      cancel: 'لغو تقسیم'
+    modal:
+      title: 'تقسیم بحث'
+      new_discussion_label: 'مشخص کردن عنوان برای بحث جدید'
+      submit_button: تقسیم
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'دکمه های رسانه های اجتماعی خود را ویرایش کنید'
+      add: 'دکمه ها را به رسانه های اجتماعی خود اضافه کنید'
+      headtitle: 'ویرایش دکمهها'
+      title: عنوان
+      url: آدرس
+      submit: ذخیره
+      delete: حذف
+      deletetitle: 'حذف دکمه'
+      save_disabled_fetching_favicons: 'یک یا چند ایکون در حال واکشی هستند. لطفاً منتظر بمانید.'
+      favicon: فاویکون
+      grey_favicon: 'خاکستری Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: 'اشتراک گذاشتن'
+      share_dropdown_accessible_label: 'تغییر وضعیت بحث منوی کشویی اشتراکی'
+    modal:
+      title: 'اشتراک گذاشتن'
+      copy_button: کپی
+  lib:
+    networks:
+      facebook: 'فیس بوک'
+      twitter: توییتر
+      linkedin: Linkedin
+      reddit: بد
+      whatsapp: Whatsapp
+      telegram: تلگراف
+      vkontakte: ویکونتاکته
+      odnoklassniki: اودنوکلاسنیکی
+      my_mail: 'دنیای من'
+      qq: Qq
+      qzone: کیوزون
+      native: 'اشتراک گذاری بومی'
+fof-recaptcha:
+  forum:
+    error: 'خطایی در ارسال reCAPTCHA وجود داشت. دوباره امتحان کن.'
+    unknown_error: 'یک خطای ناشناخته رخ داد. Captcha را بررسی کنید و دوباره امتحان کنید.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'شما نمی توانید از این واکنش در حال حاضر استفاده کنید، لطفا صفحه را تازه کنید'
+    warning: 'واکنش شما تبدیل شد'
+    settings:
+      notify_post_reacted_label: 'کسی به یکی از های من واکنش نشان می دهد'
+    reacting-own-post: 'شما نمی توانید به خود واکنش نشان دهید'
+    modal:
+      title: واکنش
+      no_reactions: 'هنوز واکنشی نشان نداده است'
+    mod_item: 'مشاهده واکنشها'
+    react_button_label: واکنش
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'بار کردن cropper تصویر شکست خورد.', generic_resize: 'چیزی در هنگام برش و تغییر اندازه تصویر اشتباه بود.', get_image_data: 'موفق به برش نشد. اطمینان حاصل کنید که حفاظت از اثر انگشت مرورگر شما غیر فعال است.' }
+      help_text: "اپلود تصویر ممکن است شکست بخورد اگر تنظیمات حریم خصوصی مرورگر شما بسیار سختگیرانه باشد. اگر مشکلی دارید، سعی کنید حفاظت از اثر انگشت را غیرفعال کنید. در غیر این صورت، شما می توانید <disableResize>فشرده سازی تصویر cropped را غیرفعال</disableResize> <disableCrop>کنید یا برش را به طور کامل غیرفعال کنید</disableCrop>.\n"
+      submit_button: آپلود
+      submit_crop_button: 'برش و بارگذاری'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'بسیار محتمل است که نیازی به بحث بیشتر نداشته باشد و بنابراین ضربه زدن به ان هیچ هدفی ندارد.', checkbox_label: 'من می دانم که این بحث نسبتا قدیمی است اما هنوز هم می خواهم پاسخ دهم.', error: 'این بحث برای پاسخ دادن خیلی قدیمی است.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'شما اجازه رای دادن ندارید'
+    poll_ended: 'این نظرسنجی به پایان رسید.'
+    public_poll: 'مشاهده رای دهندگان'
+    composer_discussion:
+      add_poll: 'افزودن نظرسنجی'
+      edit_poll: 'ویرایش نظرسنجی'
+    modal:
+      add_title: 'اضافه کردن یک نظرسنجی'
+      add_option_label: 'اضافه کردن یک گزینه'
+      edit_title: 'ویرایش نظرسنجی'
+      include_question: 'شما باید شامل یک سوال'
+      max: 'شما می توانید حداکثر 10 پاسخ داشته باشید'
+      min: 'شما باید حداقل 2 پاسخ را در نظر داشته باشید'
+      no_voters: 'بدون رای'
+      option_placeholder: پاسخ
+      image_option_placeholder: 'نشانی وب تصویر (اختیاری)'
+      options_label: پاسخ
+      public_poll_label: 'اجازه دهید مردم ببینند چه کسی رای داده است'
+      allow_multiple_votes_label: 'اجازه دادن به افراد برای رای دادن به گزینه های متعدد'
+      max_votes_label: 'حداکثر رای برای هر کاربر'
+      max_votes_help: '0 را تنظیم کنید تا کاربران بتوانند به همه گزینه ها رای دهند.'
+      question_placeholder: سوال
+      submit: ارسال
+    moderation:
+      delete: 'حذف نظرسنجی'
+      delete_confirm: 'ایا مطمئن هستید که می خواهید این نظرسنجی را حذف کنید؟'
+      edit: 'ویرایش نظرسنجی'
+    tooltip:
+      badge: نظرسنجی
+    votes_modal:
+      title: آرا
+fof-nightmode:
+  ref:
+    auto: 'خودکار (بر اساس گزینه های مرورگر یا دستگاه)'
+    light: 'حالت روز'
+    dark: 'حالت شب'
+  forum:
+    header:
+      nightmode_button: 'حالت شب'
+    user:
+      settings: { heading: تم, description: 'انتخاب کنید که چه رنگی را می خواهید در انجمن استفاده کنید.', description2: 'این موضوع به حساب شما متصل خواهد شد و برای همه دستگاه های شما اعمال می شود مگر اینکه سوئیچ زیر را برای تنظیمات دستگاه تغییر دهید.', device_specific_setting_checkbox: 'استفاده از تنظیمات دستگاه', device_specific_setting_checkbox_tooltip: 'انتخاب تم شما به صورت جداگانه برای هر یک از دستگاه های شما ذخیره می شود.', auto_unsupported: 'مرورگر شما حالت تاریک خودکار را پشتیبانی نمی کند.', option_descriptions: { auto: 'تم شما به طور خودکار بر اساس تنظیمات مرورگر یا دستگاه شما انتخاب می شود. به عنوان مثال، اگر حالت تاریک را در iOS فعال کنید، انجمن ها نیز تاریک خواهند بود.', day: 'تجربه کلاسیکی که به ان عادت کرده اید. دوست داشته و ازمایش شده است.', night: 'تو یه ذره جغد شب هستی شما در شب مراقب انجمن هستید، در حالی که پرندگان خواب هستند و روباه ها شکار می کنند. یا فقط رنگ های تیره تر را ترجیح می دهید!' }, options: { auto: 'خودکار (بر اساس گزینه های مرورگر یا دستگاه)', day: 'حالت روز', night: 'حالت شب' } }
+    day: 'حالت روز'
+    night: 'حالت شب'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'یک یادداشت خالی مجاز نیست.'
+    moderatorNotes:
+      add_button: 'یادداشت جدید'
+      create-heading: 'ایجاد یادداشت مدیر جدید'
+      dismiss_button: انجام
+      noNotes: 'به نظر می رسد هیچ یادداشتی در اینجا وجود ندارد.'
+      submit_button: 'ذخیره یادداشت'
+      delete: حذف
+      confirm: 'ایا مطمئن هستید که می خواهید این یادداشت را حذف کنید؟'
+    user:
+      notes: 'یادداشتهای مدیر'
+  api:
+    no_reason_provided: 'بدون دلیل ارائه شده'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: رای
+    vote_title: 'نمایش چه کسانی رای دادند'
+    nav:
+      name: 'رتبه بندی'
+    ranking:
+      rank: محل
+      name: کاربر
+      amount: نقاط
+    notification:
+      prefrences: { vote: 'وقتی یکی از های من بالا / پایین رای می دهد' }
+    user:
+      votes_link: رای
+    modal:
+      downvotes_label: 'رای دهندگان:'
+      title: آرا
+      upvotes_label: 'رای دهندگان:'
+    mod_item: 'مشاهده رای دهندگان'
+    voters:
+      none: 'هنوز رای دهنده ای وجود ندارد'
+      label: آرا
+      label_none: 'بدون رای دهنده'
+    post:
+      upvote_button: Upvote
+      downvote_button: Downvote
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'پیش نویس های برنامه ریزی شده در حال حاضر در تنظیمات غیر فعال هستند.'
+  ref:
+    schedule_draft: 'پیش نویس برنامه'
+  forum:
+    composer:
+      title: 'ذخیرۀ پیشنویس'
+      saving: 'صرفه جویی...'
+      saved: ذخیره!
+      exit_alert: 'حذف تغییرات در پیش نویس؟'
+      discard_empty_draft_alert: 'دور انداختن پیش نویس خالی؟'
+    dropdown:
+      empty_text: 'شما هیچ پیش نویس را ذخیره نکرده اید'
+      title: 'پیش نویس'
+      delete_all_button: 'حذف تمام پیشنویسها'
+      delete_button: 'حذف پیشنویس'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'ایا مطمئن هستید که می خواهید پیش نویس خود را حذف کنید؟'
+      delete_all_alert: 'ایا مطمئن هستید که می خواهید تمام پیش نویس های خود را حذف کنید؟'
+      schedule_button: 'پیش نویس برنامه'
+      tooltip: 'پیش نویس'
+    schedule_draft_modal:
+      text: 'پیش نویس خود را به طور خودکار در زمان بعد ارسال کنید!'
+      unschedule_button: 'برنامه ریزی نشده'
+      unschedule_warning: 'مطمئنی میخوای این پیش نویس رو برنامه ریزی کنی؟'
+      reschedule_button: 'برنامه ریزی مجدد'
+      schedule_button: برنامه
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'تاریخ و/یا زمان نامعتبر'
+      title: 'پیش نویس برنامه'
+    user:
+      settings: { drafts_heading: 'پیش نویس', draft_autosave_enable: 'پیش نویس خودکار را فعال کنید؟', draft_autosave_interval_label: 'فاصلۀ خودکار (ثانیه)', draft_autosave_interval_button: 'به روز رسانی فاصله', draft_autosave_interval_invalid: 'فاصله باید یک صحیح بزرگتر از 4 باشد.' }
+fof-best-answer:
+  forum:
+    answered_badge: پاسخ
+    this_best_answer: 'بهترین پاسخ را انتخاب کنید'
+    remove_best_answer: 'عدم انتخاب بهترین پاسخ'
+    best_answer_button: 'بهترین پاسخ'
+    errors:
+      mismatch: 'انتخابی در این بحث وجود ندارد.'
+    notification:
+      content: 'لطفا بهترین پاسخ را انتخاب کنید اگر سوال شما پاسخ داده شده است'
+      preferences: { awarded_best_answer: 'کسی من را به عنوان بهترین پاسخ تنظیم می کند', best_answer_in_discussion: 'بهترین پاسخ در بحثی است که من در ان شرکت کردم', select_best_answer: 'یک یاداوری خودکار برای انتخاب بهترین پاسخ در بحثی که شروع کردم' }
+    index:
+      ask_question: 'یک سوال بپرسید'
+      cannot_ask_question: 'نمی توان سؤالی پرسید'
+      solved_link: 'حل بحث ها'
+      unsolved_link: 'بحث های حل نشده'
+    filter:
+      all_label: 'همه سوالات'
+      solved_label: 'حل سوالات'
+      unsolved_label: 'سوالات حل نشده'
+      accessible_label: 'حل شده / انتخاب حل نشده'
+    composer:
+      titlePlaceholder: 'عنوان سوال'
+    search:
+      discussions_solutions_heading: 'بحث با راه حل ها'
+    discussion:
+      jump_to_best_answer_button: 'بهترین پاسخ'
+  email:
+    subject:
+      select: 'آیا می توانید سوال خود را پاسخ دهید؟'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'بهترین پاسخ ها'
+      least_best_answers: 'حداقل بهترین پاسخ ها'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'هیچ دیگری ممنوع نخواهد شد'
+    user_badge:
+      banned_tooltip: ممنوع
+    ban_ip_button: 'ممنوعیت IP'
+    unban_ip_button: 'ای پی Unban'
+    user_controls:
+      ban_button: ممنوعیت
+      unban_button: انبان
+  error:
+    banned_ip_message: 'مجوز شکست خورد.'
+    no_ips_found_message: 'IP) های (برای کاربر یافت نشد.'
+  lib:
+    modal:
+      check_button: بررسی
+      save_button: ذخیره
+      ban_ip_confirmation: 'ایا مطمئن هستید که می خواهید این ادرس IP را از استفاده در انجمن مسدود کنید؟ این کاربران را با این ادرس IP(ES) از ورود و ثبت نام مسدود می کند.'
+      unban_ip_confirmation: 'ایا مطمئن هستید که می خواهید این کاربر و سایر کاربرانی را که توسط سایر ای اپ ها ممنوع نشده اند، ممنوع کنید؟'
+      unban_ip_no_users: 'هیچ دیگری بدون پوشش نخواهد بود'
+      title: 'ممنوعیت IP(ها)'
+      unban_title: 'UNBAN IP(ها)'
+      address_label: 'ادرس IP'
+      reason_label: دلیل
+      ban_button: ممنوعیت
+      unban_button: انبان
+  ref:
+    ban_label: ممنوعیت
+    ban_ip_addresses: 'ممنوعیت IP(ها)'
+    ban_ip_button: 'ممنوعیت IP'
+    unban_label: انبان
+    unban_ip_addresses: 'UNBAN IP(ها)'
+    unban_ip_button: 'ای پی Unban'
+    address_label: 'ادرس IP'
+    reason_label: دلیل
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'جزئیات ثبت نام شما در یک پایگاه داده پیشگیری از اسپم یافت شده است، بنابراین ثبت نام شما مسدود شده است.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'حذف بحثها'
+      hard_delete_discussions_help: 'این کار تمام بحثهای اغاز شده توسط این کاربر را برای همیشه حذف خواهد کرد. هنگامی که غیرفعال می شود، بحث ها پنهان می شوند.'
+      hard_delete_posts_label: 'حذف ها'
+      hard_delete_posts_help: 'این به طور دائم تمام ها (نظرات، پاسخ ها و غیره) ساخته شده توسط این کاربر را حذف می کند. هنگامی که غیرفعال می شود، ها پنهان می شوند.'
+      hard_delete_user_label: 'حذف کاربر'
+      hard_delete_user_help: 'این کار کاربر را برای همیشه حذف خواهد کرد. هنگامی که غیرفعال شود، کاربر به جای ان معلق خواهد شد.'
+      intro: 'هنگام علامت گذاری یک کاربر به عنوان یک اسپم، چندین اقدام انجام می شود که بستگی به افزونه های موجود در انجمن شما دارد.'
+      move_discussions_tag_label: 'انتقال بحثها به برچسب قرنطینه شده'
+      move_discussions_tag_help: 'این کار تمام بحث های اغاز شده توسط این کاربر را به برچسبی که در تنظیمات انجمن مشخص کرده اید منتقل می کند. هنگامی که غیرفعال می شود، بحث ها در برچسب های فعلی خود باقی می مانند.'
+      process_button: فرایند
+      report_to_sfs_label: 'گزارش به StopForumSpam'
+      report_to_sfs_help: 'این جزئیات اساسی کاربر (نام کاربری، ایمیل، ادرس IP) را به StopForumSpam گزارش می دهد. این امر به جلوگیری از ثبت نام کاربر در انجمن های دیگر که از سرویس StopForumSpam استفاده می کنند کمک می کند.'
+    user_controls:
+      spammer_button: اسپمر
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'بازنشانی شمارش نمای بحث'
+      submit: ارسال
+      label: 'تنظیم برای مشاهده شمارش'
+    discussion_controls:
+      resetviews_button: 'تنظیم شمارش نما'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: 'غیر چسبنده'
+      sticky_button: مهم
+    badge:
+      sticky_tooltip: مهم
+  ref:
+    sticky: مهم
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: قفل
+    discussion_controls:
+      lock_button: قفل
+      unlock_button: 'باز کردن'
+    settings:
+      notify_discussion_locked_label: 'یک نفر بحثی را که من شروع کردم قفل می کند'
+flarum-likes:
+  forum:
+    post:
+      like_link: مانند
+      unlike_link: 'بر خلاف'
+      you_text: شما
+    post_likes:
+      title: 'کاربرانی که این را دوست دارند'
+      load_more_button: 'بار بیشتر'
+    settings:
+      notify_post_liked_label: 'کسی یکی از های من را دوست دارد'
+    user:
+      likes_link: امثال
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'وارد کردن ایموجی'
+      type_to_search_text: 'نوع برای جستجوی یک شکلک'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'محتوای شما بیش از حد بزرگ است، لطفا دستورالعمل های ما را در مورد ارسال بخوانید' }
+dhtml-persona:
+  forum:
+    persona: فرد
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'جدول رتبه بندی'
+dhtml-gender:
+  forum:
+    male: مرد
+    female: زن
+    other: 'ترجیح می دهم نگویم'
+    inputGender: جنسیت
+    saveButton: ذخیره
+    clickToSelectGender: 'جنسیت خود را انتخاب کنید'
+    genderSaved: 'جنسیت با موفقیت نجات یافت!'
+    field_placeholder: 'تایید جنسیت'
+    binding_gender: 'ما کشف کردیم که شما جنسیت خود را تعیین نکرده اید. لطفا جنسیت خود را در اولویت قرار دهید. شما فقط می توانید پس از تعیین جنسیت خود پیام ارسال و ترک کنید.'
+    binding_gender_click: 'اکنون کلیک کنید'
+flarum-content-pages:
+  forum:
+    home: خانه
+    about-us: 'در باره ما'
+    guidelines: دستورالعمل
+    privacy-policy: 'سیاست حفظ حریم خصوصی'
+    terms-of-use: 'شرایط استفاده'
+    contact-us: 'تماس با ما'
+    download-app: 'دانلود برنامه'
+    discord-chat: 'دیسکورد چت'
+    tags-cloud: 'برچسب ها ابر'
+    languages: زبان
+    leaderboard: 'جدول رتبه بندی'
+    live: 'Live Live'
+    live-coding: 'Live Coding'
+    challenges: 'چالش ها'
+    dev-challenges: 'چالش های دو'
+    jobs: 'شغل های شغلی'
+    community: 'جامعه اجتماعی'
+    dev-jobs: 'دانلود بازی The Jobs'
+    job-posting: 'شغل پست'
+    job-postings: 'پست های شغلی'
+    workshops: 'کارگاه های آموزشی'
+    dev-workshops: 'کارگاه های آموزشی'
+    events: حوادث
+    conferences: 'کنفرانس ها'
+    event-conferences: 'حوادث / کنفرانس ها'
+    showcase: نمایشگاه
+    tags: Tags
+    more: 'بیشتر بیشتر بیشتر'
+    memberships: عضویت
+    members: اعضای
+    general-discussion: 'بحث عمومی'
+    technology-articles: 'مقالات تکنولوژی'
+    coding-challenges: 'چالش های مشترک'
+    q-a: 'بخش Q/A'
+    artificial-intelligence: 'هوش مصنوعی'
+    computer-science: 'علوم کامپیوتر'
+    programming-languages: 'زبان های برنامه نویسی'
+    development-tools: 'ابزارهای توسعه'
+    software-development: 'توسعه نرم افزار'
+    frontend-development: 'توسعه Frontend'
+    backend-development: 'بازگشت توسعه'
+    software-engineering: 'Software Engineering'
+    cybersecurity: 'امنیت سایبری'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'شمارنده نویسه'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'ویرایش تاریخ تولد'
+      date_of_birth_text: 'تاریخ تولد'
+      submit_button: 'ذخیرۀ تغییرات'
+    settings:
+      change_dob_label: 'تغییر تاریخ تولد'
+      show_dob_date_label: 'نمایش روز و ماه تولد'
+      show_dob_year_label: 'نمایش سال تولد'
+      show_dob_year_help: 'این به مردم اجازه می دهد سن شما را ببینند.'
+      dob_heading: 'تاریخ تولد'
+    nav:
+      nav_item: 'تولدهای امروز'
+    edit_user:
+      dob_heading: 'تاریخ تولد'
+    sign_up:
+      dob_placeholder: 'تاریخ تولد'
+  api:
+    invalid_dob_message: 'تاریخ تولد نامعتبر'
+  ref:
+    date_of_birth: 'تاریخ تولد'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'ایموجی پیکر'
+    search_placeholder: جستجو...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'ویرایش نویسنده و تاریخ'
+    modal:
+      title-post: 'ویرایش نویسنده و تاریخ'
+      title-discussion: 'ویرایش نویسنده بحث و تاریخ'
+      user: نویسنده
+      created_at: 'زمان ایجاد'
+      edited_at: 'ویرایش زمان'
+      sync-with-discussion: 'همگامسازی با بحث'
+      sync-with-post: 'همگام سازی با اول'
+      sync-impossible: 'نمی توان اولین را پیدا کرد. سعی کنید به ابتدای بحث بروید.'
+      submit: ذخیره
+      cancel: لغو
+    search:
+      placeholder: 'جستجو کاربران'
+      type-more: 'برای جستجوی دادگان ، ۳ نویسه تایپ کنید'
+      no-results: 'بدون نتیجه'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'تغییر وضعیت حالت متن غنی'
+      insert_button: درج
+      insert_image: { src_placeholder: لینک, title_placeholder: عنوان }
+      insert_link: { text_placeholder: پیامک, href_placeholder: آدرس, title_placeholder: 'عنوان (نشان می دهد در شناور)', remove_button: حذف }
+      additional_items_tooltip: 'کنترل های اضافی'
+      code_block_tooltip: 'درج یک بلوک کد'
+      horizontal_rule_tooltip: 'درج قاعده افقی'
+      image_tooltip: 'افزودن یک تصویر'
+      link_tooltip: 'اضافه کردن یک پیوند'
+      spoiler_block_tooltip: 'بلوک اسپویلر / Dropdown'
+      strike_tooltip: 'استرایکتراف <alt-shift-5>'
+      text_type_tooltip: 'برگزیدن نوع متن'
+  forum:
+    settings:
+      composer_heading: آهنگساز
+      use_rich_text_editor_label: 'استفاده از ویرایشگر متن غنی؟'
+      rich_text_compact_paragraphs_label: 'پاراگراف ها را با خط جدید جدا نکنید.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'اعلان های فشار را فعال کرده اید، اما این دستگاه را پیکربندی نکرده اید.'
+      optin_button: پیکربندی
+    discussion_controls:
+      share_button: 'اشتراک گذاشتن'
+    post_controls:
+      share_button: 'اشتراک گذاشتن'
+    user_controls:
+      share_button: 'اشتراک گذاشتن'
+    settings:
+      push_header: فشار
+      pwa_notifications: { access_default: 'با توجه به محدودیت های مرورگر، شما باید برای دریافت اطلاعیه های فشار در این دستگاه انتخاب کنید.', access_default_button: 'انتخاب کنید', access_denied: 'شما باید تنظیمات مرورگر خود را برای دریافت اعلان های فشار در این دستگاه تنظیم کنید.', access_denied_button: 'یاد بگیرید چگونه', no_browser_support: 'این مرورگر اعلان های push را برای برنامه های وب پیشرفته پشتیبانی نمی کند.', no_browser_support_button: 'بیشتر بدانید' }
+  views:
+    offline:
+      header: 'خطای اتصال شبکه'
+      text: 'این برنامه نیاز به اتصال به شبکه دارد. نمی توان از ان به صورت افلاین استفاده کرد. لطفا اتصال خود را بررسی کنید.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'هشدار به کاربر'
+    user:
+      warnings: 'هشدارهای مدیر'
+    settings:
+      warning_notification_label: 'یک مدیر به من هشدار می دهد'
+    validation:
+      public_comment_required: 'شما بیشتر یک نظر عمومی ارائه می دهید.'
+      invalid_strike_count: 'تعداد اعتصابات باید عدد صحیح بین 0 تا 5 باشد.'
+    warning_controls:
+      delete_button: حذف
+      restore_button: بازیابی
+      delete_forever_button: 'حذف دائمی'
+    warning_list:
+      add_button: 'هشدار جدید'
+      no_warnings: 'به نظر می رسد هیچ هشداری در اینجا وجود ندارد.'
+      warnings_no_strikes: 'هشدارهای ناظر: هیچ اعتصابی دریافت نشده است'
+    warning_list_item:
+      public_comment: هشدار
+      private_comment: 'نظرات مدیر-قابل مشاهده'
+      linked_post: 'لینک شده'
+    warning_modal:
+      confirmation_message: 'هشدار شما ذخیره شده است. ممکن است لازم باشد صفحه را تازه کنید تا ان را ببینید.'
+      strikes_heading: 'چند اعتصاب باید انجام شود؟'
+      submit_button: 'ذخیره هشدار'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'ویرایش قالب پاسخ'
+    reply_template:
+      title: 'ویرایش قالب پاسخ'
+      submit_button: 'ذخیرۀ قالب پاسخ'

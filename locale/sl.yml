@@ -1,0 +1,1375 @@
+core:
+  forum:
+    change_email:
+      incorrect_password_message: 'Vneseno geslo ni pravilno.'
+      confirm_password_placeholder: 'Potrdite geslo'
+      dismiss_button: 'V redu'
+      submit_button: 'Shrani spremembe'
+      title: 'Spremeni e-pošto'
+    change_password:
+      send_button: 'Pošlji e-pošto za ponastavitev gesla'
+      text: 'Kliknite spodnji gumb in preverite, ali je v e-poštnem sporočilu povezava, da spremenite geslo.'
+      title: 'Spremeni geslo'
+    composer:
+      close_tooltip: Blizu
+      exit_full_screen_tooltip: 'Izhod iz celozaslonskega načina'
+      full_screen_tooltip: 'Celozaslonski način'
+      minimize_tooltip: Minimirati
+      preview_tooltip: Predogled
+    composer_discussion:
+      body_placeholder: 'Napišite objavo ...'
+      discard_confirmation: 'Svoje razprave niste objavili. Ga želite zavreči?'
+      submit_button: 'Po razpravi'
+      title_placeholder: 'Naslov razprave'
+      title: 'Začetek razprave'
+    composer_edit:
+      discard_confirmation: 'Sprememb niste shranili. Jih želite zavreči?'
+      edited_message: 'Vaša sprememba je bila narejena.'
+      submit_button: 'Shrani spremembe'
+      view_button: Pogled
+    composer_reply:
+      discard_confirmation: 'Odgovora niste objavili. Ga želite zavreči?'
+      posted_message: 'Vaš odgovor je bil objavljen.'
+      submit_button: 'Objavi odgovor'
+      body_placeholder: 'Napišite odgovor ...'
+      view_button: Pogled
+    discussion_controls:
+      cannot_reply_button: 'Ne morem odgovoriti'
+      cannot_reply_text: 'Nimate dovoljenja za odgovor na to razpravo.'
+      delete_confirmation: 'Ali ste prepričani, da želite izbrisati to razpravo?'
+      log_in_to_reply_button: 'Prijavite se za odgovor'
+      toggle_dropdown_accessible_label: 'Preklop spustnega menija za dejanja razprave'
+      delete_button: Izbrisati
+      delete_forever_button: 'Izbriši za vedno'
+      rename_button: Preimenuj
+      reply_button: Odgovoriti
+      restore_button: Obnoviti
+    discussion_list:
+      empty_text: 'Zdi se, kot da tu ni razprav.'
+      load_more_button: 'Naloži več'
+    forgot_password:
+      email_sent_message: 'Če je vnešeno e-pošto registrirano na tej spletni strani, vam bomo poslali e-pošto, ki vsebuje povezavo za ponastavitev gesla. Preverite mapo z neželeno pošto, če je ne prejmete v naslednji minuti ali dveh.'
+      not_found_message: 'S tem e-poštnim naslovom ni registriranega uporabnika.'
+      submit_button: 'Povrni geslo'
+      text: 'Vnesite svoj e-poštni naslov in poslali vam bomo povezavo za ponastavitev gesla.'
+      title: 'Pozabil sem geslo'
+      dismiss_button: 'V redu'
+      email_placeholder: 'E- pošta'
+    header:
+      admin_button: 'Način uporabe'
+      back_to_index_tooltip: 'Nazaj na seznam razprav'
+      locale_dropdown_accessible_label: 'Spreminjanje območnih nastavitev foruma'
+      profile_button: Profil
+      search_clear_button_accessible_label: 'Počisti iskalno poizvedbo'
+      search_placeholder: 'Forum za iskanje'
+      search_role_label: 'Forum za iskanje'
+      session_dropdown_accessible_label: 'Preklop možnosti seje v spustnem meniju'
+      log_in_link: Prijava
+      log_out_button: 'Odjavite se'
+      settings_button: Nastavitve
+      sign_up_link: Prijava
+    index:
+      cannot_start_discussion_button: 'Razprave ni mogoče začeti'
+      mark_all_as_read_confirmation: 'Ali ste prepričani, da želite vse razprave označiti kot prebrane?'
+      refresh_tooltip: Osvežiti
+      toggle_sidenav_dropdown_accessible_label: 'Preklop spustnega menija za krmarjenje'
+      all_discussions_link: 'Vse razprave'
+      mark_all_as_read_tooltip: 'Označi vse kot prebrano'
+      meta_title_text: 'Vse razprave'
+      start_discussion_button: 'Začetek razprave'
+    index_sort:
+      latest_button: Najnovejše
+      newest_button: Najnovejši
+      oldest_button: Najstarejši
+      relevance_button: Ustreznost
+      toggle_dropdown_accessible_label: 'Spreminjanje razvrščanja seznama razprav'
+      top_button: Vrh
+      hot_button: Trending
+      votes_button: Glasovi
+      front_button: FrontPage
+      popular_button: Priljubljen
+      unpopular_button: Nepriljubljene
+    log_in:
+      forgot_password_link: 'Pozabljeno geslo?'
+      invalid_login_message: 'Vaši podatki za prijavo so bili napačni.'
+      remember_me_label: 'Zapomni si me'
+      sign_up_text: 'Nimate računa? <a>prijava</a>'
+      username_or_email_placeholder: 'Uporabniško ime ali e-poštni naslov'
+      password_placeholder: Geslo
+      submit_button: Prijava
+      title: Prijava
+    notifications:
+      delete_all_confirm: 'Ali ste prepričani, da želite izbrisati vsa obvestila? Tega dejanja ni mogoče preklicati'
+      delete_all_tooltip: 'Brisanje vseh obvestil'
+      empty_text: 'Brez obvestil'
+      mark_as_read_tooltip: 'Označi kot prebrano'
+      toggle_dropdown_accessible_label: 'Ogled obvestil'
+      mark_all_as_read_tooltip: 'Označi vse kot prebrano'
+      title: Obvestila
+      tooltip: Obvestila
+    post:
+      edited_text: Urejati
+    post_controls:
+      delete_confirmation: 'Ali ste prepričani, da želite to objavo izbrisati za vedno? Tega dejanja ni mogoče razveljaviti.'
+      hide_confirmation: 'Ali ste prepričani, da želite izbrisati to objavo?'
+      toggle_dropdown_accessible_label: 'Preklop spustnega menija kontrolnikov objav'
+      push_to_front_button: 'Potisni na FrontPage'
+      pull_from_front_button: 'Potegnite s sprednje strani'
+      delete_button: Izbrisati
+      delete_forever_button: 'Izbriši za vedno'
+      edit_button: Urediti
+      restore_button: Obnoviti
+    post_scrubber:
+      now_link: Zdaj
+      original_post_link: 'Izvirna objava'
+    post_stream:
+      load_more_button: 'Naloži več'
+      reply_placeholder: 'Napišite odgovor ...'
+    rename_discussion:
+      title: 'Preimenovanje razprave'
+      submit_button: Preimenuj
+    search:
+      discussions_heading: Razprave
+      users_heading: Uporabniki
+    security:
+      cannot_terminate_current_session: 'Trenutne aktivne seje ni mogoče prekiniti. Namesto tega se odjavite.'
+      created: Ustvaril
+      current_active_session: 'Trenutna aktivna seja'
+      developer_tokens_heading: 'Žetoni razvijalcev'
+      empty_text: 'Zdi se, da tukaj ni ničesar videti.'
+      global_logout: { heading: 'Globalna odjava', help_text: 'Počisti trenutno sejo piškotkov, prekine vse seje, prekliče žetone razvijalcev in razveljavi vsako e-poštno potrditev ali ponastavitev gesla.', log_out_button: 'Odjavite se' }
+      hide_access_token: 'Skrij žeton'
+      last_activity: 'Zadnja dejavnost'
+      new_access_token_modal: { submit_button: 'Ustvarjanje žetona', title_placeholder: Naslov, title: 'Nov žeton' }
+      revoke_access_token: Prekliče
+      sessions_heading: 'Aktivne seje'
+      session_termination_failed: 'Med prekinitvijo sej je prišlo do napake.'
+      show_access_token: 'Ogled žetona'
+      terminate_all_other_sessions: 'Prekinite vse druge seje'
+      terminate_session: Končati
+      token_revoked: 'Žeton je preklican.'
+      token_title_placeholder: /
+      never: Nikoli
+      new_access_token_button: 'Nov žeton'
+      revoke_access_token_confirmation: 'Ste prepričani, da želite nadaljevati? Tega dejanja ni mogoče razveljaviti.'
+      terminate_all_other_sessions_confirmation: 'Ste prepričani, da želite nadaljevati? Tega dejanja ni mogoče razveljaviti.'
+      title: Varnost
+    settings:
+      account_heading: Račun
+      notify_by_web_heading: Splet
+      notify_discussion_renamed_label: 'Nekdo preimenuje razpravo, ki sem jo začel'
+      privacy_disclose_online_label: 'Omogočanje drugim, da vidijo, kdaj imam vzpostavljeno povezavo'
+      privacy_heading: Zasebnost
+      change_email_button: 'Spremeni e-pošto'
+      change_password_button: 'Spremeni geslo'
+      notifications_heading: Obvestila
+      notify_by_email_heading: 'E- pošta'
+      title: Nastavitve
+    sign_up:
+      log_in_text: 'Že imate račun? <a>prijava</a>'
+      dismiss_button: 'V redu'
+      email_placeholder: 'E- pošta'
+      password_placeholder: Geslo
+      submit_button: Prijava
+      title: Prijava
+      username_placeholder: 'Uporabniško ime'
+    user:
+      avatar_upload_button: Upload
+      avatar_upload_tooltip: 'Nalaganje novega avatarja'
+      online_text: Dosegljiv
+      posts_empty_text: 'Izgleda, da tukaj ni objav.'
+      avatar_remove_button: Odstrani
+      discussions_link: Razprave
+      posts_link: 'Delovnih mest'
+      posts_load_more_button: 'Naloži več'
+      security_link: Varnost
+      settings_link: Nastavitve
+    user_controls:
+      button: Kontrolnike
+      delete_confirmation: 'Ali ste prepričani, da želite izbrisati tega uporabnika? Objave uporabnika NE bodo izbrisane.'
+      toggle_dropdown_accessible_label: 'Preklop spustnega menija uporabniških kontrolnikov'
+      delete_button: Izbrisati
+      edit_button: Urediti
+    user_email_confirmation:
+      resend_button: 'Vnovično pošiljanje potrditvenega e-poštnega sporočila'
+      sent_message: Poslal
+    welcome_hero:
+      hide: 'Skrivanje pozdravnega sporočila'
+    badge:
+      frontpage_tooltip: 'Označeno kot FrontPage'
+  lib:
+    debug_button: Debug
+    alert:
+      dismiss_a11y_label: 'Opustitev opozorila'
+    badge:
+      hidden_tooltip: Skriven
+    dropdown:
+      toggle_dropdown_accessible_label: 'Preklopni spustni meni'
+    edit_user:
+      activate_button: 'Aktiviraj uporabnika'
+      groups_heading: Skupine
+      set_password_label: 'Nastavljanje novega gesla'
+      nothing_available: 'Tega uporabnika ne smete urejati.'
+      email_heading: 'E- pošta'
+      email_label: 'E- pošta'
+      password_heading: Geslo
+      password_label: Geslo
+      submit_button: 'Shrani spremembe'
+      title: 'Urejanje uporabnika'
+      username_heading: 'Uporabniško ime'
+      username_label: 'Uporabniško ime'
+    error:
+      generic_message: 'Ups! Nekaj je šlo narobe. Znova naložite stran in poskusite znova.'
+      generic_cross_origin_message: 'Ups! Med zahtevo za navzkrižno poreklo je prišlo do napake. Znova naložite stran in poskusite znova.'
+      not_found_message: 'Zahtevanega vira ni bilo mogoče najti.'
+      payload_too_large_message: 'Koristna obremenitev zahteve je bila prevelika.'
+      permission_denied_message: 'Za to nimate dovoljenja.'
+      rate_limit_exceeded_message: 'Greš malo prehitro. Poskusite znova čez nekaj sekund.'
+      render_failed_message: 'Žal smo pri prikazovanju te vsebine naleteli na napako. Če ste uporabnik, poskusite znova pozneje. Če ste skrbnik, si za več informacij oglejte dnevniške datoteke Flarum.'
+    modal:
+      close: Blizu
+    nav:
+      drawer_button: 'Odpiranje predala za krmarjenje'
+    loading_indicator:
+      accessible_label: Nakladanje...
+  views:
+    confirm_email:
+      text: 'Kliknite spodnji gumb, da potrdite e-poštni naslov računa.'
+      submit_button: 'Potrdi e-pošto'
+      title: 'Potrdi e-pošto'
+    content:
+      javascript_disabled_message: 'To spletno mesto si je najbolje ogledati v sodobnem brskalniku z omogočenim JavaScriptom.'
+      load_error_message: 'Nekaj je šlo narobe, ko ste poskušali naložiti polno različico tega spletnega mesta. Poskusite močno osvežiti to stran, da odpravite napako.'
+      loading_text: Nakladanje...
+    error:
+      csrf_token_mismatch: 'Predolgo ste bili neaktivni.'
+      csrf_token_mismatch_return_link: 'Vrnite se in poskusite znova'
+      invalid_confirmation_token: 'Ta potrditvena povezava je že bila uporabljena ali pa ni veljavna.'
+      not_authenticated: 'Nimate dovoljenja za dostop do te strani. Po prijavi poskusite znova.'
+      not_found: 'Strani, ki ste jo zahtevali, ni bilo mogoče najti.'
+      permission_denied: 'Nimate dovoljenja za dostop do te strani.'
+      unknown: 'Pri nalaganju te strani je prišlo do napake.'
+    log_out:
+      log_out_button: 'Odjavite se'
+      title: 'Odjavite se'
+    reset_password:
+      confirm_password_label: 'Potrdite novo geslo'
+      new_password_label: 'Novo geslo'
+      submit_button: 'Shrani spremembe'
+      title: 'Ponastavitev gesla'
+    discussion:
+      next_page_button: 'Naslednja stran'
+      previous_page_button: 'Prejšnja stran'
+    index:
+      all_discussions_heading: 'Vse razprave'
+      next_page_button: 'Naslednja stran'
+      previous_page_button: 'Prejšnja stran'
+  api:
+    invalid_username_message: 'Uporabniško ime lahko vsebuje samo črke, številke in črtice.'
+  email:
+    activate_account:
+      subject: 'Aktiviranje novega računa'
+    confirm_email:
+      subject: 'Potrdite svoj novi e-poštni naslov'
+    reset_password:
+      subject: 'Ponastavitev gesla'
+    send_test:
+      subject: 'Test e-pošte Flarum'
+  ref:
+    all_discussions: 'Vse razprave'
+    change_email: 'Spremeni e-pošto'
+    change_password: 'Spremeni geslo'
+    color: Barva
+    confirm_password: 'Potrdite geslo'
+    confirm_email: 'Potrdi e-pošto'
+    custom_footer_text: 'Dodajte HTML, da bo prikazan na dnu strani.'
+    custom_footer_title: 'Urejanje noge po meri'
+    custom_header_text: 'Dodajte HTML, ki bo prikazan na samem vrhu strani, nad lastno glavo Flaruma.'
+    custom_header_title: 'Urejanje glave po meri'
+    delete: Izbrisati
+    delete_forever: 'Izbriši za vedno'
+    discussions: Razprave
+    edit: Urediti
+    edit_user: 'Urejanje uporabnika'
+    email: 'E- pošta'
+    extensions: Razširitve
+    generic_confirmation_message: 'Ste prepričani, da želite nadaljevati? Tega dejanja ni mogoče razveljaviti.'
+    icon: Ikona
+    load_more: 'Naloži več'
+    loading: Nakladanje...
+    log_in: Prijava
+    log_out: 'Odjavite se'
+    mark_all_as_read: 'Označi vse kot prebrano'
+    never: Nikoli
+    new_token: 'Nov žeton'
+    next_page: 'Naslednja stran'
+    notifications: Obvestila
+    okay: 'V redu'
+    password: Geslo
+    posts: 'Delovnih mest'
+    previous_page: 'Prejšnja stran'
+    remove: Odstrani
+    rename: Preimenuj
+    reply: Odgovoriti
+    reset_your_password: 'Ponastavitev gesla'
+    restore: Obnoviti
+    save_changes: 'Shrani spremembe'
+    search_users: 'Iskanje uporabnikov'
+    security: Varnost
+    settings: Nastavitve
+    sign_up: Prijava
+    start_a_discussion: 'Začetek razprave'
+    username: 'Uporabniško ime'
+    users: Uporabniki
+    view: Pogled
+    write_a_reply: 'Napišite odgovor ...'
+    you: Ti
+  group:
+    admin: Admin
+    admins: Skrbniki
+    guest: Gost
+    guests: Gostje
+    member: Član
+    members: Člani
+    mod: Način
+    mods: Mods
+flarum-tags:
+  forum:
+    all_tags:
+      meta_description_text: 'Vse oznake'
+      meta_title_text: Tags
+    choose_tags:
+      title: 'Izberite oznake za razpravo'
+    discussion_controls:
+      edit_tags_button: 'Urejanje oznak'
+    header:
+      back_to_tags_tooltip: 'Nazaj na seznam oznak'
+    index:
+      more_link: Več...
+      untagged_link: Neoznačene
+      tags_link: Tags
+    composer_discussion:
+      choose_tags_link: 'Izberite oznake'
+  lib:
+    deleted_tag_text: Izbrisati
+    tag_selection_modal:
+      bypass_requirements: 'Zahteve za obhod oznak'
+      submit_button: 'V redu'
+      title: 'Izberite oznake'
+  ref:
+    choose_tags: 'Izberite oznake'
+    name: Ime
+    tags: Tags
+flarum-mentions:
+  forum:
+    composer:
+      mention_tooltip: 'Omemba uporabnika, skupine ali objave'
+    mentioned_by:
+      title: 'Odgovori na to objavo'
+      load_more_button: 'Naloži več'
+    post:
+      quote_button: Narekovaj
+      reply_link: Odgovoriti
+      you_text: Ti
+    settings:
+      notify_post_mentioned_label: 'Nekdo odgovori na eno od mojih objav'
+      notify_user_mentioned_label: 'Nekdo me omeni v objavi'
+      notify_group_mentioned_label: 'Nekdo omeni skupino, katere član sem v objavi'
+    user:
+      mentions_link: Omenja
+flarum-subscriptions:
+  forum:
+    discussion_controls:
+      unfollow_button: 'Prenehanje spremljanja'
+      unignore_button: 'Gospod,'
+      follow_button: Slediti
+    settings:
+      follow_after_reply_label: 'Samodejno spremljanje razprav, na katere odgovorim'
+      notify_for_all_posts_label: 'Obveščanje o vsaki novi objavi namesto le zadnje v razpravi'
+      notify_new_post_label: 'Nekdo objavi v razpravi, ki jo spremljam'
+    sub_controls:
+      following_text: 'Bodite obveščeni o vseh odgovorih.'
+      ignoring_text: 'Nikoli ne bodite obveščeni. Skrij se s seznama razprav.'
+      not_following_button: 'Ne sledi'
+      not_following_text: 'Bodite obveščeni le, ko @mentioned.'
+      notify_alert_tooltip: 'Prejmite obvestilo foruma, ko so nove objave'
+      notify_email_tooltip: 'Prejmite e-poštno sporočilo ob novih objavah'
+      follow_button: Slediti
+      following_button: Naslednje
+      ignoring_button: Ignoriranje
+    badge:
+      following_tooltip: Naslednje
+      ignoring_tooltip: Ignoriranje
+    following:
+      meta_title_text: Naslednje
+    index:
+      following_link: Naslednje
+  ref:
+    follow: Slediti
+    following: Naslednje
+    ignoring: Ignoriranje
+flarum-flags:
+  forum:
+    flag_post:
+      confirmation_message: 'Hvala, ker ste označili to objavo. Naši moderatorji ga bodo preučili.'
+      reason_inappropriate_label: Neprimeren
+      reason_inappropriate_text: 'Ta objava je žaljiva, žaljiva ali krši naše <a>smernice za skupnost</a>.'
+      reason_missing_message: 'Navedite nekaj podrobnosti za naše moderatorje.'
+      reason_off_topic_label: 'Izven teme'
+      reason_off_topic_text: 'Ta objava ni pomembna za trenutno razpravo in jo je treba premakniti drugam.'
+      reason_other_label: 'Drugo (navedite)'
+      reason_spam_label: Spam
+      reason_spam_text: 'Ta objava je oglas.'
+      dismiss_button: 'V redu'
+      submit_button: 'Objava zastavice'
+      title: 'Objava zastavice'
+    flagged_posts:
+      empty_text: 'Brez zastav'
+      title: 'Objave, označene z zastavico'
+      tooltip: 'Objave, označene z zastavico'
+    post:
+      dismiss_flag_button: 'Opustitev zastavice'
+    post_controls:
+      flag_button: Zastava
+  ref:
+    flag_post: 'Objava zastavice'
+    flagged_posts: 'Objave, označene z zastavico'
+flarum-suspend:
+  forum:
+    notifications:
+      user_suspended_indefinite_text: 'Suspendirali ste za nedoločen čas'
+      user_unsuspended_text: 'Niste bili suspendirani'
+    suspension_info:
+      dismiss_button: Zavrne
+      indefinite: 'To je suspenzija za nedoločen čas'
+      title: 'Ta račun je blokiran'
+    suspend_user:
+      display_message: 'Prikaži sporočilo za uporabnika'
+      indefinitely_label: 'Suspendirano za nedoločen čas'
+      limited_time_days_text: ' dnevi'
+      limited_time_label: 'Začasno prekinjeno za omejen čas ...'
+      not_suspended_label: 'Ni začasno prekinjeno'
+      placeholder_optional: Neobvezno
+      reason: 'Razlog za začasno prekinitev'
+      status_heading: 'Stanje začasne prekinitve'
+      submit_button: 'Shrani spremembe'
+    user_badge:
+      suspended_tooltip: Prekinjena
+    user_controls:
+      suspend_button: Prekine
+  email:
+    no_reason_given: 'Za to prekinitev ni bil naveden razlog.'
+    suspended:
+      subject: 'Vaš račun je blokiran'
+    unsuspended:
+      subject: 'Vaš račun je neblokiran'
+blomstra-gdpr:
+  lib:
+    data:
+      uploads: { export_description: 'Vse datoteke, ki jih naloži uporabnik.', anonymize_description: 'Odstrani sklic uporabnika iz naloženih datotek. Datoteke same ostanejo dostopne uporabnikom, ki bi si jih lahko ogledali pred anonimizacijo.', delete_description: 'Izbriše vse datoteke, ki jih je naložil uporabnik.' }
+      tagsubscription: { export_description: 'Izvozi podrobnosti o ravni naročnine za oznako, če ta obstaja.', anonymize_description: 'Odstrani naročnino uporabnika na oznako.' }
+      followuser: { export_description: 'Izvozi podrobnosti o spremljanih uporabnikih in uporabnikih, ki sledijo.', delete_description: 'Izbriše vse podatke, povezane z naslednjimi uporabniki.', anonymize_description: 'Izbriše vse podatke, povezane z naslednjimi uporabniki.' }
+      bannedipdata: { export_description: 'Če je zapis prepovedi IP-ja povezan z uporabnikom (tj. uporabnik je bil prepovedan z IP), bo v izvoz vključen IP-naslov uporabnika, skupaj z razlogom za prepoved in datumom nastanka.', anonymize_description: 'Vsi naslovi IP, povezani z uporabnikom, so ločeni, vendar bo sam IP skupaj z razlogom ostal prepovedan. Prepričajte se, da v polje »razlog« niso shranjeni nobeni podatki, ki omogočajo osebno prepoznavo.' }
+fof-upload:
+  forum:
+    media_manager: 'Upravitelj medijev'
+    buttons:
+      attach: Priložite
+      upload: Upload
+      upload_shared: Skúpen
+      user_uploads: 'Nalaganje uporabnikov'
+      cancel: Odpovedati
+      media: 'Moji mediji'
+      shared_media: 'Predstavnost v skupni rabi'
+    states:
+      error: Napaka
+      loading: Nalaganje
+      unauthorized: 'Prenos datotek ni dovoljen'
+    text_preview:
+      expand: 'Razširitev predogleda'
+      collapse: 'Strni predogled'
+      error: "Napaka pri predogledu datoteke. Morda je bila izbrisana ali pa navedeni ID datoteke ni veljaven.\n"
+      no_snippet_preview: '<Predogled bo prikazan tukaj po objavi>'
+      no_snippet: '<delček predogleda ni na voljo>'
+  api:
+    upload_errors:
+      forbidden_type: 'Nalaganje datotek te vrste ni dovoljeno.'
+      could_not_detect_mime: 'Vrste MIME te datoteke ni bilo mogoče zaznati, poskusite znova.'
+      max_upload_file_size_ini: 'Naložite največjo dovoljeno velikost datoteke, doseženo od php.ini.'
+      max_upload_file_size_form: 'Naložite največjo dovoljeno velikost datoteke, doseženo iz obrazca.'
+      partial_upload: 'Delno nalaganje.'
+      no_file_uploaded: 'Datoteka ni naložena.'
+      no_upload_tmp_folder: 'Ni mape tmp za nalaganje datotek.'
+      cannot_write_to_disk: 'Ne morem pisati na disk.'
+      upload_blocked_by_php_extension: 'Razširitev php je blokirala nalaganje.'
+  lib:
+    upload-shared-file-modal:
+      title: 'Nova datoteka v skupni rabi'
+      dropzone: 'Povlecite in spustite datoteke tukaj ali kliknite, če želite brskati'
+      hide-from-media-gallery: 'Skrivanje pred galerijo predstavnosti uporabnika'
+      upload: Upload
+    file_list:
+      loading: 'Nalaganje datotek ...'
+      empty: 'Datotek ni mogoče prikazati.'
+      release_to_upload: 'Sprostitev za nalaganje'
+      modal_empty_desktop: 'Seznam datotek je prazen. Kliknite gumb ali povlecite datoteko sem, da jo naložite.'
+      modal_empty_phone: 'Seznam datotek je prazen. Tapnite zgornji gumb, da naložite datoteko.'
+      load_more_files_btn: 'Naloži več datotek'
+      hide_file: { hide_success: 'Datoteka skrita', show_success: 'Prikazana datoteka', loading: 'Skrivanje datoteke ...' }
+      hide_shared_file: { hide_success: 'Datoteka postane zasebna', show_success: 'Datoteka objavljena', loading: 'Spreminjanje datoteke v zasebno ...' }
+flarum-bbcode:
+  forum:
+    quote:
+      wrote: Napisal
+flarum-markdown:
+  lib:
+    composer:
+      bold_tooltip: 'Dodajanje krepkega besedila'
+      code_tooltip: 'Vstavljanje kode'
+      header_tooltip: 'Dodajanje besedila glave'
+      image_tooltip: 'Dodajanje slike'
+      italic_tooltip: 'Dodajanje ležečega besedila'
+      link_tooltip: 'Dodajanje povezave'
+      ordered_list_tooltip: 'Dodajanje oštevilčenega seznama'
+      quote_tooltip: 'Vstavljanje ponudbe'
+      spoiler_tooltip: 'Vstavljanje spojlerja'
+      strikethrough_tooltip: 'Dodajanje prečrtanega besedila'
+      unordered_list_tooltip: 'Dodajanje označenega seznama'
+fof-follow-tags:
+  forum:
+    settings:
+      notify_new_discussion_label: 'Nekdo ustvari razpravo z oznako, ki ji sledim'
+      notify_new_post_label: 'Nekdo objavi oznako, ki ji sledim'
+      notify_new_discussion_tag_label: 'Nekdo znova označi razpravo z oznako, ki ji sledim'
+    index:
+      follow_tag_button: Slediti
+      unfollow_tag_button: 'Nehaj slediti'
+      following: { following_none_label: 'Spremljane razprave', following_tags_label: 'Spremljane oznake' }
+    badge:
+      following_tag_tooltip: Naslednje
+      lurking_tag_tooltip: Skrit
+    sub_controls:
+      following_text: 'Bodite obveščeni o vseh novih razpravah.'
+      hiding_text: 'Skrivanje razprav na strani »Vse razprave«.'
+      ignoring_text: 'Nikoli ne bodite obveščeni.'
+      lurking_text: 'Bodite obveščeni o vseh novih razpravah in odgovorih.'
+      not_following_button: 'Ne sledi'
+      not_following_text: 'Bodite obveščeni le, ko @mentioned.'
+      notify_alert_tooltip: 'Prejmite obvestilo foruma o novih razpravah ali objavah'
+      notify_email_tooltip: 'Prejemanje e-pošte ob novih razpravah ali objavah'
+      submit_button: 'Potrditev naročnine'
+      follow_button: Slediti
+      following_button: Naslednje
+      hiding_button: Skriva
+      ignoring_button: Ignoriranje
+      lurking_button: Skrit
+    user:
+      settings: { heading: 'Sledenje oznakam', filter_label: 'Kaj privzeto prikazati na strani »Sledi«' }
+  ref:
+    follow: Slediti
+    following: Naslednje
+    hiding: Skriva
+    ignoring: Ignoriranje
+    lurking: Skrit
+    filtering_options:
+      none: 'Spremljane razprave'
+      tags: 'Spremljane oznake'
+flarum-nicknames:
+  api:
+    invalid_nickname_message: 'Ta vzdevek ni veljaven. Za več informacij o pravilih vzdevka se obrnite na skrbnika foruma.'
+  ref:
+    change_nickname: 'Spremeni vzdevek'
+    nickname: Vzdevek
+  forum:
+    change_nickname:
+      submit_button: 'Shrani spremembe'
+      title: 'Spremeni vzdevek'
+    edit_user:
+      nicknames_heading: 'Spremeni vzdevek'
+      nicknames_text: Vzdevek
+    settings:
+      change_nickname_button: 'Spremeni vzdevek'
+    sign_up:
+      nickname_placeholder: Vzdevek
+fof-oauth:
+  forum:
+    user:
+      settings: { linked-account: { label: 'Povezani računi', last-used-label: 'Zadnja uporaba', link-created-label: 'Ustvarjena povezava', orphaned-account: 'Že prej ste se prijavili prek tega ponudnika, vendar je ta forum od takrat onemogočil prijavo s to metodo.', help: 'Ti povezani računi vam omogočajo, da se v forum prijavite prek drugih ponudnikov.' } }
+    signup:
+      username_help: 'Izberite uporabniško ime, ki ga želite poznati tukaj'
+    unlink: 'Odstrani povezavo'
+    error:
+      bad_verification_code: 'Neveljaven ali potekel žeton za preverjanje. Prosimo, poskusite znova.'
+      invalid_state: 'Neveljavno stanje. Prosimo, poskusite znova.'
+    providers:
+      discord: Razdora
+      facebook: 'Velika Britanija'
+      github: GitHub
+      gitlab: GitLab
+      google: Google
+      linkedin: LinkedIn
+      twitter: Cvrkutati
+  lib:
+    providers:
+      discord: Razdora
+      facebook: 'Velika Britanija'
+      github: GitHub
+      gitlab: GitLab
+      twitter: Cvrkutati
+      google: Google
+      linkedin: LinkedIn
+  ref:
+    settings:
+      app_id: 'ID aplikacije'
+      app_secret: 'Skrivnost aplikacije'
+      client_id: 'ID odjemalca'
+      client_secret: 'Skrivnost stranke'
+fof-impersonate:
+  forum:
+    modal:
+      title: 'Prijavite se kot drug uporabnik'
+      placeholder_optional: '(Neobvezno) Navedite razlog za prehod na tega uporabnika'
+      placeholder_required: 'Pred nadaljevanjem morate navesti razlog za prehod na tega uporabnika'
+    user_controls:
+      impersonate_button: 'Prijavite se kot uporabnik'
+fof-byobu:
+  forum:
+    badges:
+      is_private: { tooltip: 'Zasebna razprava' }
+    buttons:
+      add_recipients: Prejemniki
+      submit: 'V redu'
+      edit_recipients: 'Urejanje prejemnikov'
+      cancel: Odpovedati
+      make_public: 'Naj bo ta razprava javna'
+      remove_from_discussion: 'Zapustite to zasebno razpravo'
+    composer_private_discussion:
+      submit_button: 'Objavi zasebno razpravo'
+      title_placeholder: 'Naslov zasebne razprave'
+    confirm:
+      make_public: 'Ali ste prepričani, da želite odstraniti prejemnike in narediti to razpravo vidno vsem, ki si lahko ogledajo dodeljeno oznako?'
+    nav:
+      start_button: 'Razpravljajte zasebno'
+      nav_item: 'Zasebne razprave'
+    input:
+      search_recipients: 'Poiščite prejemnika tako, da vnesete prve tri znake ...'
+    search:
+      headings: { groups: 'Skupine dovoljenj' }
+    modal:
+      titles: { add_recipients: 'Dodajanje prejemnikov v razpravo' }
+      labels: { selected_users: 'Izbrani uporabniki', search_field: 'Iskanje uporabnika' }
+      help: { add_recipients: 'Ta razprava bo vidna samo uporabnikom, ki jih izberete tukaj. Potreben je vsaj 1 prejemnik (razen vas).', update_recipients: 'Ta razprava bo vidna samo uporabnikom, ki jih izberete tukaj.', selected_users: 'Kliknite ime uporabnika, da ga odstranite.', click_user_to_remove_tooltip: 'Kliknite za odstranitev' }
+    user:
+      settings: { block_pd: 'Blokiranje zasebnih razprav' }
+      byobu_link: 'Zasebne razprave'
+      dropdown_label: 'Zasebne razprave'
+    notifications:
+      pd_label: 'Nekdo me vključi v novo zasebno razpravo'
+      pd_reply_label: 'Nekdo objavi v zasebni razpravi, katere prejemnik sem'
+      pd_user_left_label: 'Uporabnik prejemnik zapusti zasebno razpravo, v kateri sodelujem'
+      pd_added_label: 'Nekdo me doda v obstoječo zasebno razpravo'
+  email: null
+v17development-flarum-badges:
+  forum:
+    badge_information: 'Podatki o znački'
+    all_badges: 'Oglejte si vse značke'
+    all_users: 'Oglejte si vse uporabnike'
+    give_badge: 'Podarite značko'
+    update_badge: 'Posodobitvena značka'
+    select_badge: 'Izberite značko'
+    user_has_badge: 'Uporabnik že ima to značko.'
+    user_no_badges: 'Ta uporabnik še nima značk.'
+    no_received: 'Tega značke si ni prislužil noben uporabnik.'
+    save_changes: 'Shrani spremembe'
+    badge:
+      badge: Značka
+      badges: Značke
+      name: 'Ime značke'
+      description: 'Opis značke'
+      earning_reason: 'Razlog za zaslužek značke'
+      update_earning_reason: 'Razlog za zaslužek posodobitve'
+      no_earning_reason: 'Brez določenega razloga za zaslužek'
+      earned_on: 'Prislužena značka'
+      category: 'Kategorija značke'
+      badge_details: 'Podrobnosti o znački'
+    badges_in_card:
+      title: 'Značke na uporabniški kartici'
+      manage_badges: 'Upravljanje značk'
+      description: 'Vidne značke na uporabniški kartici lahko spremenite z eno od drugih značk. Če jih ne izberete, bodo izbrane samodejno.'
+    moderation:
+      remove_badge: 'Odstranjevanje značke uporabniku'
+      remove_badge_confirm: 'Ali ste prepričani, da želite temu uporabniku odstraniti to značko?'
+      give_badge: 'Podarite značko'
+    notification:
+      title: 'Prejeli ste novo značko'
+      settings: 'Prejel sem značko'
+    uncategorized: Nekategorizirane
+v17development-flarum-seo: null
+the-turk-miserable-users:
+  forum:
+    miserable_user:
+      status_heading: 'Nesrečen status'
+      not_miserable_label: 'Ni nesrečno'
+      indefinitely_label: 'Nesrečen za nedoločen čas'
+      limited_time_label: 'Nesrečen za omejen čas ...'
+      limited_time_days_text: ' dnevi'
+      submit_button: 'Shrani spremembe'
+    user_badge:
+      miserable_user_tooltip: 'Nesrečen uporabnik'
+    user_controls:
+      miserable_user_button: 'Nesrečen uporabnik'
+  ref:
+    miserable_user: 'Nesrečen uporabnik'
+sycho-profile-cover:
+  forum:
+    cover: Kriti
+    edit_cover: 'Uredi naslovnico'
+    added:
+      success: 'Pokrov profila je posodobljen.'
+      error: 'Slike ni bilo mogoče naložiti.'
+    removed:
+      success: 'Pokrov profila je odstranjen.'
+      error: 'Pokrova ni bilo mogoče odstraniti, poskusite znova pozneje.'
+sycho-photoswipe: null
+nearata-tags-color-generator: null
+nearata-prevent-double-posting: null
+nearata-copy-code-to-clipboard:
+  forum:
+    copy: 'Kopiranje v odložišče'
+migratetoflarum-canonical: null
+michaelbelgium-flarum-profile-views:
+  forum:
+    user:
+      viewlist: { title: 'Zadnji obiskovalci', guest: Gost }
+justoverclock-country-flags:
+  forum:
+    inputCountryCode: 'Koda države'
+    saveButton: Shraniti
+    clickToSelectCountry: 'Izberite svojo državo'
+    countrySaved: 'Država uspešno rešena!'
+    field_placeholder: 'Potrdite zastave držav'
+    binding_country: 'Ugotovili smo, da niste vezani, kje ste. Najprej povežite svojo državo. Sporočila lahko objavljate in zapuščate šele, ko povežete svojo državo.'
+    binding_country_click: 'Kliknite zdaj'
+username-blacklist:
+  forum:
+    modal-title: Opozorilo!
+    modal-body-first-line: 'Opozorilo – to uporabniško ime <strong>blokira skrbnik</strong>'
+    modal-body-second-line: 'Izberite drugo uporabniško ime, ki ne krši naših smernic za skupnost, in poskusite znova.'
+  admin:
+    blackList: 'Uporabniško ime na črni listi'
+    blackList-help: 'Tukaj napišite uporabniško ime, ki ga želite blokirati med registracijo (ločeno z vejico)'
+flarum-ext-socialcards: null
+ianm-synopsis:
+  forum:
+    user:
+      settings: { summaries-heading: Sinopsis, show-summaries: 'Prikaz izvlečka iz vsake razprave na seznamih razprav (namizni/tablični računalnik)', show-summaries-mobile: 'Prikaz izvlečka iz vsake razprave na seznamih razprav (mobilne naprave)' }
+ianm-syndication:
+  forum:
+    autodiscovery:
+      forum_activity: 'Dejavnost foruma'
+      forum_new_discussions: 'Nove razprave foruma'
+      discussion_last_posts: 'Ta razprava'
+      user_last_posts: 'Objave in komentarji tega uporabnika'
+    feeds:
+      titles: { main_subtitle: 'Zadnje objave na forumu', main_d_subtitle: 'Najnovejše razprave na forumu', discussion_subtitle: 'Zadnja sporočila v tej razpravi', user_subtitle: 'Najnovejše objave in komentarji tega uporabnika.' }
+    discussion:
+      feed_link: Hraniti
+ianm-log-viewer: null
+ianm-html-head: null
+ianm-follow-users:
+  forum:
+    followed: Sledil
+    profile_page:
+      no_following: 'Izgleda, kot da nikogar ne spremljate.'
+    settings:
+      notify_new_follower_label: 'Nekdo mi sledi'
+      notify_new_unfollower_label: 'Nekdo mi neha slediti'
+      notify_new_discussion_label: 'Nekdo, ki ga spremljam, začne razpravo'
+      notify_new_post_label: 'Nekdo, ki ga spremljam objave v obstoječi razpravi'
+      block_follow: 'Preprečevanje uporabnikom, da me spremljajo'
+    badge:
+      label: { follow: 'Po razpravah', lurk: 'Sledite vsem' }
+    filter:
+      following: 'Spremljani uporabniki'
+    modals:
+      select_follow_level: { follow_levels_heading: 'Spremljajte ravni', follow_select_label: 'Vrsta sledenja', no_user_attr_provided_err: 'Uh, nekaj je šlo narobe, ko je odprl ta način.', no_user_attr_provided_err_debug: 'Ko je bil ustvarjen, način SelectFollowUserLevel ni bil posredovan nobenemu atributu »uporabnik«. Modala ni mogoče upodobiti.', save_btn: Shraniti, cancel_btn: Odpovedati }
+    profile_link: 'Spremljani uporabniki'
+    user_controls:
+      follow_button: Slediti
+      unfollow_button: 'Prenehanje spremljanja'
+      change_button: 'Spremeni vrsto spremljanja'
+    index:
+      follow_tag_button: Slediti
+      unfollow_tag_button: 'Spremeni vrsto spremljanja'
+  email:
+    new_follower_subject: '[Sledite uporabniku] Imate novega privrženca!'
+  lib:
+    following_link: 'Spremljani uporabniki'
+    follow: Slediti
+    change_follow_type: 'Spremeni vrsto spremljanja'
+    unfollow: 'Prenehanje spremljanja'
+    follow_levels:
+      unfollow: { name: 'Ne sledite' }
+      follow: { name: 'Spremljanje razprav' }
+      lurk: { name: 'Sledite vsem' }
+fof-username-request:
+  forum:
+    nickname_modals:
+      action: { help_text: 'Prepričajte se, da je ta zahtevana sprememba vzdevka v skladu s smernicami foruma.', decision_title: Odločitev, approval_label: Odobriti, rejected_label: Zavrne, submit_button: Predložiti, reason_title: 'Razlog za zavrnitev', success: 'Poslana odločba.', title: 'Zahteva za spremembo vzdevka' }
+      results: { title: 'Zahteva za spremembo vzdevka', approved: 'Vaša zahteva za spremembo vzdevka je bila odobrena', rejected: 'Vaša zahteva za spremembo vzdevka je bila zavrnjena', resubmit: 'Trenutno lahko v nastavitvah računa znova pošljete novo zahtevo za spremembo vzdevka, če se tako odločite.', dismiss_button: 'V redu' }
+      request: { title: 'Zahtevaj spremembo vzdevka', submit_button: 'Pošlji zahtevo', delete_button: 'Izbriši zahtevo', confirmation_message: 'Vaša zahteva za spremembo vzdevka je bila poslana in čaka na odobritev.', deleted: 'Zahteva za vzdevek je izbrisana.', dismiss_button: 'V redu' }
+    username_modals:
+      action: { help_text: 'Prepričajte se, da je zahtevana sprememba uporabniškega imena v skladu s smernicami foruma.', decision_title: Odločitev, approval_label: Odobriti, rejected_label: Zavrne, submit_button: Predložiti, reason_title: 'Razlog za zavrnitev', success: 'Poslana odločba.', title: 'Zahteva za spremembo uporabniškega imena' }
+      results: { title: 'Zahteva za spremembo uporabniškega imena', approved: 'Vaša zahteva za spremembo uporabniškega imena je bila odobrena', rejected: 'Vaša zahteva za spremembo uporabniškega imena je bila zavrnjena', resubmit: 'Trenutno lahko v nastavitvah računa znova pošljete novo zahtevo za spremembo uporabniškega imena, če tako želite.', dismiss_button: 'V redu' }
+      request: { title: 'Zahtevaj spremembo uporabniškega imena', submit_button: 'Pošlji zahtevo', delete_button: 'Izbriši zahtevo', confirmation_message: 'Vaša zahteva za spremembo uporabniškega imena je bila poslana in čaka na odobritev.', deleted: 'Zahteva za uporabniško ime je izbrisana.', dismiss_button: 'V redu' }
+    pending_requests:
+      empty_text: 'Ni najdenih zahtev za spremembo imena.'
+      tooltip: 'Zahteve za spremembo imena'
+      title: 'Zahteve za spremembo imena'
+    settings:
+      nickname_request_button: 'Spremeni vzdevek'
+      username_request_button: 'Spremeni uporabniško ime'
+    user:
+      name_history_link: 'Zgodovina imen'
+  ref:
+    name_change_request: 'Zahteva za spremembo imena'
+    name_change_requests: 'Zahteve za spremembo imena'
+    nickname_change_request: 'Zahteva za spremembo vzdevka'
+    nickname_change_requests: 'Zahteve za spremembo vzdevka'
+    username_change_request: 'Zahteva za spremembo uporabniškega imena'
+    username_change_requests: 'Zahteve za spremembo uporabniškega imena'
+  email:
+    body:
+      noReasonProvided: 'Ni razloga.'
+fof-user-bio:
+  forum:
+    userbioPlaceholder: 'Napišite nekaj o sebi'
+    profile:
+      cancel_confirm: 'Ali ste prepričani, da želite preklicati urejanje biografije? Izgubili boste vse spremembe, ki ste jih naredili.'
+      cancel_button: Odpovedati
+      save_button: Shraniti
+      edit_bio_label: 'Uredi biografijo'
+fof-split:
+  forum:
+    split:
+      from: 'Split od tu'
+      to: 'Split na to mesto'
+      cancel: 'Prekliči razdelitev'
+    modal:
+      title: 'Razdeljena razprava'
+      new_discussion_label: 'Določanje naslova nove razprave'
+      submit_button: Razdeliti
+fof-socialprofile:
+  forum:
+    edit:
+      edit: 'Urejanje gumbov za družabna omrežja'
+      add: 'Dodajanje gumbov v družabne medije'
+      headtitle: 'Uredi gumbe'
+      title: Naslov
+      url: URL
+      submit: Shraniti
+      delete: Izbrisati
+      deletetitle: 'Gumb za brisanje'
+      save_disabled_fetching_favicons: 'Pridobiva se ena ali več ikon. Počakaj, prosim.'
+      favicon: Prevajanje...
+      grey_favicon: 'Sivi Favicon'
+fof-sitemap: null
+fof-share-social:
+  forum:
+    discussion:
+      share_button: Delež
+      share_dropdown_accessible_label: 'Preklop spustnega menija za skupno rabo razprave'
+    modal:
+      title: Delež
+      copy_button: Kopirati
+  lib:
+    networks:
+      facebook: 'Velika Britanija'
+      twitter: Cvrkutati
+      linkedin: LinkedIn
+      reddit: Prevajanje...
+      whatsapp: WhatsApp
+      telegram: Telegramom
+      vkontakte: VKontakte
+      odnoklassniki: Odnoklassniki
+      my_mail: 'Moj svet'
+      qq: QQ
+      qzone: QZone
+      native: 'Izvorni delež'
+fof-recaptcha:
+  forum:
+    error: 'Pri predložitvi reCAPTCHA je prišlo do napake. Poskusi znova.'
+    unknown_error: 'Prišlo je do neznane napake. Preverite captcha in poskusite znova.'
+fof-reactions:
+  forum:
+    disabled-reaction: 'Te reakcije trenutno ne morete uporabiti, osvežite stran'
+    warning: 'Vaša reakcija je bila spreobrnjena'
+    settings:
+      notify_post_reacted_label: 'Nekdo se odzove na eno od mojih objav'
+    reacting-own-post: 'Ne morete se odzvati na svojo objavo'
+    modal:
+      title: Reakcije
+      no_reactions: 'Še ni reakcij'
+    mod_item: 'Ogled reakcij'
+    react_button_label: Reagirajo
+fof-profile-image-crop:
+  forum:
+    modal:
+      error: { failed_to_load_cropper: 'Obrezovalnika slike ni bilo mogoče naložiti.', generic_resize: 'Nekaj je šlo narobe med obrezovanjem in spreminjanjem velikosti slike.', get_image_data: 'Obrezovanje ni uspelo. Preverite, ali je zaščita brskalnika pred prstnimi odtisi onemogočena.' }
+      help_text: "Nalaganje slik morda ne bo uspelo, če so nastavitve zasebnosti vašega brskalnika zelo stroge. Če imate težave, poskusite onemogočiti zaščito s prstnimi odtisi. V nasprotnem primeru lahko <disableResize>onemogočite stiskanje obrezane slike</disableResize> ali <disableCrop>popolnoma onemogočite obrezovanje</disableCrop>.\n"
+      submit_button: Upload
+      submit_crop_button: 'Obrezovanje in nalaganje'
+fof-prevent-necrobumping:
+  forum:
+    composer:
+      warning: { description: 'Zelo verjetno je, da ne potrebuje nadaljnje razprave in zato udarjanje ne služi nobenemu namenu.', checkbox_label: 'Zavedam se, da je ta razprava precej stara, vendar bi vseeno rada odgovorila.', error: 'Ta razprava je prestara, da bi nanjo odgovorili.' }
+fof-pretty-mail: null
+fof-polls:
+  forum:
+    no_permission: 'Nimate dovoljenja za glasovanje'
+    poll_ended: 'Ta anketa se je končala.'
+    public_poll: 'Ogled volivcev'
+    composer_discussion:
+      add_poll: 'Dodajanje ankete'
+      edit_poll: 'Urejanje ankete'
+    modal:
+      add_title: 'Dodajanje ankete'
+      add_option_label: 'Dodajanje možnosti'
+      edit_title: 'Urejanje ankete'
+      include_question: 'Vključiti morate vprašanje'
+      max: 'Imate lahko največ 10 odgovorov'
+      min: 'Vključiti morate najmanj 2 odgovora'
+      no_voters: 'Brez glasov'
+      option_placeholder: Odgovoriti
+      image_option_placeholder: 'URL slike (izbirno)'
+      options_label: Odgovore
+      public_poll_label: 'Omogočanje ljudem, da vidijo, kdo je glasoval'
+      allow_multiple_votes_label: 'Omogočanje ljudem, da glasujejo za več možnosti'
+      max_votes_label: 'Največji glasovi na uporabnika'
+      max_votes_help: 'Nastavite na 0, da uporabnikom omogočite, da glasujejo za vse možnosti.'
+      question_placeholder: Vprašanje
+      submit: Predložiti
+    moderation:
+      delete: 'Odstranjevanje ankete'
+      delete_confirm: 'Ali ste prepričani, da želite izbrisati to anketo?'
+      edit: 'Urejanje ankete'
+    tooltip:
+      badge: Anketa
+    votes_modal:
+      title: Volivci
+fof-nightmode:
+  ref:
+    auto: 'Samodejno (odvisno od možnosti brskalnika ali naprave)'
+    light: 'Dnevni način'
+    dark: 'Nočni način'
+  forum:
+    header:
+      nightmode_button: 'Nočni način'
+    user:
+      settings: { heading: Tema, description: 'Izberite barvno temo, ki jo želite uporabiti na forumu.', description2: 'Ta tema bo povezana z vašim računom in velja za vse vaše naprave, razen če preklopite spodnje stikalo za nastavitve glede na napravo.', device_specific_setting_checkbox: 'Uporaba nastavitev glede na napravo', device_specific_setting_checkbox_tooltip: 'Izbira teme bo shranjena posamezno za vsako napravo.', auto_unsupported: 'Vaš brskalnik ne podpira samodejnega temnega načina.', option_descriptions: { auto: 'Vaša tema bo samodejno izbrana glede na nastavitve brskalnika ali naprave. Na primer, če imate v iOS-u omogočen temni način, bodo tudi forumi temni.', day: 'Klasična izkušnja, na katero ste navajeni. Ljubljen in preizkušen.', night: 'Malo si nočna sova. Ponoči pazite na forum, medtem ko ptice spijo in lisice lovijo. Ali pa imate raje temnejše barve!' }, options: { auto: 'Samodejno (odvisno od možnosti brskalnika ali naprave)', day: 'Dnevni način', night: 'Nočni način' } }
+    day: 'Dnevni način'
+    night: 'Nočni način'
+fof-default-user-preferences: null
+fof-moderator-notes:
+  forum:
+    no_content_given: 'Prazna opomba ni dovoljena.'
+    moderatorNotes:
+      add_button: 'Nova opomba'
+      create-heading: 'Ustvarjanje nove opombe voditelja'
+      dismiss_button: Storiti
+      noNotes: 'Izgleda, da tukaj ni nobenih opomb.'
+      submit_button: 'Shrani opombo'
+      delete: Izbrisati
+      confirm: 'Ali ste prepričani, da želite izbrisati to opombo?'
+    user:
+      notes: 'Opombe moderatorja'
+  api:
+    no_reason_provided: 'Ni razloga'
+fof-linguist: null
+fof-html-errors: null
+fof-gamification:
+  forum:
+    votes: Glasov
+    vote_title: 'Pokažite, kdo je glasoval'
+    nav:
+      name: Uvrstit
+    ranking:
+      rank: Mesto
+      name: Uporabnik
+      amount: Točk
+    notification:
+      prefrences: { vote: 'Ko je ena od mojih objav izglasovana gor/dol' }
+    user:
+      votes_link: Glasov
+    modal:
+      downvotes_label: 'Negativni volivci:'
+      title: Volivci
+      upvotes_label: 'Volivci:'
+    mod_item: 'Oglejte si volivce'
+    voters:
+      none: 'Še ni volivcev'
+      label: Volivci
+      label_none: 'Brez volivcev'
+    post:
+      upvote_button: 'Privoli v objavo'
+      downvote_button: 'Glasovanje proti'
+fof-formatting: null
+fof-drafts:
+  console:
+    scheduled_drafts_disabled: 'Načrtovani osnutki so trenutno onemogočeni v nastavitvah.'
+  ref:
+    schedule_draft: 'Osnutek urnika'
+  forum:
+    composer:
+      title: 'Shrani osnutek'
+      saving: Shranjevanje...
+      saved: Shranjene!
+      exit_alert: 'Zavrzite spremembe osnutka?'
+      discard_empty_draft_alert: 'Zavrzite prazen osnutek?'
+    dropdown:
+      empty_text: 'Osnutkov niste shranili'
+      title: Osnutke
+      delete_all_button: 'Brisanje vseh osnutkov'
+      delete_button: 'Brisanje osnutka'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      alert: 'Ali ste prepričani, da želite izbrisati osnutek?'
+      delete_all_alert: 'Ali ste prepričani, da želite izbrisati vse osnutke?'
+      schedule_button: 'Osnutek urnika'
+      tooltip: Osnutke
+    schedule_draft_modal:
+      text: 'Načrtujte svoj osnutek za samodejno objavo pozneje!'
+      unschedule_button: Razporejanje
+      unschedule_warning: 'Ali ste prepričani, da želite ta osnutek prestaviti?'
+      reschedule_button: Prerazporedi
+      schedule_button: Urnik
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Neveljaven datum in/ali ura'
+      title: 'Osnutek urnika'
+    user:
+      settings: { drafts_heading: Osnutke, draft_autosave_enable: 'Omogočite samodejno shranjevanje osnutka?', draft_autosave_interval_label: 'Interval samodejnega shranjevanja (sekunde)', draft_autosave_interval_button: 'Interval posodabljanja', draft_autosave_interval_invalid: 'Interval mora biti celo število večje od 4.' }
+fof-best-answer:
+  forum:
+    answered_badge: Odgovoril
+    this_best_answer: 'Izberite najboljši odgovor'
+    remove_best_answer: 'Prekličite izbiro najboljšega odgovora'
+    best_answer_button: 'Najboljši odgovor'
+    errors:
+      mismatch: 'Izbrana objava v tej razpravi ne obstaja.'
+    notification:
+      content: 'Izberite najboljši odgovor, če je bil odgovor na vaše vprašanje'
+      preferences: { awarded_best_answer: 'Nekdo nastavi mojo objavo kot najboljši odgovor', best_answer_in_discussion: 'Najboljši odgovor je v razpravi, v kateri sem sodeloval', select_best_answer: 'Samodejni opomnik za izbiro najboljšega odgovora v razpravi, ki sem jo začel' }
+    index:
+      ask_question: 'Zastavite vprašanje'
+      cannot_ask_question: 'Ne morem postaviti vprašanja'
+      solved_link: 'Rešene razprave'
+      unsolved_link: 'Nerešene razprave'
+    filter:
+      all_label: 'Vsa vprašanja'
+      solved_label: 'Rešena vprašanja'
+      unsolved_label: 'Nerešena vprašanja'
+      accessible_label: 'Rešen/nerešen izbor'
+    composer:
+      titlePlaceholder: 'Naslov vprašanja'
+    search:
+      discussions_solutions_heading: 'Razprave z rešitvami'
+    discussion:
+      jump_to_best_answer_button: 'Poglej najboljši odgovor'
+  email:
+    subject:
+      select: 'Ti je uspelo dobiti odgovor?'
+fof-user-directory:
+  lib:
+    sort:
+      most_best_answers: 'Najboljši odgovori'
+      least_best_answers: 'Najmanj najboljši odgovori'
+fof-ban-ips:
+  forum:
+    modal:
+      ban_ip_no_users: 'Nihče drug ne bo prepovedan'
+    user_badge:
+      banned_tooltip: Prepovedane
+    ban_ip_button: 'Prepoved intelektualne lastnine'
+    unban_ip_button: 'Razveljavitev IP'
+    user_controls:
+      ban_button: Prepoved
+      unban_button: Razveljavitev
+  error:
+    banned_ip_message: 'Dovoljenje ni uspelo.'
+    no_ips_found_message: 'Za uporabnika ni bilo najdenih IP-jev.'
+  lib:
+    modal:
+      check_button: Preveriti
+      save_button: Shraniti
+      ban_ip_confirmation: 'Ali ste prepričani, da želite blokirati uporabo tega naslova IP na forumu? To bo uporabnikom s tem naslovom IP preprečilo prijavo in registracijo.'
+      unban_ip_confirmation: 'Ali ste prepričani, da želite tega uporabnika in vse druge uporabnike, ki jih drugi IP-ji ne prepovedujejo?'
+      unban_ip_no_users: 'Nihče drug ne bo prepovedan'
+      title: 'Prepoved IP-jev'
+      unban_title: 'Razveljavitev IP-jev'
+      address_label: 'Naslov IP'
+      reason_label: Razlog
+      ban_button: Prepoved
+      unban_button: Razveljavitev
+  ref:
+    ban_label: Prepoved
+    ban_ip_addresses: 'Prepoved IP-jev'
+    ban_ip_button: 'Prepoved intelektualne lastnine'
+    unban_label: Razveljavitev
+    unban_ip_addresses: 'Razveljavitev IP-jev'
+    unban_ip_button: 'Razveljavitev IP'
+    address_label: 'Naslov IP'
+    reason_label: Razlog
+fof-anti-spam:
+  forum:
+    message:
+      stopforumspam: { blocked: 'Podrobnosti o vaši registraciji so bile najdene v podatkovni zbirki za preprečevanje neželene pošte, zato je bila vaša registracija blokirana.' }
+    spammer_modal:
+      hard_delete_discussions_label: 'Brisanje razprav'
+      hard_delete_discussions_help: 'S tem boste trajno izbrisali vse razprave, ki jih je začel ta uporabnik. Ko je onemogočen, bodo razprave skrite.'
+      hard_delete_posts_label: 'Brisanje objav'
+      hard_delete_posts_help: 'S tem boste trajno izbrisali vse objave (komentarje, odgovore itd.), Ki jih je objavil ta uporabnik. Ko so onemogočene, bodo objave skrite.'
+      hard_delete_user_label: 'Brisanje uporabnika'
+      hard_delete_user_help: 'S tem boste uporabnika trajno izbrisali. Ko je onemogočen, bo uporabnik namesto tega začasno onemogočen.'
+      intro: 'Pri označevanju uporabnika kot neželene pošte bo izvedenih več dejanj, kar je odvisno od razširitev, ki so na voljo na vašem forumu.'
+      move_discussions_tag_label: 'Premikanje razprav v karanteno oznako'
+      move_discussions_tag_help: 'S tem boste vse razprave, ki jih je začel ta uporabnik, premaknili na oznako, ki ste jo določili v nastavitvah foruma. Ko je onemogočen, bodo razprave ostale v trenutnih oznakah.'
+      process_button: Proces
+      report_to_sfs_label: 'Poročajte na StopForumSpam'
+      report_to_sfs_help: 'To bo prijavilo osnovne podatke uporabnika (uporabniško ime, e-poštni naslov, naslov IP) na StopForumSpam. To bo uporabniku preprečilo registracijo na drugih forumih, ki uporabljajo storitev StopForumSpam.'
+    user_controls:
+      spammer_button: 'Pošiljatelj neželene pošte'
+fof-analytics: null
+flarumite-simple-discussion-views:
+  forum:
+    modal_resetviews:
+      title: 'Ponastavitev števila pogledov razprave'
+      submit: Predložiti
+      label: 'Nastavi na število ogledov'
+    discussion_controls:
+      resetviews_button: 'Nastavljanje števila pogledov'
+flarum-sticky:
+  forum:
+    discussion_controls:
+      unsticky_button: Nelepljivo
+      sticky_button: Lepljivo
+    badge:
+      sticky_tooltip: Lepljivo
+  ref:
+    sticky: Lepljivo
+flarum-statistics: null
+flarum-lock:
+  forum:
+    badge:
+      locked_tooltip: Zaklenjena
+    discussion_controls:
+      lock_button: Ključavnica
+      unlock_button: Odkleniti
+    settings:
+      notify_discussion_locked_label: 'Nekdo zaklene razpravo, ki sem jo začel'
+flarum-likes:
+  forum:
+    post:
+      like_link: Všeč
+      unlike_link: Nasprotju
+      you_text: Ti
+    post_likes:
+      title: 'Uporabniki, ki jim je to všeč'
+      load_more_button: 'Naloži več'
+    settings:
+      notify_post_liked_label: 'Nekomu je všeč ena od mojih objav'
+    user:
+      likes_link: Všeč
+flarum-emoji:
+  forum:
+    composer:
+      emoji_tooltip: 'Vstavljanje čustvenih simbolov'
+      type_to_search_text: 'Tipka, če želite poiskati čustvene simbole'
+dhtml-translate:
+  forum:
+    post:
+      content: { max: 'Vaša vsebina je prevelika, preberite naše smernice za objavljanje' }
+dhtml-persona:
+  forum:
+    persona: Oseba
+dhtml-leaderboard:
+  forum:
+    leaderboard: 'Lestvica najboljših'
+dhtml-gender:
+  forum:
+    male: Moški
+    female: Ženska
+    other: 'Raje ne rečem'
+    inputGender: Spol
+    saveButton: Shraniti
+    clickToSelectGender: 'Izberite spol'
+    genderSaved: 'Spol uspešno rešen!'
+    field_placeholder: 'Potrdite spol'
+    binding_gender: 'Ugotovili smo, da niste določili svojega spola. Najprej nastavite spol. Sporočila lahko objavljate in zapuščate šele, ko nastavite spol.'
+    binding_gender_click: 'Kliknite zdaj'
+flarum-content-pages:
+  forum:
+    home: Doma
+    about-us: 'O nas'
+    guidelines: Smernice
+    privacy-policy: 'Pravilnik o zasebnosti'
+    terms-of-use: 'Trajanje uporabe'
+    contact-us: 'Stopite v stik z nami'
+    download-app: 'Prenesi aplikacijo'
+    discord-chat: 'Klepet Discord'
+    tags-cloud: 'oznake Oblak'
+    languages: Jezikih
+    leaderboard: 'Lestvica najboljših'
+    live: Živi
+    live-coding: 'Živo kodiranje'
+    challenges: Izzivi
+    dev-challenges: 'Izzivi Dev'
+    jobs: Opravila
+    community: Skupnost
+    dev-jobs: 'Dev Jobs'
+    job-posting: 'Pošiljanje opravil'
+    job-postings: 'Delovna mesta'
+    workshops: Delavnice
+    dev-workshops: 'Delavnice Dev'
+    events: Dogodki
+    conferences: Konference
+    event-conferences: 'Dogodki / Konference'
+    showcase: Prikaži
+    tags: Tags
+    more: Več
+    memberships: Članstva
+    members: Člani
+    general-discussion: 'Splošna razprava'
+    technology-articles: 'Tehnološki členi'
+    coding-challenges: 'Izzivi kodiranja'
+    q-a: 'Oddelek Q/A'
+    artificial-intelligence: 'Umetna inteligenca'
+    computer-science: 'Računalniška znanost'
+    programming-languages: 'Programski jeziki'
+    development-tools: 'Razvojna orodja'
+    software-development: 'Razvoj programske opreme'
+    frontend-development: 'Začetek razvoja'
+    backend-development: 'Razvoj hrbtenice'
+    software-engineering: 'Inženiring programske opreme'
+    cybersecurity: 'Kibernetska varnost'
+dhtml-composer:
+  forum:
+    composer:
+      character_counter: 'Števec znakov'
+datlechin-birthdays:
+  forum:
+    change_dob:
+      title: 'Uredi datum rojstva'
+      date_of_birth_text: 'Datum rojstva'
+      submit_button: 'Shrani spremembe'
+    settings:
+      change_dob_label: 'Sprememba datuma rojstva'
+      show_dob_date_label: 'Prikaži dan in mesec rojstva'
+      show_dob_year_label: 'Prikaži leto rojstva'
+      show_dob_year_help: 'To bo ljudem omogočilo, da vidijo vašo starost.'
+      dob_heading: 'Datum rojstva'
+    nav:
+      nav_item: 'Današnji rojstni dnevi'
+    edit_user:
+      dob_heading: 'Datum rojstva'
+    sign_up:
+      dob_placeholder: 'Datum rojstva'
+  api:
+    invalid_dob_message: 'Neveljaven datum rojstva'
+  ref:
+    date_of_birth: 'Datum rojstva'
+clarkwinkelmann-post-permissions: null
+clarkwinkelmann-emojionearea:
+  forum:
+    picker_button: 'Izbirnik emojijev'
+    search_placeholder: Iskanje...
+clarkwinkelmann-author-change:
+  forum:
+    controls:
+      edit: 'Urejanje avtorja in datuma'
+    modal:
+      title-post: 'Urejanje avtorja in datuma objave'
+      title-discussion: 'Urejanje avtorja razprave in datuma'
+      user: Avtor
+      created_at: 'Čas ustvarjanja'
+      edited_at: 'Čas urejanja'
+      sync-with-discussion: 'Sinhronizacija z razpravo'
+      sync-with-post: 'Sinhronizacija s prvo objavo'
+      sync-impossible: 'Prve objave ni mogoče najti. Poskusite se pomakniti na začetek razprave.'
+      submit: Shraniti
+      cancel: Odpovedati
+    search:
+      placeholder: 'Iskanje uporabnikov'
+      type-more: 'Vnesite 3 znake za iskanje po zbirki podatkov'
+      no-results: 'Ni rezultatov'
+blomstra-database-queue: null
+askvortsov-rich-text:
+  lib:
+    composer:
+      toggle_button: 'Preklop načina obogatenega besedila'
+      insert_button: Vstaviti
+      insert_image: { src_placeholder: Povezava, title_placeholder: Naslov }
+      insert_link: { text_placeholder: 'Besedilno sporočilo', href_placeholder: URL, title_placeholder: 'Naslov (prikazuje se na kazalcu)', remove_button: Odstrani }
+      additional_items_tooltip: 'Dodatne kontrole'
+      code_block_tooltip: 'Vstavljanje kodnega bloka'
+      horizontal_rule_tooltip: 'Vstavljanje vodoravnega pravila'
+      image_tooltip: 'Dodajanje slike'
+      link_tooltip: 'Dodajanje povezave'
+      spoiler_block_tooltip: 'Blokiraj spojler/spustni meni'
+      strike_tooltip: 'Prečrtano <alt-shift-5>'
+      text_type_tooltip: 'Izberite vrsto besedila'
+  forum:
+    settings:
+      composer_heading: Skladatelj
+      use_rich_text_editor_label: 'Uporabljate urejevalnik obogatenega besedila?'
+      rich_text_compact_paragraphs_label: 'Odstavkov ne ločujte z novo vrstico.'
+askvortsov-pwa:
+  forum:
+    alerts:
+      optin: 'Potisna obvestila imate omogočena, vendar te naprave niste konfigurirali.'
+      optin_button: Konfigurirati
+    discussion_controls:
+      share_button: Delež
+    post_controls:
+      share_button: Delež
+    user_controls:
+      share_button: Delež
+    settings:
+      push_header: Potiskati
+      pwa_notifications: { access_default: 'Zaradi omejitev brskalnika se morate odločiti za prejemanje potisnih obvestil v tej napravi.', access_default_button: 'Privolitev v sodelovanje', access_denied: 'Če želite prejemati potisna obvestila v tej napravi, morate prilagoditi nastavitve brskalnika.', access_denied_button: 'Preberite, kako', no_browser_support: 'Ta brskalnik ne podpira potisnih obvestil za napredne spletne aplikacije.', no_browser_support_button: Več }
+  views:
+    offline:
+      header: 'Napaka omrežne povezave'
+      text: 'Ta aplikacija zahteva omrežno povezavo; Ni ga mogoče uporabljati brez povezave. Preverite povezavo.'
+askvortsov-moderator-warnings:
+  forum:
+    post_controls:
+      warning_button: 'Opozori uporabnika'
+    user:
+      warnings: 'Opozorila moderatorja'
+    settings:
+      warning_notification_label: 'Moderator me opozori'
+    validation:
+      public_comment_required: 'Večina vas poda javni komentar.'
+      invalid_strike_count: 'Število udarcev mora biti celo število med 0 in 5.'
+    warning_controls:
+      delete_button: Odstrani
+      restore_button: Obnoviti
+      delete_forever_button: 'Trajno brisanje'
+    warning_list:
+      add_button: 'Novo opozorilo'
+      no_warnings: 'Zdi se, da tukaj ni nobenih opozoril.'
+      warnings_no_strikes: 'Opozorila moderatorja: opomini niso bili prejeti'
+    warning_list_item:
+      public_comment: Opozorilo
+      private_comment: 'Moderator-vidni komentarji'
+      linked_post: 'Povezana objava'
+    warning_modal:
+      confirmation_message: 'Vaše opozorilo je shranjeno. Morda boste morali osvežiti stran, da jo boste videli.'
+      strikes_heading: 'Koliko stavk je treba uporabiti?'
+      submit_button: 'Shrani opozorilo'
+askvortsov-discussion-templates:
+  forum:
+    discussion_controls:
+      reply_template_button: 'Uredi predlogo odgovora'
+    reply_template:
+      title: 'Uredi predlogo odgovora'
+      submit_button: 'Shrani predlogo za odgovor'
