@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Címkék Felhő'
     languages: Nyelvek
     leaderboard: Ranglista
-    live: Élő
+    live: 'Élő kódolás'
     live-coding: 'Élő kódolás'
-    challenges: Kihívások
+    challenges: 'Dev kihívások'
     dev-challenges: 'Dev kihívások'
-    jobs: Munkahelyek
+    jobs: Munkakeresés
     community: Közösség
     dev-jobs: 'Dev Jobs'
     job-posting: 'Job Posting'
     job-postings: 'Job Postings'
     workshops: Műhelyek
     dev-workshops: 'Dev Workshops'
-    events: Események
+    events: 'Események / konferenciák'
     conferences: Konferencia
     event-conferences: 'Események / konferenciák'
     showcase: Bemutató
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Általános vita'
     technology-articles: 'Technológiai cikkek'
     coding-challenges: 'Coding kihívások'
-    q-a: 'Q/A szakasz'
+    q-a: 'Kérdések / válaszok'
     artificial-intelligence: 'Mesterséges intelligencia'
     computer-science: Számítógép-tudomány
     programming-languages: 'Programozási nyelvek'

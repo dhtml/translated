@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tags: Cloud'
     languages: Språk
     leaderboard: Resultatliste
-    live: Live
+    live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Utfordringer
+    challenges: Dev-utfordringer
     dev-challenges: Dev-utfordringer
-    jobs: Jobber
+    jobs: Jobbsøk
     community: Samfunn
     dev-jobs: 'Dev jobber'
     job-posting: Jobbinnlegg
     job-postings: 'Job Postings'
     workshops: Verksteder
     dev-workshops: 'Dev Workshops'
-    events: Events
+    events: Events/konferanser
     conferences: Konferanser
     event-conferences: Events/konferanser
     showcase: 'Vis alle'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Generelle diskusjoner'
     technology-articles: 'Tekniske artikler'
     coding-challenges: Kodeutfordringer
-    q-a: 'Q/A Seksjon'
+    q-a: 'Spørsmål / svar'
     artificial-intelligence: 'Kunstig intelligens'
     computer-science: Datavitenskap
     programming-languages: Programmeringsspråk

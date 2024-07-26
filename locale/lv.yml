@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Atzīmju (Tags) mākonis'
     languages: Valodas
     leaderboard: 'Līderu saraksts'
-    live: Dzīvi
+    live: 'Dzīvā kodēšana'
     live-coding: 'Dzīvā kodēšana'
-    challenges: Problēmas
+    challenges: 'Dev problēmas'
     dev-challenges: 'Dev problēmas'
-    jobs: Darbi
+    jobs: 'Darba meklēšana'
     community: Kopiena
     dev-jobs: 'Dev darbi'
     job-posting: 'Darba norīkošana'
     job-postings: 'Darba norīkojumi'
     workshops: Darbnīcas
     dev-workshops: 'Dev semināri'
-    events: Notikumi
+    events: 'Pasākumi / Konferences'
     conferences: Konferences
     event-conferences: 'Pasākumi / Konferences'
     showcase: 'Rādīt parametru'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Vispārēja diskusija'
     technology-articles: 'Tehnoloģiskie izstrādājumi'
     coding-challenges: 'Kodēšanas problēmas'
-    q-a: 'Q/A sadaļa'
+    q-a: 'Jautājumi un atbildes'
     artificial-intelligence: 'Mākslīgais intelekts'
     computer-science: Datorzinātnes
     programming-languages: 'Plānošanas valodas'

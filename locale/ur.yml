@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'ٹیگز کلاؤڈ'
     languages: زبانیں
     leaderboard: 'لیڈر بورڈ'
-    live: زندہ
+    live: 'جاگو !'
     live-coding: 'جاگو !'
-    challenges: مشکلات
+    challenges: 'درپیش مشکلات'
     dev-challenges: 'درپیش مشکلات'
-    jobs: کام
+    jobs: 'ایوب تلاش'
     community: کمیونٹی
     dev-jobs: دیوتا
     job-posting: ایوب
     job-postings: 'ایوب کی تحریر'
     workshops: ورکس
     dev-workshops: دیوی‌موس
-    events: واقعات
+    events: 'واقعات / کانفرنس'
     conferences: کانفرنس
     event-conferences: 'واقعات / کانفرنس'
     showcase: طےشدہ
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'عمومی معلومات'
     technology-articles: 'ٹیکنالوجی کے مضامین'
     coding-challenges: 'مشکلات کا سامنا کرنا'
-    q-a: 'کی/ایک سیکشن'
+    q-a: 'سوالات / جواب'
     artificial-intelligence: ذہانت
     computer-science: 'کمپیوٹر سائنس'
     programming-languages: زبانیں

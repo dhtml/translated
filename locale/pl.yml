@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tagi Chmura'
     languages: Języki
     leaderboard: 'Tablica wyników'
-    live: Żywe
+    live: 'Kodowanie na żywo'
     live-coding: 'Kodowanie na żywo'
-    challenges: Wyzwania
+    challenges: 'Dev Challenges'
     dev-challenges: 'Dev Challenges'
-    jobs: 'Miejsca pracy'
+    jobs: 'Poszukiwanie pracy'
     community: Wspólnota
     dev-jobs: 'Dev Jobs'
     job-posting: 'Wysyłanie zadań'
     job-postings: 'Posty pracy'
     workshops: Warsztaty
     dev-workshops: 'Warsztaty Dev'
-    events: Wydarzenia
+    events: 'Wydarzenia / Konferencje'
     conferences: Konferencje
     event-conferences: 'Wydarzenia / Konferencje'
     showcase: Wyświetlacz
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Ogólna dyskusja'
     technology-articles: 'Artykuły technologiczne'
     coding-challenges: 'Wyzwania w zakresie kodowania'
-    q-a: 'Sekcja Q / A'
+    q-a: 'Pytania / odpowiedzi'
     artificial-intelligence: 'Sztuczna inteligencja'
     computer-science: Informatyka
     programming-languages: 'Języki programowania'

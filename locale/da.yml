@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tags Cloud'
     languages: Sprog
     leaderboard: Rangliste
-    live: 'Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live Live'
+    live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Udfordringer
+    challenges: 'Udvikling af udfordringer'
     dev-challenges: 'Udvikling af udfordringer'
-    jobs: 'Jobs Jobs Jobs'
+    jobs: Jobsøgning
     community: 'Fællesskabets fællesskab'
     dev-jobs: 'Dev Jobs'
     job-posting: Jobopgørelse
     job-postings: Jobindlæg
     workshops: Workshops
     dev-workshops: 'Dev Workshops'
-    events: 'Begivenheder Events'
+    events: 'Begivenheder / konference'
     conferences: Konferencer
     event-conferences: 'Begivenheder / konference'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Generelle diskussioner'
     technology-articles: 'Teknologiske artikler'
     coding-challenges: 'Coding Challenges'
-    q-a: 'Q/A Section'
+    q-a: 'Spørgsmål og svar'
     artificial-intelligence: 'Kunstig intelligens'
     computer-science: 'Computer Science'
     programming-languages: 'Programmering af sprog'

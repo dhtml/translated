@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tunnisteet pilvi'
     languages: Kielet
     leaderboard: Tulostaulukko
-    live: 'Live Live Live Live'
+    live: 'Live Code'
     live-coding: 'Live Code'
-    challenges: Haasteita
+    challenges: 'Dev haasteet'
     dev-challenges: 'Dev haasteet'
-    jobs: Työpaikat
+    jobs: Työpaikka
     community: Yhteisöyhteisö
     dev-jobs: 'Dev Työpaikat'
     job-posting: 'Job Posting'
     job-postings: Työpaikkailmoitukset
     workshops: Workshopit
     dev-workshops: 'Dev työpajoja'
-    events: Tapahtumat
+    events: Tapahtumat/konferenssit
     conferences: Konferenssit
     event-conferences: Tapahtumat/konferenssit
     showcase: Näyttely
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: Yleiskeskustelu
     technology-articles: 'Teknologian artikkeleita'
     coding-challenges: 'Koodaa haasteita'
-    q-a: Q/A-osasto
+    q-a: 'Kysymyksiä / vastauksia'
     artificial-intelligence: 'Keinotekoinen älykkyys'
     computer-science: Tietokonetiede
     programming-languages: Ohjelmointikielet

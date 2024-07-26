@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tags Cloud'
     languages: Languages
     leaderboard: Leaderboard
-    live: Živi
+    live: 'Живи кодирање'
     live-coding: 'Живи кодирање'
-    challenges: Izazovi
+    challenges: 'Дев изазов'
     dev-challenges: 'Дев изазов'
-    jobs: послови
+    jobs: 'Тражење посла'
     community: Zajednica
     dev-jobs: 'Дев Џобс'
     job-posting: 'Постављање послова'
     job-postings: 'Поставке послова'
     workshops: 'радне радње'
     dev-workshops: 'Dev Radionice'
-    events: Догађаји
+    events: 'Догађаји / конференције'
     conferences: Конференције
     event-conferences: 'Догађаји / конференције'
     showcase: Приказ
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Општа дискусија'
     technology-articles: 'Технолошки чланци'
     coding-challenges: 'Кодирање изазова'
-    q-a: 'К / А секција'
+    q-a: 'Pitanja / odgovori'
     artificial-intelligence: 'Вештачка интелигенција'
     computer-science: 'Kompjuterska nauka'
     programming-languages: 'програмски језици'

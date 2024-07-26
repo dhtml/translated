@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Теги хмара'
     languages: Мови
     leaderboard: 'Таблиця лідерів'
-    live: Live
+    live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Труднощі
+    challenges: 'Труднощі життя'
     dev-challenges: 'Труднощі життя'
-    jobs: Завдання
+    jobs: 'Пошук завдань'
     community: Спільнота
     dev-jobs: 'Dev Jots'
     job-posting: 'Надсилання завдань'
     job-postings: 'Відправлення завдань'
     workshops: Робітники
     dev-workshops: 'Адміністратори Дев'
-    events: Події
+    events: 'Події / конференції'
     conferences: Конференції
     event-conferences: 'Події / конференції'
     showcase: 'Показати регістр'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Загальне обговорення'
     technology-articles: 'Статті з технології'
     coding-challenges: 'Труднощі загоювання'
-    q-a: 'Розділ Q/A'
+    q-a: 'Запитання / відповіді'
     artificial-intelligence: 'Комп''ютерна розвідка'
     computer-science: 'Комп''ютерна наука'
     programming-languages: 'Мови програмування'

@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Ετικέτες: Cloud'
     languages: Γλώσσες
     leaderboard: 'Πίνακας κορυφαίων'
-    live: Ζωντανά
+    live: 'Ζωντανή κωδικοποίηση'
     live-coding: 'Ζωντανή κωδικοποίηση'
-    challenges: Προκλήσεις
+    challenges: 'Προκλήσεις Dev'
     dev-challenges: 'Προκλήσεις Dev'
-    jobs: Εργασίες
+    jobs: 'Αναζήτηση εργασίας'
     community: Κοινότητα
     dev-jobs: 'Εργασία Dev'
     job-posting: 'Απόθεση εργασίας'
     job-postings: 'Θέσεις εργασίας'
     workshops: Εργαστήρια
     dev-workshops: 'Εργαστήρια Dev'
-    events: Γεγονότα
+    events: 'Εκδηλώσεις / Συνέδρια'
     conferences: Συνέδρια
     event-conferences: 'Εκδηλώσεις / Συνέδρια'
     showcase: 'Εμφάνιση προχείρου'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Γενική συζήτηση'
     technology-articles: 'Άρθρα τεχνολογίας'
     coding-challenges: 'Προκλήσεις Κωδικοποίησης'
-    q-a: 'Τμήμα Q/A'
+    q-a: 'Ερωτήσεις / Απαντήσεις'
     artificial-intelligence: 'Τεχνητή Νοημοσύνη'
     computer-science: 'Επιστήμη των υπολογιστών'
     programming-languages: 'Γλώσσες προγραμματισμού'

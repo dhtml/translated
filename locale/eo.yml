@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tags Cloud'
     languages: Languages
     leaderboard: Leaderboard
-    live: 'Vivu vivi'
+    live: 'Vivu Coding'
     live-coding: 'Vivu Coding'
     challenges: Defioj
     dev-challenges: Defioj
-    jobs: Laborlokoj
+    jobs: 'Ijobo Serĉo'
     community: Komunumo
     dev-jobs: Laborpostenoj
     job-posting: 'Job Posting'
     job-postings: 'Job Postings'
     workshops: Laborrenkontiĝoj
     dev-workshops: 'Devigi Laborrenkontiĝojn'
-    events: 'La okazaĵoj'
+    events: 'Okazaĵoj / Konferencoj'
     conferences: Konferencoj
     event-conferences: 'Okazaĵoj / Konferencoj'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Ĝenerala diskuto'
     technology-articles: 'Teknikaj artikoloj'
     coding-challenges: 'Akceli defiojn'
-    q-a: 'Q/A sekcio'
+    q-a: 'Demandoj / respondoj'
     artificial-intelligence: 'Artefarita inteligenteco'
     computer-science: Komputilscienco
     programming-languages: programlingvoj

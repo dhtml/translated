@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'etiquetes: Núvol'
     languages: Idiomes
     leaderboard: 'Taula de classificació'
-    live: Viu
+    live: 'Codificació en directe'
     live-coding: 'Codificació en directe'
-    challenges: Repte
+    challenges: 'Reptes Dev'
     dev-challenges: 'Reptes Dev'
-    jobs: Treballs
+    jobs: 'Cerca de treball'
     community: Comunitat
     dev-jobs: 'Tasques de Dev'
     job-posting: 'Posting de treball'
     job-postings: 'Articles de treball'
     workshops: Workshops
     dev-workshops: 'Dev Workshops'
-    events: Esdeveniments
+    events: 'Esdeveniments / conferències'
     conferences: Conferèncias
     event-conferences: 'Esdeveniments / conferències'
     showcase: 'Mostra la caixa'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Conferencia general'
     technology-articles: 'Articles de tecnologia'
     coding-challenges: 'Repte de la codificació'
-    q-a: 'Secció Q/A'
+    q-a: 'Preguntes / respostes'
     artificial-intelligence: 'Intel·ligència artificial'
     computer-science: 'Ciència de l''ordinador'
     programming-languages: 'Idiomes de programació'

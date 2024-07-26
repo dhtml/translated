@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tagy Mrak'
     languages: Jazyky
     leaderboard: Žebříček
-    live: Živé
+    live: 'Živé kódování'
     live-coding: 'Živé kódování'
-    challenges: Výzvy
+    challenges: 'Dev výzvy'
     dev-challenges: 'Dev výzvy'
-    jobs: Práce
+    jobs: 'Hledání práce'
     community: Společenství
     dev-jobs: 'Dev Jobs'
     job-posting: 'Pracovní zařazení'
     job-postings: 'Pracovní příspěvky'
     workshops: Semináře
     dev-workshops: 'Dev Workshopy'
-    events: Události
+    events: 'Akce / konference'
     conferences: Konference
     event-conferences: 'Akce / konference'
     showcase: Představení
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Obecná diskuse'
     technology-articles: 'Technologické články'
     coding-challenges: 'Problémy s kódováním'
-    q-a: 'Oddíl Q/A'
+    q-a: 'Otázky / Odpovědi'
     artificial-intelligence: 'Umělá inteligence'
     computer-science: 'Počítačová věda'
     programming-languages: 'Programovací jazyky'

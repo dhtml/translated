@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tags: Wolk'
     languages: Talen
     leaderboard: Klassement
-    live: Levend
+    live: 'Live coding'
     live-coding: 'Live coding'
-    challenges: Uitdagingen
+    challenges: 'Dev Challenges'
     dev-challenges: 'Dev Challenges'
-    jobs: Taken
+    jobs: Zoekopdracht
     community: Gemeenschap
     dev-jobs: 'Dev Jobs'
     job-posting: Jobposting
     job-postings: Vacatures
     workshops: Werkplaatsen
     dev-workshops: 'Dev Workshops'
-    events: Gebeurtenissen
+    events: 'Evenementen / Conferenties'
     conferences: Conferenties
     event-conferences: 'Evenementen / Conferenties'
     showcase: Tonen
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Algemene discussie'
     technology-articles: 'Technische artikelen'
     coding-challenges: 'Coding Challenges'
-    q-a: 'Sectie Q/A'
+    q-a: 'Vragen / Antwoorden'
     artificial-intelligence: 'Artificiële intelligentie'
     computer-science: Computerwetenschappen
     programming-languages: Programmeertalen

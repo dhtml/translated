@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Awan Tag'
     languages: Bahasa-bahasa
     leaderboard: 'Papan pendahulu'
-    live: Hidup
+    live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Tantangan
+    challenges: Challenges
     dev-challenges: Challenges
-    jobs: Tugas
+    jobs: Cari
     community: Komunitas
     dev-jobs: '♪ Dev Jobs ♪'
     job-posting: 'Pos Pekerjaan'
     job-postings: 'Pos Pekerjaan'
     workshops: Workshops
     dev-workshops: Workshops
-    events: Peristiwa
+    events: 'Peristiwa / Konferensi'
     conferences: Konferensi
     event-conferences: 'Peristiwa / Konferensi'
     showcase: Koper
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Diskusi Umum'
     technology-articles: 'Artikel Teknologi Teknologi Terapan'
     coding-challenges: 'Tantangan yang Penuh Tantangan'
-    q-a: 'Bagian Q/A'
+    q-a: 'Pertanyaan / Jawaban'
     artificial-intelligence: 'Kecerdasan Buatan'
     computer-science: 'Sains Komputer'
     programming-languages: 'Bahasa Pemrograman'

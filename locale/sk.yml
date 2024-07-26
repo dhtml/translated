@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tagy Cloud'
     languages: Jazyky
     leaderboard: 'Rebríček najlepších'
-    live: Žiť
+    live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Výzvy
+    challenges: 'Dev Challenges'
     dev-challenges: 'Dev Challenges'
-    jobs: Aktuality
+    jobs: 'Vyhľadávanie práce'
     community: Slovenčina
     dev-jobs: 'Dev Jobs'
     job-posting: 'Pracovný príspevok'
     job-postings: 'Pracovné príspevky'
     workshops: Workshopy
     dev-workshops: 'Dev Workshopy'
-    events: Aktuality
+    events: 'Podujatia / Konferencie'
     conferences: Konferencie
     event-conferences: 'Podujatia / Konferencie'
     showcase: Ukážka
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Všeobecná diskusia'
     technology-articles: 'Technologické články'
     coding-challenges: 'Kódovacie výzvy'
-    q-a: 'Q/A Sekcia'
+    q-a: 'Otázky / Odpovede'
     artificial-intelligence: 'Umelá inteligencia'
     computer-science: 'Počítačová veda'
     programming-languages: 'Programovacie jazyky'

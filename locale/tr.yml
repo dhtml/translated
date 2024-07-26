@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Etiketler Bulut'
     languages: Diller
     leaderboard: 'Liderler Sıralaması'
-    live: 'Canlı Canlı Canlı Canlı'
+    live: 'Canlı Coding'
     live-coding: 'Canlı Coding'
-    challenges: Challenges
+    challenges: 'Dev Challenges'
     dev-challenges: 'Dev Challenges'
-    jobs: 'Jobs Jobs'
+    jobs: 'İş Arama'
     community: 'Topluluk Topluluğu'
     dev-jobs: 'Dev Jobs'
     job-posting: 'İş Posting'
     job-postings: 'İş Postings'
     workshops: Atölyeler
     dev-workshops: 'Dev Workshopss'
-    events: 'Etkinlikler Etkinlikler Etkinlikler'
+    events: 'Etkinlikler / Konferanslar'
     conferences: Konferanslar
     event-conferences: 'Etkinlikler / Konferanslar'
     showcase: Do
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Genel Tartışma'
     technology-articles: 'Teknoloji Makaleler'
     coding-challenges: 'Coding Challenges'
-    q-a: 'Q/A Bölüm'
+    q-a: 'Sorular / Cevaplar'
     artificial-intelligence: 'Yapay Zeka'
     computer-science: 'Bilgisayar Bilimi'
     programming-languages: 'Programlama Dilleri'

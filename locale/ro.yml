@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tag-uri: Cloud'
     languages: Limbi
     leaderboard: Clasament
-    live: Live
+    live: 'Codificare live'
     live-coding: 'Codificare live'
-    challenges: Provocări
+    challenges: 'Dev Challenges'
     dev-challenges: 'Dev Challenges'
-    jobs: 'Locuri de muncă'
+    jobs: 'Căutare job'
     community: Comunitate
     dev-jobs: 'Dev Jobs'
     job-posting: 'Postare job'
     job-postings: Postări
     workshops: Ateliere
     dev-workshops: 'Ateliere Dev'
-    events: Evenimente
+    events: 'Evenimente / Conferinţe'
     conferences: Conferințe
     event-conferences: 'Evenimente / Conferinţe'
     showcase: Spectacol
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Discuţii generale'
     technology-articles: 'Articole tehnologice'
     coding-challenges: 'Provocări de codificare'
-    q-a: 'Secțiunea Q/A'
+    q-a: 'Întrebări / Răspunsuri'
     artificial-intelligence: 'Inteligență artificială'
     computer-science: Informatica
     programming-languages: 'Limbi de programare'

@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Sildid Pilv'
     languages: Keeled
     leaderboard: Edetabel
-    live: Elusad
+    live: 'Elus kodeerimine'
     live-coding: 'Elus kodeerimine'
-    challenges: Väljakutsed
+    challenges: 'Dev väljakutsed'
     dev-challenges: 'Dev väljakutsed'
-    jobs: Tööd
+    jobs: Tööotsing
     community: Ühendus
     dev-jobs: 'Dev Jobs'
     job-posting: 'Töö postitamine'
     job-postings: Töökuulutused
     workshops: Seminarid
     dev-workshops: 'Dev Workshops'
-    events: Sündmused
+    events: 'Sündmused / konverentsid'
     conferences: Konverentsid
     event-conferences: 'Sündmused / konverentsid'
     showcase: Esitlus
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Üldine arutelu'
     technology-articles: Tehnoloogiaartiklid
     coding-challenges: Kodeerimisraskused
-    q-a: 'Q/A jagu'
+    q-a: 'Küsimused / vastused'
     artificial-intelligence: Tehisintellekt
     computer-science: Arvutiteadus
     programming-languages: Programmeerimiskeeled

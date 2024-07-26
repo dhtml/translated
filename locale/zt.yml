@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tags Cloud'
     languages: Languages
     leaderboard: Leaderboard
-    live: 有活
+    live: 活的編碼
     live-coding: 活的編碼
-    challenges: 挑戰
+    challenges: 'Dev 挑戰'
     dev-challenges: 'Dev 挑戰'
-    jobs: 工作
+    jobs: 工作搜尋
     community: 社區
     dev-jobs: 'Dev 工作'
     job-posting: 工作寄出
     job-postings: 工作名
     workshops: 讲习班
     dev-workshops: 'Dev 工作坊'
-    events: 事件
+    events: '第 二 章'
     conferences: '第 二 章'
     event-conferences: '第 二 章'
     showcase: 顯示大小寫
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: '第 二 章'
     technology-articles: 科技文章
     coding-challenges: 編碼挑戰
-    q-a: Q/A科
+    q-a: '第 二 章'
     artificial-intelligence: 有人工智能
     computer-science: 電腦科學
     programming-languages: 編程語言

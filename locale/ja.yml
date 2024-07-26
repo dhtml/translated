@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'タグ クラウド'
     languages: 言語
     leaderboard: リーダーボード
-    live: ライブ
+    live: ライブコーディング
     live-coding: ライブコーディング
-    challenges: チャレンジ
+    challenges: 'Dev Challenges(デベロッ チャレンジズ)'
     dev-challenges: 'Dev Challenges(デベロッ チャレンジズ)'
-    jobs: 求人情報
+    jobs: 求人検索
     community: コミュニティ
     dev-jobs: Devジョブ
     job-posting: 求人投稿
     job-postings: 求人投稿
     workshops: ワークショップ
     dev-workshops: 'Dev ワークショップ'
-    events: イベント
+    events: イベント・会議
     conferences: カンファレンス
     event-conferences: イベント・会議
     showcase: ショーケース
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: ディスカッション
     technology-articles: 技術記事
     coding-challenges: コーディングチャレンジ
-    q-a: 'Q/A セクション'
+    q-a: 質問/回答
     artificial-intelligence: 人工知能
     computer-science: コンピュータサイエンス
     programming-languages: プログラミング言語

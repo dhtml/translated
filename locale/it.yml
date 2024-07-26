@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'tag Nuvola'
     languages: Lingue
     leaderboard: Classifica
-    live: Livelli
+    live: 'Codardo vivo'
     live-coding: 'Codardo vivo'
-    challenges: Sfide
+    challenges: 'Sfide Dev'
     dev-challenges: 'Sfide Dev'
-    jobs: Occupazione
+    jobs: 'Ricerca di lavoro'
     community: Comunità
     dev-jobs: 'Dev Jobs'
     job-posting: 'Posto di lavoro'
     job-postings: 'Posti di lavoro'
     workshops: Workshop
     dev-workshops: 'Seminari Dev'
-    events: Eventi
+    events: 'Eventi / conferenze'
     conferences: Conferenze
     event-conferences: 'Eventi / conferenze'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Discussione generale'
     technology-articles: 'Articoli tecnologici'
     coding-challenges: 'Sfide di programmazione'
-    q-a: 'Sezione Q/A'
+    q-a: 'Domande / risposte'
     artificial-intelligence: 'Intelligenza Artificiale'
     computer-science: Informatica
     programming-languages: 'Lingue di programmazione'

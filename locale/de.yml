@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Schlagwörter Wolke'
     languages: Sprachen
     leaderboard: Bestenliste
-    live: Leben
+    live: 'Live Coating'
     live-coding: 'Live Coating'
-    challenges: Herausforderungen
+    challenges: 'Dev Challenges'
     dev-challenges: 'Dev Challenges'
-    jobs: Jobs
+    jobs: Jobsuche
     community: Gemeinschaft
     dev-jobs: Stellenangebote
     job-posting: Stellenangebote
     job-postings: Stellenangebote
     workshops: Veranstaltungen
     dev-workshops: Workshops
-    events: Veranstaltungen
+    events: 'Veranstaltungen / Konferenzen'
     conferences: Konferenzen
     event-conferences: 'Veranstaltungen / Konferenzen'
     showcase: Fall
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Allgemeine Diskussion'
     technology-articles: 'Technologie Artikel'
     coding-challenges: 'Coding Challenges'
-    q-a: 'Abschnitt Q/A'
+    q-a: 'Fragen / Antworten'
     artificial-intelligence: 'Künstliche Intelligenz'
     computer-science: Informatik
     programming-languages: Programmiersprachen

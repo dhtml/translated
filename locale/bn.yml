@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'ট্যাগ: ক্লাউড'
     languages: ভাষাগুলো
     leaderboard: লিডারবোর্ড
-    live: লাইভ
+    live: 'লাইভ কোডিং'
     live-coding: 'লাইভ কোডিং'
-    challenges: চ্যালেঞ্জ
+    challenges: প্রতিদ্বন্দ্বিতাগুলো
     dev-challenges: প্রতিদ্বন্দ্বিতাগুলো
-    jobs: কাজ
+    jobs: 'অনুসন্ধানের ফলাফল'
     community: সম্প্রদায়
     dev-jobs: সময়কাল
     job-posting: 'কর্ম পোস্ট করা হচ্ছে'
     job-postings: 'পোস্ট করার কাজ'
     workshops: কর্মশালা
     dev-workshops: '৩ পরিবারের জন্য সাহায্য'
-    events: ঘটনাসমূহ
+    events: '%s / %s আলোচনা করা হচ্ছে'
     conferences: অধিবেশন
     event-conferences: '%s / %s আলোচনা করা হচ্ছে'
     showcase: 'ছোট করে প্রদর্শন করা হবে'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'সাধারণ আলোচনা'
     technology-articles: 'প্রযুক্তি বার্তা'
     coding-challenges: 'কোড লিখন চ্যালেঞ্জ'
-    q-a: 'Q/A বিভাগ'
+    q-a: উত্তর
     artificial-intelligence: 'কৃতিম মেধা'
     computer-science: 'কম্পিউটার বিজ্ঞান'
     programming-languages: 'প্রোগ্রামিং ভাষা'

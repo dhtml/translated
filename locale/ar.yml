@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'الشعارات سحابة'
     languages: اللغات
     leaderboard: المتصدرين
-    live: الحياة
+    live: 'الزينة الحية'
     live-coding: 'الزينة الحية'
-    challenges: التحديات
+    challenges: 'دال - التحديات'
     dev-challenges: 'دال - التحديات'
-    jobs: الوظائف
+    jobs: 'البحث عن وظيفة'
     community: المجتمع
     dev-jobs: 'ديف جوب'
     job-posting: الوظائف
     job-postings: الوظائف
     workshops: 'حلقات العمل'
     dev-workshops: 'حلقات عمل ديف'
-    events: الأحداث
+    events: المناسبات/المؤتمرات
     conferences: المؤتمرات
     event-conferences: المناسبات/المؤتمرات
     showcase: عرض
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'المناقشة العامة'
     technology-articles: 'مواد التكنولوجيا'
     coding-challenges: التحديات
-    q-a: 'Q/A Section'
+    q-a: الأسئلة/الجوابات
     artificial-intelligence: 'الاستخبارات الفنية'
     computer-science: 'علوم الحاسوب'
     programming-languages: 'لغات البرمجة'

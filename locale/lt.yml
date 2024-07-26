@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Žymės Debesis'
     languages: Kalbų
     leaderboard: 'Lyderių lentelė'
-    live: Gyvi
+    live: 'Gyvas kodavimas'
     live-coding: 'Gyvas kodavimas'
-    challenges: Iššūkiai
+    challenges: 'Dev iššūkiai'
     dev-challenges: 'Dev iššūkiai'
-    jobs: 'Darbo vietos'
+    jobs: 'Darbo paieška'
     community: Bendrija
     dev-jobs: 'Dev Jobs'
     job-posting: 'Darbo vieta'
     job-postings: 'Darbo vietos'
     workshops: Seminarai
     dev-workshops: 'Dev dirbtuvės'
-    events: Įvykiai
+    events: 'Renginiai / konferencijos'
     conferences: Konferencijos
     event-conferences: 'Renginiai / konferencijos'
     showcase: Šliaužiklis
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Bendrosios diskusijos'
     technology-articles: 'Technologijos straipsniai'
     coding-challenges: 'Kodavimo uždaviniai'
-    q-a: 'Q / A sekcija'
+    q-a: 'Klausimai (atsakymai)'
     artificial-intelligence: 'Dirbtinis intelektas'
     computer-science: 'Kompiuterių mokslas'
     programming-languages: 'Programavimo kalbos'

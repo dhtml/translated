@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Метки: облако'
     languages: Языки
     leaderboard: 'Таблица лидеров'
-    live: 'Жив Live Live'
+    live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Проблемы
+    challenges: 'Девять вызовов'
     dev-challenges: 'Девять вызовов'
-    jobs: Джобс
+    jobs: 'Поиск работы'
     community: Сообщество
     dev-jobs: 'Dev Jobs'
     job-posting: 'Публикация работы'
     job-postings: 'Опубликование работы'
     workshops: 'Рабочие совещания'
     dev-workshops: 'Dev Workshops'
-    events: События
+    events: 'События / Конференции'
     conferences: Конференции
     event-conferences: 'События / Конференции'
     showcase: Показка
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Общее обсуждение'
     technology-articles: 'Технологические статьи'
     coding-challenges: 'Проблемы кодирования'
-    q-a: 'Q/A Раздел'
+    q-a: 'Вопросы / Ответы'
     artificial-intelligence: 'Искусственный интеллект'
     computer-science: 'Компьютерная наука'
     programming-languages: 'Языки программирования'

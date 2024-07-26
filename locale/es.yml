@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Etiquetas Nube'
     languages: Idiomas
     leaderboard: 'Tabla de clasificación'
-    live: Vivir
+    live: 'Codificación en vivo'
     live-coding: 'Codificación en vivo'
-    challenges: Desafíos
+    challenges: 'Dev Challenges'
     dev-challenges: 'Dev Challenges'
-    jobs: Empleo
+    jobs: 'Búsqueda de empleo'
     community: Comunidad
     dev-jobs: 'Dev Jobs'
     job-posting: 'Puestos de trabajo'
     job-postings: 'Puestos de trabajo'
     workshops: Talleres
     dev-workshops: 'Talleres de Dev'
-    events: Eventos
+    events: 'Eventos / Conferencias'
     conferences: Conferencias
     event-conferences: 'Eventos / Conferencias'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Debate general'
     technology-articles: 'Artículos de Tecnología'
     coding-challenges: 'Retos de codificación'
-    q-a: 'Q/A Section'
+    q-a: 'Preguntas / Respuestas'
     artificial-intelligence: 'Inteligencia Artificial'
     computer-science: 'Computer Science'
     programming-languages: 'Idiomas de programación'

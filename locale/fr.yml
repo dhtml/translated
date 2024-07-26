@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Mots-clés Nuage'
     languages: Traduction
     leaderboard: Classement
-    live: Vivre
+    live: 'Codage vivant'
     live-coding: 'Codage vivant'
-    challenges: Défis
+    challenges: 'Défis du développement'
     dev-challenges: 'Défis du développement'
-    jobs: Emploi
+    jobs: 'Recherche d''emploi'
     community: Communauté
     dev-jobs: 'Dev Jobs'
     job-posting: Emploi
     job-postings: 'Postes de travail'
     workshops: Ateliers
     dev-workshops: 'Ateliers Dev'
-    events: Événements
+    events: 'Événements / Conférences'
     conferences: Conférences
     event-conferences: 'Événements / Conférences'
     showcase: Afficher
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Débat général'
     technology-articles: 'Articles technologiques'
     coding-challenges: 'Défis du codage'
-    q-a: 'Section des questions/réponses'
+    q-a: 'Questions / Réponses'
     artificial-intelligence: 'Intelligence artificielle'
     computer-science: Informatique
     programming-languages: 'Langues de programmation'

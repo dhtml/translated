@@ -1424,18 +1424,18 @@ dhtml-cpages:
     tags-cloud: Tags Cloud
     languages: Languages
     leaderboard: Leaderboard
-    live: Live
+    live: Live Coding
     live-coding: Live Coding
-    challenges: Challenges
+    challenges: Dev Challenges
     dev-challenges: Dev Challenges
-    jobs: Jobs
+    jobs: Job Search
     community: Community
     dev-jobs: Dev Jobs
     job-posting: Job Posting
     job-postings: Job Postings
     workshops: Workshops
     dev-workshops: Dev Workshops
-    events: Events
+    events: Events / Conferences
     conferences: Conferences
     event-conferences: Events / Conferences
     showcase: Showcase
@@ -1448,7 +1448,7 @@ dhtml-cpages:
     general-discussion: General Discussion
     technology-articles: Technology Articles
     coding-challenges: Coding Challenges
-    q-a: Q/A Section
+    q-a: Questions / Answers
     artificial-intelligence: Artificial Intelligence
     computer-science: Computer Science
     programming-languages: Programming Languages

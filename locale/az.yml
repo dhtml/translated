@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Etiketlər Bulud'
     languages: Dillər
     leaderboard: 'Lider lövhəsi'
-    live: Canlı
+    live: 'Canlı Koding'
     live-coding: 'Canlı Koding'
-    challenges: ' Challenge'
+    challenges: Axtarış
     dev-challenges: Axtarış
-    jobs: Biznes
+    jobs: 'İş axtarış'
     community: Qarabağ
     dev-jobs: Haqqımızda
     job-posting: İş
     job-postings: 'İş Proqramları'
     workshops: Tarix
     dev-workshops: Haqqımızda
-    events: Elanlar
+    events: ' Events / Konfrans'
     conferences: Konfrans
     event-conferences: ' Events / Konfrans'
     showcase: Elanlar
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Baş müzakirə'
     technology-articles: Texnologiya
     coding-challenges: 'Coding Challenges'
-    q-a: Q/A
+    q-a: ' Questions / cavab'
     artificial-intelligence: Sifariş
     computer-science: 'Kompüter Elmləri'
     programming-languages: Proqramlar

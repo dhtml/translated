@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Taggar: Moln'
     languages: Språk
     leaderboard: Topplista
-    live: 'Livet Live'
+    live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Utmaningar
+    challenges: 'Dev utmaningar'
     dev-challenges: 'Dev utmaningar'
-    jobs: Jobb
+    jobs: 'Job Search'
     community: gemenskap
     dev-jobs: 'Dev Jobs'
     job-posting: 'Job Posting'
     job-postings: 'Job Postings'
     workshops: Workshops
     dev-workshops: 'Dev Workshops'
-    events: Händelser
+    events: Evenemang/konferenser
     conferences: Konferenser
     event-conferences: Evenemang/konferenser
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Allmänna diskussioner'
     technology-articles: 'Tekniska artiklar'
     coding-challenges: Kodningsutmaningar
-    q-a: Q/A-avsnitt
+    q-a: 'Frågor / Svar'
     artificial-intelligence: 'Artificiell intelligens'
     computer-science: Datorvetenskap
     programming-languages: Programmeringsspråk

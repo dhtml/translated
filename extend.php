@@ -15,5 +15,6 @@ use Flarum\Extend;
 
 
 return [
-    new Extend\Locales(__DIR__.'/locale'),
+    (new Extend\ServiceProvider())
+        ->register(Providers\LocaleServiceProvider::class),
 ];

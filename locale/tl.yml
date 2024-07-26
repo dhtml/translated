@@ -1218,18 +1218,18 @@ dhtml-cpages:
     tags-cloud: 'Tags Cloud'
     languages: Languages
     leaderboard: Leaderboard
-    live: Mabuhay
+    live: Pamumuhay
     live-coding: Pamumuhay
-    challenges: 'Mga Hamon'
+    challenges: 'Alisin ang mga Hamon'
     dev-challenges: 'Alisin ang mga Hamon'
-    jobs: Trabaho
+    jobs: 'Paghahanap ng Trabaho'
     community: Pamayanan
     dev-jobs: 'Maglabas ng Trabaho'
     job-posting: 'Trabaho Pagkatapos ng Trabaho'
     job-postings: 'Mga Posting sa Trabaho'
     workshops: 'Mga Akda'
     dev-workshops: 'Mag - iwan ng mga Akda'
-    events: 'Mga Pangyayari'
+    events: 'Mga Pangyayari / Komperensiya'
     conferences: 'Mga Komperensiya'
     event-conferences: 'Mga Pangyayari / Komperensiya'
     showcase: Pagtatanghal
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Pangkalahatang Talakayan'
     technology-articles: 'Mga Artikulo sa Teknolohiya'
     coding-challenges: 'Pagharap sa mga Hamon'
-    q-a: 'Bahaging Q/A'
+    q-a: 'Mga Tanong / Mga Sagot'
     artificial-intelligence: 'Praktikal na Katalinuhan'
     computer-science: 'Siyensiya ng Computer'
     programming-languages: 'Mga Wikang Nagpoprograma'
