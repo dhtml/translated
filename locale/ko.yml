@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: '일반 토론'
     technology-articles: '기술 기사'
     coding-challenges: '코딩 도전'
-    q-a: '이름 *'
+    questions: '질문 및 답변'
     artificial-intelligence: 인공지능
     computer-science: '컴퓨터 과학'
     programming-languages: '언어 선택'

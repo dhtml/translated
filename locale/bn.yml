@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'সাধারণ আলোচনা'
     technology-articles: 'প্রযুক্তি বার্তা'
     coding-challenges: 'কোড লিখন চ্যালেঞ্জ'
-    q-a: প্রশ্ন
+    questions: '& উত্তর'
     artificial-intelligence: 'কৃতিম মেধা'
     computer-science: 'কম্পিউটার বিজ্ঞান'
     programming-languages: 'প্রোগ্রামিং ভাষা'

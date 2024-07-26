@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Üldine arutelu'
     technology-articles: Tehnoloogiaartiklid
     coding-challenges: Kodeerimisraskused
-    q-a: Küsimused
+    questions: 'Küsimused ja vastused'
     artificial-intelligence: Tehisintellekt
     computer-science: Arvutiteadus
     programming-languages: Programmeerimiskeeled
