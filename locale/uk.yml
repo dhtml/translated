@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Загальне обговорення'
     technology-articles: 'Статті з технології'
     coding-challenges: 'Труднощі загоювання'
-    questions: 'Запитання і відповіді'
+    questions: Питання
     artificial-intelligence: 'Комп''ютерна розвідка'
     computer-science: 'Комп''ютерна наука'
     programming-languages: 'Мови програмування'

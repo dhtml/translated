@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Genel Tartışma'
     technology-articles: 'Teknoloji Makaleler'
     coding-challenges: 'Coding Challenges'
-    questions: 'Sorular ve Cevaplar'
+    questions: Sorular
     artificial-intelligence: 'Yapay Zeka'
     computer-science: 'Bilgisayar Bilimi'
     programming-languages: 'Programlama Dilleri'

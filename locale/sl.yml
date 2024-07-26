@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Splošna razprava'
     technology-articles: 'Tehnološki členi'
     coding-challenges: 'Izzivi kodiranja'
-    questions: 'Vprašanja in odgovori'
+    questions: Vprašanja
     artificial-intelligence: 'Umetna inteligenca'
     computer-science: 'Računalniška znanost'
     programming-languages: 'Programski jeziki'

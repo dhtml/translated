@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Vispārēja diskusija'
     technology-articles: 'Tehnoloģiskie izstrādājumi'
     coding-challenges: 'Kodēšanas problēmas'
-    questions: 'Jautājumi un atbildes'
+    questions: Jautājumi
     artificial-intelligence: 'Mākslīgais intelekts'
     computer-science: Datorzinātnes
     programming-languages: 'Plānošanas valodas'

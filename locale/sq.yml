@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Diskutim i përgjithshëm'
     technology-articles: 'Artikuj teknologjie'
     coding-challenges: 'Sfida të rënda'
-    questions: 'Pyetje & Përgjigje'
+    questions: Pyetje
     artificial-intelligence: 'Inteligjenca artificiale'
     computer-science: 'Shkencë kompjuteri'
     programming-languages: 'Programimi i gjuhëve'

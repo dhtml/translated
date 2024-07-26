@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Γενική συζήτηση'
     technology-articles: 'Άρθρα τεχνολογίας'
     coding-challenges: 'Προκλήσεις Κωδικοποίησης'
-    questions: 'Ερωτήσεις & Απαντήσεις'
+    questions: Ερωτήσεις
     artificial-intelligence: 'Τεχνητή Νοημοσύνη'
     computer-science: 'Επιστήμη των υπολογιστών'
     programming-languages: 'Γλώσσες προγραμματισμού'

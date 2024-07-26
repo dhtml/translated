@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Általános vita'
     technology-articles: 'Technológiai cikkek'
     coding-challenges: 'Coding kihívások'
-    questions: 'Kérdések és válaszok'
+    questions: Kérdések
     artificial-intelligence: 'Mesterséges intelligencia'
     computer-science: Számítógép-tudomány
     programming-languages: 'Programozási nyelvek'

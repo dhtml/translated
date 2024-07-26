@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Discussão geral'
     technology-articles: 'Artigos de Tecnologia'
     coding-challenges: 'Desafios de Codificação'
-    questions: 'Perguntas e respostas'
+    questions: Perguntas
     artificial-intelligence: 'Inteligência Artificial'
     computer-science: 'Ciência da Computação'
     programming-languages: 'Linguagens de programação'
