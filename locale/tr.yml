@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Liderler Sıralaması'
     live: 'Canlı Coding'
     live-coding: 'Canlı Coding'
-    challenges: 'Dev Challenges'
+    challenges: Challenges
     dev-challenges: 'Dev Challenges'
     jobs: 'İş Arama'
     community: 'Topluluk Topluluğu'
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'İş Postings'
     workshops: Atölyeler
     dev-workshops: 'Dev Workshopss'
-    events: 'Etkinlikler / Konferanslar'
+    events: 'Etkinlikler Etkinlikler Etkinlikler'
     conferences: Konferanslar
     event-conferences: 'Etkinlikler / Konferanslar'
     showcase: Do
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Genel Tartışma'
     technology-articles: 'Teknoloji Makaleler'
     coding-challenges: 'Coding Challenges'
-    q-a: 'Sorular / Cevaplar'
+    q-a: Sorular
     artificial-intelligence: 'Yapay Zeka'
     computer-science: 'Bilgisayar Bilimi'
     programming-languages: 'Programlama Dilleri'

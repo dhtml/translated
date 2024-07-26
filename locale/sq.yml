@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Kryeqëndra e kantonit është'
     live: 'Koding i gjallë'
     live-coding: 'Koding i gjallë'
-    challenges: 'Sfidat e shkatërrimit'
+    challenges: Sfidat
     dev-challenges: 'Sfidat e shkatërrimit'
     jobs: 'Punë në kërkim'
     community: Komuniteti
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Posta pune'
     workshops: Workshops
     dev-workshops: 'Dev Workshops'
-    events: 'Ngjarje / konferenca'
+    events: Evente
     conferences: Konferenca
     event-conferences: 'Ngjarje / konferenca'
     showcase: Shfaq
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Diskutim i përgjithshëm'
     technology-articles: 'Artikuj teknologjie'
     coding-challenges: 'Sfida të rënda'
-    q-a: 'Pyetje / Përgjigje'
+    q-a: Pyetje
     artificial-intelligence: 'Inteligjenca artificiale'
     computer-science: 'Shkencë kompjuteri'
     programming-languages: 'Programimi i gjuhëve'

@@ -1426,7 +1426,7 @@ dhtml-cpages:
     leaderboard: Leaderboard
     live: Live Coding
     live-coding: Live Coding
-    challenges: Dev Challenges
+    challenges: Challenges
     dev-challenges: Dev Challenges
     jobs: Job Search
     community: Community
@@ -1435,7 +1435,7 @@ dhtml-cpages:
     job-postings: Job Postings
     workshops: Workshops
     dev-workshops: Dev Workshops
-    events: Events / Conferences
+    events: Events
     conferences: Conferences
     event-conferences: Events / Conferences
     showcase: Showcase
@@ -1448,7 +1448,7 @@ dhtml-cpages:
     general-discussion: General Discussion
     technology-articles: Technology Articles
     coding-challenges: Coding Challenges
-    q-a: Questions / Answers
+    q-a: Questions
     artificial-intelligence: Artificial Intelligence
     computer-science: Computer Science
     programming-languages: Programming Languages

@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'لیڈر بورڈ'
     live: 'جاگو !'
     live-coding: 'جاگو !'
-    challenges: 'درپیش مشکلات'
+    challenges: مشکلات
     dev-challenges: 'درپیش مشکلات'
     jobs: 'ایوب تلاش'
     community: کمیونٹی
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'ایوب کی تحریر'
     workshops: ورکس
     dev-workshops: دیوی‌موس
-    events: 'واقعات / کانفرنس'
+    events: واقعات
     conferences: کانفرنس
     event-conferences: 'واقعات / کانفرنس'
     showcase: طےشدہ
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'عمومی معلومات'
     technology-articles: 'ٹیکنالوجی کے مضامین'
     coding-challenges: 'مشکلات کا سامنا کرنا'
-    q-a: 'سوالات / جواب'
+    q-a: سوالات
     artificial-intelligence: ذہانت
     computer-science: 'کمپیوٹر سائنس'
     programming-languages: زبانیں

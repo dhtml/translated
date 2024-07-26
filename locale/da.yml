@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Rangliste
     live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: 'Udvikling af udfordringer'
+    challenges: Udfordringer
     dev-challenges: 'Udvikling af udfordringer'
     jobs: Jobsøgning
     community: 'Fællesskabets fællesskab'
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: Jobindlæg
     workshops: Workshops
     dev-workshops: 'Dev Workshops'
-    events: 'Begivenheder / konference'
+    events: 'Begivenheder Events'
     conferences: Konferencer
     event-conferences: 'Begivenheder / konference'
     showcase: Showcase

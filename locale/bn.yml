@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: লিডারবোর্ড
     live: 'লাইভ কোডিং'
     live-coding: 'লাইভ কোডিং'
-    challenges: প্রতিদ্বন্দ্বিতাগুলো
+    challenges: চ্যালেঞ্জ
     dev-challenges: প্রতিদ্বন্দ্বিতাগুলো
     jobs: 'অনুসন্ধানের ফলাফল'
     community: সম্প্রদায়
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'পোস্ট করার কাজ'
     workshops: কর্মশালা
     dev-workshops: '৩ পরিবারের জন্য সাহায্য'
-    events: '%s / %s আলোচনা করা হচ্ছে'
+    events: ঘটনাসমূহ
     conferences: অধিবেশন
     event-conferences: '%s / %s আলোচনা করা হচ্ছে'
     showcase: 'ছোট করে প্রদর্শন করা হবে'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'সাধারণ আলোচনা'
     technology-articles: 'প্রযুক্তি বার্তা'
     coding-challenges: 'কোড লিখন চ্যালেঞ্জ'
-    q-a: উত্তর
+    q-a: প্রশ্ন
     artificial-intelligence: 'কৃতিম মেধা'
     computer-science: 'কম্পিউটার বিজ্ঞান'
     programming-languages: 'প্রোগ্রামিং ভাষা'

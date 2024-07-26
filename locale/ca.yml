@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Taula de classificació'
     live: 'Codificació en directe'
     live-coding: 'Codificació en directe'
-    challenges: 'Reptes Dev'
+    challenges: Repte
     dev-challenges: 'Reptes Dev'
     jobs: 'Cerca de treball'
     community: Comunitat
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Articles de treball'
     workshops: Workshops
     dev-workshops: 'Dev Workshops'
-    events: 'Esdeveniments / conferències'
+    events: Esdeveniments
     conferences: Conferèncias
     event-conferences: 'Esdeveniments / conferències'
     showcase: 'Mostra la caixa'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Conferencia general'
     technology-articles: 'Articles de tecnologia'
     coding-challenges: 'Repte de la codificació'
-    q-a: 'Preguntes / respostes'
+    q-a: Preguntes
     artificial-intelligence: 'Intel·ligència artificial'
     computer-science: 'Ciència de l''ordinador'
     programming-languages: 'Idiomes de programació'

@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 工作海报
     workshops: 讲习班
     dev-workshops: 发展讲习班
-    events: 活动/会议
+    events: 活动
     conferences: 会议
     event-conferences: 活动/会议
     showcase: 显示大小写
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 一般性讨论
     technology-articles: 技术文章
     coding-challenges: 编码挑战
-    q-a: 问答
+    q-a: '问 题'
     artificial-intelligence: 人工智能
     computer-science: 计算机科学
     programming-languages: 编程语言

@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Πίνακας κορυφαίων'
     live: 'Ζωντανή κωδικοποίηση'
     live-coding: 'Ζωντανή κωδικοποίηση'
-    challenges: 'Προκλήσεις Dev'
+    challenges: Προκλήσεις
     dev-challenges: 'Προκλήσεις Dev'
     jobs: 'Αναζήτηση εργασίας'
     community: Κοινότητα
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Θέσεις εργασίας'
     workshops: Εργαστήρια
     dev-workshops: 'Εργαστήρια Dev'
-    events: 'Εκδηλώσεις / Συνέδρια'
+    events: Γεγονότα
     conferences: Συνέδρια
     event-conferences: 'Εκδηλώσεις / Συνέδρια'
     showcase: 'Εμφάνιση προχείρου'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Γενική συζήτηση'
     technology-articles: 'Άρθρα τεχνολογίας'
     coding-challenges: 'Προκλήσεις Κωδικοποίησης'
-    q-a: 'Ερωτήσεις / Απαντήσεις'
+    q-a: Ερωτήσεις
     artificial-intelligence: 'Τεχνητή Νοημοσύνη'
     computer-science: 'Επιστήμη των υπολογιστών'
     programming-languages: 'Γλώσσες προγραμματισμού'

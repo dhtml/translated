@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Klassement
     live: 'Live coding'
     live-coding: 'Live coding'
-    challenges: 'Dev Challenges'
+    challenges: Uitdagingen
     dev-challenges: 'Dev Challenges'
     jobs: Zoekopdracht
     community: Gemeenschap
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: Vacatures
     workshops: Werkplaatsen
     dev-workshops: 'Dev Workshops'
-    events: 'Evenementen / Conferenties'
+    events: Gebeurtenissen
     conferences: Conferenties
     event-conferences: 'Evenementen / Conferenties'
     showcase: Tonen
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Algemene discussie'
     technology-articles: 'Technische artikelen'
     coding-challenges: 'Coding Challenges'
-    q-a: 'Vragen / Antwoorden'
+    q-a: Vragen
     artificial-intelligence: 'Artificiële intelligentie'
     computer-science: Computerwetenschappen
     programming-languages: Programmeertalen

@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: ลีดเดอร์บอร์ด
     live: เรียงต่อเนื่อง
     live-coding: เรียงต่อเนื่อง
-    challenges: 'ข้อ ท้าทาย'
+    challenges: ปัญหา
     dev-challenges: 'ข้อ ท้าทาย'
     jobs: งานที่ค้นหา
     community: ชุมชน
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'งาน โพสต์'
     workshops: 'โรง งาน'
     dev-workshops: 'เด วีส์ ช็อป'
-    events: 'เหตุการณ์ / วาระ การ ประชุม'
+    events: เหตุการณ์
     conferences: 'การ ประชุม'
     event-conferences: 'เหตุการณ์ / วาระ การ ประชุม'
     showcase: แสดงตัวพิมพ์เล็ก
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: อภิปรายทั่วไป
     technology-articles: บทความเกี่ยวกับเทคโนโลยี
     coding-challenges: 'ข้อ ท้าทาย ใน การ จัด การ'
-    q-a: 'คํา ถาม / คํา ตอบ'
+    q-a: 'คํา ถาม'
     artificial-intelligence: ปัญญาประดิษฐ์
     computer-science: วิทยาศาสตร์คอมพิวเตอร์
     programming-languages: 'โปรแกรมภาษาต่าง ๆ'

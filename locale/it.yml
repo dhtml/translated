@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Classifica
     live: 'Codardo vivo'
     live-coding: 'Codardo vivo'
-    challenges: 'Sfide Dev'
+    challenges: Sfide
     dev-challenges: 'Sfide Dev'
     jobs: 'Ricerca di lavoro'
     community: Comunità
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Posti di lavoro'
     workshops: Workshop
     dev-workshops: 'Seminari Dev'
-    events: 'Eventi / conferenze'
+    events: Eventi
     conferences: Conferenze
     event-conferences: 'Eventi / conferenze'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Discussione generale'
     technology-articles: 'Articoli tecnologici'
     coding-challenges: 'Sfide di programmazione'
-    q-a: 'Domande / risposte'
+    q-a: Domande
     artificial-intelligence: 'Intelligenza Artificiale'
     computer-science: Informatica
     programming-languages: 'Lingue di programmazione'

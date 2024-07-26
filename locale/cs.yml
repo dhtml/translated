@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Žebříček
     live: 'Živé kódování'
     live-coding: 'Živé kódování'
-    challenges: 'Dev výzvy'
+    challenges: Výzvy
     dev-challenges: 'Dev výzvy'
     jobs: 'Hledání práce'
     community: Společenství
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Pracovní příspěvky'
     workshops: Semináře
     dev-workshops: 'Dev Workshopy'
-    events: 'Akce / konference'
+    events: Události
     conferences: Konference
     event-conferences: 'Akce / konference'
     showcase: Představení
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Obecná diskuse'
     technology-articles: 'Technologické články'
     coding-challenges: 'Problémy s kódováním'
-    q-a: 'Otázky / Odpovědi'
+    q-a: Otázky
     artificial-intelligence: 'Umělá inteligence'
     computer-science: 'Počítačová věda'
     programming-languages: 'Programovací jazyky'

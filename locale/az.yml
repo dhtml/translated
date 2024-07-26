@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Lider lövhəsi'
     live: 'Canlı Koding'
     live-coding: 'Canlı Koding'
-    challenges: Axtarış
+    challenges: ' Challenge'
     dev-challenges: Axtarış
     jobs: 'İş axtarış'
     community: Qarabağ
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'İş Proqramları'
     workshops: Tarix
     dev-workshops: Haqqımızda
-    events: ' Events / Konfrans'
+    events: Elanlar
     conferences: Konfrans
     event-conferences: ' Events / Konfrans'
     showcase: Elanlar
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Baş müzakirə'
     technology-articles: Texnologiya
     coding-challenges: 'Coding Challenges'
-    q-a: ' Questions / cavab'
+    q-a: Tarix
     artificial-intelligence: Sifariş
     computer-science: 'Kompüter Elmləri'
     programming-languages: Proqramlar

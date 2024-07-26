@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Leaderboard
     live: Pamumuhay
     live-coding: Pamumuhay
-    challenges: 'Alisin ang mga Hamon'
+    challenges: 'Mga Hamon'
     dev-challenges: 'Alisin ang mga Hamon'
     jobs: 'Paghahanap ng Trabaho'
     community: Pamayanan
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Mga Posting sa Trabaho'
     workshops: 'Mga Akda'
     dev-workshops: 'Mag - iwan ng mga Akda'
-    events: 'Mga Pangyayari / Komperensiya'
+    events: 'Mga Pangyayari'
     conferences: 'Mga Komperensiya'
     event-conferences: 'Mga Pangyayari / Komperensiya'
     showcase: Pagtatanghal
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Pangkalahatang Talakayan'
     technology-articles: 'Mga Artikulo sa Teknolohiya'
     coding-challenges: 'Pagharap sa mga Hamon'
-    q-a: 'Mga Tanong / Mga Sagot'
+    q-a: 'Mga Tanong'
     artificial-intelligence: 'Praktikal na Katalinuhan'
     computer-science: 'Siyensiya ng Computer'
     programming-languages: 'Mga Wikang Nagpoprograma'

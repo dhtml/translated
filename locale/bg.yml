@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Класиране
     live: 'Кодиране на живо'
     live-coding: 'Кодиране на живо'
-    challenges: 'Dev предизвикателства'
+    challenges: Предизвикателствата
     dev-challenges: 'Dev предизвикателства'
     jobs: 'Търсене на работа'
     community: Общност
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Постове за работа'
     workshops: Работилници
     dev-workshops: 'Дев Работилници'
-    events: 'Събития / Конференции'
+    events: Събития
     conferences: Конференции
     event-conferences: 'Събития / Конференции'
     showcase: Показване
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Общи дискусии'
     technology-articles: 'Статии за технологии'
     coding-challenges: 'Кодиращи предизвикателства'
-    q-a: 'Въпроси / Отговори'
+    q-a: Въпроси
     artificial-intelligence: 'Изкуствен интелект'
     computer-science: 'Компютърни науки'
     programming-languages: 'Програмиране на езици'

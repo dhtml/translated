@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'עבודה Postings'
     workshops: סדנאות
     dev-workshops: 'סדנאות Dev'
-    events: 'אירועים / כנסים'
+    events: אירועים
     conferences: ועידת
     event-conferences: 'אירועים / כנסים'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'דיון כללי'
     technology-articles: 'מאמרים טכנולוגיים'
     coding-challenges: 'אתגרים משותפים'
-    q-a: 'שאלות / תשובות'
+    q-a: שאלות
     artificial-intelligence: 'אינטליגנציה מלאכותית'
     computer-science: 'מדעי המחשב'
     programming-languages: 'שפות תכנות'

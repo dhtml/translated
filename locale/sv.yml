@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Topplista
     live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: 'Dev utmaningar'
+    challenges: Utmaningar
     dev-challenges: 'Dev utmaningar'
     jobs: 'Job Search'
     community: gemenskap
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Job Postings'
     workshops: Workshops
     dev-workshops: 'Dev Workshops'
-    events: Evenemang/konferenser
+    events: Händelser
     conferences: Konferenser
     event-conferences: Evenemang/konferenser
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Allmänna diskussioner'
     technology-articles: 'Tekniska artiklar'
     coding-challenges: Kodningsutmaningar
-    q-a: 'Frågor / Svar'
+    q-a: Frågor
     artificial-intelligence: 'Artificiell intelligens'
     computer-science: Datorvetenskap
     programming-languages: Programmeringsspråk

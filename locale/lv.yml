@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Līderu saraksts'
     live: 'Dzīvā kodēšana'
     live-coding: 'Dzīvā kodēšana'
-    challenges: 'Dev problēmas'
+    challenges: Problēmas
     dev-challenges: 'Dev problēmas'
     jobs: 'Darba meklēšana'
     community: Kopiena
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Darba norīkojumi'
     workshops: Darbnīcas
     dev-workshops: 'Dev semināri'
-    events: 'Pasākumi / Konferences'
+    events: Notikumi
     conferences: Konferences
     event-conferences: 'Pasākumi / Konferences'
     showcase: 'Rādīt parametru'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Vispārēja diskusija'
     technology-articles: 'Tehnoloģiskie izstrādājumi'
     coding-challenges: 'Kodēšanas problēmas'
-    q-a: 'Jautājumi un atbildes'
+    q-a: Jautājumi
     artificial-intelligence: 'Mākslīgais intelekts'
     computer-science: Datorzinātnes
     programming-languages: 'Plānošanas valodas'

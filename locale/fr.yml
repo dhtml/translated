@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Classement
     live: 'Codage vivant'
     live-coding: 'Codage vivant'
-    challenges: 'Défis du développement'
+    challenges: Défis
     dev-challenges: 'Défis du développement'
     jobs: 'Recherche d''emploi'
     community: Communauté
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Postes de travail'
     workshops: Ateliers
     dev-workshops: 'Ateliers Dev'
-    events: 'Événements / Conférences'
+    events: Événements
     conferences: Conférences
     event-conferences: 'Événements / Conférences'
     showcase: Afficher
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Débat général'
     technology-articles: 'Articles technologiques'
     coding-challenges: 'Défis du codage'
-    q-a: 'Questions / Réponses'
+    q-a: Questions
     artificial-intelligence: 'Intelligence artificielle'
     computer-science: Informatique
     programming-languages: 'Langues de programmation'

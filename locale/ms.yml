@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Papan pendahulu'
     live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: Challenges
+    challenges: Tantangan
     dev-challenges: Challenges
     jobs: Cari
     community: Komunitas
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Pos Pekerjaan'
     workshops: Workshops
     dev-workshops: Workshops
-    events: 'Peristiwa / Konferensi'
+    events: Peristiwa
     conferences: Konferensi
     event-conferences: 'Peristiwa / Konferensi'
     showcase: Koper
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Diskusi Umum'
     technology-articles: 'Artikel Teknologi Teknologi Terapan'
     coding-challenges: 'Tantangan yang Penuh Tantangan'
-    q-a: 'Pertanyaan / Jawaban'
+    q-a: Pertanyaan
     artificial-intelligence: 'Kecerdasan Buatan'
     computer-science: 'Sains Komputer'
     programming-languages: 'Bahasa Pemrograman'

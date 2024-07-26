@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Rebríček najlepších'
     live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: 'Dev Challenges'
+    challenges: Výzvy
     dev-challenges: 'Dev Challenges'
     jobs: 'Vyhľadávanie práce'
     community: Slovenčina
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Pracovné príspevky'
     workshops: Workshopy
     dev-workshops: 'Dev Workshopy'
-    events: 'Podujatia / Konferencie'
+    events: Aktuality
     conferences: Konferencie
     event-conferences: 'Podujatia / Konferencie'
     showcase: Ukážka
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Všeobecná diskusia'
     technology-articles: 'Technologické články'
     coding-challenges: 'Kódovacie výzvy'
-    q-a: 'Otázky / Odpovede'
+    q-a: Otázky
     artificial-intelligence: 'Umelá inteligencia'
     computer-science: 'Počítačová veda'
     programming-languages: 'Programovacie jazyky'

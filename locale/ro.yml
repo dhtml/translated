@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Clasament
     live: 'Codificare live'
     live-coding: 'Codificare live'
-    challenges: 'Dev Challenges'
+    challenges: Provocări
     dev-challenges: 'Dev Challenges'
     jobs: 'Căutare job'
     community: Comunitate
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: Postări
     workshops: Ateliere
     dev-workshops: 'Ateliere Dev'
-    events: 'Evenimente / Conferinţe'
+    events: Evenimente
     conferences: Conferințe
     event-conferences: 'Evenimente / Conferinţe'
     showcase: Spectacol
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Discuţii generale'
     technology-articles: 'Articole tehnologice'
     coding-challenges: 'Provocări de codificare'
-    q-a: 'Întrebări / Răspunsuri'
+    q-a: Întrebări
     artificial-intelligence: 'Inteligență artificială'
     computer-science: Informatica
     programming-languages: 'Limbi de programare'

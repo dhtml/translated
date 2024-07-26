@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Lyderių lentelė'
     live: 'Gyvas kodavimas'
     live-coding: 'Gyvas kodavimas'
-    challenges: 'Dev iššūkiai'
+    challenges: Iššūkiai
     dev-challenges: 'Dev iššūkiai'
     jobs: 'Darbo paieška'
     community: Bendrija
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Darbo vietos'
     workshops: Seminarai
     dev-workshops: 'Dev dirbtuvės'
-    events: 'Renginiai / konferencijos'
+    events: Įvykiai
     conferences: Konferencijos
     event-conferences: 'Renginiai / konferencijos'
     showcase: Šliaužiklis
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Bendrosios diskusijos'
     technology-articles: 'Technologijos straipsniai'
     coding-challenges: 'Kodavimo uždaviniai'
-    q-a: 'Klausimai (atsakymai)'
+    q-a: Klausimai
     artificial-intelligence: 'Dirbtinis intelektas'
     computer-science: 'Kompiuterių mokslas'
     programming-languages: 'Programavimo kalbos'

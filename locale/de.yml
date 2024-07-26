@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Bestenliste
     live: 'Live Coating'
     live-coding: 'Live Coating'
-    challenges: 'Dev Challenges'
+    challenges: Herausforderungen
     dev-challenges: 'Dev Challenges'
     jobs: Jobsuche
     community: Gemeinschaft
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: Stellenangebote
     workshops: Veranstaltungen
     dev-workshops: Workshops
-    events: 'Veranstaltungen / Konferenzen'
+    events: Veranstaltungen
     conferences: Konferenzen
     event-conferences: 'Veranstaltungen / Konferenzen'
     showcase: Fall
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Allgemeine Diskussion'
     technology-articles: 'Technologie Artikel'
     coding-challenges: 'Coding Challenges'
-    q-a: 'Fragen / Antworten'
+    q-a: Fragen
     artificial-intelligence: 'Künstliche Intelligenz'
     computer-science: Informatik
     programming-languages: Programmiersprachen

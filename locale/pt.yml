@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Tabela de classificação'
     live: 'Codificação ao vivo'
     live-coding: 'Codificação ao vivo'
-    challenges: 'Desafios de Dev'
+    challenges: Desafios
     dev-challenges: 'Desafios de Dev'
     jobs: 'Pesquisar Emprego'
     community: 'Comunidade Europeia'
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Postagens de Emprego'
     workshops: Oficinas
     dev-workshops: 'Oficinas de Dev'
-    events: 'Eventos / Conferências'
+    events: Eventos
     conferences: Conferências
     event-conferences: 'Eventos / Conferências'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Discussão geral'
     technology-articles: 'Artigos de Tecnologia'
     coding-challenges: 'Desafios de Codificação'
-    q-a: 'Perguntas / Respostas'
+    q-a: Perguntas
     artificial-intelligence: 'Inteligência Artificial'
     computer-science: 'Ciência da Computação'
     programming-languages: 'Linguagens de programação'

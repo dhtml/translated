@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Edetabel
     live: 'Elus kodeerimine'
     live-coding: 'Elus kodeerimine'
-    challenges: 'Dev väljakutsed'
+    challenges: Väljakutsed
     dev-challenges: 'Dev väljakutsed'
     jobs: Tööotsing
     community: Ühendus
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: Töökuulutused
     workshops: Seminarid
     dev-workshops: 'Dev Workshops'
-    events: 'Sündmused / konverentsid'
+    events: Sündmused
     conferences: Konverentsid
     event-conferences: 'Sündmused / konverentsid'
     showcase: Esitlus
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Üldine arutelu'
     technology-articles: Tehnoloogiaartiklid
     coding-challenges: Kodeerimisraskused
-    q-a: 'Küsimused / vastused'
+    q-a: Küsimused
     artificial-intelligence: Tehisintellekt
     computer-science: Arvutiteadus
     programming-languages: Programmeerimiskeeled

@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'Job Postings'
     workshops: Laborrenkontiĝoj
     dev-workshops: 'Devigi Laborrenkontiĝojn'
-    events: 'Okazaĵoj / Konferencoj'
+    events: 'La okazaĵoj'
     conferences: Konferencoj
     event-conferences: 'Okazaĵoj / Konferencoj'
     showcase: Showcase
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Ĝenerala diskuto'
     technology-articles: 'Teknikaj artikoloj'
     coding-challenges: 'Akceli defiojn'
-    q-a: 'Demandoj / respondoj'
+    q-a: 'Demandoj demandoj'
     artificial-intelligence: 'Artefarita inteligenteco'
     computer-science: Komputilscienco
     programming-languages: programlingvoj

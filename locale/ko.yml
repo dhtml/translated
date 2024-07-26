@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 리더보드
     live: '라이브 코딩'
     live-coding: '라이브 코딩'
-    challenges: 'Dev 도전'
+    challenges: 공지사항
     dev-challenges: 'Dev 도전'
     jobs: '작업 검색'
     community: '- 연혁'
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 채용공고
     workshops: '회사 소개'
     dev-workshops: 'Dev 워크숍'
-    events: '행사 / 회의'
+    events: (주)
     conferences: 컨퍼런스
     event-conferences: '행사 / 회의'
     showcase: '기타 제품'
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: '일반 토론'
     technology-articles: '기술 기사'
     coding-challenges: '코딩 도전'
-    q-a: '질문 / 답변'
+    q-a: '이름 *'
     artificial-intelligence: 인공지능
     computer-science: '컴퓨터 과학'
     programming-languages: '언어 선택'

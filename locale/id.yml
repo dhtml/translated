@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'Papan peringkat'
     live: Login
     live-coding: Login
-    challenges: 'Tantangan Dev'
+    challenges: Login
     dev-challenges: 'Tantangan Dev'
     jobs: 'Pencarian Pekerjaan'
     community: Login
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'Diskusi Umum'
     technology-articles: Artikel
     coding-challenges: 'Coding Tantangan'
-    q-a: 'Pertanyaan / Jawaban'
+    q-a: Sitemap
     artificial-intelligence: 'Intel Xeon'
     computer-science: 'Ilmu Komputer'
     programming-languages: 'Bahasa Pemrograman'

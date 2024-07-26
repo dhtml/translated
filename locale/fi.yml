@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: Tulostaulukko
     live: 'Live Code'
     live-coding: 'Live Code'
-    challenges: 'Dev haasteet'
+    challenges: Haasteita
     dev-challenges: 'Dev haasteet'
     jobs: Työpaikka
     community: Yhteisöyhteisö
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: Työpaikkailmoitukset
     workshops: Workshopit
     dev-workshops: 'Dev työpajoja'
-    events: Tapahtumat/konferenssit
+    events: Tapahtumat
     conferences: Konferenssit
     event-conferences: Tapahtumat/konferenssit
     showcase: Näyttely
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: Yleiskeskustelu
     technology-articles: 'Teknologian artikkeleita'
     coding-challenges: 'Koodaa haasteita'
-    q-a: 'Kysymyksiä / vastauksia'
+    q-a: Kysymyksiä
     artificial-intelligence: 'Keinotekoinen älykkyys'
     computer-science: Tietokonetiede
     programming-languages: Ohjelmointikielet

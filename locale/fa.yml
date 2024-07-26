@@ -1220,7 +1220,7 @@ dhtml-cpages:
     leaderboard: 'جدول رتبه بندی'
     live: 'Live Coding'
     live-coding: 'Live Coding'
-    challenges: 'چالش های دو'
+    challenges: 'چالش ها'
     dev-challenges: 'چالش های دو'
     jobs: 'جستجوی شغلی'
     community: 'جامعه اجتماعی'
@@ -1229,7 +1229,7 @@ dhtml-cpages:
     job-postings: 'پست های شغلی'
     workshops: 'کارگاه های آموزشی'
     dev-workshops: 'کارگاه های آموزشی'
-    events: 'حوادث / کنفرانس ها'
+    events: حوادث
     conferences: 'کنفرانس ها'
     event-conferences: 'حوادث / کنفرانس ها'
     showcase: نمایشگاه
@@ -1242,7 +1242,7 @@ dhtml-cpages:
     general-discussion: 'بحث عمومی'
     technology-articles: 'مقالات تکنولوژی'
     coding-challenges: 'چالش های مشترک'
-    q-a: 'سوالات / پاسخ'
+    q-a: سوالات
     artificial-intelligence: 'هوش مصنوعی'
     computer-science: 'علوم کامپیوتر'
     programming-languages: 'زبان های برنامه نویسی'
