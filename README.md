@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-GPL-1.0-or-later-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/dhtml/translated.svg)](https://packagist.org/packages/dhtml/translated) [![Total Downloads](https://img.shields.io/packagist/dt/dhtml/translated.svg)](https://packagist.org/packages/dhtml/translated)
 
-A [Flarum](http://flarum.org) extension. DHTML Translated
+A [Flarum](http://flarum.org) extension. DHTML Translated Extension
 
 git tag v0.0.0 && git push origin v0.0.0
 
