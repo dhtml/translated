@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'جنس کی تصدیق کریں'
     binding_gender: 'ہم نے دریافت کیا کہ آپ نے اپنی جنس مقرر نہیں کی ہے. براہ مہربانی اپنی جنس کو پہلے سیٹ کریں۔ آپ صرف اپنی جنس ترتیب دینے کے بعد پیغامات پوسٹ اور چھوڑ سکتے ہیں۔'
     binding_gender_click: 'ابھی کلک کریں'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: گھر
     about-us: 'ہماری بارے ميں'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: طےشدہ
     tags: ٹیگز
     more: مزید
+    membership: ممبرشپ
     memberships: ارکان
     members: ارکان
+    member: رکن
     general-discussion: 'عمومی معلومات'
     technology-articles: 'ٹیکنالوجی کے مضامین'
     coding-challenges: 'مشکلات کا سامنا کرنا'

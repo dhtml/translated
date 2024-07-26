@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Konfirmoni gjininë'
     binding_gender: 'Ne zbuluam se ju nuk e keni vendosur gjininë tuaj. Ju lutem vendosni gjininë tuaj në vend të parë. Ju mund të postoni dhe të lini mesazhe vetëm pas vendosjes së gjinisë suaj.'
     binding_gender_click: 'Kliko tani'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Shqip
     about-us: 'Rreth nesh'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Shfaq
     tags: Tags
     more: 'Më shumë'
+    membership: Anëtarësimi
     memberships: Anëtarët
     members: Anëtarët
+    member: Anëtar
     general-discussion: 'Diskutim i përgjithshëm'
     technology-articles: 'Artikuj teknologjie'
     coding-challenges: 'Sfida të rënda'

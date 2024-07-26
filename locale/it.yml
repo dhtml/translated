@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Conferma il sesso'
     binding_gender: 'Abbiamo scoperto che non hai impostato il tuo sesso. Si prega di impostare prima il sesso. Puoi pubblicare e lasciare messaggi solo dopo aver impostato il sesso.'
     binding_gender_click: 'Clicca su Ora'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Casa
     about-us: 'Chi Siamo'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Showcase
     tags: Tag
     more: Altro
+    membership: Composizione
     memberships: Membri
     members: Membri
+    member: Membro
     general-discussion: 'Discussione generale'
     technology-articles: 'Articoli tecnologici'
     coding-challenges: 'Sfide di programmazione'

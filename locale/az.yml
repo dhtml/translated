@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Cinsiyyəti təsdiqlə'
     binding_gender: 'Biz səni cinsini təyin etmədiyimizi aşkar etdik. Zəhmət olmasa, cinsinizi birinci təyin edin. Yalnız cinsinizi təyin etdikdən sonra mesaj yaza və buraxa bilərsiniz.'
     binding_gender_click: 'İndi klikləyin'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: 'Ana səhifə'
     about-us: Haqqımızda
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Elanlar
     tags: Taqlar
     more: 'Daha çox'
+    membership: Qeydiyyat
     memberships: Qeydiyyat
     members: Üzvlər
+    member: Üzv
     general-discussion: 'Baş müzakirə'
     technology-articles: Texnologiya
     coding-challenges: 'Coding Challenges'

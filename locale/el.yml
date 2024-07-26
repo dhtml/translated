@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Επιβεβαίωση φύλου'
     binding_gender: 'Ανακαλύψαμε ότι δεν έχετε ορίσει το φύλο σας. Ορίστε πρώτα το φύλο σας. Μπορείτε να δημοσιεύετε και να αφήνετε μηνύματα μόνο αφού ορίσετε το φύλο σας.'
     binding_gender_click: 'Κάντε κλικ τώρα'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Σπίτι
     about-us: 'Σχετικά με εμάς'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: 'Εμφάνιση προχείρου'
     tags: Ετικέτες
     more: Περισσότερα
+    membership: Σύνθεση
     memberships: Σύνθεση
     members: Μέλη
+    member: Μέλος
     general-discussion: 'Γενική συζήτηση'
     technology-articles: 'Άρθρα τεχνολογίας'
     coding-challenges: 'Προκλήσεις Κωδικοποίησης'

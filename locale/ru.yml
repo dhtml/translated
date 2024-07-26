@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Подтвердите пол'
     binding_gender: 'Мы обнаружили, что вы не установили свой пол. Пожалуйста, сначала укажите свой пол. Публиковать и оставлять сообщения можно только после определения пола.'
     binding_gender_click: 'Нажмите сейчас'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Дом
     about-us: 'О нас'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Показка
     tags: Теги
     more: Больше
+    membership: Членство
     memberships: Членство
     members: Члены
+    member: Член
     general-discussion: 'Общее обсуждение'
     technology-articles: 'Технологические статьи'
     coding-challenges: 'Проблемы кодирования'

@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Vahvista sukupuoli'
     binding_gender: 'Huomasimme, että ette ole asettaneet sukupuoltanne. Aseta sukupuolesi etusijalle. Voit julkaista ja jättää viestejä vasta sukupuolen määrittämisen jälkeen.'
     binding_gender_click: 'Klikkaa nyt'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Koti
     about-us: 'Tietoja meistä'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Näyttely
     tags: Tunnisteet
     more: 'Lisää enemmän'
+    membership: Jäsenyys
     memberships: Jäsenet
     members: Jäsenet
+    member: Jäsen
     general-discussion: Yleiskeskustelu
     technology-articles: 'Teknologian artikkeleita'
     coding-challenges: 'Koodaa haasteita'

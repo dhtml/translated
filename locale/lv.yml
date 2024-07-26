@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Apstipriniet dzimumu'
     binding_gender: 'Mēs atklājām, ka jūs neesat noteicis savu dzimumu. Lūdzu, vispirms iestatiet savu dzimumu. Jūs varat publicēt un atstāt ziņojumus tikai pēc dzimuma iestatīšanas.'
     binding_gender_click: 'Noklikšķiniet uz Tagad'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Mājas
     about-us: 'Par mums'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: 'Rādīt parametru'
     tags: Tags
     more: Vairāk
+    membership: Dalība
     memberships: Dalība
     members: Dalībnieki
+    member: Biedrs
     general-discussion: 'Vispārēja diskusija'
     technology-articles: 'Tehnoloģiskie izstrādājumi'
     coding-challenges: 'Kodēšanas problēmas'

@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Bekræft køn'
     binding_gender: 'Vi opdagede, at du ikke har angivet dit køn. Angiv dit køn først. Du kan kun sende og efterlade beskeder, når du har angivet dit køn.'
     binding_gender_click: 'Klik nu'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Hjem
     about-us: 'Om os'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Showcase
     tags: Tags
     more: 'Mere Mere'
+    membership: 'Medlemskab af medlemskab'
     memberships: Medlemskaber
     members: Medlemmer
+    member: Medlem
     general-discussion: 'Generelle diskussioner'
     technology-articles: 'Teknologiske artikler'
     coding-challenges: 'Coding Challenges'

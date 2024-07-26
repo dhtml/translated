@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Confirma el sexe'
     binding_gender: 'Hem descobert que no heu definit el vostre sexe. Definiu primer el vostre sexe. Només pots publicar i deixar missatges després de definir el sexe.'
     binding_gender_click: 'Feu clic ara'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Llar
     about-us: 'Sobre nosaltres'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: 'Mostra la caixa'
     tags: Etiquetes
     more: Més
+    membership: 'L'' afiliació'
     memberships: 'Estats membres'
     members: Membres
+    member: Membre
     general-discussion: 'Conferencia general'
     technology-articles: 'Articles de tecnologia'
     coding-challenges: 'Repte de la codificació'

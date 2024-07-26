@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Bekräfta kön'
     binding_gender: 'Vi upptäckte att du inte har angett ditt kön. Ange ditt kön först. Du kan bara posta och lämna meddelanden efter att du har ställt in ditt kön.'
     binding_gender_click: 'Klicka nu'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Hem
     about-us: 'Om oss'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Showcase
     tags: Taggar
     more: Mer
+    membership: Medlemskap
     memberships: Medlemskap
     members: Medlemmar
+    member: Medlem
     general-discussion: 'Allmänna diskussioner'
     technology-articles: 'Tekniska artiklar'
     coding-challenges: Kodningsutmaningar

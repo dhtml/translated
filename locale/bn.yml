@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'লিঙ্গ নিশ্চিত করুন'
     binding_gender: 'আমরা আবিষ্কার করেছি যে আপনি আপনার লিঙ্গ নির্ধারণ করেননি। প্রথমে আপনার লিঙ্গ নির্ধারণ করুন। আপনি কেবল আপনার লিঙ্গ সেট করার পরে বার্তা পোস্ট করতে এবং ছেড়ে যেতে পারেন।'
     binding_gender_click: 'এখনই ক্লিক করুন'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: মূল
     about-us: 'আমাদের সম্পর্কে'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: 'ছোট করে প্রদর্শন করা হবে'
     tags: ট্যাগ
     more: মডেল
+    membership: সদস্য
     memberships: সদস্যতা
     members: সদস্য
+    member: সদস্য
     general-discussion: 'সাধারণ আলোচনা'
     technology-articles: 'প্রযুক্তি বার্তা'
     coding-challenges: 'কোড লিখন চ্যালেঞ্জ'

@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Confirmar sexo'
     binding_gender: 'Descubrimos que no has establecido tu género. Por favor, establezca su género primero. Solo puede publicar y dejar mensajes después de configurar su género.'
     binding_gender_click: 'Haga clic ahora'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Hogar
     about-us: 'Sobre nosotros'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Showcase
     tags: Etiquetas
     more: Más
+    membership: Miembros
     memberships: Miembros
     members: Miembros
+    member: Miembro
     general-discussion: 'Debate general'
     technology-articles: 'Artículos de Tecnología'
     coding-challenges: 'Retos de codificación'

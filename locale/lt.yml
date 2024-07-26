@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Patvirtinkite lytį'
     binding_gender: 'Mes sužinojome, kad jūs nenustatėte savo lyties. Pirmiausia nustatykite savo lytį. Pranešimus galite skelbti ir palikti tik nustatę lytį.'
     binding_gender_click: 'Spustelėkite dabar'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Namon
     about-us: 'Apie mus'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Šliaužiklis
     tags: Tags
     more: More
+    membership: Narystė
     memberships: Narystės
     members: Nariai
+    member: Narys
     general-discussion: 'Bendrosios diskusijos'
     technology-articles: 'Technologijos straipsniai'
     coding-challenges: 'Kodavimo uždaviniai'

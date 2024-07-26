@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Geschlecht bestätigen'
     binding_gender: 'Wir haben festgestellt, dass Sie Ihr Geschlecht nicht festgelegt haben. Bitte geben Sie zuerst Ihr Geschlecht an. Sie können nur Nachrichten posten und hinterlassen, nachdem Sie Ihr Geschlecht festgelegt haben.'
     binding_gender_click: 'Klicken Sie auf Jetzt'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Heim
     about-us: 'Über uns'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Fall
     tags: Schilder
     more: Mehr
+    membership: Mitgliedschaft
     memberships: Mitgliedschaften
     members: Angehörige
+    member: Mitglied
     general-discussion: 'Allgemeine Diskussion'
     technology-articles: 'Technologie Artikel'
     coding-challenges: 'Coding Challenges'

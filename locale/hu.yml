@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Nemének megerősítése'
     binding_gender: 'Rájöttünk, hogy nem állította be a nemét. Kérjük, először adja meg a nemét. Csak a nemed beállítása után tehetsz közzé és hagyhatsz üzenetet.'
     binding_gender_click: 'Kattintson most'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Otthon
     about-us: Rólunk
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Bemutató
     tags: Címkék
     more: Több
+    membership: Tagság
     memberships: Tagságok
     members: Tagok
+    member: Tag
     general-discussion: 'Általános vita'
     technology-articles: 'Technológiai cikkek'
     coding-challenges: 'Coding kihívások'

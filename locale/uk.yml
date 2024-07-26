@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Підтвердьте стать'
     binding_gender: 'Ми з''ясували, що ви не встановили свою стать. Будь ласка, спочатку вкажіть свою стать. Публікувати та залишати повідомлення можна лише після встановлення статі.'
     binding_gender_click: 'Натисніть Зараз'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Дім
     about-us: 'Про нас'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: 'Показати регістр'
     tags: Мітки
     more: Більше
+    membership: Членство
     memberships: Членство
     members: Членів
+    member: Член
     general-discussion: 'Загальне обговорення'
     technology-articles: 'Статті з технології'
     coding-challenges: 'Труднощі загоювання'

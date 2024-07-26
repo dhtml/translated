@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Deimhnigh Inscne'
     binding_gender: 'Fuaireamar amach nach bhfuil d''inscne socraithe agat. Socraigh d''inscne ar dtús. Ní féidir leat teachtaireachtaí a phostáil agus a fhágáil ach amháin tar éis d''inscne a shocrú.'
     binding_gender_click: 'Cliceáil Anois'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Baile
     about-us: Fúinn
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Taispeáin
     tags: Clibeanna
     more: 'Tuilleadh eolais'
+    membership: 'Comhaltas agus Comhaltas'
     memberships: Comhaltas
     members: Baill
+    member: Comhalta
     general-discussion: 'Plé ginearálta'
     technology-articles: 'Airteagail Teicneolaíochta'
     coding-challenges: 'Dúshláin Coding'

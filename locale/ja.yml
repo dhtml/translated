@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 性別の確認
     binding_gender: 性別を設定していないことを発見しました。まず性別を設定してください。投稿やメッセージの投稿は、性別を設定した後にのみ行うことができます。
     binding_gender_click: 今すぐクリック
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: 家
     about-us: 我々について
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: ショーケース
     tags: タグ
     more: ニュース
+    membership: 会員登録
     memberships: 会員登録
     members: メンバーズ
+    member: メンバー
     general-discussion: ディスカッション
     technology-articles: 技術記事
     coding-challenges: コーディングチャレンジ

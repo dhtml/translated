@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Cinsiyeti Onayla'
     binding_gender: 'Cinsiyetinizi belirlemediğinizi keşfettik. Lütfen önce cinsiyetinizi belirleyin. Yalnızca cinsiyetinizi belirledikten sonra mesaj gönderebilir ve bırakabilirsiniz.'
     binding_gender_click: 'Hemen Tıkla'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Ev
     about-us: Hakkımızda
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Do
     tags: Etiketler
     more: 'Daha fazla'
+    membership: Üyelik
     memberships: Üyelikler
     members: Üyeler
+    member: Üye
     general-discussion: 'Genel Tartışma'
     technology-articles: 'Teknoloji Makaleler'
     coding-challenges: 'Coding Challenges'

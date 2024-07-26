@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Потвърждаване на пола'
     binding_gender: 'Открихме, че не сте определили пола си. Моля, първо определете пола си. Можете да публикувате и оставяте съобщения само след като зададете пола си.'
     binding_gender_click: 'Щракнете сега'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Дом
     about-us: 'За нас'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Показване
     tags: Етикети
     more: Още
+    membership: Членство
     memberships: Членства
     members: Членове
+    member: Член
     general-discussion: 'Общи дискусии'
     technology-articles: 'Статии за технологии'
     coding-challenges: 'Кодиращи предизвикателства'

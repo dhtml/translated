@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'אשר מין'
     binding_gender: 'גילינו שלא קבעת את מינך. אנא הגדר תחילה את מינך. אתה יכול לפרסם ולהשאיר הודעות רק לאחר הגדרת המין שלך.'
     binding_gender_click: 'לחץ עכשיו'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: הביתה
     about-us: עלינו
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Showcase
     tags: תגיות
     more: 'עוד יותר'
+    membership: חברות
     memberships: חברות
     members: חברים
+    member: חבר
     general-discussion: 'דיון כללי'
     technology-articles: 'מאמרים טכנולוגיים'
     coding-challenges: 'אתגרים משותפים'

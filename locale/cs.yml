@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Potvrďte pohlaví'
     binding_gender: 'Zjistili jsme, že jste si nenastavili pohlaví. Nejprve prosím nastavte své pohlaví. Příspěvky a příspěvky můžete zanechávat až po nastavení pohlaví.'
     binding_gender_click: 'Klikněte nyní'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Domov
     about-us: 'O nás'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Představení
     tags: Visačky
     more: Více
+    membership: Členství
     memberships: Členství
     members: Členové
+    member: Člen
     general-discussion: 'Obecná diskuse'
     technology-articles: 'Technologické články'
     coding-challenges: 'Problémy s kódováním'

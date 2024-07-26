@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Kinnitage sugu'
     binding_gender: 'Avastasime, et te pole oma sugu määranud. Palun seadke kõigepealt oma sugu. Sõnumeid saate postitada ja jätta alles pärast oma soo määramist.'
     binding_gender_click: 'Klõpsake nüüd'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Kodu
     about-us: 'Meie kohta'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Esitlus
     tags: Tags
     more: Rohkem
+    membership: Liikmed
     memberships: Liikmed
     members: Liikmed
+    member: Liige
     general-discussion: 'Üldine arutelu'
     technology-articles: Tehnoloogiaartiklid
     coding-challenges: Kodeerimisraskused

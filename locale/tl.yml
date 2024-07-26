@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Confirm Gender'
     binding_gender: 'We discovered that you have not set your gender. Please set your gender first. You can only post and leave messages after setting your gender.'
     binding_gender_click: 'Click Now'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Home
     about-us: 'About Us'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Pagtatanghal
     tags: Tags
     more: 'Higit pa'
+    membership: Miyembro
     memberships: 'Mga Miyembro'
     members: Members
+    member: Member
     general-discussion: 'Pangkalahatang Talakayan'
     technology-articles: 'Mga Artikulo sa Teknolohiya'
     coding-challenges: 'Pagharap sa mga Hamon'

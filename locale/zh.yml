@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Confirm Gender'
     binding_gender: 'We discovered that you have not set your gender. Please set your gender first. You can only post and leave messages after setting your gender.'
     binding_gender_click: 'Click Now'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Home
     about-us: 'About Us'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: 显示大小写
     tags: Tags
     more: 再来
+    membership: 成员
     memberships: 成员
     members: Members
+    member: Member
     general-discussion: 一般性讨论
     technology-articles: 技术文章
     coding-challenges: 编码挑战

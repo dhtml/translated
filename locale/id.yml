@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Konfirmasi Jenis Kelamin'
     binding_gender: 'Kami menemukan bahwa Anda belum menetapkan jenis kelamin Anda. Harap atur jenis kelamin Anda terlebih dahulu. Anda hanya dapat memposting dan meninggalkan pesan setelah menetapkan jenis kelamin.'
     binding_gender_click: 'Klik Sekarang'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Rumah
     about-us: 'Tentang kita'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Login
     tags: Tags
     more: Sitemap
+    membership: Login
     memberships: Login
     members: Anggota
+    member: Anggota
     general-discussion: 'Diskusi Umum'
     technology-articles: Artikel
     coding-challenges: 'Coding Tantangan'

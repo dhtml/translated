@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Confirmați sexul'
     binding_gender: 'Am descoperit că nu v-ați stabilit sexul. Vă rugăm să vă setați mai întâi sexul. Poți să postezi și să lași mesaje numai după ce ți-ai setat sexul.'
     binding_gender_click: 'Faceți clic acum'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Domiciliu
     about-us: 'Despre noi'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Spectacol
     tags: Tags
     more: 'Mai mult'
+    membership: Componența
     memberships: Membri
     members: Membri
+    member: Membru
     general-discussion: 'Discuţii generale'
     technology-articles: 'Articole tehnologice'
     coding-challenges: 'Provocări de codificare'

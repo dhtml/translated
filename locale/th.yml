@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: ยืนยันเพศ
     binding_gender: 'เราพบว่าคุณไม่ได้กําหนดเพศของคุณ โปรดระบุเพศของคุณก่อน คุณสามารถโพสต์และฝากข้อความได้หลังจากตั้งค่าเพศของคุณแล้วเท่านั้น'
     binding_gender_click: คลิกเลย
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: บ้าน
     about-us: เกี่ยวกับเรา
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: แสดงตัวพิมพ์เล็ก
     tags: แท็ก
     more: เพิ่มเติม
+    membership: สมาชิก
     memberships: สมาชิก
     members: สมาชิก
+    member: สมาชิก
     general-discussion: อภิปรายทั่วไป
     technology-articles: บทความเกี่ยวกับเทคโนโลยี
     coding-challenges: 'ข้อ ท้าทาย ใน การ จัด การ'

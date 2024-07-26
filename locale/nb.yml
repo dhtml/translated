@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Bekreft kjønn'
     binding_gender: 'Vi oppdaget at du ikke har angitt kjønn. Vennligst angi kjønn først. Du kan bare legge ut og legge igjen meldinger etter at du har angitt kjønn.'
     binding_gender_click: 'Klikk nå'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Hjem
     about-us: 'Om oss'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: 'Vis alle'
     tags: Tags
     more: Mer
+    membership: Medlemskap
     memberships: Medlemskap
     members: Medlemmer
+    member: Medlem
     general-discussion: 'Generelle diskusjoner'
     technology-articles: 'Tekniske artikler'
     coding-challenges: Kodeutfordringer

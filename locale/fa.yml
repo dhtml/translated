@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'تایید جنسیت'
     binding_gender: 'ما کشف کردیم که شما جنسیت خود را تعیین نکرده اید. لطفا جنسیت خود را در اولویت قرار دهید. شما فقط می توانید پس از تعیین جنسیت خود پیام ارسال و ترک کنید.'
     binding_gender_click: 'اکنون کلیک کنید'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: خانه
     about-us: 'در باره ما'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: نمایشگاه
     tags: Tags
     more: 'بیشتر بیشتر بیشتر'
+    membership: 'عضویت عضویت عضویت'
     memberships: عضویت
     members: اعضای
+    member: عضو
     general-discussion: 'بحث عمومی'
     technology-articles: 'مقالات تکنولوژی'
     coding-challenges: 'چالش های مشترک'

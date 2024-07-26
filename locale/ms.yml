@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Sahkan Jantina'
     binding_gender: 'Kami mendapati bahawa anda tidak menetapkan jantina anda. Sila tetapkan jantina anda terlebih dahulu. Anda hanya boleh menyiarkan dan meninggalkan mesej selepas menetapkan jantina anda.'
     binding_gender_click: 'Klik Sekarang'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Rumah
     about-us: 'Tentang kami'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Koper
     tags: Tags
     more: 'Amerika Serikat'
+    membership: Keanggotaan
     memberships: Keanggotaan
     members: Ahli
+    member: Ahli
     general-discussion: 'Diskusi Umum'
     technology-articles: 'Artikel Teknologi Teknologi Terapan'
     coding-challenges: 'Tantangan yang Penuh Tantangan'

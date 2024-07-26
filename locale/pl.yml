@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Potwierdź płeć'
     binding_gender: 'Odkryliśmy, że nie ustawiłeś swojej płci. Najpierw ustaw swoją płeć. Możesz publikować i zostawiać wiadomości tylko po ustawieniu płci.'
     binding_gender_click: 'Kliknij teraz'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Dom
     about-us: 'O nas'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Wyświetlacz
     tags: Tagi
     more: Więcej
+    membership: Skład
     memberships: Członkostwa
     members: Członków
+    member: Członek
     general-discussion: 'Ogólna dyskusja'
     technology-articles: 'Artykuły technologiczne'
     coding-challenges: 'Wyzwania w zakresie kodowania'

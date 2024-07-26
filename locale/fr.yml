@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Confirmer le sexe'
     binding_gender: 'Nous avons découvert que vous n’avez pas défini votre sexe. Veuillez d’abord définir votre sexe. Vous ne pouvez publier et laisser des messages qu’après avoir défini votre sexe.'
     binding_gender_click: 'Cliquez maintenant'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Domicile
     about-us: 'Qui sommes-nous'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Afficher
     tags: Étiquettes
     more: Plus
+    membership: Membres
     memberships: Membres
     members: Membres
+    member: Membre
     general-discussion: 'Débat général'
     technology-articles: 'Articles technologiques'
     coding-challenges: 'Défis du codage'

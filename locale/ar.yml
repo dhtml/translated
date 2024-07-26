@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'تأكيد الجنس'
     binding_gender: 'اكتشفنا أنك لم تحدد جنسك. يرجى تعيين جنسك أولا. لا يمكنك نشر الرسائل ومغادرتها إلا بعد تحديد جنسك.'
     binding_gender_click: 'انقر الآن'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: وطن
     about-us: 'من نحن'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: عرض
     tags: العلامات
     more: أكثر
+    membership: العضوية
     memberships: الأعضاء
     members: اعضاء
+    member: عضو
     general-discussion: 'المناقشة العامة'
     technology-articles: 'مواد التكنولوجيا'
     coding-challenges: التحديات

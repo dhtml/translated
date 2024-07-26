@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Potrdite spol'
     binding_gender: 'Ugotovili smo, da niste določili svojega spola. Najprej nastavite spol. Sporočila lahko objavljate in zapuščate šele, ko nastavite spol.'
     binding_gender_click: 'Kliknite zdaj'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Doma
     about-us: 'O nas'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Prikaži
     tags: Tags
     more: Več
+    membership: Članstvo
     memberships: Članstva
     members: Člani
+    member: Član
     general-discussion: 'Splošna razprava'
     technology-articles: 'Tehnološki členi'
     coding-challenges: 'Izzivi kodiranja'

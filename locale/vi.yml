@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Xác nhận giới tính'
     binding_gender: 'Chúng tôi phát hiện ra rằng bạn đã không đặt giới tính của mình. Vui lòng đặt giới tính của bạn lên hàng đầu. Bạn chỉ có thể đăng và để lại tin nhắn sau khi đặt giới tính của mình.'
     binding_gender_click: 'Nhấp vào ngay'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Nhà
     about-us: 'Về chúng tôi'
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Hiện
     tags: Tags
     more: 'Thêm nữa'
+    membership: 'Thành viên'
     memberships: 'Thành viên'
     members: 'Thành viên'
+    member: 'Thành viên'
     general-discussion: 'Cuộc thảo luận chung'
     technology-articles: 'Các bài học kỹ thuật'
     coding-challenges: 'Đối phó với thử thách'

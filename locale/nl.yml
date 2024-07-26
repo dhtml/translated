@@ -1205,7 +1205,7 @@ dhtml-gender:
     field_placeholder: 'Geslacht bevestigen'
     binding_gender: 'We hebben ontdekt dat je je geslacht niet hebt ingesteld. Stel eerst uw geslacht in. Je kunt alleen berichten plaatsen en achterlaten nadat je je geslacht hebt ingesteld.'
     binding_gender_click: 'Klik nu'
-flarum-content-pages:
+dhtml-cpages:
   forum:
     home: Thuis
     about-us: Informatie
@@ -1235,8 +1235,10 @@ flarum-content-pages:
     showcase: Tonen
     tags: Tags
     more: Meer
+    membership: Lidmaatschap
     memberships: Leden
     members: Leden
+    member: Lid
     general-discussion: 'Algemene discussie'
     technology-articles: 'Technische artikelen'
     coding-challenges: 'Coding Challenges'
